@@ -1,21 +1,21 @@
-( <em>Indistinct chatter</em> )
+(<em>Indistinct chatter</em>)
 <strong>Josh</strong>: Compensate much?
 Ah, he only turns ten once.
 And what ten-year-old doesn't want a sushi chef at his birthday party?
 Cam!
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 Eh, maybe I'm overcompensating a little bit.
 He's dealing with a lot lately.
 Man, this wind is awful, huh?
 <strong>Josh</strong>: Santa Anas.
 Makes my allergies go crazy.
-( <em>Children laughing</em> )
+(<em>Children laughing</em>)
 Cam! You having fun?
 His mother's turning him against me. Undermining.
 I told you to give her more in the divorce settlement.
 That money pays her to be cool.
 Pays who to be cool?
-( <em>Wind gusting</em> )
+(<em>Wind gusting</em>)
 This wind. Dan, do you mind holding your son?
 Excuse me.
 Danny!
@@ -24,26 +24,26 @@ Dad, you-you're too big.
 Ah!
 Come on!
 Yeah!
-( <em>Laughs</em> )
+(<em>Laughs</em>)
 Higher?
 Yeah.
-( <em>Shouts</em> )
-( <em>Laughing</em> ): Whoa!
+(<em>Shouts</em>)
+(<em>Laughing</em>): Whoa!
 All right, who wants more? Want more?
 We do!
 Yeah.
-( <em>Shouts</em> )
+(<em>Shouts</em>)
 Whoa.
-( <em>People screaming</em> )
+(<em>People screaming</em>)
 <strong>Dan</strong>: Cameron!
-( <em>People gasping</em> )
-( <em>Woman screaming</em> )
+(<em>People gasping</em>)
+(<em>Woman screaming</em>)
 Cam!
-( <em>Tearing</em> )
-( <em>Screams</em> )
-( <em>Siren wailing</em> )
-( <em>Horn honking</em> )
-( <em>Indistinct radio transmission</em> )
+(<em>Tearing</em>)
+(<em>Screams</em>)
+(<em>Siren wailing</em>)
+(<em>Horn honking</em>)
+(<em>Indistinct radio transmission</em>)
 <strong>Hen</strong>: Adult male, down, on the hillside.
 We got three kids in a bouncy house.
 All right, we're gonna stage the trucks on that service road.
@@ -52,10 +52,10 @@ Assess the condition of those kids, start to send them down one-by-one in a bask
 Chimney, you're gonna stay up here and work the winch.
 Hey. How come I never get to do any of the fun stuff?
 Working the winch is fun.
-( <em>Sighs</em> )
-<strong>Hen ( <em>over radio</em> )</strong>: Bouncy house secure, Chim.
+(<em>Sighs</em>)
+<strong>Hen (<em>over radio</em>)</strong>: Bouncy house secure, Chim.
 Copy.
-( <em>Children groaning</em> )
+(<em>Children groaning</em>)
 Help!
 Hey, guys? Hey! Hey, guys, we're...
 We're L.A. Fire and Rescue. We're gonna get you out of here, okay? Everybody, just stay calm.
@@ -75,8 +75,8 @@ Boys, come on, let's go. Now.
 <strong>Buck</strong>: All right, that's it. Nice and easy, nice and easy.
 All right, basket coming in, Hen.
 Hen's going down. She's got one kid, come on.
-( <em>Whirring</em> )
-( <em>Clicking</em> )
+(<em>Whirring</em>)
+(<em>Clicking</em>)
 All right.
 Chim, we're good. Take me down.
 BP and heart rate stable.
@@ -84,7 +84,7 @@ Vitals are stable.
 Dad?
 Dad!
 Dan!
-( <em>Gasps</em> )
+(<em>Gasps</em>)
 I thought you were dead.
 I'm okay, Cam.
 We're both okay.
@@ -92,9 +92,9 @@ Love you so much.
 I love you so much, too.
 It's okay.
 Everything is gonna be okay.
-( <em>Crying</em> )
+(<em>Crying</em>)
 Had us worried, there.
-( <em>Siren wailing in distance</em> )
+(<em>Siren wailing in distance</em>)
 We're good down here.
 You can pack it up topside.
 Nice work at the winch.
@@ -112,8 +112,8 @@ All right, can you do that?
 Yeah.
 All right. Lock the door.
 I have to go and ride with your sister.
-( <em>Indistinct radio transmission</em> )
-( <em>Siren wailing</em> )
+(<em>Indistinct radio transmission</em>)
+(<em>Siren wailing</em>)
 Pulse is weak and thready. What did she take?
 Uh... hydrocodone.
 Uh, do you know how many pills she took, the dosage?
@@ -128,10 +128,10 @@ Can you hear me?
 Stay with me. Stay with me.
 You're gonna be okay.
 They're gonna take good care of you.
-( <em>Sighs</em> ) You be strong for me now, okay?
-( <em>Paramedic speaks indistinctly</em> )
-( <em>Athena sighs</em> )
-( <em>Woman speaks indistinctly over P.A.</em> )
+(<em>Sighs</em>) You be strong for me now, okay?
+(<em>Paramedic speaks indistinctly</em>)
+(<em>Athena sighs</em>)
+(<em>Woman speaks indistinctly over P.A.</em>)
 Athena. What's up? You're not answering your phone.
 I-I rushed out so fast, I forgot it.
 Okay, well, what happened?
@@ -142,13 +142,13 @@ Okay, can... well, can we see her?
 No... she's still in ICU.
 They said maybe half an hour or so.
 I need to sit down.
-( <em>Athena sighs</em> )
-( <em>Groans</em> ): Ah...
+(<em>Athena sighs</em>)
+(<em>Groans</em>): Ah...
 Oh, God, this is my fault.
 You were right, you were... you were right.
 I shouldn't have told them.
 They weren't ready.
-( <em>Sighs</em> )
+(<em>Sighs</em>)
 Did she seem this upset to you?
 I mean, I-I know it's... hard.
 But this hard?
@@ -157,30 +157,30 @@ Sh... well, she's a teenager now.
 I-I just, you know, maybe we weren't, uh, paying enough attention.
 I just... I don't know, but...
 Okay, all right, let's-let's not do this right now, okay?
-( <em>Softly</em> ): Okay.
-( <em>Sobs</em> )
+(<em>Softly</em>): Okay.
+(<em>Sobs</em>)
 Okay.
-( <em>Michael whispers inaudibly</em> )
-( <em>Footsteps approaching</em> )
+(<em>Michael whispers inaudibly</em>)
+(<em>Footsteps approaching</em>)
 H-He with you?
 Uh... we... we were having dinner, and he... and-and he drove me here.
 I'm sorry. He was... he was just worried about me.
-( <em>Takes deep breath</em> )
+(<em>Takes deep breath</em>)
 Uh...
 I-I'm gonna get a cup of coffee.
 Yeah, okay.
 ♪ ♪ ♪ ♪
-( <em>Monitor beeping steadily</em> )
-( <em>Footsteps approaching</em> )
+(<em>Monitor beeping steadily</em>)
+(<em>Footsteps approaching</em>)
 The last time she was in a hospital bed, I was lying in it with her, feeding her.
 Yeah. It was just an hour and a half of labor.
-( <em>Michael chuckles softly</em> )
+(<em>Michael chuckles softly</em>)
 We almost didn't make it to the hospital.
-( <em>Michael takes deep breath</em> )
-( <em>Chuckles</em> )
+(<em>Michael takes deep breath</em>)
+(<em>Chuckles</em>)
 She was so damn eager to get into this world.
-( <em>Exhales</em> )
-<strong>May ( <em>weakly</em> )</strong>: Mom?
+(<em>Exhales</em>)
+<strong>May (<em>weakly</em>)</strong>: Mom?
 Baby. Hey.
 Dad's here, too.
 Hey, sweetheart.
@@ -220,7 +220,7 @@ Now, you listen to me.
 You're strong, you're courageous, you're a champion, and you are May Grant.
 And you are filled with holy fire, and no one messes with you.
 No, you're not alone anymore.
-And those girls? ( <em>Scoffs</em> )
+And those girls? (<em>Scoffs</em>)
 They done picked the wrong family.
 The wrong family.
 <strong>Woman</strong>: Excuse me. Mr. and Mrs. Grant?
@@ -255,7 +255,7 @@ You're safe, and you'll be home with us in no time.
 Can you be brave for me?
 All right, I need you to be braver than you've ever been.
 All right. That's my girl.
-That's my girl. Love you. ( <em>Sniffles</em> )
+That's my girl. Love you. (<em>Sniffles</em>)
 All right, I love you.
 I love you, too.
 <strong>Michael</strong>: I love you, baby.
@@ -278,7 +278,7 @@ Do not come in here, okay?
 Not while I'm cooking, please.
 I kind of have this thing when I'm cooking, if somebody's watching me.
 You know, I kind of get stage fright, so...
-( <em>TV playing</em> )
+(<em>TV playing</em>)
 Just stay put, okay?
 Listen, babe, you do not have to convince me not to move while somebody else does all the work.
 And it smells really good.
@@ -286,22 +286,22 @@ Oh. Thank you.
 Oh.
 I saw the videos of that jumpy house flying through the air on the news. I cannot believe anybody survived that.
 Oh, yeah, me neither.
-( <em>Microwave beeping</em> )
+(<em>Microwave beeping</em>)
 <strong>Tatiana</strong>: Yeah.
 You know, uh, when we were rappelling down to, uh, anchor the house and assess the condition of the kids, we were pretty sure we were gonna find a body or two in there.
 Is it terrible that the phrase &quot;when we were rappelling down&quot; turns me on so much?
-( <em>Clears throat</em> )
-( <em>Exhales</em> )
+(<em>Clears throat</em>)
+(<em>Exhales</em>)
 And dinner is served.
-( <em>&quot;Fade Into You&quot; by Mazzy Star playing</em> )
+(<em>&quot;Fade Into You&quot; by Mazzy Star playing</em>)
 Well, you cook... you rappel down cliffs.
 Mm-hmm.
 You're a keeper, Chimney.
 ♪ I wanna take a breath... ♪
-( <em>Clears throat</em> )
+(<em>Clears throat</em>)
 Well, then, I think you will like what I have for dessert.
 Ooh.
-( <em>Exhales</em> )
+(<em>Exhales</em>)
 ♪ And I see nothing... ♪
 Tatiana, I love you.
 And I want to spend the rest of my life with you.
@@ -311,7 +311,7 @@ Chimney, it's beautiful.
 And you are a beautiful man.
 ♪ And you'll go blind... ♪
 I can't tell if that's a yes.
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 It's not.
 But it's not a no, I just...
 I wasn't prepared for this at all.
@@ -337,7 +337,7 @@ It's not that complicated.
 Just... give me a few days.
 Of course.
 Y-Yes.
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 Sure, of course.
 <strong>Hen</strong>: Right here, right here, right here.
 Turn left!
@@ -347,7 +347,7 @@ You do realize that you lose points for murdering people on the way to a fire.
 It should be fine.
 It's a flesh wound. Obamacare.
 What? Hen! Please... Someone call HR! No... Hen!
-( <em>Chuckles</em> ) Ridic... Chimney!
+(<em>Chuckles</em>) Ridic... Chimney!
 Here. You're up.
 <strong>Buck</strong>: Aw, man.
 <strong>Hen</strong>: Hey. What's... what's wrong? You okay?
@@ -403,7 +403,7 @@ I have to operate the winch, right?
 And The Maneuver? I can do The Maneuver.
 <strong>Bobby</strong>: I know you can. That's not the point here.
 Chimney, this relationship that you're in is fueled by lies.
-( <em>Sighs</em> ) Come on.
+(<em>Sighs</em>) Come on.
 Y-You asked me to make you two dinner so you could pass it off as your own.
 She's not in love with you.
 She's in love with this fantasy version of you.
@@ -415,7 +415,7 @@ I'm getting some air.
 <b><i><u><span data-nosnippet>Taken without permission from https://tvshowtranscripts.ourboard.org</span>/</u></i></b>
 <ins class="da sc adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9811017020614438" data-ad-slot="1161362910"></ins>
 <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-( <em>&quot;Woman&quot; by Wolfmother plays</em> )
+(<em>&quot;Woman&quot; by Wolfmother plays</em>)
 ♪ Woman, you know, woman ♪
 ♪ You gotta be, woman ♪
 ♪ I've got the feeling of love ♪
@@ -423,7 +423,7 @@ I'm getting some air.
 ♪ See right through me ♪
 ♪ I've got the feeling of alone... ♪
 Call Tatiana.
-( <em>Line ringing</em> )
+(<em>Line ringing</em>)
 <strong>Tatiana</strong>: You've reached Tatiana. Please leave a message.
 ♪ She's gonna set you free ♪
 ♪ Yeah, yeah ♪
@@ -431,14 +431,14 @@ Come on.
 ♪ You've come looking for me ♪
 ♪ Like I've got to set you free ♪
 ♪ You know I can't free nobody ♪
-( <em>Horn honking</em> )
+(<em>Horn honking</em>)
 ♪ Like I've got to set you free ♪
 ♪ I can't be nobody ♪
 Oh, my!
-( <em>Horn honking</em> )
-( <em>Horn honking</em> )
-( <em>Tool whirring</em> )
-( <em>Phone ringing</em> )
+(<em>Horn honking</em>)
+(<em>Horn honking</em>)
+(<em>Tool whirring</em>)
+(<em>Phone ringing</em>)
 Hello.
 Who is this?
 Okay.
@@ -447,9 +447,9 @@ Let's go, let's go!
 For what? I didn't hear a bell.
 It's Chimney.
 Come on. Hustle up. Hustle up, everybody, let's go!
-( <em>Alarm ringing</em> )
-<strong>Man ( <em>over P.A.</em> )</strong>: Ladder medic, 10-36, auto emergency.
-( <em>Siren wailing</em> )
+(<em>Alarm ringing</em>)
+<strong>Man (<em>over P.A.</em>)</strong>: Ladder medic, 10-36, auto emergency.
+(<em>Siren wailing</em>)
 Captain Nash.
 Yeah. Thanks for calling.
 Your guy's this way.
@@ -505,22 +505,22 @@ Yeah.
 <strong>Bobby</strong>: All right, can you move?
 Not a bit.
 Good. All right, Buck.
-( <em>Truck beeping</em> )
+(<em>Truck beeping</em>)
 <strong>Chimney</strong>: Hey, Buck.
 How's the car, man? Is it a total loss?
 Nah, man, you... probably buff most of that out.
 Good.
 Good.
-( <em>Sirens wailing</em> )
-( <em>Sirens wailing, horn honking</em> )
+(<em>Sirens wailing</em>)
+(<em>Sirens wailing, horn honking</em>)
 Let's get O.R. 3 prepped for a decompressive hemicraniotomy.
 We'll take him from here.
 Wha... No, w-we're not leaving his side.
 Are you family?
 Buck, our job ends here at these doors like always.
-( <em>Doctor speaking indistinctly</em> )
+(<em>Doctor speaking indistinctly</em>)
 ♪ ♪
-( <em>Machines beeping rapidly</em> )
+(<em>Machines beeping rapidly</em>)
 Isn't that pretty paper, Mom?
 Oh, it's on too tight.
 Hmm.
@@ -563,7 +563,7 @@ You don't know what I was gonna say.
 Well, I can handle it, Matt.
 And I know you can and you have been, and I don't tell you enough, but you are a saint for doing it.
 I'm not a saint. I'm a daughter.
-( <em>Sighs</em> ) A saintly daughter.
+(<em>Sighs</em>) A saintly daughter.
 Oh, come on.
 Who got the short end of the stick because you're not married, you don't have any kids.
 It's not fair.
@@ -576,7 +576,7 @@ This is my choice. It's important to me.
 And, you know, I have the means.
 I have a really good job, she gets benefits, you help out.
 We're doing this.
-( <em>Sighs</em> )
+(<em>Sighs</em>)
 We're fine.
 But are you living?
 Matt.
@@ -604,7 +604,7 @@ They'll let us know if his condition changes.
 You mean if he wakes up.
 Or if he doesn't.
 Yeah.
-( <em>Sirens wailing, horn honking</em> )
+(<em>Sirens wailing, horn honking</em>)
 Buck, get the tools.
 Yo, Hen.
 Is it wrong I was stoked there was an emergency?
@@ -615,10 +615,10 @@ Truck is registered out of Texas.
 We're still looking for the driver.
 It's got to be over 100 degrees in there.
 Buck!
-( <em>Knocking, people speaking indistinctly</em> )
+(<em>Knocking, people speaking indistinctly</em>)
 ♪ ♪
-( <em>People speaking Spanish</em> )
-( <em>Speaking Spanish</em> )
+(<em>People speaking Spanish</em>)
+(<em>Speaking Spanish</em>)
 <strong>Bobby</strong>: All right, get these people some water.
 I got him, I got him, I got him.
 <strong>Bobby</strong>: All right, get these people some water, come on.
@@ -628,34 +628,34 @@ I'm gonna need as many ambulances as we can.
 Hurry up, come on.
 Chopper, too.
 We may have to medevac a few of them.
-( <em>Woman sobbing</em> )
-( <em>Man speaking Spanish</em> )
+(<em>Woman sobbing</em>)
+(<em>Man speaking Spanish</em>)
 It's at least four and a half hours to the Mexican border, if that's even where they started.
-<strong>Buck ( <em>panting</em> )</strong>: Come on.
+<strong>Buck (<em>panting</em>)</strong>: Come on.
 Ah, breathe.
 Starting compressions.
 Go ahead.
 <strong>Officer</strong>: Get down, all right, take it easy.
 All right, come on. I know you can hear me.
-I need you to breathe for me, okay? ( <em>Panting</em> )
+I need you to breathe for me, okay? (<em>Panting</em>)
 Can you stand up? Take my hand.
 Take my hand. Ready?
-( <em>Man speaking Spanish</em> )
+(<em>Man speaking Spanish</em>)
 All right, go, go, go.
 Start helping 'em down, come on.
-( <em>Man speaks Spanish</em> )
-( <em>Sobbing</em> ): <em>Por favor, mijo.</em>
+(<em>Man speaks Spanish</em>)
+(<em>Sobbing</em>): <em>Por favor, mijo.</em>
 Come on, come on, come on, come on.
 All right, give me something.
-( <em>Gasps</em> )
+(<em>Gasps</em>)
 Ah!
 Javi, Javi, good job, good job.
 Uh, uh...<em> to-to-todo bien, todo bien.</em> All right?
-( <em>Speaks Spanish</em> )
-( <em>Overlapping chatter</em> )
+(<em>Speaks Spanish</em>)
+(<em>Overlapping chatter</em>)
 <strong>Buck</strong>: Here we go, here we go, here we go.
 There you go.
-( <em>Overlapping chatter</em> )
+(<em>Overlapping chatter</em>)
 <strong>Buck</strong>: Here we go, here we go, that's it.
 <strong>Officer</strong>: Do me a favor, please, please...
 Hey!
@@ -667,14 +667,14 @@ Got him?
 Ooh, that was badass, but I thought we weren't here to blow off steam.
 You know what you can blow.
 Hen.
-( <em>Phone ringing</em> )
+(<em>Phone ringing</em>)
 Hey, uh, everything okay?
 <strong>Abby</strong>: You answered. You always answer.
 You're so sweet.
 Oh, no, everything's fine.
 Um, is this a bad time?
 Uh, no. I'm-I'm at a call, but I-I wanted to answer and, you know, make sure... you're not out on the ledge or something.
-( <em>Chuckles</em> ) Thank you.
+(<em>Chuckles</em>) Thank you.
 I can't believe you're at a call.
 Um, I'm not on a ledge.
 But I'm in a windowsill.
@@ -682,7 +682,7 @@ You're on a call.
 I'm letting you go. Go back to work.
 We can talk later.
 Nah, come on, tell me.
-( <em>Scoffs</em> ) No, it's just my mom.
+(<em>Scoffs</em>) No, it's just my mom.
 My mom has Alzheimer's, did I tell you that? I can't remember if I told you that or not.
 No, I, uh, I didn't know that.
 Sorry.
@@ -707,7 +707,7 @@ Look, I'll talk to you soon. Okay?
 Tatiana. I'm Bobby.
 We spoke on the phone.
 Oh, yeah. Hi.
-( <em>Chuckles softly</em> )
+(<em>Chuckles softly</em>)
 Now I know why Chimney always calls you Gary Cooper.
 I see you've had some visitors.
 Yeah.
@@ -721,7 +721,7 @@ I was hoping to convince you to come to the hospital to visit him.
 I thought you said that he wasn't awake.
 They're bringing him out of his coma now.
 It'd be good if you were there.
-( <em>Sighs</em> )
+(<em>Sighs</em>)
 He asked me to marry him.
 I know.
 It's not right, you know.
@@ -747,7 +747,7 @@ I am not asking you to love him or marry him, and I'm not judging you for your f
 I'm just saying he loves you.
 Misguided as he may be.
 And the only two things I can think of to help him are to pray and to hope that if you're with him, he'll feel that love for you and it will give him a reason to fight his way back to us.
-( <em>Sighs</em> ) I'm sorry.
+(<em>Sighs</em>) I'm sorry.
 I just can't.
 <strong>Abby</strong>: <em>Okay.</em>
 Um, she's had her midday pills, except I think I might have used next week's day-of-the-week box by accident.
@@ -766,15 +766,15 @@ Mm-hmm.
 Vacancies are rare.
 Huh.
 Are you considering it?
-( <em>Clicks tongue</em> ) I was for a minute.
+(<em>Clicks tongue</em>) I was for a minute.
 But then I thought, you know, as long as my mom is still here with me...
-( <em>Sighs</em> ) I want her to be here with me.
-( <em>School bell rings</em> )
-( <em>Girl whoops</em> )
+(<em>Sighs</em>) I want her to be here with me.
+(<em>School bell rings</em>)
+(<em>Girl whoops</em>)
 We're going, we're going.
-( <em>Indistinct radio chatter</em> )
-( <em>Indistinct chatter</em> )
-( <em>Monitor beeping</em> )
+(<em>Indistinct radio chatter</em>)
+(<em>Indistinct chatter</em>)
+(<em>Monitor beeping</em>)
 He's a tough nut.
 He's gonna be in this room for a few days.
 Intubation tube is out, obviously, but the catheter's still in.
@@ -786,11 +786,11 @@ We're all here for you, buddy.
 H-Hey.
 I-I was thinking maybe when you come back to work, um, you know, you should do The Maneuver instead of me.
 To motivate him to get better.
-( <em>Whispering</em> ): He can't do The Maneuver.
+(<em>Whispering</em>): He can't do The Maneuver.
 Yeah, he can.
 Hey, Chim, you can do The Maneuver.
 Right?
-( <em>All chuckle</em> )
+(<em>All chuckle</em>)
 Chim.
 I, um...
 I tried to get ahold of your parents.
@@ -798,4 +798,4 @@ There's a 16-hour time difference with Seoul, you know, so maybe... maybe that h
 <strong>Bobby</strong>: Yeah, it's all right.
 His family's right here.
 Please don't ever let him do The Maneuver.
-( <em>Stifled laughter</em> )
+(<em>Stifled laughter</em>)

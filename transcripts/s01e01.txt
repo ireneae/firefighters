@@ -1,6 +1,6 @@
-( <em>Beeping</em> )
-( <em>Siren wailing</em> )
-( <em>Horn honking</em> )
+(<em>Beeping</em>)
+(<em>Siren wailing</em>)
+(<em>Horn honking</em>)
 <strong>Abby</strong>: <em>What's your emergency?
 The first kind of emergency is the one we all have, every day.
 You're looking at my emergency right now.
@@ -15,15 +15,15 @@ Veronica's in the kitchen.
 There's my number, right there, in case you need to call me for anything.
 You don't have to tell me every time.
 Sometimes you forget.
-( <em>Scoffs</em> )
+(<em>Scoffs</em>)
 And then you forget you forget.
 I'm hopeless, right?
 No, you're not.
 Careful, careful. You got it. Good, good.
-( <em>Sips</em> )
+(<em>Sips</em>)
 Ah.
 I'm healed.
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 You look good today.
 Mm.
 Have a good day.
@@ -49,7 +49,7 @@ Do you remember what to do?
 30 chest compressions followed by two breaths.
 Okay.
 30 and two.
-( <em>Indistinct radio chatter</em> )
+(<em>Indistinct radio chatter</em>)
 Okay, Buck, start chest compressions.
 Hen, start bagging him.
 <strong>Hen</strong>: Got you, Captain.
@@ -68,25 +68,25 @@ No.
 Is he on any medications?
 No.
 18, 19, 20. Go.
-( <em>Defibrillator charges, thumps</em> )
+(<em>Defibrillator charges, thumps</em>)
 No rhythm.
-( <em>Sustained beep</em> )
-( <em>Defibrillator charges, thumps</em> )
-( <em>Whispering</em> ): Come on, kid. Come on.
+(<em>Sustained beep</em>)
+(<em>Defibrillator charges, thumps</em>)
+(<em>Whispering</em>): Come on, kid. Come on.
 <strong>Abby</strong>: <em>The crazy part is that as soon as help arrives...</em>
-( <em>Line clicks</em> )
+(<em>Line clicks</em>)
 <em>most people just hang up.</em>
 <strong>Hen</strong>: <em>It's coming, it's coming, it's coming.</em>
 <strong>Buck</strong>: Hey. Hey, man. That's it. Get it out.
-( <em>Exhales</em> )
+(<em>Exhales</em>)
 <strong>Bobby</strong>: Good job, kid.
 Good job. Good job.
 All right, kid, your mom is right here.
 Whew.
 You're gonna be okay.
 Thank you.
-( <em>Whispers</em> ): You'll be okay.
-( <em>Helicopter whirring</em> )
+(<em>Whispers</em>): You'll be okay.
+(<em>Helicopter whirring</em>)
 <strong>Abby</strong>: <em>I guess it's for the best that I usually don't know how it all ends.</em>
 The fireman is trying to talk her down.
 This is so messed up.
@@ -104,29 +104,29 @@ I'll tell you all about it.
 I can help you.
 Please. Please.
 No one can help me.
-( <em>People screaming</em> )
+(<em>People screaming</em>)
 <strong>Junkie</strong>: No, no, no, no, no, no!
 She jumped. She jumped.
-( <em>Line clicks, beeps</em> )
+(<em>Line clicks, beeps</em>)
 <strong>Abby</strong>: <em>Is it weird that I feel more comfortable dealing with these kinds of emergencies than the one I have to deal with when I leave work and go home?
 I don't know.</em>
-( <em>Phone ringing</em> )
-( <em>Line clicks, beeps</em> )
+(<em>Phone ringing</em>)
+(<em>Line clicks, beeps</em>)
 911. What's your emergency?
 <strong>Woman</strong>: Yeah, I'm in the drive-through, and they only gave me six nuggets in my nine-piece, and this b¡tch manager won't give me my extra nugs.
 Ma'am, it's against the law to call 911 with a non-emergency.
 Eat your nuggets, get some perspective, and get the hell off my line.
-( <em>Bell tolling</em> )
+(<em>Bell tolling</em>)
 In the name of the Father, the Son, and the Holy Ghost.
 Father, Son, Holy Spirit.
 My last confession...
-( <em>Ringtone</em> ): ♪ Baby, you're a firework ♪
+(<em>Ringtone</em>): ♪ Baby, you're a firework ♪
 ♪ Come on, show 'em what you're... ♪
-( <em>Ringtone stops</em> )
+(<em>Ringtone stops</em>)
 I'm so, so sorry. Um...
 I'm new.
 Mm.
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 But you're familiar with the basics of how this all works?
 I am fully authorized to absolve any venial sins and assign penance.
 What if I have to confess a mortal sin?
@@ -149,20 +149,20 @@ This is why you drank?
 Like I said, we all find ways to cope.
 Some drink, some do drugs, some gamble.
 Some are sеx addicts.
-( <em>Siren wailing</em> )
+(<em>Siren wailing</em>)
 ♪ We sit around ♪
-( <em>Horn honking</em> )
+(<em>Horn honking</em>)
 ♪ Our money's spent ♪
 ♪ Why can't you all get down? ♪
 ♪ Drive ancient cars ♪
 ♪ Can't pay the rent ♪
-( <em>Horn honking</em> )
+(<em>Horn honking</em>)
 ♪ Why can't you all get down? ♪
-( <em>Laughs</em> )
-( <em>Siren wailing</em> )
+(<em>Laughs</em>)
+(<em>Siren wailing</em>)
 ♪ Drink the water, it's a drought ♪
 ♪ How are you this scared? This scared? ♪
-( <em>Grunts</em> ) Groovyheels297?
+(<em>Grunts</em>) Groovyheels297?
 This is cheating.
 No, no, no.
 You said if I got to you in five minutes, you would be all mine.
@@ -170,27 +170,27 @@ Is this why they call you Firehose?
 No.
 ♪ Bad reputation ♪
 ♪ Bad reputation. ♪
-( <em>Moaning, panting</em> )
+(<em>Moaning, panting</em>)
 Someone punch you in the face?
 What? Nah, it's a... it's a birthmark.
 I dig it.
 Hey, can I, uh...
-( <em>Exhales</em> ) can I get your actual number?
-( <em>Chuckles</em> ) You're cute.
+(<em>Exhales</em>) can I get your actual number?
+(<em>Chuckles</em>) You're cute.
 And... you're very good at whatever it is we just did.
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 Let's not ruin everything by actually getting to know each other.
-( <em>Indistinct radio chatter</em> )
+(<em>Indistinct radio chatter</em>)
 Damn.
 We're living in a golden age.
-( <em>Microwave beeping</em> )
+(<em>Microwave beeping</em>)
 <strong>Powell (on TV)</strong>: Merry Christmas.
-( <em>Automatic gunfire on TV</em> )
+(<em>Automatic gunfire on TV</em>)
 Police, there's automatic rifle fire at Nakatomi!
 I need backup assistance now!
-( <em>Tires screeching</em> )
-( <em>Automatic gunfire continues</em> )
-( <em>Tires screeching</em> )
+(<em>Tires screeching</em>)
+(<em>Automatic gunfire continues</em>)
+(<em>Tires screeching</em>)
 <strong>Mcclane (on TV)</strong>: Welcome to the party, pal!
 <strong>Chimney</strong>: <em>I know exactly what that polite, distant smile means: she's bored.</em>
 One foot out the door.
@@ -199,7 +199,7 @@ I can't let her go.
 Lots of fish in the sea.
 Not with the bait he's using.
 Cruel but true. Mm.
-( <em>Hen chuckles</em> )
+(<em>Hen chuckles</em>)
 I met her on this new dating site just for cops and firefighters, RomancingTheUniform.com.
 She's an adrenaline junkie, so foreplay is me telling her stories about running into burning buildings and jumping into icy lakes and...
 I'm sorry, wait. Remind me, when is the last time you ran into or jumped over anything?
@@ -207,12 +207,12 @@ I embellish a little.
 Oh. Noted.
 I'm telling you, the uniform is a major aphrodisiac.
 Clearly.
-( <em>Truck beeping</em> )
-( <em>Brakes hiss</em> )
+(<em>Truck beeping</em>)
+(<em>Brakes hiss</em>)
 Oh, damn.
-( <em>Clears throat, sniffs</em> )
-( <em>Exhales</em> )
-( <em>Exhales</em> )
+(<em>Clears throat, sniffs</em>)
+(<em>Exhales</em>)
+(<em>Exhales</em>)
 Whew.
 Hey!
 I just...
@@ -222,7 +222,7 @@ What if we had a call?
 I was in the neighborhood.
 I was just, uh, getting it washed.
 They charge you extra for the full detail?
-Oh. Yeah, yeah. ( <em>Chuckles</em> )
+Oh. Yeah, yeah. (<em>Chuckles</em>)
 <strong>Bobby</strong>: Listen, I like you. You're a good firefighter.
 I know we got this thing... You call me &quot;Pops,&quot; and I give you a hard time for being a dumbass kid, we went to a Springsteen concert together.
 But this is not a family. It's not a clubhouse.
@@ -237,28 +237,28 @@ You know, you're not helping him by going easy on him.
 He just needs a little direction.
 I'll remind you of that after he gets you killed.
 Anyone want to pass me a spoon, so I can serve myself some salad?
-( <em>Alarm ringing</em> )
-( <em>Groans</em> )
+(<em>Alarm ringing</em>)
+(<em>Groans</em>)
 Oh, no.
 No.
-( <em>Engine starts</em> )
-( <em>Siren wailing</em> )
-( <em>Horn honking</em> )
-( <em>Tires screeching</em> )
-( <em>Brakes hiss</em> )
-( <em>Horn honks</em> )
-( <em>Siren whoops</em> )
-( <em>Indistinct radio chatter</em> )
+(<em>Engine starts</em>)
+(<em>Siren wailing</em>)
+(<em>Horn honking</em>)
+(<em>Tires screeching</em>)
+(<em>Brakes hiss</em>)
+(<em>Horn honks</em>)
+(<em>Siren whoops</em>)
+(<em>Indistinct radio chatter</em>)
 Let's do it.
-( <em>Indistinct radio chatter</em> )
+(<em>Indistinct radio chatter</em>)
 Where are we headed?
 The fourth floor.
-( <em>Whoops</em> ) I'll race you.
+(<em>Whoops</em>) I'll race you.
 Ah, race yourself, Rambo.
 I'm 50 years old. I'm taking the elevator.
 Who's Rambo?
 I don't hear anything.
-( <em>Sighs</em> ) Look, I'm telling you, I heard a baby crying.
+(<em>Sighs</em>) Look, I'm telling you, I heard a baby crying.
 Someone flushed a baby down the toilet.
 Oh, I'm not high.
 Okay, I-I'm pretty high, but it's a sativa.
@@ -266,15 +266,15 @@ You know? I-It makes you happy.
 I-It doesn't make you hallucinate.
 It could've been a cat, right?
 Sometimes rats get stuck in the walls.
-( <em>Faint crying</em> )
+(<em>Faint crying</em>)
 Shh.
 Did you hear that?
-( <em>Tapping on wall</em> )
+(<em>Tapping on wall</em>)
 Hey, do you know what, can you give me a stethoscope?
 Okay.
 Thanks.
-( <em>Tapping on wall</em> )
-( <em>Faint whimper</em> )
+(<em>Tapping on wall</em>)
+(<em>Faint whimper</em>)
 Give me a pen. Give me a Sharpie.
 Hey!
 All right.
@@ -294,7 +294,7 @@ Did you even stop to consider that you might hit a baby?
 Yeah, I didn't think so. Go get the saw.
 Okay. I'm, uh, I'm gonna...
 Try to find some common sense while you're down there.
-( <em>Sirens wailing</em> )
+(<em>Sirens wailing</em>)
 Fire and Rescue were first to arrive.
 Theory is that some kid gave birth on a toilet and tried to flush the evidence, which got stuck in a pipe.
 Theory? Has anyone located the mother to see if the theory's correct?
@@ -305,7 +305,7 @@ Knock on every door. Don't be shy about going in if something doesn't seem right
 Don't we need a warrant or something?
 Do I look like I'm asking you to make an arrest?
 Let's do this.
-( <em>Saw whirring</em> )
+(<em>Saw whirring</em>)
 LAPD!
 LAPD. LAPD.
 Hey. You have a teenage girl living here?
@@ -333,15 +333,15 @@ Nobody flush your toilets!
 LAPD.
 Okay? Please, don't.
 Hey, sir. Sir!
-( <em>Door opens, closes</em> )
-( <em>Lock clicks</em> )
+(<em>Door opens, closes</em>)
+(<em>Lock clicks</em>)
 Sir, we're looking for a girl... Uh, hey!
 ♪ ♪
 Chimney.
 Cut right down here on the bottom.
-( <em>Saw whirring</em> )
-( <em>Groans</em> )
-( <em>Tools whirring</em> )
+(<em>Saw whirring</em>)
+(<em>Groans</em>)
+(<em>Tools whirring</em>)
 All right, Chimney, help me out, help me out.
 Easy, easy, easy.
 Hold it, hold it, hold it.
@@ -405,9 +405,9 @@ What the...?
 There we go. There we go.
 Excellent.
 There we go.
-( <em>Baby coos</em> )
+(<em>Baby coos</em>)
 Hey, you all right?
-( <em>Laughs</em> ): Yeah.
+(<em>Laughs</em>): Yeah.
 All right. Okay, wrap her up.
 Let's go.
 You got her, Buck?
@@ -426,10 +426,10 @@ You're gonna be great.
 What happened?!
 What you want?!
 No.
-<strong>Man</strong>: Marika. ( <em>Speaking Russian</em> )
+<strong>Man</strong>: Marika. (<em>Speaking Russian</em>)
 Your daughter just had a baby.
 We have to get her to the hospital.
-( <em>Speaking Russian</em> )
+(<em>Speaking Russian</em>)
 Go get ready! Get ready!
 Come on, move it!
 Come on, get ready!
@@ -448,17 +448,17 @@ What are you waiting for? You gotta go.
 He is refusing to take...
 Okay, Bob.
 All right, all right, come on.
-( <em>Man speaking Russian</em> )
+(<em>Man speaking Russian</em>)
 Come on.
 Marika.
 Come on, guys. Hurry up.
 Okay? Hurry up!
 Yo, if this baby dies, it's on you.
 <strong>Man</strong>: Marika.
-( <em>Siren wailing</em> )
+(<em>Siren wailing</em>)
 Hospital ETA, five minutes.
 Hang in.
-( <em>Air hissing</em> )
+(<em>Air hissing</em>)
 Gonna go over here.
 Feel that?
 Oh, yeah.
@@ -467,13 +467,13 @@ Okay.
 Oh, yeah.
 Whoa. All right.
 O2 sat 59.
-( <em>Sustained beep</em> )
+(<em>Sustained beep</em>)
 I can't get a pulse.
 <strong>Marika</strong>: I'm so sorry.
 Is she gonna die?
 Come here. Give me your hand.
 It's all right. It's okay.
-( <em>Heart monitor beeping steadily</em> )
+(<em>Heart monitor beeping steadily</em>)
 Here we go.
 All right.
 See? Told you we'd make it, didn't I?
@@ -494,8 +494,8 @@ I'll give them a call, we'll be lucky if they tell us if she's okay.
 There's nothing more we can do.
 We did our jobs very well today, so far.
 Just be proud of that. Now it's their turn.
-( <em>Tires screech</em> )
-( <em>Scoffs</em> )
+(<em>Tires screech</em>)
+(<em>Scoffs</em>)
 <b><i><u><span data-nosnippet>Taken without permission from https://tvshowtranscripts.ourboard.org</span>/</u></i></b>
 <ins class="da sc adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9811017020614438" data-ad-slot="1161362910"></ins>
 <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
@@ -509,10 +509,10 @@ Yeah, you keep making jokes.
 I promise you, the next time you screw up, it'll be your last.
 What?
 Get in the truck.
-( <em>Athena sighs</em> )
+(<em>Athena sighs</em>)
 Good morning, everyone.
 You want a waffle?
-( <em>May whispering</em> )
+(<em>May whispering</em>)
 <strong>Athena</strong>: Uh-uh. Uh-uh. No whispering at the table.
 You got something to say, just speak up.
 Would it be okay if only one of you guys came to family day at school tomorrow?
@@ -532,7 +532,7 @@ My therapist said tell them when they're ready.
 Well-well, I'm saying that I'm not ready.
 Come here. Come here, baby.
 Michael.
-( <em>Athena sighs</em> )
+(<em>Athena sighs</em>)
 Kids, your dad has been struggling with something his entire life.
 Really?
 But... with the courage that I get from being your dad, the way that you love me and see me...
@@ -546,7 +546,7 @@ The grandmas are gonna whisper about us in church now.
 And the kids at school are gonna find out, and maybe beat Harry and I up about it.
 <strong>Michael</strong>: No. No.
 Your mother and I will not let that happen. Do you understand?
-( <em>Sighs</em> ) Can't you just keep it a secret?
+(<em>Sighs</em>) Can't you just keep it a secret?
 I'm fine with whatever.
 I just don't want anybody else to know.
 May, wait a minute. Wait a minute. Look...
@@ -570,7 +570,7 @@ But you just went along to get along.
 Oh, I'm sorry if I thought that the fact that my husband didn't pay other women any mind meant he was true to me!
 Look, you even said it yourself.
 I don't lay you like other men.
-( <em>Sighs</em> )
+(<em>Sighs</em>)
 You humiliated me just so you wouldn't humiliate yourself.
 And if you don't see that, you're the one that's in denial.
 Denial?
@@ -579,9 +579,9 @@ Hey, you know, denial worked just fine when you were a 37-year-old single woman 
 You were perfectly happy to deny what you could clearly see about me.
 And I said that I wanted those kids, too.
 Don't you forget that!
-( <em>Keys clatter</em> )
-( <em>Tv playing quietly</em> )
-( <em>Grunts softly</em> )
+(<em>Keys clatter</em>)
+(<em>Tv playing quietly</em>)
+(<em>Grunts softly</em>)
 What is that?
 Applesauce?
 Hmm?
@@ -608,19 +608,19 @@ Wow, I really love that go-getter attitude, V.
 I love you, Mom.
 Love you, darling.
 You take care of yourself today, okay?
-( <em>Phone clicking</em> )
-( <em>Phone chimes</em> )
-( <em>Smack lips</em> )
+(<em>Phone clicking</em>)
+(<em>Phone chimes</em>)
+(<em>Smack lips</em>)
 Bye, Mom.
 My snake.
-( <em>Siren wailing</em> )
-( <em>Horn honking</em> )
+(<em>Siren wailing</em>)
+(<em>Horn honking</em>)
 L.A. fire!
-( <em>Wood clattering</em> )
+(<em>Wood clattering</em>)
 All right, guys, check all these rooms.
 Anybody here?
 L.A. fire!
-( <em>Snake hissing</em> )
+(<em>Snake hissing</em>)
 Wow.
 Oh, my God.
 Bobby, I can't do snakes. They scare the crap out of me.
@@ -631,13 +631,13 @@ Who's Conan?
 1982. Geez.
 Dude, as far as I'm concerned, the world began the day I was born.
 <strong>Bobby</strong>: Guys, in here. Back here, guys, now.
-( <em>Jessie grunting</em> )
-( <em>Snake hissing</em> )
+(<em>Jessie grunting</em>)
+(<em>Snake hissing</em>)
 <strong>Hen</strong>: Oh, my God.
 We got to help her get some air, guys.
 Oh, my...
 Oh, my God. Oh, I... This is not good.
-( <em>Bobby sighs</em> )
+(<em>Bobby sighs</em>)
 <strong>Hen</strong>: Bobby, it's no use. That thing is, like, ten feet long.
 Its constriction strength is, like, 50 pounds per square inch.
 Oh, my God, I'm gonna start calling you &quot;Snake-ipedia.&quot;
@@ -656,21 +656,21 @@ Kill it? No! No, um, no!
 Kill it. Just kill it.
 It's a snake.
 It's doing what nature intended for it to do.
-( <em>Grunting</em> )
+(<em>Grunting</em>)
 Nobody told this fool to bring a snake into her house!
 Yeah, well, I'll make a donation to PETA for you.
-( <em>Jessie coughing</em> )
+(<em>Jessie coughing</em>)
 Crap. It's getting really tight.
 <strong>Buck</strong>: Okay, stand back.
 We don't have time for this!
 Buck!
-( <em>Retches</em> )
-( <em>Panting</em> )
+(<em>Retches</em>)
+(<em>Panting</em>)
 Okay.
 Wow. Why is that always the first option for you white boy, macho tough guys?
 Guys, I am totally gonna take credit for this with Tatiana.
 It's gonna get me laid for a week. Thank you.
-( <em>Groans</em> )
+(<em>Groans</em>)
 Oh, Spartacus.
 Yeah, well, it was him or you, and, uh, when faced with a situation like that, I always choose to save the more attractive one.
 Is that right?
@@ -678,9 +678,9 @@ Oh, yeah, that's right.
 <strong>Hen</strong>: Okay.
 Hard pass. I'm gonna skip the part where the two idiots flirt.
 You can expect a visit from animal control.
-( <em>Buck chuckles</em> )
-( <em>Siren whoops</em> )
-( <em>Indistinct radio chatter</em> )
+(<em>Buck chuckles</em>)
+(<em>Siren whoops</em>)
+(<em>Indistinct radio chatter</em>)
 Hey, Buck.
 Oh.
 Ah.
@@ -721,7 +721,7 @@ Look, I love this job.
 Don't do this to me.
 I don't have anything else.
 I'm sorry, kid. I said you're done.
-( <em>Indistinct radio chatter</em> )
+(<em>Indistinct radio chatter</em>)
 I guess you heard?
 Yeah.
 For what it's worth, everyone thinks it sucks.
@@ -730,29 +730,29 @@ Yeah.
 Everyone thinks that, too.
 I'll be honest.
 When Bobby first brought you on board, I told him he should just get a Dalmatian instead.
-( <em>Chuckles softly</em> )
+(<em>Chuckles softly</em>)
 But I'm legit sorry to see you go.
 You got some skills.
 Just not a lot of discipline.
 Look, hey, um, I don't suppose you could maybe talk to him for me?
-( <em>Alarm beeping</em> )
-<strong>Dispatcher ( <em>over P.A.</em> )</strong>: Ladder, medic. 10-36 auto emergency.
+(<em>Alarm beeping</em>)
+<strong>Dispatcher (<em>over P.A.</em>)</strong>: Ladder, medic. 10-36 auto emergency.
 Hey, tough break, kid.
 <strong>Dispatcher</strong>: Ladder, medic. 10-36 auto emergency.
 Hen, let's roll.
-( <em>Sirens wailing</em> )
-( <em>Horn honking</em> )
+(<em>Sirens wailing</em>)
+(<em>Horn honking</em>)
 Okay, Lily, my name is Abby. I'm gonna try to help you.
 What's your address?
 I don't know.
 We just moved here.
-( <em>Door rattling</em> )
+(<em>Door rattling</em>)
 Do you know what street you live on?
 Um, Lambert.
 Okay, Lambert.
-( <em>Crash, glass shatters</em> )
-( <em>Screams</em> ) It's a brown house!
-Please hurry! ( <em>Gasps</em> )
+(<em>Crash, glass shatters</em>)
+(<em>Screams</em>) It's a brown house!
+Please hurry! (<em>Gasps</em>)
 Okay, Lily? Lily?
 Shoot.
 What do you got here?
@@ -782,7 +782,7 @@ Are you near a window? Can you look outside?
 <strong>Lily</strong>: I can't see any numbers.
 <strong>Terry</strong>: Towers narrow it to a quarter mile.
 I know you said your house is brown. Is there anything else you can tell me about it?
-( <em>Clattering</em> )
+(<em>Clattering</em>)
 <strong>Abby</strong>: All available units, residential break-in on Lambert Road, Winnetka, somewhere between the 100 and 1500 blocks of Chanel and Hadley.
 Two-story single family dwelling.
 Brown house, white trim, garage door is white. Child alone in the home.
@@ -804,11 +804,11 @@ Can you do that?
 I think so.
 Stay on the line. I'm gonna call your mom now.
 Okay.
-( <em>Phone ringing in distance</em> )
-( <em>Ringing continues</em> )
+(<em>Phone ringing in distance</em>)
+(<em>Ringing continues</em>)
 <strong>Lily</strong>: It's ringing in her room.
 Sometimes she forgets it on the charger.
-( <em>Exhales</em> )
+(<em>Exhales</em>)
 <strong>Abby</strong>: <em>Officer, maybe if you put on your siren,</em>
 I could determine where you are in relation to her.
 I could guide you to her.
@@ -816,12 +816,12 @@ I don't think we want these guys knowing that the cops are here.
 This area's had a spate of daytime break-ins recently, and one homicide.
 We need to find this girl.
 Maybe we still can.
-( <em>Ringtone playing</em> )
+(<em>Ringtone playing</em>)
 <strong>Hen</strong>: Hey. What's up, Thena?
-<strong>Athena ( <em>over phone</em> )</strong>: I need a favor.
+<strong>Athena (<em>over phone</em>)</strong>: I need a favor.
 Think you can loan me a fire truck?
 Um, it's kind of in use at the moment. Why?
-( <em>Siren whooping</em> )
+(<em>Siren whooping</em>)
 I'll have something for you in less than five.
 She sent you, huh?
 I was available.
@@ -829,32 +829,32 @@ All right. No heroics.
 Don't go chasing waterfalls.
 I don't know what that means.
 Nobody thought you would.
-( <em>Siren wailing</em> )
-( <em>Horn honking</em> )
+(<em>Siren wailing</em>)
+(<em>Horn honking</em>)
 Lily?
-( <em>Quietly</em> ): Abby, I'm downstairs.
+(<em>Quietly</em>): Abby, I'm downstairs.
 <strong>Abby</strong>: What are you doing downstairs?
-( <em>Screams</em> )
+(<em>Screams</em>)
 Petey! Petey!
 Petey! There's a kid in the house who's got a phone.
 <strong>Petey</strong>: That's twice you said my name.
 Now we got to find it.
-( <em>Siren wailing</em> )
-<strong>Petey ( <em>over phone</em> )</strong>: I'll get this one's phone.
+(<em>Siren wailing</em>)
+<strong>Petey (<em>over phone</em>)</strong>: I'll get this one's phone.
 Just need the phone.
-( <em>Siren wailing</em> )
-( <em>Horn honking</em> )
-( <em>Siren wailing, horn honking over phone</em> )
+(<em>Siren wailing</em>)
+(<em>Horn honking</em>)
+(<em>Siren wailing, horn honking over phone</em>)
 <strong>Dean</strong>: It's the cops!
-( <em>Siren wailing</em> )
-( <em>Horn honking</em> )
+(<em>Siren wailing</em>)
+(<em>Horn honking</em>)
 We've got it.
 That's it.
 You just passed her, cowboy.
 Relax. It's just a fire truck.
 Come on, kid. I just want the phone.
 <strong>Buck</strong>: Oh, yeah, I see the pink bike.
-( <em>Tires screech</em> )
+(<em>Tires screech</em>)
 Hey, Emma. Emma, Emma Coughlin?
 Yeah.
 You, uh, you can't go in there right now.
@@ -864,14 +864,14 @@ No, ma'am, no fire. Just come.
 Well, what...?
 Just get behind the truck, okay? Come on.
 <strong>Petey</strong>: Come out, kid. We just want the phone.
-( <em>Screaming</em> )
+(<em>Screaming</em>)
 <strong>Dean</strong>: Petey!
 I got her!
 Officer, how close are you?
 Close.
-( <em>Petey shouts</em> )
-( <em>Lily screaming</em> )
-( <em>Screams</em> ) Abby!
+(<em>Petey shouts</em>)
+(<em>Lily screaming</em>)
+(<em>Screams</em>) Abby!
 Petey! Petey, Petey!
 Petey! Petey!
 Peter! Petey! Petey!
@@ -885,7 +885,7 @@ Why would you do that?
 Because I don't care about you at all, but I care about that little girl.
 So you have exactly two seconds to make a decision here.
 You can either walk away from her and walk away from the police, or you can sit there and wait for whatever hellfire is about to be brought down on your head.
-( <em>Lily crying</em> )
+(<em>Lily crying</em>)
 <strong>Petey</strong>: Get the kid.
 <strong>Lily</strong>: What?
 No! No.
@@ -912,7 +912,7 @@ Get on the ground now!
 Petey!
 You lying b¡tch!
 <strong>Athena</strong>: Down! Down!
-<strong>Lily</strong>: Let me out! ( <em>Screaming</em> )
+<strong>Lily</strong>: Let me out! (<em>Screaming</em>)
 Fireman Buckley, what's going on there?
 I don't know, uh...
 <strong>Lily</strong>: Stop it!
@@ -922,27 +922,27 @@ Oh, crap.
 Hello?
 Help me!
 <strong>Petey</strong>: Ow.
-( <em>Petey grunts</em> )
-( <em>Lily screams</em> )
+(<em>Petey grunts</em>)
+(<em>Lily screams</em>)
 Mom!
 Lily!
 Mom!
-( <em>Both crying</em> )
+(<em>Both crying</em>)
 Oh, my God.
-( <em>Motorcycle engine starts</em> )
+(<em>Motorcycle engine starts</em>)
 <strong>Abby</strong>: Officer.
 Fireman Buckley, what's happening?
 Are the suspects in custody?
 Attention, all units.
 Suspect on a motorcycle, heading east on Lambert.
 East on Lambert.
-( <em>Siren wailing</em> )
+(<em>Siren wailing</em>)
 Move! Move!
 Cover, cover, cover!
-( <em>Gunshot</em> )
-( <em>Groaning</em> )
-( <em>Sirens approaching</em> )
-( <em>Panting</em> )
+(<em>Gunshot</em>)
+(<em>Groaning</em>)
+(<em>Sirens approaching</em>)
+(<em>Panting</em>)
 <strong>Abby</strong>: Fireman Buckley?
 <strong>Athena</strong>: Don't you move!
 Don't you move.
@@ -954,7 +954,7 @@ No, you just think you are.
 <strong>Buck</strong>: The little girl? No, she's good.
 She's back with her mom, and you should be here.
 Oh, my God.
-( <em>Sighs</em> ) I feel like I am.
+(<em>Sighs</em>) I feel like I am.
 Wow. Um...
 Okay, well, I can't thank you enough.
 I-I... I'm so grateful.
@@ -964,18 +964,18 @@ You kept her in the game long enough for us to find her.
 You're the real hero here.
 Well, I appreciate you saying that.
 Thank you.
-( <em>Chuckles</em> )
-( <em>Sighs</em> )
-( <em>Truck beeping</em> )
-( <em>Brakes hiss</em> )
+(<em>Chuckles</em>)
+(<em>Sighs</em>)
+(<em>Truck beeping</em>)
+(<em>Brakes hiss</em>)
 I know what this looks like.
 Looks like you took the engine out in your street clothes.
 I didn't really have time to change.
 Athena Grant called me, wanted to tell me what an asset you are.
 Told her she was half right.
-( <em>&quot;Under Pressure&quot; by Queen playing</em> )
-( <em>Line ringing</em> )
-<strong>Michael ( <em>over phone</em> )</strong>: Athena.
+(<em>&quot;Under Pressure&quot; by Queen playing</em>)
+(<em>Line ringing</em>)
+<strong>Michael (<em>over phone</em>)</strong>: Athena.
 Uh, kids get home from school okay?
 Yeah, yeah.
 They're inside doing their homework.
@@ -1007,18 +1007,18 @@ I think I'm not fired.
 Your shift's not over yet.
 ♪ Chipping around ♪
 ♪ Kick my brains around the floor ♪
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 ♪ These are the days, it never rains but it pours... ♪
-( <em>Sighs</em> )
-( <em>Alarm ringing</em> )
+(<em>Sighs</em>)
+(<em>Alarm ringing</em>)
 ♪ People on streets ♪
 ♪ Ee-da-de-da-de ♪
 ♪ People on streets ♪
 ♪ Ee-da-de-da-de-de-da ♪
 ♪ It's the terror of knowing ♪
-( <em>Engine starts</em> )
+(<em>Engine starts</em>)
 ♪ What this world is about ♪
-( <em>Siren wailing</em> )
+(<em>Siren wailing</em>)
 ♪ Watching some good friends ♪
 ♪ Screaming, &quot;Let me out!&quot; ♪
 ♪ Tomorrow ♪

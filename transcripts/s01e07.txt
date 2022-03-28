@@ -1,4 +1,4 @@
-( <em>Beeping</em> )
+(<em>Beeping</em>)
 <strong>Hen</strong>: <em>4.5 billion years ago, an astral body the size of Mars slammed into the Earth.
 The debris that flew from our planet became stuck in Earth's gravity and formed our moon. That's right.
 The moon is just a part of the Earth, separated forever, always drawn back towards us, longing to reconnect.
@@ -6,23 +6,23 @@ It is said to increase fertility, create chaos and cause people to do things the
 No one knows why things get so weird when the moon is full, why it makes people act so crazy.
 All I know is that on this job, the one night you need to be ready for anything is a night when the moon is full.</em>
 You, uh, want to watch a <em>Ray Donovan?</em>
-( <em>Sighs</em> ) I wish, but...
-( <em>Sniffles</em> ) ...I have to get my sleep tonight.
+(<em>Sighs</em>) I wish, but...
+(<em>Sniffles</em>) ...I have to get my sleep tonight.
 It's gonna be a full moon tomorrow and it's always crazy.
 I need to make sure that I am rested.
-( <em>Sighs</em> )
+(<em>Sighs</em>)
 Well, maybe we could have some close time.
 It'll help you sleep.
-( <em>Chuckles</em> ) It'll take a whole lot longer than an episode of <em>Ray Donovan</em> to finish.
+(<em>Chuckles</em>) It'll take a whole lot longer than an episode of <em>Ray Donovan</em> to finish.
 Not for me.
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 I don't mind doing the extra work to get you across the finish line.
 Shade, shade, shade, shade, shade.
 I love you, baby.
 Mm-hmm.
 You are the most beautiful, sexy, powerful woman I've ever seen, but tonight I got to get my sleep, babe.
-( <em>Sighs</em> )
-( <em>Clears throat</em> )
+(<em>Sighs</em>)
+(<em>Clears throat</em>)
 LBD.
 Karen, don't say that.
 I'm just tired.
@@ -41,17 +41,17 @@ It'll still be a full moon.
 And who knows what kind of crazy stuff might happen?
 Oh.
 Tomorrow. Okay.
-( <em>Children shrieking, laughing</em> )
+(<em>Children shrieking, laughing</em>)
 ♪ I see the bad moon a-rising ♪
 ♪ I see trouble on the way... ♪
 All right, folks, coming through.
 Excuse me, please.
 Hi.
 Hi.
-( <em>Gasps</em> ) What you doing there?
+(<em>Gasps</em>) What you doing there?
 I'm gonna have to take you out if that's okay with you.
 All right. You'll be fine.
-( <em>Giggles</em> )
+(<em>Giggles</em>)
 ♪ Well, it's bound to take your life ♪
 ♪ There's a bad moon on the rise... ♪
 Hi. Are you ready?
@@ -63,12 +63,12 @@ I can't believe they didn't have a key for this.
 Don't worry. It's, uh, it's one of those nights.
 And here. Congratulations on your moo-moo.
 Here we go.
-( <em>Cell phone ringing</em> )
+(<em>Cell phone ringing</em>)
 911, what's your emergency?
-( <em>Buck howls</em> )
+(<em>Buck howls</em>)
 You're such a dork.
 You're a cute dork, but you're a dork.
-<strong>Buck ( <em>over phone</em> )</strong>: A cute dork.
+<strong>Buck (<em>over phone</em>)</strong>: A cute dork.
 Okay. I'll take that.
 <strong>Abby</strong>: How are you? How you feeling?
 How's your first day back?
@@ -90,7 +90,7 @@ It-it is science. You know?
 Every full moon, the freaks come out.
 Crime increases, emergency rooms are packed, animals and kids go nuts.
 No, in my experience, anyone who's gonna be an idiot on the full moon is gonna be an idiot on the half moon or the quarter moon or the no moon.
-( <em>Phone ringing</em> )
+(<em>Phone ringing</em>)
 There is no statistical evidence that any crime or accidents... or general freakiness increase during the full moon.
 Abby, I just pulled a kid out of one of those stuffed animal arcade games.
 I know, but that would've happened whether it was a full moon or not.
@@ -99,11 +99,11 @@ I do know that.
 How many full moons have you worked?
 Um, one.
 Right. Bye, Buck.
-( <em>Laughing</em> ): No, wait, hold on.
+(<em>Laughing</em>): No, wait, hold on.
 Hold on. Look, I'm telling you.
 All right? Freaks come out.
 Now you call me when the night's over, okay?
-( <em>Buck howls</em> )
+(<em>Buck howls</em>)
 Bye, Buck. Bye.
 What's he doing, ma'am? Is he trying to get in?
 No. No, he's just standing there.
@@ -124,7 +124,7 @@ I can't, I can't breathe.
 I can't breathe. I can't...
 It's so tight. I can't breathe.
 It's okay. All right, help is on the way, Nora.
-( <em>Wheezing</em> )
+(<em>Wheezing</em>)
 Just stay on the line with me.
 They called you for a prowler?
 Homeowner has a heart condition.
@@ -149,14 +149,14 @@ No, no, no.
 Looks more like a panic attack.
 He gave me such a fright... standing out there... just staring.
 You're okay now. All right?
-Now, ma'am, I want you to breathe for me, nice and slow, not too deep, and when you exhale, I want you to purse your lips like this. ( <em>Exhales</em> )
+Now, ma'am, I want you to breathe for me, nice and slow, not too deep, and when you exhale, I want you to purse your lips like this. (<em>Exhales</em>)
 Okay?
 Okay.
 You're safe now.
 Full moon. Brings out the creeps and the crazies.
 Breathe, okay?
 Breathe.
-( <em>Exhales</em> )
+(<em>Exhales</em>)
 Ma'am, is this where you were standing when you saw the man outside?
 Yes.
 Ma'am, I'm Sergeant Grant.
@@ -164,7 +164,7 @@ If there was someone outside, they're gone now.
 Thank you.
 'Thena.
 Hmm?
-<strong>Athena ( <em>quietly</em> )</strong>: Yeah?
+<strong>Athena (<em>quietly</em>)</strong>: Yeah?
 It look to you like anybody had been outside?
 No. I mean, the ground's wet. Didn't see any footprints.
 I did.
@@ -203,49 +203,49 @@ You want to tell me what that was all about?
 I'll tell you in the truck.
 What's your name?
 Kathy.
-( <em>Glass shatters</em> )
+(<em>Glass shatters</em>)
 Kathy, where are you now?
 I... I... I locked the front door and I'm upstairs in the bedroom.
 Is there anyone else with you?
 No, nobody.
-( <em>Loud thud</em> )
+(<em>Loud thud</em>)
 He-He's in the house.
 He-he broke through the door.
 Okay, Kathy.
-( <em>Panting</em> )
+(<em>Panting</em>)
 Kathy, are you still there?
-( <em>Panting</em> ) Uh-huh.
+(<em>Panting</em>) Uh-huh.
 Okay. Stay on the phone. Lock the bedroom door if you can.
-( <em>Thudding</em> )
+(<em>Thudding</em>)
 He's at the door. He's at the door.
 He's here, he's here!
 Okay, okay, Kathy, tell him you've called 911 and the police are on their way.
 Can you do that?
 I-I-I'm on...
 I'm on with 911.
-( <em>Thudding</em> )
+(<em>Thudding</em>)
 The police are coming.
 Kathy.
 Why are you here?
 Why are you here? Why?
 Why? Why? Why?! Why?!
-( <em>Screaming</em> )
-( <em>Thudding, squishing</em> )
-( <em>Dial tone buzzing</em> )
+(<em>Screaming</em>)
+(<em>Thudding, squishing</em>)
+(<em>Dial tone buzzing</em>)
 Oh, my God.
 It's a fact. Gravity is heavier during full moons, scientists have proven it.
 You read this in a peer-reviewed, scientific publication?
 Uh, I don't know, is the Internet considered a &quot;scientific publication&quot;?
 Buck, the idea that the moon causes odd behavior and happenings goes back to the first century.
 It's folklore, magical thinking.
-( <em>Coyote howling</em> )
-( <em>Elevator bell dings</em> )
+(<em>Coyote howling</em>)
+(<em>Elevator bell dings</em>)
 Hey. She's this way.
 Jackie's six months pregnant. She's new.
 This class is only open to moms who are at least 26 weeks.
 I warn them about overexerting themselves.
 And behold, the Salabhasana.
-( <em>Jackie gasping sharply</em> )
+(<em>Jackie gasping sharply</em>)
 Yeah, Locust Pose.
 I've dated, like, 50 yoga instructors.
 <strong>Bobby</strong>: Can you guys please clear out so we can get in there.
@@ -262,19 +262,19 @@ Okay. There's no trauma to the abdomen.
 Vitals seem normal.
 Fetal heartbeat's normal.
 Okay, good.
-( <em>Grunts</em> ) Is the baby okay?
+(<em>Grunts</em>) Is the baby okay?
 Your baby is fine.
 Oh, he's not mine.
 I'm a surrogate.
 Listen, can you tell me where you're feeling your pain?
 Is it localized in your back, your arms, your legs?
-( <em>Grunting</em> ): Arms and legs, but it's-it's the worst in my butt and down my thigh and calf.
+(<em>Grunting</em>): Arms and legs, but it's-it's the worst in my butt and down my thigh and calf.
 Okay, I think you slipped a disc.
 We're gonna need to get her on her side, okay?
 Very carefully support her head.
 All right, got it, Bobby.
 Let's go this way towards you guys, okay? Very gently.
-<strong>Woman</strong>: ( <em>Screams</em> ) Oh...
+<strong>Woman</strong>: (<em>Screams</em>) Oh...
 Okay...
 All right, I'm gonna take care of that.
 You take care of this.
@@ -294,7 +294,7 @@ What does that mean?
 That means your contractions are gonna go away once we get you nice and relaxed and hydrated, okay?
 Okay. Mm-hmm.
 Just take a drink.
-( <em>Whimpers</em> ) Oh, my God. My water broke.
+(<em>Whimpers</em>) Oh, my God. My water broke.
 ♪ Baby, baby, baby ♪
 Buck?
 Yeah, I'm on it.
@@ -304,7 +304,7 @@ It's coming. It's coming now.
 Yeah, you only just started contractions, it's okay.
 No, this is my fourth kid. It's coming.
 Uh, okay, I need towels! I need towels!
-( <em>Screams</em> )
+(<em>Screams</em>)
 Please, she's almost there.
 Okay, these contractions are a minute apart.
 This isn't soft labor, is it?
@@ -315,12 +315,12 @@ Transporting you's too risky right now.
 But you're in good hands.
 I've delivered babies before.
 Okay.
-( <em>Woman screams</em> )
+(<em>Woman screams</em>)
 Oh, no, no, not now.
 Seriously? I'm not... Bob, I've never done this before.
 It's okay. I will talk you through it.
 They say when a full moon's halfway between the eastern horizon and its highest point, it can induce labor.
-( <em>All groaning</em> )
+(<em>All groaning</em>)
 I knew I should have canceled this class.
 Just saying, I did tell you.
 Okay, we can discuss the moon later, Buck.
@@ -330,24 +330,24 @@ Membranes have ruptured.
 Labor is progressing rapidly.
 I need a couple of extra transports to the hospital.
 Okay, Beth, I need you to push, okay?
-( <em>Screams</em> ) I want my epidural!
-( <em>Sobbing</em> )
+(<em>Screams</em>) I want my epidural!
+(<em>Sobbing</em>)
 Hey, Beth, you're doing great.
-( <em>Shouts</em> )
+(<em>Shouts</em>)
 Okay, he's crowning.
 Buck, I need a towel.
 Coming. Got it.
 ♪ Baby, baby, baby, baby, baby ♪
 ♪ Baby, baby, I'm on a... ♪
 Okay, okay, Beth, I just need one last big push.
-( <em>Shouts</em> )
-( <em>Baby cries</em> )
-( <em>Laughing</em> ): Okay. All right, you have a beautiful baby girl.
+(<em>Shouts</em>)
+(<em>Baby cries</em>)
+(<em>Laughing</em>): Okay. All right, you have a beautiful baby girl.
 Will you save the placenta? I want to freeze it.
 Okay.
 Buck, you ready?
 Yeah.
-( <em>Baby cries</em> )
+(<em>Baby cries</em>)
 Clamp?
 Okay, I got it.
 Okay. And cut.
@@ -358,32 +358,32 @@ Yeah, she's in this with you.
 Yeah, meet your mama. There you go.
 Oh, thank you.
 All right, she knows.
-( <em>Sneezes</em> )
+(<em>Sneezes</em>)
 ♪ All right ♪
 Oh, my God.
 Okay.
-( <em>Woman screams</em> )
-( <em>Groans</em> )
+(<em>Woman screams</em>)
+(<em>Groans</em>)
 <strong>Buck</strong>: All right.
 All right. Okay.
 Congratulations.
 Thank you.
-( <em>Woman groans loudly</em> )
+(<em>Woman groans loudly</em>)
 I got her, I got her, I got her. Go ahead.
 You sure?
 Okay.
 Yep. Yep.
 Okay, just breathe.
-( <em>Groaning</em> )
+(<em>Groaning</em>)
 Um, okay...
-( <em>Breathing heavily</em> )
+(<em>Breathing heavily</em>)
 Uh, just-just keep on breathing. Um...
 Oh, my God, just go. I got this.
 You're gonna deliver your own baby?
 Yes, I told you, it's my fourth.
 And she's a doula.
 Okay, uh, okay.
-( <em>Woman screams</em> )
+(<em>Woman screams</em>)
 Okay, okay. What are you feeling?
 Something's wrong.
 I didn't feel like this with my last baby.
@@ -393,11 +393,11 @@ Did your doctor ever tell you anything about the size of the baby? Is it big or.
 Yeah, he's big.
 He's big. Okay.
 I saw the ultrasound. His head is huge.
-( <em>Sirens approaching</em> )
+(<em>Sirens approaching</em>)
 Okay, I think you're experiencing something called CPD, cephalopelvic disproportion.
 That means your baby's head is too big for your pelvis.
 Okay? But you're gonna be okay.
-( <em>Elevator bell dings</em> )
+(<em>Elevator bell dings</em>)
 We're gonna get you an emergency C-section.
 You're gonna be fine.
 Guys, come on in.
@@ -410,14 +410,14 @@ Slow, slow, slow.
 We'll call your husband on the way.
 There's no rush.
 Hey, don't push. There you go.
-( <em>Baby crying</em> )
+(<em>Baby crying</em>)
 ♪ Got me down in misery ♪
 It's a boy.
 Yes.
 Well, I'm Buck, and that's Bobby, just in case you want to name him after us.
 You know, in our honor or something.
 No, I don't think so.
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 You still think this full moon stuff is a myth?
 Yes, and I still think you're an idiot.
 St. Matthews, contact OB surgical on call, we've got an emergency C-section coming in, four minutes out.
@@ -441,8 +441,8 @@ Yeah, that'd be great.
 Uh, I've read the fast transcript, but, uh, reading isn't the same as hearing.
 No. It isn't. Come this way.
 <strong>Kathy</strong>: <em>Why are you here?! Why are you here?!</em>
-Why?! Why?! ( <em>Screaming</em> )
-( <em>Call ends</em> )
+Why?! Why?! (<em>Screaming</em>)
+(<em>Call ends</em>)
 Well, thank you, Ms. Clark.
 Welcome.
 What were you hoping to hear?
@@ -484,16 +484,16 @@ His name is Trent McConnell and he's not supposed to be within 50 yards of this 
 Keep doing what you're doing if you want to spend the night in jail again.
 Ma'am, I've dispatched officers to your location.
 <strong>Kathy</strong>: I swear to God, I am holding a butcher knife, and if you come through that door before the police get here, I will use it.
-( <em>Pounding on door</em> )
+(<em>Pounding on door</em>)
 He's at the door. He's at the door!
 He's here, he's here!
-( <em>Wood cracks</em> )
+(<em>Wood cracks</em>)
 Trent, you psycho, I'm on the phone with the cops.
 Keep doing what you're doing if you want to spend the night in jail again.
 Why are you here?! Why are you here?!
 Why?!
-( <em>Screaming</em> )
-( <em>Thudding, squishing</em> )
+(<em>Screaming</em>)
+(<em>Thudding, squishing</em>)
 It's not the husband.
 They got the wrong guy.
 So, basically, it's a twist on &quot;the call came from inside the house.&quot;
@@ -503,7 +503,7 @@ Spirits don't leave muddy footprints.
 You don't know that. What if it was raining in purga...
 Chimney, stop talking.
 <strong>Chimney</strong>: Copy that.
-( <em>Woman screams</em> )
+(<em>Woman screams</em>)
 Go. I got this.
 <strong>Woman</strong>: Get off him! Stop!
 Help! Somebody help!
@@ -514,33 +514,33 @@ Probably bath salts.
 It's a crazy mix of chemicals that causes violent, psychotic behavior.
 <strong>Athena</strong>: Step away from the man.
 Are you hearing me?!
-( <em>Distorted</em> ): Turn around slowly.
+(<em>Distorted</em>): Turn around slowly.
 Did you see a weapon? I don't see anything.
 I'm not sure, I don't... No, I don't think so.
 <strong>Athena</strong>: I'm not gonna ask you again!
-( <em>Electricity crackling</em> )
-( <em>Growls</em> )
-( <em>Barks</em> )
+(<em>Electricity crackling</em>)
+(<em>Growls</em>)
+(<em>Barks</em>)
 Athena, you all right?
 Yeah, yeah, yeah, yeah.
 I'm good.
 You sure?
 Yeah. Go. Make sure that guy's okay.
-( <em>Sighs</em> ) Detectives want statements from both of us.
+(<em>Sighs</em>) Detectives want statements from both of us.
 You want me to go first?
 It's all you, Chim.
 Do I refer to the guy as the perp or the face eater?
-( <em>Chuckles</em> )
-( <em>Ambulance pulls away</em> )
-( <em>Phone vibrates</em> )
+(<em>Chuckles</em>)
+(<em>Ambulance pulls away</em>)
+(<em>Phone vibrates</em>)
 This is Hen.
-<strong>Eva ( <em>over phone</em> )</strong>: Well, it better be.
+<strong>Eva (<em>over phone</em>)</strong>: Well, it better be.
 I called her cell phone.
 Who is this?
 Palmar Women's Correctional Facility.
 To accept the charges, please press one.
 Eva?
-( <em>Laughs</em> )
+(<em>Laughs</em>)
 Yeah, I'm out, baby.
 No thanks to you.
 Eva, listen, about that...
@@ -559,20 +559,20 @@ What?
 Come on.
 Come celebrate. I want to show you my new place.
 It's not much, but, uh, it's got a bed.
-( <em>Chuckles softly</em> )
+(<em>Chuckles softly</em>)
 You're awful.
 I know.
 So come over and let me apologize for being so awful.
 Maybe I can, uh, put you in another awkward position.
-( <em>Laughs</em> )
+(<em>Laughs</em>)
 Uh... um, listen, I'm-I'm glad you're home, and that, you know, you're-you're doing well.
 Um, I am.
 But, uh, I got to go.
-( <em>Exhales</em> ) Everything all right?
+(<em>Exhales</em>) Everything all right?
 Yeah, well, it is for now.
 I mean, so far, no one's questioning whether or not it was justified.
 Hell, I wasn't gonna let that monster eat my face.
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 You know, it's gonna be a long night.
 Back to the station, talk to OIS and the DA, and then, back here, walk them through it.
 Probably have to ride the desk for a couple of days till the DA is satisfied there's nothing here.
@@ -593,8 +593,8 @@ Everything was fine in my marriage until the bomb went off.
 Athena, I appreciate your concern, but we're good.
 Karen's not a bomb waiting to go off.
 I wasn't talking about her.
-( <em>Beeping</em> )
-<strong>Kathy ( <em>on recording</em> )</strong>: Trent, you Psycho I'm on the phone with the cops. Just keep doing what you're doing if you want to spend the night in jail again.
+(<em>Beeping</em>)
+<strong>Kathy (<em>on recording</em>)</strong>: Trent, you Psycho I'm on the phone with the cops. Just keep doing what you're doing if you want to spend the night in jail again.
 Well?
 Right. This just confirms it.
 He had been harassing her for years.
@@ -617,7 +617,7 @@ Well, I take over 200 emergency calls in a ten-hour shift.
 I don't just shake them off, I move on.
 'Cause there's always another call to move on to.
 And I listen to every single one.
-( <em>Sighs</em> )
+(<em>Sighs</em>)
 And I know what I'm hearing here.
 Here's what I know.
 All right? 99% of the time, the guy you think did it did it.
@@ -632,7 +632,7 @@ Well, at least he didn't pat me on the head.
 It's with the police, now.
 Well, you may not have convinced him, but you convinced me.
 I think there's something else you should hear.
-<strong>Kathy ( <em>on recording</em> )</strong>: Yes. My name is Kathy Blake.
+<strong>Kathy (<em>on recording</em>)</strong>: Yes. My name is Kathy Blake.
 I'm at 837 Harper, and my ex-husband is outside my front door.
 You hear that?
 What?
@@ -656,21 +656,21 @@ Listen, Sergeant, no one wants to jam you up here.
 But it hasn't been that long since you got <em>off</em> restricted desk duty.
 So just don't give them a reason.
 If they come back to you with more questions...
-( <em>Phone vibrating</em> )
+(<em>Phone vibrating</em>)
 .. you call me first.
-( <em>Sighs</em> )
+(<em>Sighs</em>)
 It was a good shoot, Athena.
 I got your back, okay?
 Yeah. Thanks, Jerry.
 All right.
 Yeah. Athena Grant.
-<strong>Abby ( <em>over phone</em> )</strong>: Sergeant.
+<strong>Abby (<em>over phone</em>)</strong>: Sergeant.
 It's Abby Clark calling.
 Abby.
 So how's your night?
-Oh, you know... ( <em>Laughs</em> ) a little unsettling tonight.
+Oh, you know... (<em>Laughs</em>) a little unsettling tonight.
 More unsettling than performing an emergency tracheotomy on a first date?
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 You heard about that?
 Yeah, girl.
 All right, what can I do for you tonight?
@@ -711,7 +711,7 @@ The younger Nora Curtis?
 I will not put you out of your own bed.
 Seriously, Mom, we're not having this conversation again.
 I don't want you sleeping on the couch with your back.
-( <em>Phone vibrating</em> )
+(<em>Phone vibrating</em>)
 Hello?
 <strong>Abby</strong>: Uh, hi, am I speaking with Nora Jane Curtis?
 Yes. Who is this?
@@ -749,7 +749,7 @@ Did he do something to Kathy?
 Nora Jane, stay on the line.
 Okay? Help is on the way.
 <strong>Abby</strong>: Nora Jane?
-( <em>Pounding on door</em> )
+(<em>Pounding on door</em>)
 <strong>Man</strong>: Nora Jane!
 What's happening, Nora Jane?
 Nora Jane?!
@@ -757,14 +757,14 @@ Nora Jane!
 He's in the house.
 Police are two minutes out.
 <strong>Man</strong>: I told you I'd find you, you b¡tch!
-( <em>Man grunts</em> )
+(<em>Man grunts</em>)
 I don't know what's going on.
 <strong>Man</strong>: I told you.
 You can't hide forever.
-( <em>Shouts</em> )
+(<em>Shouts</em>)
 <strong>Nora Jane</strong>: I'm done hiding.
-( <em>Whacking continues</em> )
-( <em>Nora Jane grunting</em> )
+(<em>Whacking continues</em>)
+(<em>Nora Jane grunting</em>)
 Nora Jane?
 Nora Jane?
 <strong>Nora Jane</strong>: I think he's dead.
@@ -777,8 +777,8 @@ Good.
 Good, well, help is on the way.
 She's okay. Okay.
 I'm sorry, did you say there's something inside you?
-<strong>Man 2 ( <em>over phone</em> )</strong>: Connor?
-( <em>Knocking on door</em> )
+<strong>Man 2 (<em>over phone</em>)</strong>: Connor?
+(<em>Knocking on door</em>)
 Connor, open the door, let me in.
 <strong>Connor</strong>: Absolutely not. Go away.
 Sir, are you in danger?
@@ -796,15 +796,15 @@ You're scaring me.
 Oh, <em>you're</em> scared?
 I'm John Hurt in <em>Alien</em> right now.
 Oh. Thank God.
-( <em>Groans</em> ): Help.
+(<em>Groans</em>): Help.
 Connor? 911's here.
 Open the door now.
 All right, step aside, sir.
 Connor? Los Angeles Fire Department.
 We can't help you if you don't open the door.
-( <em>Connor whimpering</em> )
+(<em>Connor whimpering</em>)
 Connor, I don't want to have to break this door down.
-( <em>Lock clicks</em> )
+(<em>Lock clicks</em>)
 Can you tell me what you're feeling?
 Something's happening. It's, like, the... like, the worst cramping pressure feeling that I've ever experienced...
 It's like I'm gonna give birth or something.
@@ -823,7 +823,7 @@ Shut up!
 You have.
 I mean, i-it kind of builds like an overture, and then there's a nice little tuba solo.
 It's a tremendous amount of horrible flatulence.
-( <em>Whispers</em> ): Paul.
+(<em>Whispers</em>): Paul.
 Okay, just lean back, let me have a look.
 Okay.
 Do you guys eat a lot of sushi?
@@ -837,7 +837,7 @@ Yeah.
 Hey, what's your body fat percentage?
 I swing between, like, 50...
 Okay, can we finish the most interesting conversation of all time later?
-( <em>Muffled grunt</em> )
+(<em>Muffled grunt</em>)
 Does this hurt?
 Does that feel tender?
 No.
@@ -847,16 +847,16 @@ Yes. Why would you lie to him about that? He's trying to help you.
 <em>Okay.</em> Sorry. Yes.
 He has poop shame.
 Okay. Just take a deep breath, okay? Relax.
-( <em>Groans</em> )
+(<em>Groans</em>)
 Take a deep breath.
-( <em>Taking deep breaths</em> )
+(<em>Taking deep breaths</em>)
 Oh, my God! No, no, no!
 I'm gonna burst! I'm gonna explode!
-( <em>Groans</em> )
+(<em>Groans</em>)
 Let's get him in the ambulance right...
-( <em>Yelling</em> )
-( <em>Siren wailing</em> )
-( <em>Yelling, grunting</em> )
+(<em>Yelling</em>)
+(<em>Siren wailing</em>)
+(<em>Yelling, grunting</em>)
 God, just make it stop!
 Drive faster. I feel like I'm gonna explode all over the place.
 All right, Connor, you're doing great.
@@ -865,7 +865,7 @@ Th-There's something under my leg.
 It's just the IV tube, all right? It's underneath you.
 No, no, no, it's moving. There's something moving under my leg.
 All right, let's turn him and check it out.
-( <em>Whimpering</em> )
+(<em>Whimpering</em>)
 Oh!
 What?
 What the hell is that?
@@ -914,8 +914,8 @@ Have you been worn down lately? This thing has been stealing all your nutrients.
 How do you know so much about tapeworms?
 I tended bar one summer at a surf beach in South America.
 These things are as common... as...
-( <em>Pops</em> )
-( <em>Yelling</em> )
+(<em>Pops</em>)
+(<em>Yelling</em>)
 Housecats.
 Oh, God.
 Whoa.
@@ -940,7 +940,7 @@ Yeah. We found her laptop in his car... that's... how he got the address.
 I mean, I'm just glad he didn't do the same thing to Nora Jane's mother.
 Well, Nora Jane says her ex always liked the old lady, had a... well, a soft spot for her.
 People are strange.
-That's one way of looking at it, yeah. ( <em>Chuckles</em> )
+That's one way of looking at it, yeah. (<em>Chuckles</em>)
 Yeah.
 Well, thank you again.
 Thank you. Appreciate it.
@@ -956,33 +956,33 @@ No cathinone of <em>any</em> kind.
 What? So this guy was just out here eating people's faces 'cause he felt like it?
 I guess he really was hungry.
 I mean, his blood sugar levels were low.
-( <em>Both laughing</em> )
+(<em>Both laughing</em>)
 There was a Burger King a block away.
 Girl, it must be the full moon.
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 Athena, I gotta go.
 'Kay. All right, you be careful out there, full moon or not.
 This is one of those nights people act like fools.
 Yeah, you, too.
-( <em>Sighs</em> )
-( <em>Exhales</em> )
+(<em>Sighs</em>)
+(<em>Exhales</em>)
 You changed your mind.
-( <em>Siren wailing in distance</em> )
-( <em>Eva sighs</em> )
+(<em>Siren wailing in distance</em>)
+(<em>Eva sighs</em>)
 You look good.
 Freedom agrees with me.
 ♪ ♪
 I should go home now.
 So what's stopping you?
 I don't know.
-( <em>Knocking at door</em> )
-( <em>Gasps softly</em> )
+(<em>Knocking at door</em>)
+(<em>Gasps softly</em>)
 Hi.
 So, I was driving home, and I hit a red light.
 Uh, and I looked up at the moon... um... and before I knew it, I was pulling into a liquor store to buy us this bottle of wine.
 And then I drove straight here.
 Did the moon cast a spell on you?
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 It's real.
 It's gravity.
 ♪ And all the time we thought we did ♪
@@ -991,22 +991,22 @@ Mm, no, actually...
 You know this, right?
 The phases of the moon are caused by its positioning relative to the sun and the sun's shadow, like, it doesn't actually get bigger or smaller?
 I don't think that's actually true.
-( <em>Whispers</em> ): Oh, no, that's definitely true.
+(<em>Whispers</em>): Oh, no, that's definitely true.
 Really?
-( <em>Laughs</em> ): Yeah. Really.
-( <em>Chuckles</em> )
+(<em>Laughs</em>): Yeah. Really.
+(<em>Chuckles</em>)
 Um, well, even better.
 You know? 'Cause... then science got nothing to do with it.
 It's magic.
 Mm, nope.
 Not magic, either.
-( <em>Buck exhales</em> )
+(<em>Buck exhales</em>)
 ♪ ♪
 Maybe it's not science<em> or</em> magic.
 ♪ I held your hand until the light ♪
 Maybe you just really wanted to see me.
 ♪ The scars were on the back ♪
-( <em>Muffled chuckle</em> )
+(<em>Muffled chuckle</em>)
 ♪ And all the time we were the right ♪
 ♪ Was it just retract? ♪
 ♪ And they can try to put you down ♪

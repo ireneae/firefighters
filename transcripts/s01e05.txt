@@ -1,4 +1,4 @@
-( <em>&quot;I Will Drink&quot; by Pee Loon playing</em> )
+(<em>&quot;I Will Drink&quot; by Pee Loon playing</em>)
 <strong>Woman</strong>: <em>Do you love him?</em>
 What? Ananya.
 What, that's a crazy question?
@@ -15,17 +15,17 @@ Well, then I'll pray.
 For what?
 The strength to understand him.
 I'd pray for a good divorce lawyer.
-( <em>Exhales</em> ) Stop.
+(<em>Exhales</em>) Stop.
 <strong>Man</strong>: <em>She's gonna change you.</em>
 Marriage is supposed to change you.
 It's a good match.
-( <em>Speaking Hindi</em> )
+(<em>Speaking Hindi</em>)
 We all should bless the newly-married couple now.
-( <em>Whooping, cheering</em> )
-( <em>&quot;Bhootni Ke&quot; by Daler Mehndi playing</em> )
-( <em>Whooping</em> )
-( <em>All screaming</em> )
-( <em>Indistinct radio chatter</em> )
+(<em>Whooping, cheering</em>)
+(<em>&quot;Bhootni Ke&quot; by Daler Mehndi playing</em>)
+(<em>Whooping</em>)
+(<em>All screaming</em>)
+(<em>Indistinct radio chatter</em>)
 <strong>Buck</strong>: 16 DOA so far.
 Mostly blunt trauma to the head or crushed by falling debris or other bodies.
 One victim impaled.
@@ -50,8 +50,8 @@ Ah. Here we go.
 My leg...
 I think it's broken.
 Okay, you hang tight.
-( <em>Grunts</em> )
-( <em>Saw whirring</em> )
+(<em>Grunts</em>)
+(<em>Saw whirring</em>)
 <strong>Buck</strong>: I got you.
 Here we go. We're good, we're good. All right.
 Buck. Buck, get over here and give me a hand.
@@ -70,7 +70,7 @@ We got you. We got you.
 We got you. Okay, got her.
 Easy. Easy. Watch your head.
 <strong>Prem</strong>: Savita.
-( <em>Savita crying</em> )
+(<em>Savita crying</em>)
 All right.
 Is the owner here?
 Uh, that's him right there. Why?
@@ -108,7 +108,7 @@ Not even a little bit.
 That girl is wicked.
 How's May doing?
 She's at home. I mean, it feels like we're back on solid ground.
-( <em>Scoffs</em> ) If we ever were.
+(<em>Scoffs</em>) If we ever were.
 I swear, it's like I don't even know these people I'm supposed to be the closest to.
 There's a lot of that going around.
 Trouble at home?
@@ -135,7 +135,7 @@ And it's, you know... It's not like I'm saying that he's a bad captain.
 Hell...
 I think he's the best captain I've ever worked under.
 But I'm starting to worry about him.
-( <em>Sighs</em> )
+(<em>Sighs</em>)
 So... what'd you mean by &quot;not yet&quot;?
 Before, when I asked if there was trouble at home, you said &quot;not yet.&quot;
 I got a call this morning from Palmar Women's Correctional Facility.
@@ -158,21 +158,21 @@ Oh! Yes! Yes! Yes!
 Yeah!
 Give me some!
 Boom!
-That's what I'm talking about! ( <em>Whoops</em> )
-( <em>Phone chimes</em> )
+That's what I'm talking about! (<em>Whoops</em>)
+(<em>Phone chimes</em>)
 Yes!
 Out of time outs!
-( <em>Line rings</em> )
+(<em>Line rings</em>)
 I got more flyers.
 Oh, thanks.
-( <em>Phone rings</em> )
+(<em>Phone rings</em>)
 Can you just stick them in here, please?
 Hello?
 Hey, it's Buck. I got your text.
 Oh, hey. Um, yeah, I know, I just...
 I sent a blast out to all my contacts.
 Are you, are you okay?
-( <em>Voice breaks</em> ): Um, no.
+(<em>Voice breaks</em>): Um, no.
 I'm not. I'm kind of having a nervous breakdown.
 Um... h-how long's she been gone?
 I don't know.
@@ -183,13 +183,13 @@ My brother's in Vegas. He's gonna try to get a flight back.
 Look, I'm-I'm gonna come over.
 We'll, uh, we'll find your mom and then we can go back to never seeing each other again, okay?
 Thanks.
-( <em>Lock buzzes</em> )
-( <em>Lock buzzes</em> )
+(<em>Lock buzzes</em>)
+(<em>Lock buzzes</em>)
 Hey, baby.
-( <em>Door closes</em> )
+(<em>Door closes</em>)
 Uh...
 Thanks for coming by.
-( <em>Chuckles</em> ): How long has it been, a year?
+(<em>Chuckles</em>): How long has it been, a year?
 Sorry, I've... I just, you know, I haven't been able to get back to see you. I'm sorry.
 No, it's cool.
 I mean, you got a life and a wife.
@@ -200,7 +200,7 @@ You, uh, you said something about an emergency?
 You don't want to take a minute, check in with your girl?
 You're not my girl.
 Yeah. Okay.
-( <em>Sighs</em> )
+(<em>Sighs</em>)
 My parole hearing.
 It's coming up soon and my lawyer says I've got a shot.
 'Cause I haven't got in a fight in, like, two years, and I've been taking a bunch of accounting courses so...
@@ -217,18 +217,18 @@ I mean, that time we shared together was the best part of my life.
 And I've changed.
 I'm... I'm not that troublemaker anymore.
 You can see that, can't you?
-( <em>Knocking on door</em> )
+(<em>Knocking on door</em>)
 Oh.
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 Abby?
 Um...
-( <em>Footfalls approaching</em> )
+(<em>Footfalls approaching</em>)
 Abby.
 Hi, Buck.
 So what do we know so far?
 Come in. Come... Yeah, come in. Thanks.
 I'm Carla, by the way.
-( <em>Laughs</em> )
+(<em>Laughs</em>)
 So we're here. I made assumptions based on her being on foot, because if she's on a bus, or in a taxi, then... she could have gotten much further.
 No, this is good. This is really impressive.
 What do you figure, like, two miles an hour walking pace?
@@ -239,7 +239,7 @@ Even if she's been gone for nine hours, she couldn't have been walking the entir
 I know. That's what I was thinking, so I figure, maybe 15 to 20 mile range, but then that seems too far, so I brought it down to 12.
 But in any direction, so we would have just under 527 square miles to check.
 But, I mean, literally, she could be anywhere.
-I... ( <em>Sighs</em> )
+I... (<em>Sighs</em>)
 I don't know what to do.
 I'm so much better when it's somebody else's emergency.
 No one is good when it's personal.
@@ -252,7 +252,7 @@ Okay.
 Come on.
 All right.
 <strong>Carla</strong>: Thanks.
-( <em>Church bells ringing</em> )
+(<em>Church bells ringing</em>)
 <strong>Bobby</strong>: I'm lost.
 Figured the only way for a guy like me to pull off leading a crew... was by shielding them from my own personal damage.
 How'd that work out?
@@ -265,22 +265,22 @@ They've given me their absolute trust, and I've given them nothing in return.
 That can always change, Bobby.
 All it takes is a conversation, kind of like this one.
 It's not that simple.
-( <em>Sighs</em> )
+(<em>Sighs</em>)
 There are things about me they just can't know.
 Things I can't risk following us out into the field.
 You mean that you fell off the wagon?
 No.
 That I murdered my own family.
 ♪ ♪
-( <em>Sighs</em> )
+(<em>Sighs</em>)
 ♪ Fire till he is done in ♪
 ♪ But they catch you at the border ♪
 ♪ And the mourners are all singin' ♪
 ♪ As they drag you by your... ♪
-<strong>Weatherman ( <em>on radio</em> )</strong>: Forecast, cloudy and windy and cold this morning, warming up a bit this afternoon, with a few sun sprays...
+<strong>Weatherman (<em>on radio</em>)</strong>: Forecast, cloudy and windy and cold this morning, warming up a bit this afternoon, with a few sun sprays...
 Daddy.
 Brookie.
-( <em>Bobby grunts</em> )
+(<em>Bobby grunts</em>)
 You smell minty.
 Did I miss dinner?
 Oh, and bath time and homework, but you're just in time for teeth-brushing and bed.
@@ -295,12 +295,12 @@ Uh-huh.
 And the best car to get hit by is an ambulance, and the best place to get robbed in is inside a police station.
 Where'd you get such a beautiful brain?
 Probably Target.
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 How was your day, bud?
 Are you okay?
 Has your back been hurting?
 I can just always tell when your back is hurting you.
-( <em>Sighs</em> )
+(<em>Sighs</em>)
 Listen.
 Everything is gonna be all right.
 I love you. You have sweet dreams.
@@ -319,16 +319,16 @@ A broken back never really fully heals, so...
 All right. I'll...
 Wait. Don't-don't go.
 Babe, I'm-I'm gonna be right back, all right?
-( <em>Door opens, closes</em> )
-( <em>Sighs</em> )
-( <em>Elevator bell dings</em> )
-( <em>Keys jingle</em> )
-( <em>Sighs</em> )
-( <em>Pills rattle</em> )
-( <em>Coughs</em> )
+(<em>Door opens, closes</em>)
+(<em>Sighs</em>)
+(<em>Elevator bell dings</em>)
+(<em>Keys jingle</em>)
+(<em>Sighs</em>)
+(<em>Pills rattle</em>)
+(<em>Coughs</em>)
 Ah, damn it.
-( <em>Inhales sharply</em> )
-( <em>Door opens, closes</em> )
+(<em>Inhales sharply</em>)
+(<em>Door opens, closes</em>)
 Hey.
 When we got married, I accepted the idea that when you went to work, you might not come home.
 Baby, I just forgot my phone and then I lost track of time.
@@ -336,7 +336,7 @@ I was just walking.
 I-I never really thought about what it was I was so scared of losing.
 I mean, no woman wants to lose her husband.
 You know, the-the love of her life, the father of her children.
-( <em>Crying</em> ): You're my rock, Bobby.
+(<em>Crying</em>): You're my rock, Bobby.
 Sweetheart, I love you so...
 No, no, don't touch me.
 Okay, okay.
@@ -372,7 +372,7 @@ And I just needed the OxyContin, and I started to need it more...
 So what? So you would go to work high?
 You would... you'd drive our kids to school high?
 I'm sorry.
-( <em>Cries</em> )
+(<em>Cries</em>)
 I will get help. I will go back to rehab.
 I'll do anything.
 I don't want you here tonight.
@@ -380,35 +380,35 @@ You spend the night in your drug den or wherever.
 Well, then what? Then what?
 I love you, Bobby. I don't... I love you.
 I'll forgive you for this, just... not tonight.
-( <em>Door opens, slams</em> )
-( <em>Elevator bell dings</em> )
-( <em>Sighs heavily</em> )
-( <em>Door closes</em> )
-( <em>Wind whistling</em> )
-( <em>Sighs</em> )
-( <em>Wind whistling</em> )
-( <em>Sniffles</em> )
+(<em>Door opens, slams</em>)
+(<em>Elevator bell dings</em>)
+(<em>Sighs heavily</em>)
+(<em>Door closes</em>)
+(<em>Wind whistling</em>)
+(<em>Sighs</em>)
+(<em>Wind whistling</em>)
+(<em>Sniffles</em>)
 Oh.
-( <em>Sparks crackle</em> )
-( <em>Sirens wailing, fire truck horn honking</em> )
-( <em>Siren wailing</em> )
-( <em>Gasps</em> )
-( <em>Screaming</em> )
-( <em>Screaming</em> )
+(<em>Sparks crackle</em>)
+(<em>Sirens wailing, fire truck horn honking</em>)
+(<em>Siren wailing</em>)
+(<em>Gasps</em>)
+(<em>Screaming</em>)
+(<em>Screaming</em>)
 I'm right here. I'm right here. Do you think you can walk?
 The alarms didn't go off. The sprinkler!
 Try to stay calm. Can you walk?
-( <em>Gasps</em> )
+(<em>Gasps</em>)
 All right, you stay here. I will come back before the smoke gets too thick.
 No, wait, wait, wait.
 Just stay right here. I will be back. Stay down.
 Please!
 Marcy?!
 Bobby! Brook!
-( <em>Grunting</em> )
-( <em>Wood creaking</em> )
-( <em>Groaning</em> )
-( <em>Coughing</em> )
+(<em>Grunting</em>)
+(<em>Wood creaking</em>)
+(<em>Groaning</em>)
+(<em>Coughing</em>)
 Marcy?! Bobby?! Brook!
 We have to evacuate. Come on!
 Brook! Bobby!
@@ -424,8 +424,8 @@ Get this guy out of here!
 Give me your gear!
 Come on!
 Give me your gear!
-( <em>Echoes</em> ): Marcy?!
-( <em>Church bells ringing</em> )
+(<em>Echoes</em>): Marcy?!
+(<em>Church bells ringing</em>)
 <b><i><u><span data-nosnippet>Taken without permission from https://tvshowtranscripts.ourboard.org</span>/</u></i></b>
 <ins class="da sc adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9811017020614438" data-ad-slot="1161362910"></ins>
 <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
@@ -440,7 +440,7 @@ The sprinklers weren't hooked up.
 You never noticed?
 No.
 Maybe now, sober, I would, but...
-( <em>Sighs</em> )
+(<em>Sighs</em>)
 I chose to disappear.
 Lived on pills and vodka for two years.
 148 people died in that fire, including...
@@ -448,7 +448,7 @@ I killed them.
 My own kids, my own family.
 I murdered them in their sleep.
 Choked 'em on smoke and I burned their little bodies.
-( <em>Sniffling</em> )
+(<em>Sniffling</em>)
 Such a burden.
 Such a burden, and you've been carrying this all by yourself all this time.
 It's not the kind of story I want to share.
@@ -465,14 +465,14 @@ Honestly, completely...
 Then you don't really have any friends.
 Give them a chance.
 You're allowed to be human.
-( <em>Crying</em> ): I just miss 'em so much.
-( <em>Bobby sighs, sniffles</em> )
+(<em>Crying</em>): I just miss 'em so much.
+(<em>Bobby sighs, sniffles</em>)
 So you about ready to tell me what's bugging you?
 You're not gonna like it.
 Something's bothering you. I don't expect to like it.
 What is it?
 Eva called. She's up for parole.
-( <em>Clears throat</em> ) Great.
+(<em>Clears throat</em>) Great.
 She asked me to speak on her behalf at the hearing.
 Good.
 You can tell the parole board that she's nothing but trouble, and needs to stay locked up and out of our lives.
@@ -482,7 +482,7 @@ She's done a lot of career education.
 She's taken some accounting courses.
 She's trying.
 Have you been to see her?
-( <em>Karen scoffs</em> )
+(<em>Karen scoffs</em>)
 Can't believe this.
 She's not even out yet, and she's already got you sneaking around.
 Karen, that's not fair.
@@ -496,7 +496,7 @@ Because if she gets out, we don't want her involved in Denny's life.
 That's why I went to go see her.
 I don't want her... We, we don't want to give her a reason to be vindictive.
 She's really... she's not as bad as you think.
-( <em>Karen scoffs</em> )
+(<em>Karen scoffs</em>)
 Baby... she's worse.
 'Cause she will always be your first great love.
 Oh, come on.
@@ -505,15 +505,15 @@ They got me riding a desk right now, but I'll keep my ears open.
 Thank you, Sergeant.
 She won't let us down.
 And we have this.
-( <em>Static crackles</em> )
+(<em>Static crackles</em>)
 So if a call comes in about your mom, we can be first on the scene.
 Kind of a bummer we had to meet under these circumstances.
 I mean, especially with our &quot;only on the phone&quot; plan.
 Worst first date ever, right?
-( <em>Abby laughs</em> )
+(<em>Abby laughs</em>)
 I've probably had worse.
 Like what?
-( <em>Indistinct radio chatter</em> )
+(<em>Indistinct radio chatter</em>)
 Well, I mean, to be honest, it's a little fuzzy.
 It's been a while since I've been out on a date.
 How long? A few weeks?
@@ -524,7 +524,7 @@ You've not had sеx in almost a year?
 No, I haven't had sеx in-in-in a year...
 Not even with yourself?
 Probably.
-( <em>Laughing</em> ): Oh, my God.
+(<em>Laughing</em>): Oh, my God.
 I didn't say that.
 Although, I am more a, you know, human contact, you know, touch of skin kind of person.
 It's just really hard to feel sexy with your mom dying in the dining room.
@@ -539,35 +539,35 @@ I mean, this I know, 'cause I do it every day.
 We should go.
 Can't just pass it by.
 Come on.
-( <em>Tires squeal</em> )
+(<em>Tires squeal</em>)
 You guys okay? You okay?
 Hey, whoa, whoa, whoa. Take it easy.
 Is anything hurt?
 Just came out of nowhere.
 All right, we should go.
 We should go. Go.
-( <em>Power line buzzing</em> )
-Watch out for that. ( <em>Groans</em> )
-( <em>Power line crackling</em> )
+(<em>Power line buzzing</em>)
+Watch out for that. (<em>Groans</em>)
+(<em>Power line crackling</em>)
 Can you please help me? Please help.
 There's a power line that fell into the water, and Alex jumped in to try to save the baby.
 Alex, he's your husband?
-( <em>Buzzing</em> )
+(<em>Buzzing</em>)
 He's the manny.
 Manny.
 Mama?
-( <em>Crying</em> ): Oh, my...
+(<em>Crying</em>): Oh, my...
 <strong>Man</strong>: Lyla!
 Hey, whoa, whoa, whoa. Wait. Stay back.
 Stay back. Stay...
-( <em>Groans</em> ) What are you doing?
+(<em>Groans</em>) What are you doing?
 Get off of me!
 No. Hey, hey, I'm a firefighter, okay?
 You can't see it, but those power lines are sending 5,000 volts through that water.
 Anyone touches it and they are dead.
-( <em>Buzzing</em> )
+(<em>Buzzing</em>)
 Okay, listen, listen, I understand. It's okay.
-( <em>Man groans</em> )
+(<em>Man groans</em>)
 I'm gonna help.
 I'm gonna help her, okay?
 <strong>Lyla</strong>: Mama!
@@ -576,7 +576,7 @@ Baby, listen, Mommy and Daddy are right here.
 We're gonna come get you. Right now, okay, you have to stay...
 Can we turn the power off ourselves?
 No. Um...
-( <em>Power line buzzing</em> )
+(<em>Power line buzzing</em>)
 Okay, stay there.
 Sweetie, it's okay.
 <strong>Abby</strong>: What are you doing?
@@ -622,7 +622,7 @@ Don't go in the water.
 <strong>Man</strong>: Oh, my God.
 Thank you. Thank you.
 Oh, please.
-( <em>Crying</em> ): Baby.
+(<em>Crying</em>): Baby.
 Oh.
 Thank you. Thank you. Thank you.
 Yeah.
@@ -643,7 +643,7 @@ Better. Better.
 Thank you so much.
 Good job.
 Thanks.
-( <em>Chuckles</em> ) What?
+(<em>Chuckles</em>) What?
 Nothing.
 <strong>Abby</strong>: That was so exhilarating.
 I mean, I'm usually miles away on the other end of a phone.
@@ -651,8 +651,8 @@ You get to do that every day.
 Such a high.
 Well, you were really good.
 Thanks.
-( <em>Chuckles</em> )
-( <em>Sighs</em> )
+(<em>Chuckles</em>)
+(<em>Sighs</em>)
 I know.
 Let's go find her.
 Yeah.
@@ -668,7 +668,7 @@ I mean, you were like a full-on Jedi.
 Well, I do have some experience with stress.
 Sure.
 But also, I feel calm around you.
-( <em>Phone vibrates</em> )
+(<em>Phone vibrates</em>)
 Uh, hey. Sergeant.
 Uh, did-did you find her?
 <strong>Athena</strong>: A woman fitting her description was brought into County General about 20 minutes ago.
@@ -698,7 +698,7 @@ Mom.
 Abby.
 Mom.
 Oh.
-( <em>Abby sighs</em> )
+(<em>Abby sighs</em>)
 Oh.
 Oh, I'm sorry. I'm so, so sorry.
 Lt's okay, Mom.
@@ -706,7 +706,7 @@ Oh. Oh.
 <strong>Abby</strong>: It's okay.
 Okay, Mom. Okay.
 Okay.
-( <em>Patricia sighs</em> )
+(<em>Patricia sighs</em>)
 Is this Tommy?
 Did you cut your hair differently?
 Mom, that's not Tommy.
@@ -721,31 +721,31 @@ It was, uh, it was nice to meet you, Ms. Clark.
 Thank you. Um...
 Be kind to her.
 <strong>Abby</strong>: Okay. Um...
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 All right. Listen, now, be safe, okay?
 Okay. Bye.
 Take care.
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 Be right back.
 So, that is the most amount of time I have ever spent with a woman I want to have sеx with without actually having sеx with her.
 My mom?
 It's that nightdress.
-( <em>Laughs</em> ) lt's just so hot.
-( <em>Abby sighs</em> )
+(<em>Laughs</em>) lt's just so hot.
+(<em>Abby sighs</em>)
 Well, I guess we should probably just... go back to being phone buddies again.
-( <em>Chuckles</em> ) Why?
+(<em>Chuckles</em>) Why?
 Because I like hanging out with you, too, and I think that if we continue to hang out, we will...
-Mistakes will be made. ( <em>Laughs</em> )
+Mistakes will be made. (<em>Laughs</em>)
 But I do want to say thank you so much for today, and not just for what you did for my mom and for me, which was amazing.
 But you really gave me back a piece of myself.
 You're the first person in a long time to show me that I exist outside of this house and away from this hospital bed and the frustration.
 So thanks.
 Well, then, you're very welcome.
 Really.
-( <em>Chuckles</em> )
-( <em>Laughs</em> )
+(<em>Chuckles</em>)
+(<em>Laughs</em>)
 And no matter what you're feeling right now... don't go have sеx with some girl on Tinder.
-( <em>Both laugh</em> )
+(<em>Both laugh</em>)
 You were thinking about it.
 Mmm.
 I'll call you.
@@ -754,7 +754,7 @@ Thank you.
 Bye.
 Good night.
 Good night.
-( <em>Buck whoops</em> )
+(<em>Buck whoops</em>)
 It is a beautiful day, Henrietta.
 My love.
 Call me Henrietta again, you're going over the balcony.
@@ -767,7 +767,7 @@ Two, actually.
 I met a woman and her mother.
 And I didn't have sеx with either of them.
 Ooh, why's it so cold in here?
-( <em>Alarm ringing</em> )
+(<em>Alarm ringing</em>)
 I have told him a million times, wait for everything to be shut off before you hose down the place.
 But does he listen? No.
 He doesn't listen. You know what happens?
@@ -778,8 +778,8 @@ Does anything feel broken?
 Uh, you want to maybe wait until I decide he's okay to be moved?
 Be glad when Chimney gets back.
 We'll all be glad for that.
-( <em>Indistinct radio chatter</em> )
-( <em>Buck laughing</em> )
+(<em>Indistinct radio chatter</em>)
+(<em>Buck laughing</em>)
 Run it again!
 Hey.
 Buck, what are you doing?
@@ -792,14 +792,14 @@ No, no, no, no, no!
 Buck, that man could have been seriously injured.
 Help! Help! Help!
 <strong>Hen</strong>: Listen, this is so...
-( <em>Laughing</em> ): unprofessional.
-( <em>All laughing</em> )
+(<em>Laughing</em>): unprofessional.
+(<em>All laughing</em>)
 <strong>Hen</strong>: I'm not laughing.
 I'm not.
 Yes!
 Oh, okay.
 I'm not laughing.
-<strong>Hen</strong>: Oh, man. ( <em>Laughs</em> )
+<strong>Hen</strong>: Oh, man. (<em>Laughs</em>)
 I have never seen you laugh like that.
 Well, I wasn't always like this.
 So shut down.
@@ -814,13 +814,13 @@ I'll cook you a delicious meal, and I'll introduce you to someone.
 Who?
 Me.
 ♪ ♪
-( <em>Phone vibrating</em> )
+(<em>Phone vibrating</em>)
 Hey.
 <strong>Buck</strong>: Hey.
 Can I ask you a question?
 Yeah, of course.
 Did you want to have sеx with me?
-( <em>Laughs</em> ) What?
+(<em>Laughs</em>) What?
 Like, you might have made a mistake, too, right?
 Um, yeah.
 I mean... yeah, definitely.
@@ -832,7 +832,7 @@ Yeah, I'm in bed.
 What are you wearing?
 ♪ Open skin ♪
 ♪ I wait on you ♪
-( <em>Chuckles</em> )
+(<em>Chuckles</em>)
 I don't think this is exactly the spirit of what I meant.
 Do you want me to stop?
 No.
