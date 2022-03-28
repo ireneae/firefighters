@@ -1,13 +1,25 @@
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+const searchContext = urlParams.get('context');
+const query = urlParams.get('query');
+
 $(document).ready(function(){
-    $('#phrase').keypress(function(e){
-      	if(e.keyCode==13) {
-      		$('#search').click();
-  		}
-    });
+	$('#phrase').keypress(function(e){
+		if(e.keyCode==13) {
+			$('#search').click();
+		}
+	});
+	document.getElementById("phrase").value = query;
+	if (searchContext == 'true') {
+		document.getElementById("contextToggle").checked = true;
+	}
+	if (query) {
+		$('#search').click();
+	}
 });
 
-const seasons = 1;
-const eps = [10, 18, 18, 14, 18];
+const seasons = 5;
+const eps = [10, 18, 18, 14, 11];
 const htmlRegex = /<[^>]*>/g;
 const N = 2;
 
@@ -21,15 +33,16 @@ function getTitle(season, ep) {
 	var title = "";
 	while (s < season-1) {
 		epNum += eps[s];
+		s += 1;
 	}
 	jQuery.ajax({
-        url:'transcripts/titles.txt',
-        success: function (data) {
-        	title = data.split('\n')[epNum + ep - 1];
-        },
-        async:false
-    });
-    return title;
+		url:'transcripts/titles.txt',
+		success: function (data) {
+			title = data.split('\n')[epNum + ep - 1];
+		},
+		async:false
+	});
+	return title;
 }
 
 function search() {
@@ -46,36 +59,40 @@ function search() {
 	for (var season=1; season<=seasons; season++) {
 		for (var ep=1; ep<=eps[season-1]; ep++) {
 			var file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.txt';
+			console.log(file);
 			jQuery.ajax({
-                url:file,
-                success: function (data) {
-                    if (data.toLowerCase().includes(phrase)) {
-                    	epNum = season + "." + pad2(ep) + " ";
-                    	epsWithString += season + "." + pad2(ep) + " ";
-                    	if (document.getElementById('contextToggle').checked) {
-                    	epTitle = getTitle(season, ep);
-                        context += "<br><div class=\"resTitle\">" + epTitle + "</div>";
-                        var lines = data.split("\n");
-                    	var linenos = [];
-                        for (var i=0; i<lines.length; i++) {
-                            var line = lines[i].replace(htmlRegex, '');
-                            if (line.toLowerCase().includes(phrase)) {
-                            	console.log(line);
-                            	console.log(i);
-                            	var start = i-N;
-                            	if (linenos.length == 0) {
-                            		for (var j=start; j<i+N+1; j++) {
-                            			if (j >= 0 && j < lines.length-1) {
-                            				linenos.push(j);
-                            			}
-                            		}
-                            	} else if (start <= linenos[linenos.length-1]) {
-                            		for (var j=linenos[linenos.length-1]+1; j<i+N+1; j++) {
-                            			if (j < lines.length-1) {
-                            				linenos.push(j);
-                            			}
-                            		}
-                            	} else {
+				url:file,
+				success: function (data) {
+					if (data.toLowerCase().includes(phrase)) {
+						epNum = season + "." + pad2(ep) + " ";
+						epsWithString += season + "." + pad2(ep) + " ";
+						if (document.getElementById('contextToggle').checked) {
+							epTitle = getTitle(season, ep);
+							console.log(epTitle);
+							context += "<br><div class=\"resTitle\">" + epTitle + "</div>";
+							var lines = data.split("\n");
+							console.log("split lines");
+							var linenos = [];
+							for (var i=0; i<lines.length; i++) {
+								console.log(i);
+								var line = lines[i].replace(htmlRegex, '');
+								if (line.toLowerCase().includes(phrase)) {
+									console.log(line);
+									console.log(i);
+									var start = i-N;
+									if (linenos.length == 0) {
+										for (var j=start; j<i+N+1; j++) {
+											if (j >= 0 && j < lines.length-1) {
+												linenos.push(j);
+											}
+										}
+									} else if (start <= linenos[linenos.length-1]) {
+										for (var j=linenos[linenos.length-1]+1; j<i+N+1; j++) {
+											if (j < lines.length-1) {
+												linenos.push(j);
+											}
+										}
+									} else {
                             		// finish out the current set
                             		context += "<br>";
                             		linenos.forEach((value) => {
@@ -92,14 +109,14 @@ function search() {
                         }
                         context += "<br>";
                         linenos.forEach((value) => {
-                            context += lines[value].replace(htmlRegex, '') + "<br>";
+                        	context += lines[value].replace(htmlRegex, '') + "<br>";
                         });
                         context += "<br>";
                     }
                 }
-                },
-                async: false
-            });
+            },
+            async: false
+        });
 		}
 	}
 	epsSpan.innerHTML = epsWithString;
