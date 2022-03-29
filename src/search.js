@@ -1,7 +1,7 @@
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const searchContext = urlParams.get('context');
-const query = urlParams.get('query');
+const query = urlParams.get('q');
 const crossover = urlParams.get('crossover');
 
 $(document).ready(function(){
@@ -33,7 +33,7 @@ function pad2(num) {
 
 function getPermalink() {
 	params = new URLSearchParams();
-	params.set('query', document.getElementById("phrase").value.toLowerCase())
+	params.set('q', document.getElementById("phrase").value.toLowerCase())
 	if (document.getElementById('contextToggle').checked) {
 		params.set('context', true);
 	}
