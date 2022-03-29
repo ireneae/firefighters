@@ -2,6 +2,7 @@ const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const searchContext = urlParams.get('context');
 const query = urlParams.get('query');
+const crossover = urlParams.get('crossover');
 
 $(document).ready(function(){
 	$('#phrase').keypress(function(e){
@@ -13,13 +14,16 @@ $(document).ready(function(){
 	if (searchContext == 'true') {
 		document.getElementById("contextToggle").checked = true;
 	}
+	if (crossover == "true") {
+		document.getElementById("crossoverToggle").checked = true;
+	}
 	if (query) {
 		$('#search').click();
 	}
 });
 
 const seasons = 5;
-const eps = [10, 18, 18, 14, 11];
+const eps = [10, 18, 18, 14, 12];
 const htmlRegex = /<[^>]*>/g;
 const N = 2;
 
@@ -27,6 +31,17 @@ function pad2(num) {
 	return String(num).padStart(2, '0');
 }
 
+function getPermalink() {
+	params = new URLSearchParams();
+	params.set('query', document.getElementById("phrase").value.toLowerCase())
+	if (document.getElementById('contextToggle').checked) {
+		params.set('context', true);
+	}
+	if (document.getElementById('crossoverToggle').checked) {
+		params.set('crossover', true);
+	}
+	return window.location.pathname + "?" + params.toString();
+}
 function getTitle(season, ep) {
 	var epNum = 0;
 	var s = 0;
@@ -45,79 +60,70 @@ function getTitle(season, ep) {
 	return title;
 }
 
+function parseLines(lines, nos) {
+	txt = "<br />";
+	nos.forEach((value) => {
+		txt += lines[value].replace(htmlRegex, '') + "<br />";
+	});
+	return txt;
+}
+
+function parseContext(phrase, season, ep, data) {
+	txt = "";
+	epTitle = getTitle(season, ep);
+	txt += "<br><div class=\"resTitle\">" + epTitle + "</div>";
+	var lines = data.split("\n");
+	var nos = [];
+	for (var i=0; i<lines.length; i++) {
+		var line = lines[i].replace(htmlRegex, '');
+		if (line.toLowerCase().includes(phrase)) {
+			var start = i-N;
+			if (nos.length > 0 && start > nos[nos.length - 1]) {
+				// finish out the current set
+				txt += parseLines(lines, nos);
+				nos = [];
+			} else if (nos.length > 0) {
+				start = nos[nos.length - 1] + 1;
+			}
+			for (var j=start; j < i+N+1; j++) {
+				if (j >= 0 && j < lines.length - 1) {
+					nos.push(j);
+				}
+			}
+		}
+	}
+	txt += parseLines(lines, nos);
+	txt += "<br />";
+	return txt;
+}
+
 function search() {
 	var epsWithString = "";
 	var context = "";
 	var phrase = document.getElementById("phrase").value.toLowerCase();
-	console.log("abc" + phrase);
-	console.log("abc");
 	if (!phrase) {
 		return;
 	}
 	var epsSpan = document.getElementById("epResults");
 	var contextSpan = document.getElementById("contextResults");
+	epsWithString += "<a href=" + getPermalink() + ">Link to search</a><br /><br />";
 	for (var season=1; season<=seasons; season++) {
 		for (var ep=1; ep<=eps[season-1]; ep++) {
 			var file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.txt';
-			console.log(file);
 			jQuery.ajax({
 				url:file,
 				success: function (data) {
 					if (data.toLowerCase().includes(phrase)) {
-						epNum = season + "." + pad2(ep) + " ";
 						epsWithString += season + "." + pad2(ep) + " ";
 						if (document.getElementById('contextToggle').checked) {
-							epTitle = getTitle(season, ep);
-							console.log(epTitle);
-							context += "<br><div class=\"resTitle\">" + epTitle + "</div>";
-							var lines = data.split("\n");
-							console.log("split lines");
-							var linenos = [];
-							for (var i=0; i<lines.length; i++) {
-								console.log(i);
-								var line = lines[i].replace(htmlRegex, '');
-								if (line.toLowerCase().includes(phrase)) {
-									console.log(line);
-									console.log(i);
-									var start = i-N;
-									if (linenos.length == 0) {
-										for (var j=start; j<i+N+1; j++) {
-											if (j >= 0 && j < lines.length-1) {
-												linenos.push(j);
-											}
-										}
-									} else if (start <= linenos[linenos.length-1]) {
-										for (var j=linenos[linenos.length-1]+1; j<i+N+1; j++) {
-											if (j < lines.length-1) {
-												linenos.push(j);
-											}
-										}
-									} else {
-                            		// finish out the current set
-                            		context += "<br>";
-                            		linenos.forEach((value) => {
-                            			context += lines[value].replace(htmlRegex, '') + "<br>";
-                            		});
-                            		linenos = [];
-                            		for (var j=start; j<i+N+1; j++) {
-                            			if (j >= 0 && j < lines.length-1) {
-                            				linenos.push(j);
-                            			}
-                            		}
-                            	}
-                            }
-                        }
-                        context += "<br>";
-                        linenos.forEach((value) => {
-                        	context += lines[value].replace(htmlRegex, '') + "<br>";
-                        });
-                        context += "<br>";
-                    }
-                }
-            },
-            async: false
-        });
+							context += parseContext(phrase, season, ep, data);
+						}
+					}
+				},
+				async: false
+			});
 		}
+		epsWithString += "<br />";
 	}
 	epsSpan.innerHTML = epsWithString;
 	contextSpan.innerHTML = context;
