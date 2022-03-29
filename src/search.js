@@ -116,7 +116,7 @@ function search() {
 					if (data.toLowerCase().includes(phrase)) {
 						seasonEps += "LS-2.03 ";
 						if (document.getElementById('contextToggle').checked) {
-							context += parseContext(phrase, "LS 2.03 - Hold The Line", data);
+							context += parseContext(phrase, "LS 2.03 - Hold the Line", data);
 						}
 					}
 				},
