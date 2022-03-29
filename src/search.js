@@ -141,6 +141,9 @@ function search() {
 			epsWithString += seasonEps + "<br />";
 		}
 	}
+	if (!context) {
+		context = "<center>No results found.<br /></center>";
+	}
 	epsSpan.innerHTML = epsWithString;
 	contextSpan.innerHTML = context;
 }
