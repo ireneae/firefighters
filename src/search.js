@@ -68,10 +68,8 @@ function parseLines(lines, nos) {
 	return txt;
 }
 
-function parseContext(phrase, season, ep, data) {
-	txt = "";
-	epTitle = getTitle(season, ep);
-	txt += "<br><div class=\"resTitle\">" + epTitle + "</div>";
+function parseContext(phrase, epTitle, data) {
+	txt = "<br><div class=\"resTitle\">" + epTitle + "</div>";
 	var lines = data.split("\n");
 	var nos = [];
 	for (var i=0; i<lines.length; i++) {
@@ -106,24 +104,42 @@ function search() {
 	}
 	var epsSpan = document.getElementById("epResults");
 	var contextSpan = document.getElementById("contextResults");
-	epsWithString += "<a href=" + getPermalink() + ">Link to search</a><br /><br />";
+	epsWithString += "<div class=\"permalink\"><a href=" + getPermalink() + ">Link to search</a><br /><br /></div>";
 	for (var season=1; season<=seasons; season++) {
+		var seasonEps = "";
 		for (var ep=1; ep<=eps[season-1]; ep++) {
+			if (season === 4 && ep === 4 && document.getElementById('crossoverToggle').checked) {
+				var file = 'transcripts/ls_s02e03.txt';
+				jQuery.ajax({
+				url:file,
+				success: function (data) {
+					if (data.toLowerCase().includes(phrase)) {
+						seasonEps += "LS-2.03 ";
+						if (document.getElementById('contextToggle').checked) {
+							context += parseContext(phrase, "LS 2.03 - Hold The Line", data);
+						}
+					}
+				},
+				async: false
+			});
+			}
 			var file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.txt';
 			jQuery.ajax({
 				url:file,
 				success: function (data) {
 					if (data.toLowerCase().includes(phrase)) {
-						epsWithString += season + "." + pad2(ep) + " ";
+						seasonEps += season + "." + pad2(ep) + " ";
 						if (document.getElementById('contextToggle').checked) {
-							context += parseContext(phrase, season, ep, data);
+							context += parseContext(phrase, getTitle(season, ep), data);
 						}
 					}
 				},
 				async: false
 			});
 		}
-		epsWithString += "<br />";
+		if (seasonEps) {
+			epsWithString += seasonEps + "<br />";
+		}
 	}
 	epsSpan.innerHTML = epsWithString;
 	contextSpan.innerHTML = context;
