@@ -1,6 +1,6 @@
 I have an adult male with multiple stab wounds to his torso.
 Need medical and police response.
-<strong>Josh</strong>: Okay, sir, can I get your name?
+JOSH: Okay, sir, can I get your name?
 Evan Buckley.
 I'm a firefighter with the 118.
 Buck?
@@ -8,57 +8,53 @@ Yeah, uh, victim is Howard Han.
 He's got profuse bleeding to his abdomen.
 Breathing is labored. Might have hit a lung.
 Come on, Chim. Hang in there.
-<strong>Josh</strong>: Buck, RA unit's two minutes out.
+JOSH: Buck, RA unit's two minutes out.
 Do you know how this happened?
 How long has he been down?
 I don't know.
 I just got home and found him.
 Given the amount of blood, I would say minutes, not hours.
-<strong>Josh</strong>: How's his pulse?
+JOSH: How's his pulse?
 Weak, but it's there.
 Jason...
-H-Hold on, he's, uh... he's talking. Chim, it's me, it's Buck. I'm here, okay?
+H-Hold on, he's, uh...
+he's talking. Chim, it's me, it's Buck. I'm here, okay?
 I just need you to stay with me, Chimney.
 Jason took her...
 Chimney, who is Jason?
 Maddie...
-(<em>Sirens approaching</em>)
-Where is Maddie?
+(sirens approaching) Where is Maddie?
 Chimney, where is Maddie?
 Chimney, where is Maddie?
 Wh-Where is Maddie?
-(<em>Siren wailing</em>)
-We got it, sir.
+(siren wailing) We got it, sir.
 Maddie!
 Maddie!
 Maddie.
 Maddie, where are you?
 Maddie! Maddie, are in you here?
 Maddie!
-(<em>Panting</em>)
-She's, uh... she's not here.
+(panting) She's, uh... she's not here.
 She's gone.
 Oh, no.
-<strong>Josh</strong>: Buck? What is it, Buck?
+JOSH: Buck? What is it, Buck?
 Did you find something?
 All of her stuff is still here.
 All units responding to 1832 Bryson, be advised we also have a critical missing adult female: Maddie Buckley Kendall.
 He found her.
-(<em>Rummaging, drawers opening and closing</em>)
-Hey, babe, where's the thing?
-<strong>Maddie</strong>: What thing?
+(rummaging, drawers opening and closing) Hey, babe, where's the thing?
+MADDIE: What thing?
 That fancy opener that I took out a loan for.
 Screw it. I'm going old-school.
-Made a mix, some of your favorites.
+("Nothing Can Change This Love" by Sam Cooke playing) Made a mix, some of your favorites.
 Sam Cooke, Marvin Gaye.
 Nice. Greatest love songs ever written.
-(<em>Chuckles</em>)
-And every one of them reminds me of you.
+(chuckles) And every one of them reminds me of you.
 You're sweet.
 I am, it would appear, the heart surgeon that stole your heart.
 Not just surgeon; the chief of cardiothoracic medicine.
 I'm really proud of you.
-Second-youngest in the state, which my father would file under the &quot;Close But Not Quite&quot; Department.
+Second-youngest in the state, which my father would file under the "Close But Not Quite" Department.
 But screw him, right?
 We're celebrating anyway.
 No, no, put away those Two-Buck Chuck glasses.
@@ -66,35 +62,19 @@ An occasion like this requires something more distinctive.
 Wow, we haven't, uh, used those since the wedding.
 Yeah.
 One of the few things I have left of my mother.
-♪ You're the apple of my eye ♪
-♪ You're cherry pie... ♪
-Toast softer this time.
+* You're the apple of my eye * * You're cherry pie... * Toast softer this time.
 The chip is still there.
 This promotion, it's not because of some good-luck glasses.
-♪ Sugar and spice ♪
-It's because of my good-luck girl.
-♪ And everything nice... ♪
-To my Maddie.
-♪ My, my, my, my dreams ♪
-♪ But if you wanted ♪
-♪ To leave me and roam ♪
-♪ When you got back ♪
-(<em>Laughter</em>)
-♪ I'd just say, &quot;Welcome home&quot; ♪
-♪ 'Cause, honey, nothing... ♪
-(<em>Laughter, muttering</em>)
-♪ Nothing... ♪
-(<em>Music stops abruptly</em>)
-(<em>Gasps</em>)
-Accidents happen, right?
+* Sugar and spice * It's because of my good-luck girl.
+* And everything nice... * To my Maddie.
+* My, my, my, my dreams * * But if you wanted * * To leave me and roam * * When you got back * (laughter) * I'd just say, "Welcome home" * * 'Cause, honey, nothing... * (laughter, muttering) * Nothing... * (music stops abruptly) (gasps) Accidents happen, right?
 My mother always used to say that an accident is just an opportunity to learn.
 The problem, Maddie, is that you never do.
-(<em>Passing car honks horn</em>)
-Damn it, Maddie!
+(passing car honks horn) Damn it, Maddie!
 This is your fault.
 I told you, I told you you couldn't leave me.
 I warned you.
-(<em>Crying</em>): Is he dead?
+(crying): Is he dead?
 If he's not, he will be.
 He's not our problem anymore.
 Why would you do that?
@@ -120,24 +100,23 @@ Of course it's too late.
 I just killed a man for you, Maddie.
 There is no coming back from that.
 Not for me, and not for you.
-(<em>Indistinct chatter</em>)
-I got here as fast as I could.
+(indistinct chatter) I got here as fast as I could.
 How's he doing?
 Alive, but he's got a punctured lung and a lacerated stomach.
 Is he in surgery?
 Not yet. He lost a lot of blood.
 But as soon as he's stable, they'll prep him for surgery.
 Who would do something like this?
-<strong>Buck</strong>: It was Doug.
+BUCK: It was Doug.
 Doug Kendall.
 He told Maddie he would kill her if she left him.
 He did this.
 You said he lives in Pennsylvania.
 He knows she was here?
 No, she-she...
-<strong>Athena</strong>: She was filing for divorce.
+ATHENA: She was filing for divorce.
 That could have put her back on his radar.
-<strong>Marks</strong>: Well, we'll take a look at him, but before your friend lost consciousness, he said he was attacked by a Jason Bailey.
+MARKS: Well, we'll take a look at him, but before your friend lost consciousness, he said he was attacked by a Jason Bailey.
 Either of you know who that is?
 I don't think so.
 Wait, uh...
@@ -146,10 +125,11 @@ I never met him, but now I know why, you know, 'cause it was Doug. He got close 
 You don't believe me? I mean, I mean, Chimney's phone is right there. You know, ch-check for yourself.
 Phone's locked.
 Can't open it without the victim's consent.
-<strong>Athena</strong>: They'll subpoena his phone records, but it'll take time.
+ATHENA: They'll subpoena his phone records, but it'll take time.
 Well, Maddie doesn't have time, okay?
 Come on, Doug did this!
-He-he almost killed Chimney, and... and he could... he could kill her next.
+He-he almost killed Chimney, and...
+and he could... he could kill her next.
 But he didn't.
 Bobby...
 Buck, just listen to me.
@@ -171,7 +151,7 @@ When she leaves. Maddie knew that.
 That's why she was in hiding.
 But if it is him...
 Those scenarios usually don't come with a happy ending.
-<strong>Buck</strong>: Hey, Cap, I need to go to the hospital.
+BUCK: Hey, Cap, I need to go to the hospital.
 I-I-I want to see Chimney.
 I'll drive him.
 Anyone see anything?
@@ -181,8 +161,7 @@ All we got is a four-door sedan, dark in color.
 Doesn't exactly narrow the search.
 Mm.
 Where's Chimney's phone?
-(<em>Monitor beeping</em>)
-(<em>Sighs</em>) Sorry about this, buddy.
+(monitor beeping) (sighs) Sorry about this, buddy.
 You're not supposed to be in here.
 Oh, oh, God, please don't let him die.
 Please, sir.
@@ -192,15 +171,14 @@ Sir, you need to leave. No.
 You can't, please...
 Sir, you have to go.
 Okay, I'm going, I'm going.
-<strong>Athena</strong>: You know, Detective Marks didn't believe me.
+ATHENA: You know, Detective Marks didn't believe me.
 He said no one could be that stupid.
-I said, &quot;You don't know Buck.&quot;
-So... that was a bold move.
+I said, "You don't know Buck." So...
+that was a bold move.
 Yeah, yeah, I know.
-&quot;What were you thinking, Buck?&quot;
-I already got an earful from Athena.
+"What were you thinking, Buck?" I already got an earful from Athena.
 Oh, no, I know what you were thinking. I got sisters, too.
-(<em>Chuckles</em>) Still not sure how you thought you were getting away with it, though.
+(chuckles) Still not sure how you thought you were getting away with it, though.
 I wasn't worried about that.
 Mm.
 It's, like, police have all these rules, you know?
@@ -208,17 +186,15 @@ Rules that are gonna get Maddie killed.
 But-but I'm a civilian.
 Those rules, they don't apply to me, right?
 Then why are you in hospital jail?
-(<em>Eddie sighs</em>)
-I told Maddie...
+(Eddie sighs) I told Maddie...
 I said that she didn't need to keep on running, that she could start over here, that she would be safe.
 That I would keep her safe.
-(<em>Sighs</em>)
-This isn't your fault.
+(sighs) This isn't your fault.
 What if she had kept running?
 You think he wouldn't have found her?
 Only then, she'd be alone.
 She's alone now, with him.
-<strong>Athena</strong>: I spoke with Detective Marks.
+ATHENA: I spoke with Detective Marks.
 He's not happy with you.
 I-I-I just...
 Yeah, you broke chain of custody.
@@ -242,9 +218,8 @@ Thank you.
 Buck.
 Here are the ground rules: You don't leave her sight, you don't lie, you don't withhold any information from her, you don't break the law, and you don't do anything that's gonna force her into early retirement. You got it?
 You got it, Cap.
-(<em>Electronic chiming</em>)
-<strong>Doug</strong>: Come on. Where is it?
-<strong>Automated Voice</strong>: Continue following the road for 1.7 miles.
+(electronic chiming) DOUG: Come on. Where is it?
+AUTOMATED VOICE: Continue following the road for 1.7 miles.
 I don't... I don't see anything.
 Just do it already.
 What?
@@ -257,21 +232,18 @@ I can't imagine my life without you.
 You're all I have.
 You don't have me.
 Your destination is on the right.
-<strong>Doug</strong>: There it is.
+DOUG: There it is.
 You see?
 Never give up hope.
-(<em>Bell chimes</em>)
-Don't move.
-(<em>Phone chimes</em>)
-(<em>Banging</em>)
-<strong>Sue</strong>: I'm not sure how we can help, Sergeant, but whatever you need.
+(bell chimes) Don't move.
+(phone chimes) (banging) SUE: I'm not sure how we can help, Sergeant, but whatever you need.
 Athena, please. I'm off duty.
 This is Josh.
 Athena.
 And Buck, Maddie's brother.
 Maddie's told me a lot about you.
 Same here. Any word on her?
-<strong>Athena</strong>: Well, police don't have much to go on yet. So, neither one of us are good at sitting around and waiting, so I thought I'd come by and ask you some questions, unofficially.
+ATHENA: Well, police don't have much to go on yet. So, neither one of us are good at sitting around and waiting, so I thought I'd come by and ask you some questions, unofficially.
 Sure.
 What do you want to know?
 Well, when people dial 911, you can see where they're calling from, right?
@@ -282,57 +254,44 @@ Our system has to digitally request the phone's location from the cellular netwo
 Okay, well, this is Chimney's phone.
 We think he was in contact with his attacker.
 Maddie's husband.
-<strong>Buck</strong>: Uh, Chimney didn't know it was him; he-he thought his name was Jason.
-<strong>Athena</strong>: Now, I'm wondering, hypothetically, if this number called 911 and hung up, is your system able to request location data after the call was disconnected?
+BUCK: Uh, Chimney didn't know it was him; he-he thought his name was Jason.
+ATHENA: Now, I'm wondering, hypothetically, if this number called 911 and hung up, is your system able to request location data after the call was disconnected?
 Hypothetically, sure.
 But we'd...
 Of course we could.
 You know, it's funny, this number seems familiar, and, in fact, I think I might have taken a call from it earlier.
 An emergency call.
-<strong>Sue</strong>: Josh, are you sure?
+SUE: Josh, are you sure?
 I'm sure.
 Okay. Let's make a manual request.
-(<em>Keyboard clicking</em>)
-♪
-<strong>Doug</strong>: Hey, where you going?
+(keyboard clicking) * DOUG: Hey, where you going?
 Oh, I-I was looking for you.
 I have to pee.
 Yeah? You sure that's all?
 Y-Yeah. I mean, look around, Doug.
 Where am I going to run to?
 Do you want me to pee in the restroom or the car?
-(<em>Knife clicks</em>)
-Keep your head down.
-<strong>Cashier</strong>: Evening.
+(knife clicks) Keep your head down.
+CASHIER: Evening.
 You folks doing okay?
 Yeah, good. Um, do you have a restroom that I could use?
 Uh, I feel like we've been on the road forever.
 Sure thing.
 In the back, to the left.
-♪ Will make foolish people do ♪
-Thank you.
-♪ I never dreamed that I'd meet ♪
-♪ Somebody like you... ♪
-(<em>Door opens, closes</em>)
-(<em>Lock clicks</em>)
-You folks vacationing?
+* Will make foolish people do * Thank you.
+* I never dreamed that I'd meet * * Somebody like you... * (door opens, closes) (lock clicks) You folks vacationing?
 Yeah. Second honeymoon.
-(<em>Panting</em>)
-You okay, babe?
-<strong>Maddie</strong>: Yeah. Yeah, I-I'll be out in a minute.
-(<em>Pounding on door</em>)
-Let's go.
-(<em>Pounding on door</em>)
-Let's go, Maddie.
-(<em>Grunts</em>)
-Maddie!
-(<em>Gasps</em>) No!
+(panting) You okay, babe?
+MADDIE: Yeah. Yeah, I-I'll be out in a minute.
+(pounding on door) Let's go.
+(pounding on door) Let's go, Maddie.
+(grunts) Maddie!
+(gasps) No!
 You're always running.
 Aren't you tired by now? I sure am tired of chasing you.
 Just let me go.
 Please just let me go. Let me go!
-(<em>Gun clicks</em>)
-<strong>Cashier</strong>: Hey!
+(gun clicks) CASHIER: Hey!
 No...
 You heard the lady.
 Back away. Let her go.
@@ -340,36 +299,23 @@ Oh, no. Sir, honestly, I-I think that you've...
 I said back away.
 I-I think you're misunderstanding.
 Back away, man.
-(<em>Grunting and groaning</em>)
-(<em>Gunshot</em>)
-(<em>Cashier groans</em>)
-(<em>Maddie screams</em>)
-<strong>Doug</strong>: Oh, God.
+(grunting and groaning) (gunshot) (cashier groans) (Maddie screams) DOUG: Oh, God.
 Oh, my God.
-(<em>Panting</em>)
-<strong>Maddie</strong>: Sir...
+(panting) MADDIE: Sir...
 Sir, stay with me, okay? I'm gonna call 911, and they are gonna save you.
 Stay with me. Okay, it's okay.
 Stay with me.
-(<em>Gunshot</em>)
-(<em>Gasps, shudders</em>)
-(<em>Crying</em>): Oh, my God.
+(gunshot) (gasps, shudders) (crying): Oh, my God.
 No one's saving anyone now.
 Let's go. Let's go.
-(<em>Crying</em>): No, no...
+(crying): No, no...
 So, Chimney goes online to one of those Internet forums for new mothers.
 They all give him advice.
-&quot;Skin-to-skin contact works best.&quot;
-&quot;No, the sound of a-a vacuum cleaner.&quot;
-&quot;A cool breeze is soothing.&quot;
-A vacuum to stop a baby crying? I missed out on all this.
+"Skin-to-skin contact works best." "No, the sound of a-a vacuum cleaner." "A cool breeze is soothing." A vacuum to stop a baby crying? I missed out on all this.
 Which one did he go with?
 All of them.
-(<em>Laughter</em>)
-We come home and find him asleep... shirtless...
-On the floor with Denny on top of him, a fan blowing at them and the vacuum cleaner running in the corner.
-(<em>Laughter</em>)
-Wow, uh, he went all out, huh?
+(laughter) We come home and find him asleep-- shirtless-- on the floor with Denny on top of him, a fan blowing at them and the vacuum cleaner running in the corner.
+(laughter) Wow, uh, he went all out, huh?
 He always does.
 He always puts his heart into everything.
 Hey, hey.
@@ -381,7 +327,7 @@ Then we thought, you guys probably need some, too.
 Ah, we haven't met, but I love you. Eddie.
 Michael. Pleasure.
 Hey, this is a surprise.
-<strong>Harry</strong>: We brought food.
+HARRY: We brought food.
 Got you a bear claw.
 That's my favorite.
 Thank you.
@@ -399,22 +345,16 @@ You know, he was worried, so he wanted to come down and make sure everything was
 Eh, he's a sweet kid. It's nice of him to be worried about Chimney.
 Uh, he wasn't worried about Chimney.
 He was worried about you.
-<b><i><u><span data-nosnippet>Taken without permission from https://tvshowtranscripts.ourboard.org</span>/</u></i></b>
-<ins class="da sc adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9811017020614438" data-ad-slot="1161362910"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-(<em>Line ringing</em>)
-<strong>Marks</strong>: Detective Marks.
+(line ringing) MARKS: Detective Marks.
 Andy, it's Athena.
 Listen, you're gonna get a call from Sue Blevins at 911 dispatch.
 She might have a lead on Doug's location.
-<strong>Marks</strong>: Do I want to know how she obtained this very important information?
+MARKS: Do I want to know how she obtained this very important information?
 Let's just call it an anonymous tip and not look any gift horses in the mouth.
 We'll meet you there.
-Copy that. (<em>Sighs</em>)
-(<em>Phone beeps</em>)
-You're awfully quiet over there, Buckaroo.
+Copy that. (sighs) (phone beeps) You're awfully quiet over there, Buckaroo.
 Uh, when we get there...
-...what-what do you think we're going to find?
+... what-what do you think we're going to find?
 I mean, he-he threatened to kill her, you know, a-almost did kill Chimney.
 What if... what if he...
 No.
@@ -422,8 +362,7 @@ My gut is telling me not to count your sister out just yet.
 Maddie didn't just rebuild her life.
 She rebuilt herself.
 Doug may have her, but I don't think he has any idea who he's dealing with now.
-(<em>Siren wailing</em>)
-<strong>Doug</strong>: Damn it.
+(siren wailing) DOUG: Damn it.
 We have to get off this road.
 Just shut up.
 There were cameras, Doug. When they find that guy...
@@ -457,9 +396,7 @@ There are vacation homes.
 Probably empty.
 Like the Poconos.
 Yeah. You'll love it.
-(<em>Sniffles</em>)
-(<em>Monitor beeping</em>)
-Hi, Chimney.
+(sniffles) (monitor beeping) Hi, Chimney.
 Hey.
 I heard you had another surgery.
 Yeah.
@@ -468,7 +405,7 @@ Hey.
 You're awake.
 Looks like you got your first visitor.
 Does your dad know you're in here?
-(<em>Whispers</em>): Chris.
+(whispers): Chris.
 I'm gonna say no.
 Welcome back, man.
 We were worried about you.
@@ -477,17 +414,17 @@ I'm starting to think he's invincible.
 Like a superhero?
 Yeah.
 Just like a superhero.
-<strong>Eddie</strong>: Okay, buddy.
+EDDIE: Okay, buddy.
 Let's, uh, let Chimney rest.
 We can visit him later.
 Don't eat the meat loaf.
 No?
 That's how I lost a tooth.
 Thanks for the tip, buddy.
-<strong>Eddie</strong>: Let's go.
+EDDIE: Let's go.
 Have a good rest.
 Where's Maddie?
-<strong>Truck Driver</strong>: It's not my phone.
+TRUCK DRIVER: It's not my phone.
 I don't know where it came from.
 Found the phone.
 No sign of our suspect or your sister.
@@ -513,8 +450,7 @@ You don't have to stay.
 I-I mean, if you have stuff to do...
 No.
 I'm good here.
-(<em>Indistinct chatter over radio</em>)
-<strong>Marks</strong>: We only have eyes on the pumps and the register.
+(indistinct chatter over radio) MARKS: We only have eyes on the pumps and the register.
 Now, best we can guess, she goes out the back window, husband catches her.
 Yeah, cashier sees something's wrong. Goes to help.
 Winds up getting shot with his own gun.
@@ -523,7 +459,7 @@ Sir.
 Found this in the bathroom.
 It's a rental car agreement.
 For a dark gray, four-door sedan.
-Looks like she started to write &quot;help&quot; on the back.
+Looks like she started to write "help" on the back.
 Rented near Burbank Airport.
 I'll put out an APB.
 Well, we know where he rented the car.
@@ -535,8 +471,7 @@ Yeah.
 Major companies don't. But if you're Bob and you only have 12 cars in your fleet, you might want to know where they are at all times.
 Hey. It's Marks.
 I think we got a lead on our suspect.
-(<em>Bird calling</em>)
-Thank God there wasn't an alarm.
+(bird calling) Thank God there wasn't an alarm.
 Why do you think I cut the phone line?
 So I couldn't call for help.
 Yeah, that, too.
@@ -546,8 +481,7 @@ I'll see if I can get some food.
 Whoa. In the kitchen? Where the knives live?
 I don't think so.
 Just sit right there.
-(<em>Doug sniffing, panting</em>)
-You remember you and me and that place in the Poconos?
+(Doug sniffing, panting) You remember you and me and that place in the Poconos?
 Was it our second anniversary?
 Fourth.
 Don't forget to open the flue this time.
@@ -560,33 +494,32 @@ What is it with women?
 They get all weak-kneed over a man in uniform.
 I don't know.
 I married a guy who wears surgical scrubs.
-(<em>Chuckles</em>)
-Yeah, I guess I'm a man in uniform, too, huh?
-(<em>Sighs</em>)
-(<em>Knock on door</em>)
-Good evening, ma'am.
+(chuckles) Yeah, I guess I'm a man in uniform, too, huh?
+(sighs) (knock on door) Good evening, ma'am.
 Hello, Officer. How can I help you?
 Uh, one of your neighbors called us.
 Said they heard some yelling, some sounds of a fight.
 Thought there might been some kind of altercation going on.
 It must have been a mistake, 'cause everything's fine here.
 It's a warm night for a sweater.
-Yeah, I-I don't know who would have called you, but... everything's fine.
+Yeah, I-I don't know who would have called you, but...
+everything's fine.
 Ma'am, if you're in some kind of danger...
-<strong>Doug</strong>: Hey, babe, everything okay?
+DOUG: Hey, babe, everything okay?
 Officer. What's going on?
-Uh, we just had some reports about, um... some cars being broken into in the neighborhood.
+Uh, we just had some reports about, um...
+some cars being broken into in the neighborhood.
 I just wanted to check and see if you folks might have seen or heard anything.
 Oh, man, that's terrible.
-<strong>Maddie</strong>: Yeah, I was just saying that we, um, we didn't hear anything.
-<strong>Doug</strong>: Yeah.
+MADDIE: Yeah, I was just saying that we, um, we didn't hear anything.
+DOUG: Yeah.
 Well, thank you for your time.
 Of course. You have a good one, Officer.
 Oh, uh, I just need you to sign this right here to prove I did a thorough canvass.
 Look, I get you're scared of what he'll do if you report him, but you need to think about what he's gonna do if you don't.
 Okay? Don't be afraid to run.
 Be afraid to stay.
-<strong>Doug</strong>: We can be happy again.
+DOUG: We can be happy again.
 A fresh start in a new place.
 New names. We can become new people.
 All right, not just to the world, but to each other.
@@ -595,41 +528,26 @@ Yeah.
 I always found a way to forgive you.
 So we try again.
 Start right now.
-(<em>Doug groans</em>)
-(<em>Maddie gasping</em>)
-Oh, my God.
-(<em>Whimpering</em>)
-Maddie!
-(<em>Gunshot</em>)
-(<em>Screams</em>)
-Maddie!
+(Doug groans) (Maddie gasping) Oh, my God.
+(whimpering) Maddie!
+(gunshot) (screams) Maddie!
 I'm such an idiot.
 I'm the one who put her in danger.
 Stop it.
 He was playing me this whole time.
-(<em>Deep inhale</em>)
-How could I not see it?
+(deep inhale) How could I not see it?
 Because psychopaths don't generally announce that they're psychopaths.
 He's gonna kill her, isn't he?
 I don't know.
-(<em>Panting</em>)
-(<em>Grunts</em>)
-(<em>Birds cawing</em>)
-(<em>Grunts, panting</em>)
-(<em>Panting</em>)
-Maddie! Maddie!
+(panting) (grunts) (birds cawing) (grunts, panting) (panting) Maddie! Maddie!
 You can't keep running!
 You can't run forever!
-(<em>Panting</em>)
-Maddie!
-(<em>Echoing</em>): You can't run forever.
-(<em>Panting</em>)
-(<em>Panting</em>)
-Maddie!
-(<em>Siren wailing</em>)
-<strong>Officer (<em>over radio</em>)</strong>: We found the rental car.
+(panting) Maddie!
+(echoing): You can't run forever.
+(panting) (panting) Maddie!
+(siren wailing) OFFICER (over radio): We found the rental car.
 No sign of the suspect or the victim.
-<strong>Marks</strong>: We found the kidnapper's abandoned vehicle nearby, so we're looking for a couple.
+MARKS: We found the kidnapper's abandoned vehicle nearby, so we're looking for a couple.
 They, uh, may have come in earlier looking for a last-minute rental.
 No, it's been quiet today. Nobody's come in.
 Are these all the properties that you manage?
@@ -638,156 +556,108 @@ There's a... a magazine inside.
 It has all the listings.
 Um, how many do you manage?
 300.
-(<em>Panting</em>)
-You backtracking b¡tch.
-(<em>Maddie yells</em>)
-(<em>Doug grunts</em>)
-(<em>Yelps, screams</em>)
-(<em>Gun clicking</em>)
-(<em>Sighs</em>)
-I'm not running. (<em>Grunts</em>)
-(<em>Panting</em>)
-(<em>Shouts, groaning</em>)
-(<em>Screams</em>) No!
-(<em>Screams</em>)
-(<em>Panting</em>)
-(<em>Grunting</em>)
-(<em>Panting</em>)
-(<em>Grunting</em>)
-(<em>Shouts</em>)
-(<em>Maddie screams</em>)
-(<em>Grunting</em>)
-(<em>Shouts, groaning</em>)
-(<em>Panting, grunting</em>)
-(<em>Sobbing</em>)
-(<em>Doug coughs</em>)
-(<em>Gurgles</em>)
-(<em>Coughing</em>)
-(<em>Birds cawing</em>)
-♪
-(<em>Indistinct police radio transmission</em>)
-Thank you... Officer.
+(panting) You backtracking bitch.
+(Maddie yells) (Doug grunts) (yelps, screams) (gun clicking) (sighs) I'm not running. (grunts) (panting) (shouts, groaning) (screams) No!
+(screams) (panting) (grunting) (panting) (grunting) (shouts) (Maddie screams) (grunting) (shouts, groaning) (panting, grunting) (sobbing) (Doug coughs) (gurgles) (coughing) (birds cawing) * (indistinct police radio transmission) Thank you... Officer.
 Thank you.
-<strong>Doug</strong>: You don't have to lie to me.
+DOUG: You don't have to lie to me.
 I know what he said.
 What they all say.
 They want you to leave me.
 But they don't understand that that can never happen.
 We're meant to be together.
 To live together, to grow old together and die together.
-That's... that's how this story ends.
-(<em>Inhales</em>)
-(<em>Crying</em>)
-(<em>Panting</em>)
+That's...
+that's how this story ends.
+(inhales) (crying) (panting) No.
 No.
-No.
-(<em>Panting, groaning</em>)
-♪
-♪
-<strong>Marks</strong>: Local sheriff got a report of gunshots.
+(panting, groaning) * * MARKS: Local sheriff got a report of gunshots.
 They followed up. Found this.
 Yeah, rental manager says all the lake cabins are vacant.
 Well, somebody's been here, and they left in a hurry.
-(<em>Exhales</em>)
-It's got to be them, right?
+(exhales) It's got to be them, right?
 Question now is, which way did they go?
-(<em>Sighs</em>) If she's out there and... and she's hurt...
+(sighs) If she's out there and...
+and she's hurt...
 They're sending more officers.
 Search and rescue's on its way.
 Choppers, dogs.
 It's gonna be a full-court press.
-<strong>Sheriff</strong>: I got blood out here!
+SHERIFF: I got blood out here!
 Maddie! Maddie!
-(<em>Panting</em>)
-(<em>Gasping</em>)
-(<em>Panting</em>)
-♪
-Maddie!
+(panting) (gasping) (panting) * Maddie!
 Buck?
 Maddie!
 Buck?
-(<em>Pants</em>) Maddie.
-(<em>Sobs</em>): Buck!
-(<em>Panting</em>)
-(<em>Sobbing</em>)
-Hey. Hey, hey.
-Hey, hey, hey, hey, hey. (<em>Panting</em>)
-I'm here. I'm here.
-(<em>Sobs</em>) I didn't give up.
-(<em>Crying</em>)
-I... I didn't give up.
-(<em>Sobs</em>): I...
-(<em>Panting</em>)
-(<em>Athena speaking indistinctly</em>)
-You did so good.
-(<em>Helicopter blades whirring</em>)
-Never seen red snow before. (<em>Exhales</em>)
-It's a miracle she made it out alive.
+(pants) Maddie.
+(sobs): Buck!
+(panting) (sobbing) Hey. Hey, hey.
+Hey, hey, hey, hey, hey. (panting) I'm here. I'm here.
+(sobs) I didn't give up.
+(crying) I... I didn't give up.
+(sobs): I...
+(panting) (Athena speaking indistinctly) You did so good.
+(helicopter blades whirring) Never seen red snow before. (exhales) It's a miracle she made it out alive.
 No. No miracle here.
 That woman fought like hell.
-(<em>Siren wailing</em>)
-<strong>Buck</strong>: Almost there. You're doing great.
-(<em>Weakly</em>): Tired.
+(siren wailing) BUCK: Almost there. You're doing great.
+(weakly): Tired.
 Uh, hey, hey, Maddie, I-I know...
 I know you're tired, but I-I need you to keep your eyes open for me.
 Yeah, you-you know the drill.
 Uh-huh.
 Yeah, just, uh... just like that.
-(<em>Sniffles</em>) Hey, you, uh... you think you had a hard day.
+(sniffles) Hey, you, uh... you think you had a hard day.
 Athena and I have been running all over the state looking for you.
 I wasn't dressed for snow.
 Me, either.
-(<em>Chuckles</em>)
-(<em>Sniffles</em>) Athena said she'd, uh... she'd call Bobby, let everyone know that you're okay.
+(chuckles) (sniffles) Athena said she'd, uh...
+she'd call Bobby, let everyone know that you're okay.
 They are gonna be... so relieved.
 Chimney.
 Chimney most of all.
 Chimney's alive?
 Oh, my God. Y...
 Maddie, no, yeah, Ch-Chimney's alive.
-He, uh... (<em>Chuckles</em>)
-He-he made it through.
-(<em>Shudders</em>)
-You both did.
-(<em>Sniffles</em>)
-(<em>Shudders</em>)
-♪ When the rain is blowing ♪
-♪ In your face ♪
-♪ And the whole world ♪
-♪ Is on your case ♪
-♪ I could offer you... ♪
-How are we doing, Mr. Han?
+He, uh... (chuckles) He-he made it through.
+(shudders) You both did.
+(sniffles) (shudders) * When the rain is blowing * * In your face * * And the whole world * * Is on your case * * I could offer you... * How are we doing, Mr. Han?
 Ready to get out of here.
 Three days after major abdominal surgery?
 You might want to pace yourself.
 I'm gonna start pacing myself up and down these walls pretty soon.
 Well, maybe... your friend can distract you.
-♪ And there is no one there to dry your tears... ♪
-(<em>Chuckles</em>)
-What are you doing here?
+* And there is no one there to dry your tears... * (chuckles) What are you doing here?
 Aren't you supposed to be in the hospital?
 I am in the hospital.
 I got myself transferred.
-(<em>Exhales</em>)
-No, no, no...
+(exhales) No, no, no...
 No.
 All this is... gonna heal.
 I'm gonna be okay.
-♪ But I would never do you wrong... ♪
-How are you feeling?
+* But I would never do you wrong... * How are you feeling?
 Starting to hate hospitals.
-(<em>Both chuckle</em>)
-But this is much better than rebar.
+(both chuckle) But this is much better than rebar.
 No coma, so...
-(<em>Chimney inhales sharply</em>)
-I thought... (<em>Exhales</em>)
-I really thought that...
+(Chimney inhales sharply) I thought... (exhales) I really thought that...
 Me, too.
-(<em>Chuckles</em>)
-You're okay.
-(<em>Sniffles</em>)
-♪ I'd go crawling down the avenue ♪
-We're okay. (<em>Sniffles</em>)
-♪ No, there's nothing that I wouldn't do ♪
-♪ To make you feel ♪
-♪ My love. ♪
+(chuckles) You're okay.
+(sniffles) * I'd go crawling down the avenue * We're okay. (sniffles) * No, there's nothing that I wouldn't do * * To make you feel * * My love. * Captioned by Media Access Group at WGBH You've answered the call on 9-1-1.
+Now here are a few more shows to check out from Fox.
+Rule number one if you want to stay alive.
+Don't lie to your doctor.
+* Show me how to come alive * Profits over patients, again.
+You save your morality lesson.
+WOMAN: You have to save him!
+(long tone) (coughs) Be careful.
+You tried to kill him.
+I had no choice!
+(siren wailing) * Let me know I'm not alone * Shall we?
+* Show me how to come alive * ANNOUNCER: The Resident, all new, Mondays at 8:00 on Fox.
+COOKIE: We did bad things, Lucious.
+And it's coming back to collect with a living, breathing, furious man who calls you "Daddy." I am your flesh and blood, and you don't give a damn.
+ANNOUNCER: Miss a moment of Empire?
+He could destroy everything we've built.
+I took the thing that you value most, and I toyed with it for my own entertainment.
+We gotta take him down.
+ 

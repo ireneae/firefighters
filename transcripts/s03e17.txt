@@ -1,4 +1,4 @@
-<strong>Sophie</strong>: I can't believe you woke me up at the crack of dawn for this.
+SOPHIE: I can't believe you woke me up at the crack of dawn for this.
 We're in the middle of nowhere.
 It's an adventure.
 It's a consolation prize.
@@ -9,97 +9,72 @@ Just you and me.
 Yeah, 'cause that's how it's gonna be from now on, right?
 Just you and me.
 Hey, I know this is hard for you, but it's not exactly easy for me either.
-Your father and I tried hard for a really long time...
-We used to be a family.
+Your father and I tried hard for a really long time-- We used to be a family.
 You and Dad used to not fight.
 You just forgot, that's all.
-Sophie...
-Yeah, I know.
+Sophie-- Yeah, I know.
 I'm a kid.
 I don't have any power.
 You and Dad get to make all the decisions, but stop expecting me to pretend like I'm okay with them.
 Fair enough.
 Let's go take a hot air balloon ride.
-(<em>Fifth Dimension's &quot;Up, Up and Away&quot;</em>)
-<strong>Suzanne</strong>: <em>Are you sure about going up in this?</em>
+(Fifth Dimension's "Up, Up and Away") SUZANNE: Are you sure about going up in this?
 It seems really foggy.
 Yeah, it's just a marine layer. It'll burn off.
-<em>♪ In my beautiful balloon ♪
-♪ Would you like to glide ♪
-♪ In my beautiful balloon? ♪</em>
-(<em>Burner hisses</em>)
-<em>♪ We can float among the stars ♪
-♪ Together you and I ♪
-♪ For we can fly ♪</em>
-♪ ♪
-<em>♪ Up, up, and away ♪</em>
-<strong>Suzanne</strong>: It's magical.
+SINGERS: * In my beautiful balloon * * Would you like to glide * In my beautiful balloon?
+(burner hisses) * We can float among the stars * * Together you and I * For we can fly * * Up, up, and away SUZANNE: It's magical.
 It's not magic, Mom.
 It's hot air. That's what makes it fly.
 Actually, it doesn't fly. It floats.
 Like a cloud, over the entire world.
-<em>♪ The world's a nicer place ♪
-♪ In my beautiful balloon ♪
-♪ It wears a nicer face ♪</em>
-(<em>Wind howling</em>)
-Ooh.
+SINGERS: * The world's a nicer place * * In my beautiful balloon * It wears a nicer face (wind howling) Ooh.
 That definitely doesn't feel like floating.
-(<em>Tense music</em>)
-The winds are kicking up.
+(tense music) The winds are kicking up.
 Whoa, whoa!
-<strong>Nick</strong>: Forecast said they were gonna hit later.
+NICK: Forecast said they were gonna hit later.
 Gabe, this is Nick.
-(<em>Radio clicks</em>)
-<strong>Gabe (<em>over radio</em>)</strong>: <em>Go ahead, Nick.</em>
+(radio clicks) GABE (over radio): Go ahead, Nick.
 Winds are pushing hard.
 We're gonna have to set her down past Decker Road.
-<strong>Gabe (<em>over radio</em>)</strong>: <em>Copy that.</em>
+GABE (over radio): Copy that.
 Whoo! Seems pretty fast.
-<strong>Nick</strong>: Yeah, there's gonna be a little bounce.
+NICK: Yeah, there's gonna be a little bounce.
 Hang on.
-(<em>Fabric straining loudly</em>)
-♪ ♪
-Gonna feel the bounce.
-<strong>Suzanne</strong>: Whoa!
-(<em>Sophie screaming</em>)
-<strong>Nick</strong>: Hang on.
+(fabric straining loudly) * Gonna feel the bounce.
+SUZANNE: Whoa!
+(Sophie screaming) NICK: Hang on.
 It's gonna be rough.
-<strong>Sophie</strong>: I don't like this.
-♪ ♪
-(<em>Both whimpering</em>)
-<strong>Suzanne</strong>: Oh, thank God.
+SOPHIE: I don't like this.
+* (both whimpering) SUZANNE: Oh, thank God.
 Everyone okay?
-<strong>Both</strong>: Yeah.
+BOTH: Yeah.
 Let's go, right?
 Okay.
 You think so?
-Okay, I just need to get out of this thing.
+Kay, I just need to get out of this thing.
 Okay, let me get out for a sec and help you.
 Mom! Mom! Mom!
 Sophie! Oh, my God!
-Oh, my God, what are you... bring it down!
-♪ ♪
-Oh, God.
+Oh, my God, what are you-- bring it down!
+* Oh, God.
 What's your location, ma'am?
-<strong>Suzanne</strong>: <em>I don't know. I'm in the middle of nowhere. She's flying away!</em>
+SUZANNE: I don't know. I'm in the middle of nowhere.
+She's flying away!
 Did you say flying?
-(<em>Sirens wailing</em>)
-♪ ♪
-<strong>Buck</strong>: <em>It all looks so romantic</em> till someone has to call 9-1-1.
+(sirens wailing) * BUCK: It all looks so romantic till someone has to call 9-1-1.
 I heard dispatch gets a lot of calls from these things.
 Maddie tell you that?
 Uh, no. Someone else.
-♪ ♪
-Oh, my God. Please, please help.
+* Oh, my God. Please, please help.
 How old is your daughter, ma'am?
 She's 10.
-<strong>Bobby</strong>: She have a phone with her?
+BOBBY: She have a phone with her?
 No. I thought she was too young.
 Look, there's a radio up in the basket.
 That's how Nick and I communicate.
 Mine's in the truck.
-Okay, go get it.
-<strong>Chimney</strong>: Sir, try not to move.
+Kay, go get it.
+CHIMNEY: Sir, try not to move.
 You got blunt force head injury.
 He's in and out of consciousness.
 Pupils are equal and reactive.
@@ -113,51 +88,45 @@ You know how to land one of these?
 Yeah.
 Good.
 I need you to teach her.
-(<em>Siren wailing</em>)
-Okay, we should be in range. Give 'er a try.
+(siren wailing) Okay, we should be in range. Give 'er a try.
 Sophie, can you hear me?
 Please answer.
-<em>Can you hear me?</em>
+Can you hear me?
 Mom? Where are you?
 Baby, I'm right behind you.
 We're in a fire truck and we're following you.
 It won't stop. It's flying faster.
 Tell her about the ropes.
-<strong>Suzanne</strong>: <em>Baby, there are ropes above you.</em>
+SUZANNE: Baby, there are ropes above you.
 You can use them to steer. Do you see them?
-I see them, but I can't...
-Sophie.
+I see them, but I can't-- Sophie.
 I can't.
 Baby, you have to.
 I'm scared.
-<strong>Suzanne</strong>: <em>I know. I'm scared too.</em>
-<strong>Sophie</strong>: <em>Yeah, but you're a grownup.</em>
+SUZANNE: I know. I'm scared too.
+SOPHIE: Yeah, but you're a grownup.
 I'm a kid in a stupid hot air balloon.
 I know you feel powerless, but you're not.
 You have all the power right now.
 So use it.
-<strong>Gabe</strong>: <em>Okay, here's what you need to do.</em>
+GABE: Okay, here's what you need to do.
 Now use the red and white rope to let out just a little air.
 She's doing it.
-<strong>Sophie</strong>: <em>It's moving.</em>
+SOPHIE: It's moving.
 She's dropping hard, Cap.
 Yeah, we're not gonna make it before she lands.
 Looks like she's headed for this open field.
-♪ ♪
-<strong>Sophie</strong>: <em>Oh, my God, I'm gonna crash!</em>
-<strong>Suzanne</strong>: <em>Honey, you're doing great.</em>
-<strong>Bobby</strong>: <em>Here she comes! Here she comes! Mom, tell her to hunker down.</em>
+* SOPHIE: Oh, my God, I'm gonna crash!
+SUZANNE: Honey, you're doing great.
+BOBBY: Here she comes! Here she comes!
+Mom, tell her to hunker down.
 Okay, let's go.
 Move, move, move, move.
 Grab that far rope!
-♪ ♪
-<strong>Buck</strong>: Dig in your heels, guys!
-♪ ♪
-I got it!
-♪ ♪
-Hey, I got you, I got you, I got you.
-(<em>Panting</em>)
-Sophie! Oh, my God!
+* BUCK: Dig in your heels, guys!
+* I got it!
+* Hey, I got you, I got you, I got you.
+(panting) Sophie! Oh, my God!
 Sophie!
 Sophie!
 Oh, are you okay?
@@ -165,32 +134,25 @@ She's in one piece.
 Oh, thank you all so much.
 Aw, thank her. She did an amazing job.
 Let's go home.
-(<em>Heartfelt music</em>)
-You were right, Mom.
+(heartfelt music) You were right, Mom.
 I do have power, so...
 I think you and Dad should go to therapy.
-(<em>Chuckles softly</em>)
-♪ ♪
-(<em>Upbeat music</em>)
-(<em>Laughs</em>)
-I swear, now that we have two, bedtime is like a hostage situation.
+(chuckles softly) * (phone buttons beep) (siren whirs) (upbeat music) (laughs) I swear, now that we have two, bedtime is like a hostage situation.
 It's just constant negotiations.
 Well, who won?
-♪ ♪
-They did.
-(<em>Both laugh</em>)
-Okay, okay, we have got to cut back on eating out.
+* They did.
+(both laugh) Okay, okay, we have got to cut back on eating out.
 We're spending more on restaurants than groceries.
 Wait.
 You went to Shogun without me?
 What?
 Well, there's a charge here for the teppanyaki place.
 Who'd you go with?
-Oh... Chimney.
+Oh--Chimney.
 You know, never took him out for his birthday.
 And you didn't invite me?
 I love teppanyaki.
-(<em>Sighs</em>) Babe, you know how it is.
+(sighs) Babe, you know how it is.
 I invite you, so he invites Maddie, Maddie invites Buck, Buck invites Eddie, and now we've gotta invite Athena and Bobby and next thing you know, you're looking at a dinner bill roughly the size of a mortgage payment.
 Hmm.
 This is a whole new side of you I haven't seen before.
@@ -198,25 +160,18 @@ Frugal.
 Sexy.
 Oh, really?
 Mm-hmm.
-Well, did I tell you that I was thinking...
-Mmm.
+Well, did I tell you that I was thinking-- Mmm.
 About getting us a Costco membership?
-(<em>Gasps</em>) Oh, tell me more.
-(<em>Both purring and laughing</em>)
-<strong>Denny</strong>: Mommy!
+(gasps) Oh, tell me more.
+(both purring and laughing) DENNY: Mommy!
 Mommy!
 Ugh.
 Guess I'm being summoned now.
 No, no, no, stay.
 Just trying to renegotiate their deal.
 I got it.
-♪ ♪
-(<em>Phone chimes</em>)
-(<em>Dramatic music</em>)
-♪ ♪
-Who the hell is Imelda?
-(<em>Knocking</em>)
-Bobby, hey!
+* (phone chimes) (dramatic music) * Who the hell is Imelda?
+(knocking) Bobby, hey!
 Hey.
 I thought Athena was doing the pickup.
 Well, she took an extra shift and I'm subbing in.
@@ -236,20 +191,19 @@ Happier subjects please.
 Okay.
 Let's talk about the schedule for Saturday.
 Prom planning again?
-So Mom's gonna take me to get my hair and makeup done at 12:00, so we should be done by 3:00...
-You're not getting ready at the house?
+So Mom's gonna take me to get my hair and makeup done at 12:00, so we should be done by 3:00-- You're not getting ready at the house?
 When did this happen?
 It happened after May guilt-tripped Mom because she didn't go with her to pick out her stupid dress.
 I did not guilt-trip.
 I just said it would have been nice for her to be there when I picked it.
 Yeah, you guilt-tripped her.
-<strong>May</strong>: Darius is coming to pick me up at 4:00.
-Dad will have 45 minutes for pictures, so...
-That's it?
+MAY: Darius is coming to pick me up at 4:00.
+Dad will have 45 minutes for pictures, so-- That's it?
 We have to go take pictures at Darius' house too.
 Everybody gets 45 minutes.
 Don't you think your old man should have a little extra time?
-I mean, you know, on account of my... my brain tumor.
+I mean, you know, on account of my...
+my brain tumor.
 Hmm. Yeah, not funny.
 No?
 Mm-mm.
@@ -265,12 +219,11 @@ Your scan is tomorrow, right?
 And Dad's gonna crush it.
 Hopefully. Okay.
 You know, I'm feeling good.
-You know, no headaches, no dizziness, but, you know, I just...
-You don't wanna jinx it.
+You know, no headaches, no dizziness, but, you know, I just-- You don't wanna jinx it.
 Right, right.
 You know, the last time, it was nothing but bad news.
 I'm just, you know, preparing myself for the worst.
-<strong>Bobby</strong>: I get that.
+BOBBY: I get that.
 But the thing about bad news?
 You never see it coming.
 It's 2020.
@@ -288,20 +241,16 @@ I had him, Lou.
 Not your fault.
 In fact, you're the reason why he's in hiding right now instead of targeting his next victim.
 As long as he's still out there free, there's always gonna be a next victim.
-(<em>Knocking</em>)
-Captain's office is set up.
+(knocking) Captain's office is set up.
 They're bringing the first woman in now.
 Yeah. All right, thank you.
 Captain's office?
 Yeah.
 Didn't seem right to put 'em in the interrogation room.
-(<em>Dramatic music</em>)
-♪ ♪
-We need a confirmation.
+(dramatic music) * We need a confirmation.
 Is that you in the video?
-<strong>Joan</strong>: That's me.
-But that angle...
-<strong>Ransone</strong>: He put a camera in the smoke detector.
+JOAN: That's me.
+But that angle-- RANSONE: He put a camera in the smoke detector.
 He knew my house.
 How to get in, where to hide, where to put a camera.
 How?
@@ -324,62 +273,56 @@ I'm sorry.
 I'm sure it must be hard to see yourself.
 That's not me anymore, so it's fine.
 He stole so much from me that night.
-I mean, physical items I can replace, but... the pieces of me he took, I'm...
-I'm not sure how to replace those.
+I mean, physical items I can replace, but...
+the pieces of me he took, I'm-- I'm not sure how to replace those.
 I'm sorry, I don't recall any mention of missing items.
 My necklace.
-I was wearing it when he attacked me, and... he took it with him when he left.
+I was wearing it when he attacked me, and...
+he took it with him when he left.
 Are we done here? I think I've had enough.
 Of course.
 We'll have an officer walk you out.
-♪ ♪
-Thank you.
+* Thank you.
 We need to go through those files again.
 See if anybody else is missing personal items.
 Yeah, those guys sometimes take souvenirs.
 Trophies.
 Mm.
 You know what I like to call those souvenirs?
-Evidence.
+Hmm. Evidence.
 We find that and we can put him away.
 For good this time.
-<strong>Radiologist</strong>: <em>Okay, Mr. Grant, I need you to hold your breath again.</em>
+RADIOLOGIST: Okay, Mr. Grant, I need you to hold your breath again.
 Okay.
-<strong>Radiologist</strong>: <em>Another 20 seconds. Ready?</em>
+RADIOLOGIST: Another 20 seconds.
+Ready?
 Ready.
-<strong>Radiologist</strong>: <em>And breathe. And hold.</em>
-(<em>Machine blaring</em>)
-(<em>Clanging and whirring</em>)
-(<em>Dramatic music</em>)
-♪ ♪
-(<em>Machine blaring</em>)
-(<em>Loud ringing</em>)
-(<em>Loud beeping</em>)
-<strong>Radiologist</strong>: <em>And release.</em>
-(<em>Gasps</em>)
-<strong>Radiologist</strong>: <em>You doing okay, Mr. Grant?</em>
+RADIOLOGIST: And breathe.
+And hold.
+(machine blaring) (clanging and whirring) (dramatic music) * (machine blaring) (loud ringing) (loud beeping) RADIOLOGIST: And release.
+(gasps) RADIOLOGIST: You doing okay, Mr. Grant?
 Yeah, I'm fine.
-<strong>Athena</strong>: <em>You don't sound fine.</em>
-<strong>Michael</strong>: <em>I was sitting in that coffin for 45 minutes.</em>
+ATHENA: You don't sound fine.
+MICHAEL: I was sitting in that coffin for 45 minutes.
 The least they could do is give me a hint about what went on.
 Coffin?
-<strong>Michael</strong>: <em>That's a figure of speech, Athena. Now I have to go upstairs and give blood.</em>
+MICHAEL: That's a figure of speech, Athena.
+Now I have to go upstairs and give blood.
 Michael, you sure you're doing okay?
-Because I can...
-There is nothing to do.
+Because I can-- There is nothing to do.
 Okay? We just...
-(<em>Sighs</em>) Wait.
+(sighs) Wait.
 And hope.
-<strong>Michael</strong>: <em>Yeah. So talk later?</em>
+MICHAEL: Yeah.
+So talk later?
 Yeah. Sure.
-♪ ♪
-You found something?
-(<em>Exhales</em>) Maybe.
+* You found something?
+(exhales) Maybe.
 Yeah, I've been going through his credit card purchases again.
 Thought that was a dead end.
 Well, at first glance, yeah, but then I figured, you know, maybe if I mapped out the places that he frequented, we'd get a fuller picture of his movements, you know?
 Figure out where he'd go.
-<strong>Athena</strong>: Well, he lives here.
+ATHENA: Well, he lives here.
 His office is here.
 These are his real estate listings.
 Now, this seems to be off the beaten path for him.
@@ -390,8 +333,7 @@ I just can't figure out why he'd go there.
 Doesn't overlap with any of our victims.
 I don't know, it's odd, but it's probably nothing.
 Yeah, well, nothing seems to be all we got right now.
-♪ ♪
-No, I-I understand.
+* No, I-I understand.
 I just need to think about it. Do I have to decide now?
 Okay, I'll let you know. Thanks.
 Hi.
@@ -400,8 +342,7 @@ I don't know.
 The district attorney's been calling me about Greg's sentencing hearing.
 They want me to make a victim impact statement.
 Yeah, I think we're all making statements, right?
-They said...
-Letters.
+They said-- Letters.
 We were all supposed to write letters about our hostage experience.
 But I guess because I was victimized twice, they think I should make a personal statement.
 In the courtroom.
@@ -416,9 +357,7 @@ Yeah.
 But not going makes me feel like a coward.
 He's in jail.
 But it still feels like he's the one with all the power.
-♪ ♪
-(<em>Dog yapping</em>)
-No, no, no.
+* (dog yapping) No, no, no.
 What are you doing?
 Trimming the trees, ma'am.
 You mean murdering them?
@@ -433,42 +372,28 @@ Trees are like show dogs.
 Without the right cut, the entire aesthetic is wrong.
 They're not made for crew cuts.
 Sorry, lady, but the crew cuts are what keeps them from taking down the power lines.
-♪ ♪
-(<em>Chainsaw clicking, stalling</em>)
-Grab me the other saw.
-♪ ♪
-(<em>Chuckles mischievously</em>)
-(<em>Truck door opens, shuts</em>)
-(<em>Tires squeal</em>)
-Whoa! Oh, my...
-♪ ♪
-(<em>Laughs maniacally</em>)
-Who's got the power now?
+* (chainsaw clicking, stalling) Grab me the other saw.
+* (chuckles mischievously) (truck door opens, shuts) (tires squeal) Whoa! Oh, my-- * (laughs maniacally) Who's got the power now?
 Is your captor armed or known to you?
-<strong>Arthur</strong>: <em>They just stole my truck!</em>
+ARTHUR: They just stole my truck!
 Wait, I'm sorry.
-Are you reporting a kidnapping <em>or a vehicle theft?</em>
+Are you reporting a kidnapping or a vehicle theft?
 Both. I've been truck-jacked.
-<em>I'm a tree-trimmer,</em> and some psycho just jumped in my truck and took off when I was in the bucket.
-We're headed east on La France and...
-Oh, God.
+I'm a tree-trimmer, and some psycho just jumped in my truck and took off when I was in the bucket.
+We're headed east on La France and-- Oh, God.
 Sir, are you still there?
 You might want to send an ambulance.
 Maybe more than one.
-(<em>Yelps</em>)
-(<em>Electricity zaps</em>)
-(<em>Tires squeal</em>)
-(<em>Screams</em>)
-You okay, man?
-(<em>Groans</em>)
-Ma'am, LAFD. Stay where you are.
+(yelps) (electricity zaps) (tires squeal) (screams) You okay, man?
+(groans) Ma'am, LAFD. Stay where you are.
 Don't try to get out.
 Guys, these lines are still hot.
 I want you to grab dry chem and CO2 from the truck.
 Dispatch, this is Captain 118.
 I am at the intersection of La France and Maple.
 I need DWP to shut down the power here.
-<strong>Josh</strong>: <em>Copy that, 118. DWP estimate ten minutes.</em>
+JOSH: Copy that, 118.
+DWP estimate ten minutes.
 Vehicle is under downed power lines.
 See if you can shave some time off that.
 How's he doing?
@@ -479,52 +404,40 @@ But he fell through the roof.
 Cardboard boxes bore the brunt of the fall.
 You know, stunt guys still use 'em as crash pads.
 But aren't those boxes usually empty?
-♪ ♪
-<b><i><u><span data-nosnippet>Taken without permission from https://tvshowtranscripts.ourboard.org</span>/</u></i></b>
-<ins class="da sc adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9811017020614438" data-ad-slot="1161362910"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-I thought these truck cabs are supposed to be grounded.
+* I thought these truck cabs are supposed to be grounded.
 Why does her hair look like that?
-(<em>Siren wails</em>)
-High-voltage events can emit an awful lot of static electricity.
+(siren wails) High-voltage events can emit an awful lot of static electricity.
 You came for the tree murderers.
 Yeah, yeah, I don't think that's who they're here for.
-(<em>Elevator dings</em>)
-♪ ♪
-(<em>Sighs</em>)
-Hold the elevator?
+(elevator dings) * (sighs) Hold the elevator?
 Thank you.
 No problem, man.
-♪ ♪
-<strong>Eddie</strong>: I can see she's got subdermal tissue damage from the strike.
+* EDDIE: I can see she's got subdermal tissue damage from the strike.
 We need to transport her.
 Any update on when DWP's gonna get the power off?
-(<em>Electricity zaps and crackles</em>)
-There's your answer.
+(electricity zaps and crackles) There's your answer.
 Let's get her out.
 Carefully.
 Thanks for the quick work on the power, Dispatch.
 I'd say you're welcome, but our updates show they're still four minutes out.
-<strong>Bobby</strong>: <em>If you didn't shut the power off, who did?</em>
+BOBBY: If you didn't shut the power off, who did?
 Seriously?
 Seriously?
-(<em>Horns blaring</em>)
-Seriously?
+(horns blaring) Seriously?
 I'm on it, Cap!
-♪ ♪
-This is gonna be a long day.
-Prably an outage.
+* This is gonna be a long day.
+Probably an outage.
 You know, by law, the generators are supposed to kick on in about ten seconds.
 I'm an architect.
 Backup generators in this building strictly power level one support systems where failure will result in loss of human life.
 I'm a doctor.
 That's great.
+That's great.
 Well, if I have a panic attack in here, at least I'm with a medical professional.
 Oh, I don't know.
 It depends on what kind of insurance you have.
 Oh.
-(<em>Laughs</em>)
-Wait, are you prone to panic attacks?
+(laughs) Wait, are you prone to panic attacks?
 I never had one before today.
 But never been trapped in an elevator either.
 Look on the bright side.
@@ -532,20 +445,23 @@ There's worse places to be trapped.
 An accident caused an outage.
 DWP's working on restoring the power.
 We recommend that people shelter in place until the power's restored.
-<strong>Gordon</strong>: <em>Oh, I'm not going anywhere. That's sort of the problem. I'm trapped inside. You think you could send someone to get me out? It's getting pretty cold.</em>
+GORDON: Oh, I'm not going anywhere.
+That's sort of the problem.
+I'm trapped inside.
+You think you could send someone to get me out?
+It's getting pretty cold.
 Where did you say you were?
 I'm in the walk-in freezer.
-(<em>Dramatic music</em>)
-<strong>Maddie</strong>: <em>You're stuck inside the freezer?</em>
+(dramatic music) MADDIE: You're stuck inside the freezer?
 Yeah.
-<strong>Maddie</strong>: <em>Okay. What's your name?</em>
+MADDIE: Okay. What's your name?
 Gordon. Gordon Johnson.
 Okay, Gordon. I'm Maddie.
 There should be some kind of emergency release knob inside the freezer.
-<em>Have you looked for it?</em>
+Have you looked for it?
 It's frozen over.
 Tried whacking it with a chateaubriand, but the ice is pretty thick.
-<em>Any idea when you can have someone sent out?</em>
+Any idea when you can have someone sent out?
 Power's out for half the city.
 It might take some time.
 Can you tell me how large the freezer is?
@@ -561,176 +477,129 @@ I don't wanna end up another frozen piece of meat in here.
 That's why you need to conserve as much of your body heat as possible.
 How?
 Okay, I want you to look around and tell me everything you see that isn't frozen meat.
-<strong>Maddie</strong>: <em>How we doing, Gordon?</em>
-(<em>Shivering</em>) Pretty cold.
+MADDIE: How we doing, Gordon?
+(shivering) Pretty cold.
 Tired too.
-<strong>Maddie</strong>: <em>No, don't fall asleep, Gordon.</em>
+MADDIE: No, don't fall asleep, Gordon.
 I need you to stay awake. Okay?
-♪ ♪
-(<em>Sliding, thudding</em>)
+* (sliding, thudding) Gordon?
 Gordon?
-<em>Gordon? Gordon?</em>
-(<em>Radio chatter</em>)
-LAFD. Gordon?
+Gordon?
+(radio chatter) LAFD. Gordon?
 Okay, he's out. Probably hypothermic.
 Let's cut him out now.
-(<em>Saw beeps</em>)
-Saw's dead. Need another battery.
+(saw beeps) Saw's dead. Need another battery.
 Oh, and that was the last battery pack.
 Too many car accidents in one day.
 Couldn't we just break open this window?
 Even if we could get in that way, how do we get him out? It's too small.
-<strong>Bobby</strong>: The unit should have an electronic emergency door release and without power...
-Inside of that door is a frozen block of ice by now.
+BOBBY: The unit should have an electronic emergency door release and without power-- Inside of that door is a frozen block of ice by now.
 Yeah, well, so's Gordon if we don't get him out.
 Maybe it just needs a jump.
-(<em>Vanilla Ice's &quot;Ice Ice Baby&quot;</em>)
-♪ ♪
-♪ <em>Yo, VIP.</em> ♪
-♪ <em>Let's kick it!</em> ♪
-♪ <em>Ice, ice, baby.</em> ♪
-♪ ♪
-♪ <em>Ice, ice, baby.</em> ♪
-<em>♪ All right, stop, collaborate, and listen ♪</em>
-All set here.
-<strong>Hen</strong>: Charging.
-<em>♪ Flow like a harpoon daily and nightly ♪
-♪ Will it ever stop? Yo, I don't know ♪</em>
-Clear!
+(Vanilla Ice's "Ice Ice Baby") * SINGER: Yo, VIP.
+Let's kick it!
+Ice, ice, baby.
+* Ice, ice, baby.
+* All right, stop, collaborate, and listen * All set here.
+HEN: Charging.
+SINGER: * Flow like a harpoon daily and nightly * * Will it ever stop? Yo, I don't know * Clear!
 Can you hit it again?
-<em>♪ Light up a stage and wax a chump ♪
-♪ Like a candle, dance ♪</em>
-Clear!
-(<em>Electricity humming</em>)
-♪ <em>Ice, ice, baby.</em> ♪
-♪ <em>Too cold, too cold.</em> ♪
-(<em>Dramatic music</em>)
-<strong>Hen</strong>: Pumping warm fluids.
+SINGER: * Light up a stage and wax a chump * * Like a candle, dance Clear!
+(electricity humming) SINGER: Ice, ice, baby.
+Too cold, too cold.
+(dramatic music) HEN: Pumping warm fluids.
 89.9.
-<em>Dispatch, we got to him in time. Think he's gonna be all right.</em>
+Dispatch, we got to him in time.
+Think he's gonna be all right.
 I'll give you a call back once they get us out.
 Bye. Love you.
-(<em>Chuckles</em>)
-Kids okay?
+(chuckles) Kids okay?
 Yeah. Yeah.
 Hmm.
 Anyone you need to call?
 I texted my office. They'll handle the rest.
-No, I meant, you know, at home... or something.
+No, I meant, you know, at home...
+or something.
 Oh, yeah. Oscar.
-Oh. Oh, that's...
-But he's not expecting me till 7:00.
+Oh. Oh, that's-- But he's not expecting me till 7:00.
 Oh, okay. Yeah, that's good.
 My dog.
 Hmm.
 I guess he's probably not good at returning texts.
 The worst.
 Yeah, I bet.
-(<em>Both laugh</em>)
-And to answer the question behind the question, no, I don't have anyone special waiting at home.
-♪ ♪
-(<em>Line ringing</em>)
-<strong>Ransone</strong>: <em>Hey, Athena. What's going on?</em>
+(both laugh) And to answer the question behind the question, no, I don't have anyone special waiting at home.
+* (line ringing) RANSONE: Hey, Athena. What's going on?
 Hey.
 I think I found something.
-<em>Studio Self Storage.</em>
+Studio Self Storage.
 Does he have a unit there?
 You know, maybe that's where he's storing his trophies.
-<strong>Athena</strong>: <em>It would explain those coffee shop charges. I need you to contact the manager.</em>
+ATHENA: It would explain those coffee shop charges.
+I need you to contact the manager.
 Nobody's here because of the power.
 All right, I'll find out.
-<em>This could be the break we need.</em>
+This could be the break we need.
 I can't say for sure, but I have a really strong feeling.
 Yeah, see you soon.
-♪ ♪
-Dispatch, 727-L-30 at Studio Self Storage <em>doing a business check.</em>
+* Dispatch, 727-L-30 at Studio Self Storage doing a business check.
 Copy. 727-L-30.
-♪ ♪
-(<em>Footsteps running</em>)
-(<em>Door slamming</em>)
-(<em>Chain rattling</em>)
-(<em>Dramatic musical flourish</em>)
-(<em>Suspenseful music</em>)
-♪ ♪
-Dispatch, 727-L-30.
-<em>I'm gonna need backup and detectives</em> dispatched to Studio Self Storage.
-I have a possible...
-(<em>Shouts</em>)
-(<em>Grunting and scraping</em>)
-<strong>Maddie</strong>: 727-L-30, do you copy?
+* (footsteps running) (door slamming) (chain rattling) (dramatic musical flourish) (suspenseful music) * Dispatch, 727-L-30.
+I'm gonna need backup and detectives dispatched to Studio Self Storage.
+I have a possible-- (shouts) (grunting and scraping) MADDIE: 727-L-30, do you copy?
 727-L-30, please respond.
 Officer needs help.
 727-L-30 at Studio Self Storage.
 Her mic's still keyed open, but I can't talk to her.
-(<em>Both grunting</em>)
-<strong>Dispatcher</strong>: <em>All units, police, and fire RA, clear channel two. Switch to Tac Channel 50. Officer on open mic in distress. Needs assistance. 727-L-30 at Studio Self Storage.</em>
-Bobby!
+(both grunting) DISPATCHER: All units, police, and fire RA, clear channel two.
+Switch to Tac Channel 50.
+Officer on open mic in distress.
+Needs assistance.
+727-L-30 at Studio Self Storage.
+Bobby, that's Athena's call number.
 Take him to the hospital and everyone else, on the engine, now, let's go.
-(<em>Both grunting</em>)
-(<em>Grunting and shouting</em>)
-(<em>Sirens wailing</em>)
-(<em>Grunting and shouting</em>)
-(<em>Blows landing, clattering</em>)
-Cap, they're telling us to switch to Tac 50.
-(<em>Grunting and screaming</em>)
-♪ ♪
-(<em>Thudding</em>)
-(<em>Gunshot</em>)
-♪ ♪
-<strong>Officer</strong>: Sir, the building's not clear.
-♪ ♪
-Captain Nash, she's here.
-♪ ♪
-<strong>Hen</strong>: Athena, can you hear me?
+(both grunting) (grunting and shouting) (sirens wailing) (grunting and shouting) (blows landing, clattering) Cap, they're telling us to switch to Tac 50.
+(grunting and screaming) * (thudding) (gunshot) * OFFICER: Sir, the building's not clear.
+* Captain Nash, she's here.
+* HEN: Athena, can you hear me?
 Can you hear me? Athena.
 Pupils equal and reactive.
-<strong>Hen</strong>: Might be a fractured rib.
-(<em>Groans</em>)
-Arm's definitely broken. Right closed fracture.
-<strong>Hen</strong>: All right. Starting fluids.
-<strong>Chimney</strong>: Splinting the arm. You stay with us, Athena.
+HEN: Might be a fractured rib.
+(groans) Arm's definitely broken. Right closed fracture.
+HEN: All right. Starting fluids.
+CHIMNEY: Splinting the arm. You stay with us, Athena.
 How's she doing?
-I got...
-I got him.
+I got-- I got him.
 Suspect down?
-<strong>Williams</strong>: Alive. Wounded.
-<strong>Ransone</strong>: Let's get a medic.
+WILLIAMS: Alive. Wounded.
+RANSONE: Let's get a medic.
 He can wait.
-<strong>Ransone</strong>: Dispatch, I need additional RAs to Studio Self Storage.
-<strong>Chimney</strong>: We need to move her!
-♪ ♪
-Bobby. Bobby.
-(<em>Whimpering</em>)
-I'm here. I'm here.
+RANSONE: Dispatch, I need additional RAs to Studio Self Storage.
+CHIMNEY: We need to move her!
+* Bobby. Bobby.
+(whimpering) I'm here. I'm here.
 I'm right here.
 I'm right here. Stay with us.
-(<em>Doors whine</em>)
-Finally.
+(doors whine) Finally.
 'Cause I've had enough of this place.
 No offense.
 None taken.
 Thank you.
-Listen...
-(<em>Phone ringing</em>)
-Oh.
+Listen-- (phone ringing) Oh.
 I'm sorry. One second.
 Hey, Bobby.
 Bobby?
-♪ ♪
-Okay.
+* Okay.
 But I don't understand. Prepare ourselves for what?
-(<em>Sighs</em>)
-Listen...
+(sighs) Listen...
 Bobby said your mom was pretty banged up.
 She's gonna be okay, right?
 Yes, she will.
 But right now, she's hurt, and we've gotta be strong to help her through it.
 Okay.
 Okay.
-(<em>Emotional music</em>)
-♪ ♪
-Oh, hey.
-<strong>Michael</strong>: Hey.
+(emotional music) * Oh, hey.
+MICHAEL: Hey.
 Mom, I'm so glad you're all right.
 Oh, me too, baby.
 Me too.
@@ -740,12 +609,12 @@ Come here. Give me a hug.
 But I don't wanna hurt you.
 Oh, you won't.
 A hug from my babies is exactly what I need.
-♪ ♪
-Ooh. Oh, see?
+* Ooh. Oh, see?
 Ooh, I'm feeling better already.
+NURSE: Paging Dr. Bender. Paging Dr. Bender.
 It looks worse than it is.
 Good. Then you'll be out of here soon.
-<strong>Bobby</strong>: She has to stay here for a few days.
+BOBBY: She has to stay here for a few days.
 I'm gonna stay with her.
 Nurse is gonna set me up with a rollaway.
 Oh, it's foolish.
@@ -756,14 +625,12 @@ I'm staying.
 Just please let me do this.
 Okay.
 It'll be good to have the company.
-♪ ♪
-<strong>Karen</strong>: (<em>Under breath</em>) What else are you hiding?
-<strong>Hen</strong>: Hey, Karen, the babysitter's here.
+* KAREN: (under breath) What else are you hiding?
+HEN: Hey, Karen, the babysitter's here.
 You ready?
 Yeah, I'm not really feeling too well, so it's probably not a good idea for me to go to the hospital.
 Just give Athena my love.
-(<em>Cartoons play indistinctly</em>)
-Are you sure?
+(cartoons play indistinctly) Are you sure?
 Yeah, positive.
 I hear Athena's gonna be okay.
 Yeah, Buck called from the hospital and said that she's in rough shape, but nothing life-threatening.
@@ -771,22 +638,17 @@ Although I will be having nightmares about it for a while.
 Yeah, hearing her struggle?
 Not being able to help her?
 But hey, gives us something new to talk about in therapy.
-(<em>Laughs</em>) Well, that's great.
+(laughs) Well, that's great.
 'Cause I was starting to think that I was boring Frank.
 You know, you could talk to him about going to court.
 You think I should do it.
-Maddie...
-No.
+Maddie-- No.
 I just think that you should consider what it means if you don't do it.
 You keep saying that you feel powerless.
 Maybe if you face him and tell him how you feel, you'll get your power back.
-♪ ♪
-(<em>Knocking</em>)
-Hey.
+* (knocking) Hey.
 Who's Imelda?
-(<em>Upbeat music</em>)
-♪ ♪
-What am I looking at here?
+(upbeat music) * What am I looking at here?
 Proof that Hen is cheating on me.
 What? Hen would never do that.
 I mean, not after what happened the last time she did that.
@@ -806,8 +668,7 @@ There's a charge on our credit card.
 A teppanyaki restaurant.
 She said she took you there for your birthday.
 Is that true?
-(<em>Sighs</em>)
-I cannot believe she lied about that.
+(sighs) I cannot believe she lied about that.
 I love teppanyaki.
 See? Another lie.
 Right to my face.
@@ -815,19 +676,13 @@ She's using me to lie to you.
 We barely survived the last time.
 And now we have two kids to think of.
 I really wish I knew how to help you, Karen.
-(<em>Dramatic music</em>)
-You got anything to drink?
+(dramatic music) You got anything to drink?
 Yeah. I got coffee.
-♪ ♪
-I'll get us something stronger.
+* I'll get us something stronger.
 Mm-hmm.
-♪ ♪
-Thank God. I found 'em like this.
+* Thank God. I found 'em like this.
 I don't think she can drive home.
-(<em>Upbeat music</em>)
-(<em>Gum bubble pops</em>)
-♪ ♪
-Karen, I thought you were sick.
+(upbeat music) (gum bubble pops) * Karen, I thought you were sick.
 I am sick.
 I'm sick of the lies.
 Lies.
@@ -836,73 +691,61 @@ So much betrayal.
 Hey, Chim, maybe we should give them some privacy.
 Why do I have to leave? This is my apartment.
 And Hen is the one who's cheating.
-Wha... I'm not cheating.
-<strong>Both</strong>: Ugh!
+Wha--I'm not cheating.
+BOTH: Ugh!
 I saw the texts.
 And this, this is when you were gonna meet her at that hotel.
 Imelda.
-(<em>Scoffs</em>)
-Imelda is Dr. Royce.
+(scoffs) Imelda is Dr. Royce.
 Dr. Imelda Royce.
 Oh, a doctor.
 At least that's better than the last one.
 I'm a doctor too!
 I have a PhD. Wait.
-Dr. Royce is that surgeon... the surgeon you met the day that you put your hand in that man's chest.
+Dr. Royce is that surgeon-- the surgeon you met the day that you put your hand in that man's chest.
 Ah!
-Which... was really stupid and reckless, by the way.
+Which...
+was really stupid and reckless, by the way.
 Okay, maybe you should stop talking now.
 She had a meet-cute over an open chest wound.
 That's not right!
 It wasn't a meet-cute.
 It was just a meet.
-And I was talking to Dr. Royce... Imelda... about what it took to get into med school.
+And I was talking to Dr. Royce--Imelda-- about what it took to get into med school.
 These are the dates of when I can take my MCATs.
 Wait, you're thinking about going to medical school?
 Since when?
 I don't know.
 That's why I didn't say anything.
-I mean... it was just such a crazy idea.
-(<em>Heartfelt music</em>)
-Oh, baby, no.
-(<em>Laughing</em>) That's not crazy.
+I mean...
+it was just such a crazy idea.
+(heartfelt music) Oh, baby, no.
+(laughing) That's not crazy.
 Oh, my God, you'd be an amazing doctor.
-(<em>Laughs</em>)
-I'm so sorry I doubted you.
+(laughs) I'm so sorry I doubted you.
 I'm so relieved.
 I'm not.
 The kids forget something?
 No.
-You know, May is at the salon, I dropped Harry off at the Andersons', and... thought I came to check in on you.
-Well, I'm... not fine.
+You know, May is at the salon, I dropped Harry off at the Andersons', and...
+thought I came to check in on you.
+Well, I'm...
+not fine.
 But I am managing.
 Yeah, me too.
-Seeing her like that just...
-Part of the job, I know that, but... seeing it, hearing it...
-Makes you feel powerless.
-When that gun went off, when I thought I'd lost her, I...
-I know I didn't, but I keep coming going back to what if.
-And I... I don't know what to do with that feeling.
+Seeing her like that just-- Part of the job, I know that, but...
+seeing it, hearing it-- Makes you feel powerless.
+When that gun went off, when I thought I'd lost her, I-- I know I didn't, but I keep coming going back to what if.
+And I--I don't know what to do with that feeling.
 You know, a wise man once told me that he couldn't offer me any sage advice.
 All he could offer me was a hammer.
 What do you want me to do with a hammer?
 I never did like that fireplace.
-<em>♪ Yeah, life sure can try ♪</em>
-<strong>Bobby</strong>: <em>Michael, Athena's gonna kill us.</em>
+SINGER: * Yeah, life sure can try * BOBBY: Michael, Athena's gonna kill us.
 Don't worry.
 I'll build you guys a new one.
-<em>♪ When the bones are good ♪
-♪ The rest don't matter ♪
-♪ Yeah, the paint could peel ♪
-♪ The glass could shatter ♪
-♪ Let it rain ♪
-♪ 'Cause you and I remain the same ♪
-♪ When there ain't a crack in the foundation ♪</em>
-Yeah!
-<em>♪ Baby, I know any storm we're facing ♪
-♪ Will blow right over while we stay put ♪
-♪ The house don't fall when the bones are good ♪</em>
-That one goes in a frame.
+SINGER: * When the bones are good * * The rest don't matter * Yeah, the paint could peel * The glass could shatter * Let it rain * 'Cause you and I remain the same * * When there ain't a crack in the foundation * Yeah!
+SINGER: * Baby, I know any storm we're facing * * Will blow right over while we stay put * * The house don't fall when the bones are good * That one goes in a frame.
 Think you guys should pay me for my services.
 Whoa, wait a minute.
 Let's take a look at the pictures first.
@@ -916,40 +759,28 @@ I see you.
 And I couldn't be more proud.
 You got him. You won.
 Those bruises show what kind of fighter you really are and I want pictures to remember this moment.
-<em>♪ And we're still standing ♪
-♪ When the bones are good ♪</em>
-Yes, hi. It's Josh Russo.
+SINGER: * And we're still standing * SINGERS: * When the bones are good * Yes, hi. It's Josh Russo.
 I've thought about it.
 I'd like to give a statement in court.
-<em>♪ 'Cause you and I remain the same ♪</em>
-You're not happy for her?
-<em>♪ When there ain't a crack in the foundation ♪</em>
-I just can't get past the fact that she's leaving me.
-<em>♪ The house don't fall when the bones are good ♪
-♪ Mm ♪</em>
-My Dr. Wilson.
-<em>♪ When the bones are good ♪</em>
-♪ ♪
-Hey, make sure you get my good side.
-<strong>Singers</strong>: <em>♪ The rest ♪
-♪ Baby, it don't really matter ♪</em>
-Looks good.
-(<em>Laughter</em>)
-<strong>Harry</strong>: All right.
+SINGERS: * 'Cause you and I remain the same * You're not happy for her?
+SINGERS: * When there ain't a crack in the foundation * I just can't get past the fact that she's leaving me.
+SINGERS: * The house don't fall when the bones are good * SINGER: * Mm My Dr. Wilson.
+SINGER: * When the bones are good * * Hey, make sure you get my good side.
+SINGERS: * The rest SINGER: * Baby, it don't really matter * Looks good.
+(laughter) HARRY: All right.
 Get it, Mama.
-♪ ♪
-<em>Pacific West 1135. We were heading from Phoenix into Union Station. We've crashed somewhere close to the LA County line.</em>
-Okay, so how many...
-<strong>Caller</strong>: <em>There are multiple injuries.</em>
+* Pacific West 1135.
+We were heading from Phoenix into Union Station.
+We've crashed somewhere close to the LA County line.
+Okay, so how many-- CALLER: There are multiple injuries.
 This is a mass casualty situation.
 You've gotta send out every available RA unit.
 We need USAR for search and rescue, LAPD for traffic control.
-<em>We're gonna need a mobile command center.</em>
+We're gonna need a mobile command center.
 I'll call them now.
 Okay.
 It seems like you've done this before.
-<strong>Caller</strong>: <em>Yeah, but I was on your end of the line.</em>
+CALLER: Yeah, but I was on your end of the line.
 I used to be a 9-1-1 dispatcher.
-(<em>Dramatic music</em>)
-(<em>Metal creaking</em>)
-♪ ♪
+(dramatic music) (metal creaking) * ANNOUNCER: Don't miss a moment of 9-1-1.
+ 

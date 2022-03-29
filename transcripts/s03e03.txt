@@ -1,107 +1,67 @@
-<strong>Reporter</strong>: <em>The massive tsunami struck the Southern California shoreline...</em>
-(<em>Reporters' voices overlapping</em>)
-<strong>Reporter</strong>: <em>First responders search for the many still missing and feared dead.</em>
-<strong>Buck</strong>: Chris! Christopher!
+REPORTER: The massive tsunami struck the Southern California shoreline...
+(reporters' voices overlapping) REPORTER: First responders search for the many still missing and feared dead.
+BUCK: Chris! Christopher!
 Christopher!
-(<em>Dramatic music</em>)
-(<em>Breathing heavily</em>)
-Christopher!
+(dramatic music) (breathing heavily) Christopher!
 Has anyone seen a boy in the water?
 Come on. Hey!
-He's got brown hair, glasses, yellow T-shirt... have you seen a little boy?
+He's got brown hair, glasses, yellow T-shirt...
+have you seen a little boy?
 No, I'm sorry.
-(<em>Panting</em>)
-♪ ♪
-(<em>Grunting</em>)
-♪ ♪
-(<em>Tense music</em>)
-(<em>Birds squawking</em>)
-Really? You wanna do this here?
+(panting) * (grunting) * (sirens wail) (tense music) (birds squawking) Really? You wanna do this here?
 Might as well end it where it started, right?
-Scene of the crime, where you said &quot;yes.&quot;
-I can't tell if your romantic nostalgia is adorable or just sad.
+Scene of the crime, where you said "yes." I can't tell if your romantic nostalgia is adorable or just sad.
 Five years, Stace. We've come full circle.
-Literally. The metaphor alone is...
-Look, Max, we're here to sign divorce papers.
+Literally. The metaphor alone is-- Look, Max, we're here to sign divorce papers.
 And we will.
 No hard feelings, no drama, but...
-(<em>Scoffs</em>)
-Why not remember where it began in the first place, right?
+(scoffs) Why not remember where it began in the first place, right?
 End on a high note.
 Yeah.
-<strong>Max</strong>: This is for all the marbles.
-(<em>Bright carnival music</em>)
-♪ ♪
-(<em>Desolate music</em>)
-♪ ♪
-The view's still amazing.
+MAX: This is for all the marbles.
+(bright carnival music) * (desolate music) * The view's still amazing.
 It certainly is.
 And you're still just as bad at flirting as you were back then.
-<strong>Max</strong>: In the air, it's like nothing's changed, same city, same water...
+MAX: In the air, it's like nothing's changed, same city, same water...
 Different people.
-♪ ♪
-It's time.
+* It's time.
 Uh, I forgot my pen.
 I've got two.
-♪ ♪
-<strong>Stacey</strong>: And just like our marriage, this ride is suddenly going nowhere.
-<strong>Max</strong>: I slipped the guy 50 bucks to give us a few minutes alone.
-<strong>Stacey</strong>: That's a sweet gesture, but what did you think would happen?
+* STACEY: And just like our marriage, this ride is suddenly going nowhere.
+MAX: I slipped the guy 50 bucks to give us a few minutes alone.
+STACEY: That's a sweet gesture, but what did you think would happen?
 I don't know, some kind of sign, maybe.
 Signs are a thing. Signs happen.
 In the movies, Max, but not in real life.
-(<em>Siren blaring</em>)
-Not the kind of sign I was hoping for.
-(<em>Ominous music</em>)
-(<em>Crowd clamoring</em>)
-♪ ♪
-Oh, my God, Max.
-♪ ♪
-(<em>Wave crashing</em>)
-♪ ♪
-(<em>Glass shatters</em>)
-(<em>Tense music</em>)
-♪ ♪
-<strong>Woman</strong>: Please help over here.
-<strong>Man</strong>: Please help.
-<strong>Stacey</strong>: Help! We're here!
+(siren blaring) Not the kind of sign I was hoping for.
+(ominous music) (crowd clamoring) * Oh, my God, Max.
+* (wave crashing) * (glass shatters) (tense music) * WOMAN: Please help over here. MAN: Please help.
+STACEY: Help! We're here!
 Help! I see boats, Max, rescue boats.
 Help's coming.
-♪ ♪
-I can't feel your hand.
+* I can't feel your hand.
 What?
 Yeah, I can't feel much of anything.
 They'll fix it, Max. Everything can be fixed.
 Not everything.
-<strong>Man</strong>: Multiple calls from the Ferris wheel, Captain.
+MAN: Multiple calls from the Ferris wheel, Captain.
 Okay, we're coming.
-♪ ♪
-Hey, up here! Help, here!
+* Hey, up here! Help, here!
 My husband's hurt. Please!
-<strong>Man</strong>: Help these guys in front.
-<strong>Man</strong>: Copy.
+MAN: Help these guys in front. MAN: Copy.
 Move in here.
 All right, yeah.
 Let's go get them right over there.
-♪ ♪
-Oh, thank God you're here.
+* Oh, thank God you're here.
 We're save. We'll be okay.
-(<em>Speaks Spanish</em>)
-(<em>Man speaking Spanish</em>)
-Wait, who helped them?
-(<em>Speaks Spanish</em>)
-Hey, we could use a hand up here!
-♪ ♪
-Fire lady.
+(speaks Spanish) (man speaking Spanish) Wait, who helped them?
+(speaks Spanish) Hey, we could use a hand up here!
+* Fire lady.
 All right, grab an extra harness, rope, pulleys, figure eight plates.
 I'll coordinate evac and transport some down here.
-<strong>Eddie</strong>: Sounds like a plan, Cap.
-♪ ♪
-Okay.
-(<em>Clattering</em>)
-(<em>Ferris wheel squeaking</em>)
-<strong>Woman</strong>: Oh, my God!
-<strong>Man</strong>: Oh, no!
+EDDIE: Sounds like a plan, Cap.
+* Okay.
+(clattering) (Ferris wheel squeaking) WOMAN: Oh, my God! MAN: Oh, no!
 That's not part of the ride.
 No, the spokes are coming off the hub.
 This thing's been thrashed.
@@ -117,7 +77,8 @@ Lena Bosko, 136.
 You were on the pit when it hit.
 Yeah.
 Where's your crew?
-<strong>Lena</strong>: Got separated... to all the spin cycle.
+LENA: Got separated...
+to all the spin cycle.
 All right.
 Let's get you up. Let's get you up.
 There we go.
@@ -125,18 +86,13 @@ Okay.
 There we go.
 Thank you.
 Be careful.
-(<em>Machinery creaking</em>)
-Don't drop me. Don't drop me.
+(machinery creaking) Don't drop me. Don't drop me.
 Oh, God! Oh, God.
-(<em>Dramatic music</em>)
-♪ ♪
-<strong>Woman</strong>: Oh, my God.
-(<em>Woman screaming</em>)
-<strong>Man</strong>: Get me in the boat. Get me in the boat.
-<strong>Responder</strong>: We've got you. We've got you, just relax.
+(dramatic music) * WOMAN: Oh, my God.
+(woman screaming) MAN: Get me in the boat. Get me in the boat.
+RESPONDER: We've got you. We've got you, just relax.
 We got you, sir. We got you.
-♪ ♪
-<strong>Responder</strong>: Watch your step.
+* RESPONDER: Watch your step.
 When the wave hit, how'd you get back here?
 Swam.
 You sure did and then you climbed.
@@ -144,67 +100,46 @@ Free climb on the weekends, soldier.
 How'd you know I was in the service?
 You all carry yourselves the same way.
 All that spit and polish. My captain served, army.
-<strong>Eddie</strong>: Must be a good man.
-♪ ♪
-<strong>Eddie</strong>: Ma'am, stay put. We're coming to you.
-<strong>Stacey</strong>: Thank you. We're okay.
-<strong>Lena</strong>: Stay where you are. We're coming.
-<strong>Stacey</strong>: Please hurry. Hurry!
-<strong>Lena</strong>: Hold on. Just a little bit longer.
-♪ ♪
-Oh, thank God you're here!
+EDDIE: Must be a good man.
+* EDDIE: Ma'am, stay put. We're coming to you.
+STACEY: Thank you. We're okay.
+LENA: Stay where you are. We're coming.
+STACEY: Please hurry. Hurry!
+LENA: Hold on. Just a little bit longer.
+* Oh, thank God you're here!
 What happened here, Ma'am?
-<strong>Stacey</strong>: He hit his neck when the wave came, and he can't feel his fingers.
-<strong>Max</strong>: My arms went numb.
+STACEY: He hit his neck when the wave came, and he can't feel his fingers.
+MAX: My arms went numb.
 A couple minutes later, my legs gave out.
 Am I paralyzed?
 That's too soon to tell.
 You said you lost sensation in your arms first and then your legs?
 Yeah.
-<strong>Eddie</strong>: Okay.
+EDDIE: Okay.
 Well, that might be a sign of swelling, which means you bruised your neck instead of breaking it.
-(<em>Metallic scraping</em>)
-(<em>All yelling</em>)
-Hey, Cap, we can get one down to you, but the other one's a possible spinal.
+(metallic scraping) (all yelling) Hey, Cap, we can get one down to you, but the other one's a possible spinal.
 We're gonna need a Hail Mary.
-<strong>Bobby</strong>: I'll order one up for you.
+BOBBY: I'll order one up for you.
 Coast guard, coast guard. This is Captain Nash LAFD.
 We need a miracle at the pier. We need one quick.
 You should be fine. Help's on the way.
 All right.
-♪ ♪
-(<em>Helicopter whirring</em>)
-♪ ♪
-You see, Max? How's that for a sign?
+* (helicopter whirring) * You see, Max? How's that for a sign?
 There's hope, so fight.
-♪ ♪
-Max, you moved your fingers.
+* Max, you moved your fingers.
 I think I'm getting some feeling back.
 You're gonna be okay.
 We're gonna be okay.
 Give me the pen, Stacey, and those papers.
 Max...
 We were always a disaster, weren't we?
-(<em>Solemn music</em>)
-♪ ♪
-What a beautiful disaster we were.
-♪ ♪
-(<em>Dramatic music</em>)
-♪ ♪
-(<em>Helicopter whirring</em>)
-♪ ♪
-Incoming, debris!
-(<em>Metallic clanging</em>)
-This thing is gonna go down. Let's go.
+(solemn music) * What a beautiful disaster we were.
+* (dramatic music) * (helicopter whirring) * Incoming, debris!
+(metallic clanging) This thing is gonna go down. Let's go.
 Go, go, go!
 Free climb, how 'bout free fall?
-♪ ♪
-(<em>Motor revving</em>)
-♪ ♪
-Here, here, here, here, here, here.
-♪ ♪
-(<em>Crashing</em>)
-<strong>Dispatcher</strong>: <em>There's a truck on its way, Captain.</em>
+* (motor revving) * Here, here, here, here, here, here.
+* (crashing) DISPATCHER: There's a truck on its way, Captain.
 Copy that. Nash out.
 Our team is still stuck on the other side.
 Our trucks can't get through just yet.
@@ -222,44 +157,33 @@ Let me take a look at it.
 I said it's nothing.
 Clearly, it's not.
 Are you gonna drop this?
-<strong>Bobby</strong>: Hey, Bosko, let him have a look.
+BOBBY: Hey, Bosko, let him have a look.
 I'm not asking.
-(<em>Tense music</em>)
-♪ ♪
-Yeah, that's not a bruise. It's broken.
-Must be hurting like a b¡tch.
+(tense music) * Yeah, that's not a bruise. It's broken.
+Must be hurting like a bitch.
 Yeah, well, breathing isn't super fun.
 I'm calling it. You're off the field.
 Sir, I said I'm fine.
-♪ ♪
-USAR Command is setting up the VA hospital on Sawtelle.
+* USAR Command is setting up the VA hospital on Sawtelle.
 I want you to stick with her just in case her desire to track down her captain causes her to lose her way.
 I'm gonna meet up with the 118.
 Rendezvous with us when you can.
-<strong>Eddie</strong>: Copy that, Cap.
-♪ ♪
-Who you calling?
-<strong>Eddie</strong>: My son.
+EDDIE: Copy that, Cap.
+* Who you calling?
+EDDIE: My son.
 Lost his mother a few months ago, don't want him to worry.
 Hey, Buck, it's me.
 I just want you to tell Christopher I'll be a little late picking him up, got our hands full here.
 It's good thing you're missing it.
 Hope you guys are having fun.
-♪ ♪
-(<em>Engine puttering</em>)
-(<em>Suspenseful music</em>)
-<strong>Woman</strong>: Hey! There's a kid under here!
-<strong>Buck</strong>: Christopher? Hey!
+* (engine puttering) (suspenseful music) WOMAN: Hey! There's a kid under here!
+BUCK: Christopher? Hey!
 Hey, guys... hey, hey, big guy! Me and you, come on!
 All right, three, two, one. Go!
-♪ ♪
-Ah.
-<strong>Man</strong>: Oh, my God.
-<strong>Woman</strong>: I got you.
-<strong>Man</strong>: Yeah! Yeah!
-(<em>Applause</em>)
-<strong>Woman</strong>: Okay. Ooh, you're okay.
-<strong>Woman</strong>: Got you.
+* Ah.
+MAN: Oh, my God. WOMAN: I got you.
+MAN: Yeah! Yeah! (applause) WOMAN: Okay. Ooh, you're okay.
+WOMAN: Got you.
 Hey, hey, hey, excuse me.
 I'm looking for an eight-year-old boy.
 His name is Christopher.
@@ -273,73 +197,61 @@ Cupcakery, what is that?
 You know, cupcake bakery.
 It's about six or seven blocks south of here on Strand.
 Thank you. Thank you.
-♪ ♪
-Dizziness, mild seizure, in and out of consciousness...
-Tell the responders they may be treating a subdural hematoma and to mark it as a Code Three on the priority list.
+* Dizziness, mild seizure, in and out of consciousness-- Tell the responders they may be treating a subdural hematoma and to mark it as a Code Three on the priority list.
 Before or after the guy with the fishhook in his eye?
-(<em>Sighs</em>) Dealer's choice.
+(sighs) Dealer's choice.
 Whoever they get to first.
 911, what's your emergency?
-<strong>Louise</strong>: <em>Yes, I'm calling from Kenosha, Wisconsin.
-My daughter is missing...</em>
-Ma'am, I don't know how you got put through to me, but this is Los Angeles.
-<strong>Louise</strong>: <em>I know that.
+LOUISE: Yes, I'm calling from Kenosha, Wisconsin.
+My daughter is missing-- Ma'am, I don't know how you got put through to me, but this is Los Angeles.
+LOUISE: I know that.
 Joanna was texting me from her place near the beach, but her texts became, like, gibberish.
-And now, I can't reach her at all.</em>
+And now, I can't reach her at all.
 Okay, I understand. Can I get your name?
-<strong>Louise</strong>: <em>Louise Hickey.</em>
+LOUISE: Louise Hickey.
 Louise, do you know if your daughter is on any medications?
-<strong>Louise</strong>: <em>She's a health nut.
-I don't even think she takes aspirin.</em>
+LOUISE: She's a health nut.
+I don't even think she takes aspirin.
 I know you're worried, but before you assume the worst, there are a number of reasons Joanna's phone may have stopped working, water damage alone.
-<strong>Louise</strong>: <em>No, she was texting after the tsunami.
+LOUISE: No, she was texting after the tsunami.
 She and her neighbors were all safe in the lounge on the 10th floor.
-Can't you send somebody over there?</em>
+Can't you send somebody over there?
 I'll see what I can do, but understand that our first responders and emergency crews are already stretched to the brink.
-<strong>Louise</strong>: <em>Please, whatever you can do.
-She's at the Ocean Plaza Apartment Complex on Ocean Avenue.</em>
+LOUISE: Please, whatever you can do.
+She's at the Ocean Plaza Apartment Complex on Ocean Avenue.
 Ocean Plaza, right.
 Okay, you stay strong, Louise, and let us know if you hear from your daughter.
 Hey, Linda, didn't I hear you taking a call a little while ago, something about the Ocean Plaza Apartment Complex?
 Yeah, a caller was having trouble reaching his boyfriend, said their phone conversation cut off mid-sentence, then nothing.
-(<em>Tense music</em>)
-♪ ♪
-I checked the Red Cross and social media to see if anyone from Ocean Plaza had marked themselves as safe.
+(tense music) * I checked the Red Cross and social media to see if anyone from Ocean Plaza had marked themselves as safe.
 Not one mention of it anywhere.
 Let me see if I understand this correctly.
 With everything we've got on our plate, you wanna send help to the only building in the area that isn't asking for any?
 Yeah, I guess I do.
 Please don't take offense, but are you okay?
 Yes, Sue, I'm fine.
-But if something bad happened at that address, and I didn't...
-I get it, but unless we can confirm an emergency with someone on site, our hands are tied, Maddie.
+But if something bad happened at that address, and I didn't-- I get it, but unless we can confirm an emergency with someone on site, our hands are tied, Maddie.
 We don't have the resources.
-♪ ♪
-(<em>Drone buzzing</em>)
-<strong>Woman</strong>: Charlie, what are you doing?
+* (drone buzzing) WOMAN: Charlie, what are you doing?
 Looking for Reggie.
-<strong>Woman</strong>: You're not planning on going outside?
+WOMAN: You're not planning on going outside?
 No.
-<strong>Woman</strong>: It's still not safe out there.
-(<em>Dog barks distantly</em>)
-(<em>Dramatic music</em>)
-Oh, sick.
+WOMAN: It's still not safe out there.
+(dog barks distantly) (dramatic music) Oh, sick.
 Maddie, I've got this kid on the line, but I can't tell whether or not I'm being pranked.
-♪ ♪
-Hi. Who am I speaking with?
-<strong>Charlotte</strong>: <em>Why do you need to know that?</em>
+* Hi. Who am I speaking with?
+CHARLOTTE: Why do you need to know that?
 So I know what to call you.
 I just wanna know if you guys know about the frogman.
 Say again.
-<strong>Charlotte</strong>: <em>Frogman.
-He might be dead.</em>
+CHARLOTTE: Frogman.
+He might be dead.
 He's in a tree, but you can't see him from the street.
 Then how did you spot him?
-<strong>Charlotte</strong>: <em>With my drone.</em>
+CHARLOTTE: With my drone.
 I'm looking for my friend. His name's Reggie.
-<em>He's an artist...</em>
-So you have a drone?
-<strong>Charlotte</strong>: <em>DX-Black Bird R20.</em>
+He's an artist-- So you have a drone?
+CHARLOTTE: DX-Black Bird R20.
 If you want, I can send you a link to a live feed.
 Yes, please.
 I'm in. There's movement.
@@ -347,28 +259,22 @@ Dispatch a ladder crew down to Rose and Third.
 Thank you, Charlotte.
 You may have just saved a man's life.
 Wait, what? How did you...
-<strong>Maddie</strong>: <em>We've got Caller ID, a really good one.</em>
-&quot;Charlotte Rain Fingado,&quot; that's your name, isn't it?
-<strong>Charlotte</strong>: <em>It's Charlie. Wow.</em>
+MADDIE: We've got Caller ID, a really good one.
+"Charlotte Rain Fingado," that's your name, isn't it?
+CHARLOTTE: It's Charlie. Wow.
 You're like Big Brother's big sister.
 Something like that.
-<em>I think we can help each other out.</em>
+I think we can help each other out.
 How far can your drone fly?
-(<em>Dramatic music</em>)
-(<em>Drone buzzing</em>)
-♪ ♪
-Keep going, Charlie. We need to find an opening.
-♪ ♪
-I don't think these windows open.
+(dramatic music) (drone buzzing) * Keep going, Charlie. We need to find an opening.
+* I don't think these windows open.
 No, but maybe there's a vent or...
 There.
 Can you move in closer or zoom in?
-<strong>Charlotte</strong>: <em>Zooming.</em>
+CHARLOTTE: Zooming.
 What are we looking for, again?
-♪ ♪
-I think we found it.
-♪ ♪
-<strong>Athena</strong>: All right, y'all have your assignments.
+* I think we found it.
+* ATHENA: All right, y'all have your assignments.
 Fan out, make your presence known.
 Might take the national guard more than a minute to get on the stick.
 Until then, we are the first line of defense against looters, all right?
@@ -378,162 +284,115 @@ Arrests will be made.
 Understood?
 All right, move out.
 Be smart, stay safe.
-(<em>Sirens whooping</em>)
-Hey, everything okay, Suze?
+(sirens whooping) Hey, everything okay, Suze?
 Sergeant, they're asking for help finding their people.
-I tried to tell them...
-Folks, for your own safety, we need you to clear the streets.
+I tried to tell them-- Folks, for your own safety, we need you to clear the streets.
 Make your way to the emergency shelter.
 My wife is missing, and you're not gonna do anything?
 We are doing everything that we can.
 Now, there are people at the shelter who can take your name and reconnect you with your wife or whoever is missing.
-<strong>Dispatcher</strong>: <em>7-2-7-L-30. 7-2-3-L-30, come back.
-Muchas gracias.</em>
+DISPATCHER: 7-2-7-L-30. 7-2-3-L-30, come back.
+Muchas gracias.
 Dispatch, 7-2-7-L-30.
-<strong>Dispatcher</strong>: <em>Multiple reports of possible burglary suspects.</em>
-<strong>Man</strong>: Hey, everyone, fresh water to your left, first aid and blankets to the right.
-(<em>Baby cries</em>)
-(<em>Foreboding music</em>)
-♪ ♪
-Christopher.
-(<em>Relieved sigh</em>)
-Christopher! I'm here.
+DISPATCHER: Multiple reports of possible burglary suspects.
+MAN: Hey, everyone, fresh water to your left, first aid and blankets to the right.
+(baby cries) (foreboding music) * Christopher.
+(relieved sigh) Christopher! I'm here.
 Hey, Christopher!
-(<em>Somber music</em>)
-♪ ♪
-(<em>Panting</em>)
-♪ ♪
-<strong>Boy</strong>: Mister, are you okay?
+(somber music) * (panting) * BOY: Mister, are you okay?
 You're bleeding.
-♪ ♪
-(<em>Buck grunting</em>)
-<strong>Boy</strong>: Can I get you something for that?
-(<em>Ominous music</em>)
-Sword of Damocles at 12:00, Cap.
+* (Buck grunting) BOY: Can I get you something for that?
+(ominous music) Sword of Damocles at 12:00, Cap.
 I see it.
 John, can you get some caution tape up around that streetlamp before somebody gets nailed by it?
-♪ ♪
-Okay, until we know what's what, masks go on and they stay on.
-♪ ♪
-(<em>Door thuds</em>)
-♪ ♪
-<strong>Hen</strong>: Schematics put the stairs over...
-(<em>Device beeps</em>)
-CO.
-<strong>Chimney</strong>: A hell of a lot of it, 212 PPMs.
-<strong>Bobby</strong>: Okay, Hen, Geary, check building maintenance, central heating units.
+* Okay, until we know what's what, masks go on and they stay on.
+* (door thuds) * HEN: Schematics put the stairs over...
+(device beeps) CO.
+CHIMNEY: A hell of a lot of it, 212 PPMs.
+BOBBY: Okay, Hen, Geary, check building maintenance, central heating units.
 Find the source and shut it down.
 Everybody else on me. Dispatch to tenth floor.
-<strong>Man</strong>: Copy that.
-<strong>Hen</strong>: Copy that.
-♪ ♪
-<strong>Chimney</strong>: PPMs at over 300, Cap.
-Probably being vented in all...
-<strong>Rafi</strong>: Ah!
+MAN: Copy that. HEN: Copy that.
+* CHIMNEY: PPMs at over 300, Cap.
+Probably being vented in all-- RAFI: Ah!
 Ah, I'm not falling for it... who's the mess about?
-Sir. Sir, we are here to help. Try to calm yourself.
+Sir. Sir, we are here to help.
+Try to calm yourself.
 You're suffering from carbon monoxide poisoning.
 Need to very much... nomenclature.
-(<em>Sniffs, retches</em>)
-<strong>Chimney</strong>: Did he just say &quot;nomenclature&quot;?
-<strong>Bobby</strong>: All right, get him outside.
+(sniffs, retches) CHIMNEY: Did he just say "nomenclature"?
+BOBBY: All right, get him outside.
 Residents must have taken higher ground as the water rose.
-<strong>Chimney</strong>: Unfortunately, the gas did too.
+CHIMNEY: Unfortunately, the gas did too.
 Concentration is highest here at the top.
 Let's hope we're not too late to the party.
-♪ ♪
-Okay, let's go, go, go.
-(<em>Gas hissing</em>)
-Got a pulse here, it's steady, but her face has discoloration.
-<strong>Bobby</strong>: All right, we gotta get some fresh air in here ASAP.
-(<em>Glass shatters</em>)
-<strong>Hen</strong>: Building's backup generator got damaged by the seawater.
+* Okay, let's go, go, go.
+(gas hissing) Got a pulse here, it's steady, but her face has discoloration.
+BOBBY: All right, we gotta get some fresh air in here ASAP.
+(glass shatters) HEN: Building's backup generator got damaged by the seawater.
 We managed to put it out of its misery.
 Okay, start bringing them down, get 'em on O2.
-This is Ladder 118, Captain Nash requesting medical transport at Ocean Plaza Apartment Complex, nine-nine Ocean, north entrance for...
-17 minimum, Cap.
+This is Ladder 118, Captain Nash requesting medical transport at Ocean Plaza Apartment Complex, nine-nine Ocean, north entrance for-- 17 minimum, Cap.
 At least 17 patients, acute CO poisoning, ASAP.
-<strong>Dispatcher</strong>: <em>Copy request, Ladder 118.
+DISPATCHER: Copy request, Ladder 118.
 All ambulances currently engaged.
-Stand by.</em>
+Stand by.
 Standing by.
 Ma'am, ma'am, ma'am. You shouldn't get up.
 I'm fine. I'm fine.
 I just need...
 Hey, okay. Hold on, I got you.
 I need to call my mom.
-I need to call... did you take my phone?
+I need to call...
+did you take my phone?
 What's your name?
-&quot;Jonana.&quot;
-Joanna?
+"Jonana." Joanna?
 Yeah, that's it.
 Okay, Joanna, I'm Hen.
 You can call your mom once you get settled at the hospital, okay?
 Okay.
 Right now, you should sit down.
-I just wanna sit over... ah!
+I just wanna sit over--ah!
 Okay, all right. Okay, are you okay?
 What's hurting?
 My ankle.
 I cut it yesterday at the gym. The water's making it sting.
-(<em>Suspenseful music</em>)
-♪ ♪
-<b><i><u><span data-nosnippet>Taken without permission from https://tvshowtranscripts.ourboard.org</span>/</u></i></b>
-<ins class="da sc adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9811017020614438" data-ad-slot="1161362910"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-(<em>Electricity zapping</em>)
-Bobby?
+(suspenseful music) * (electricity zapping) Bobby?
 Yeah.
-♪ ♪
-Bobby, we gotta find a way to move all these people.
+* Bobby, we gotta find a way to move all these people.
 Already on it, just gonna take some time for the ambulances to get here.
 We don't have time.
 That gas truck down the street, it's leaking gasoline into the water.
-♪ ♪
-We're standing on top of a bomb.
-<strong>Dispatcher</strong>: <em>Be advised, full evacuation in effect in national park.
+* We're standing on top of a bomb.
+DISPATCHER: Be advised, full evacuation in effect in national park.
 Looters reported in the prospect.
-<strong>Athena</strong>: Copy that.</em>
-(<em>Tense music</em>)
-(<em>Dog barking distantly</em>)
-♪ ♪
-(<em>Sirens wail, helicopter whirs distantly</em>)
-♪ ♪
-(<em>Car door slams</em>)
-<strong>Tito</strong>: Did you get 'em all?
+ATHENA: Copy that.
+(tense music) (dog barking distantly) * (sirens wail, helicopter whirs distantly) * (car door slams) TITO: Did you get 'em all?
 Yeah.
 We should check next door.
 Saw a couple of silver bowls through the window.
-<strong>Tito</strong>: We're hauling as much as we can carry already, man.
+TITO: We're hauling as much as we can carry already, man.
 I don't think we can fit no more.
-<strong>Athena</strong>: LAPD.
+ATHENA: LAPD.
 Both of you, put your hands in the air.
-(<em>Anxious music</em>)
-You wanna drop that box, Boss?
+(anxious music) You wanna drop that box, Boss?
 Uh... I can't.
 Oh, I bet you can.
 I don't wanna scare 'em.
-<strong>Athena</strong>: Scare who?
-♪ ♪
-(<em>Cats purring</em>)
-♪ ♪
-(<em>Cat mews</em>)
-♪ ♪
-(<em>Dog whines</em>)
-You're looting animals?
-<strong>Tito</strong>: Looting?
+ATHENA: Scare who?
+* (cats purring) * (cat mews) * (dog whines) You're looting animals?
+TITO: Looting?
 No, eh, we're saving 'em.
 Look, check it out.
 See? Yeah.
 We reunite owners with pets who get separated during natural disasters, fires, those sorts of things.
 We call ourselves The Raiders of the Lost Barks.
-<strong>Tito</strong>: No, we don't.
+TITO: No, we don't.
 Ray, we talked about this. Come on.
-<strong>Ray</strong>: I'm just trying it out.
-<strong>Tito</strong>: Yeah, it's lame.
-<strong>Athena</strong>: You two have ID on you?
-♪ ♪
-Much as I appreciate your cause, I can't let you just break into people's houses.
+RAY: I'm just trying it out.
+TITO: Yeah, it's lame.
+ATHENA: You two have ID on you?
+* Much as I appreciate your cause, I can't let you just break into people's houses.
 You see, technically, we're not really breaking in.
 You'd be surprised how many homeowners leave their windows and backdoors unlocked.
 Yeah, you should see Ray here navigate himself through the occasional doggy door.
@@ -544,26 +403,18 @@ Okay, I tell you what.
 Overheard you say you got more than you can fit.
 I think it's best if you boys just take care of your present cargo.
 Leave the rest for the ASPCA.
-<strong>Tito</strong>: Yes, ma'am.
+TITO: Yes, ma'am.
 Thank you.
 Thank you.
 Have a good night.
-<strong>Tito</strong>: You too.
-<strong>Ray</strong>: Yeah.
-<strong>Tito</strong>: Come on, man. &quot;Raiders of the Lost Bark.&quot;
-You lost your mind, think I'm gonna walk around with a shirt...
-<strong>Ray</strong>: It's a good name.
-<strong>Tito</strong>: It's not.
-(<em>Metallic clang</em>)
-(<em>Suspenseful music</em>)
-(<em>Metallic clanging</em>)
-♪ ♪
-<strong>Eddie</strong>: Hey. Hey!
-My friend's got at least one broken rib and showing signs...
-<strong>Nurse</strong>: Can I get your names for the list, please?
+TITO: You too. RAY: Yeah.
+TITO: Come on, man. "Raiders of the Lost Bark." You lost your mind, think I'm gonna walk around with a shirt...
+RAY: It's a good name. TITO: It's not.
+(metallic clang) (suspenseful music) (metallic clanging) * EDDIE: Hey. Hey!
+My friend's got at least one broken rib and showing signs-- NURSE: Can I get your names for the list, please?
 You have a list?
 Excuse me.
-<strong>Eddie</strong>: Lena.
+EDDIE: Lena.
 Lena.
 First we get you fixed up, then you can spiral out.
 I'm Eddie Diaz. This is Lena Bosko.
@@ -571,89 +422,66 @@ Have you seen a Ronnie Cooper on the list?
 Fire captain, station 136.
 I haven't.
 Head on inside and someone will be with you.
-(<em>Solemn music</em>)
-♪ ♪
-(<em>Machine beeps</em>)
-<strong>Woman</strong>: Don't be scared, baby. I'm fine.
+(solemn music) * (machine beeps) WOMAN: Don't be scared, baby. I'm fine.
 It doesn't hurt.
 I'm gonna need more gauze.
 Okay, Diaz, you got your wish. I'm here.
 You don't have to babysit me.
-Yeah, I get it. If my captain was out there...
-Coop's not just my captain, okay?
+Yeah, I get it. If my captain was out there-- Coop's not just my captain, okay?
 He believed in me. He made me who I am.
-(<em>Machine beeps</em>)
-He remind you of your son?
+(machine beeps) He remind you of your son?
 I guess a little.
-(<em>Kyle coughing</em>)
-Sorry about his mom. That's rough.
-(<em>Kyle coughing, gagging</em>)
-<strong>Woman</strong>: Kyle, what's wrong?
+(Kyle coughing) Sorry about his mom. That's rough.
+(Kyle coughing, gagging) WOMAN: Kyle, what's wrong?
 He's drowning.
-<strong>Woman</strong>: What?
-(<em>Kyle gasping, coughing</em>)
-(<em>Tense music</em>)
-(<em>Gurgling</em>)
-<strong>Woman</strong>: What's in his mouth?
-(<em>Gagging</em>)
-<strong>Woman</strong>: Oh, my God.
-(<em>Gasps</em>) Kyle, baby, I'm here.
+WOMAN: What?
+(Kyle gasping, coughing) (tense music) (gurgling) WOMAN: What's in his mouth?
+(gagging) WOMAN: Oh, my God.
+(gasps) Kyle, baby, I'm here.
 Short breaths, Kyle. Nice and easy.
 Nice and easy. All right, on three.
 One, two, three.
-<strong>Medic</strong>: Get him to X-ray.
+MEDIC: Get him to X-ray.
 See which pulmonary specialist is available.
-(<em>Peaceful music</em>)
-<strong>Woman</strong>: Thank you.
+(peaceful music) WOMAN: Thank you.
 Delayed secondary drowning.
 I've never seen one of those.
 Good catch.
 Paramedic?
 No, but I was a medic in the service.
 In case you couldn't tell, we are severely shorthanded.
-Any chance that you could...
-Yeah, sure, just point me where to wash up.
+Any chance that you could-- Yeah, sure, just point me where to wash up.
 Sorry, looks like you're not getting rid of me anytime soon.
-♪ ♪
-<strong>Athena</strong>: Hello?
-(<em>Man moans</em>)
-(<em>Metallic clang</em>)
-<strong>Athena</strong>: Is someone there?
+* ATHENA: Hello?
+(man moans) (metallic clang) ATHENA: Is someone there?
 Hello?
-(<em>Suspenseful music</em>)
-Hey.
-<strong>Man</strong>: Yes?
+(suspenseful music) Hey.
+MAN: Yes?
 Here.
 Hey, hang in there. I'm coming to you.
-(<em>Clanging, clattering</em>)
-(<em>Grunts</em>) Hold on, hold on.
-♪ ♪
-I got you.
+(clanging, clattering) (grunts) Hold on, hold on.
+* I got you.
 Captain.
 Aren't you a sight for sore eyes?
-(<em>Gasps</em>)
-Who says there's never a cop around when you need one?
+(gasps) Who says there's never a cop around when you need one?
 Okay, you hang on.
 I'm gonna get you out of here.
 7-2-7-L-30 requesting immediate medical assistance near the corner of 18th and Wellesley Drive.
-<strong>Dispatcher</strong>: <em>Copy request, L-30.
-Be advised, EMTs approximately 30-35 minutes out.</em>
+DISPATCHER: Copy request, L-30.
+Be advised, EMTs approximately 30-35 minutes out.
 Too long, too late.
 Do what you can to shave down that estimate, Central.
-♪ ♪
-We'll see if I can find a jack to free your arm.
-<strong>Cooper</strong>: My arm's gone.
+* We'll see if I can find a jack to free your arm.
+COOPER: My arm's gone.
 I belted if off hours ago.
 It's already gone numb.
-You carrying any kind of knife, cutting tool... maybe in your car?
+You carrying any kind of knife, cutting tool...
+maybe in your car?
 Not unless you count a nail file.
-(<em>Half-hearted laugh</em>)
-I'm afraid that's not gonna do it.
+(half-hearted laugh) I'm afraid that's not gonna do it.
 What are we talking about?
 You're gonna have to finish amputating my arm.
-♪ ♪
-(<em>Foreboding music</em>)
-<strong>Bobby</strong>: Okay, what's our current status?
+* (foreboding music) BOBBY: Okay, what's our current status?
 About a third of them are semi or unconscious.
 Picked up arrhythmia in four, others are coming around.
 There's a lot of complaints about headaches and dizziness.
@@ -666,39 +494,27 @@ And what about the seven or so that aren't ambulatory?
 I'll stay here with 'em.
 Uh-uh.
 That's for me to do.
-(<em>Electricity zapping</em>)
-(<em>Flames roar</em>)
-Why don't you get these people up, get them ready to move?
+(electricity zapping) (flames roar) Why don't you get these people up, get them ready to move?
 This is Nash for Chimney and John.
 Have you found us a bus?
 Chimney, we need transpo right now.
-<strong>Chimney</strong>: <em>Copy, Skip. Coming in.</em>
-(<em>Car horn honks</em>)
-♪ ♪
-(<em>Honking</em>)
-♪ ♪
-Neither rain nor snow nor heat nor tsunamis stays this couriers from their appointed rounds.
+CHIMNEY: Copy, Skip. Coming in.
+(car horn honks) * (honking) * Neither rain nor snow nor heat nor tsunamis stays this couriers from their appointed rounds.
 Tell me you didn't steal these mail trucks just so you could say that.
-<strong>Chimney</strong>: Hey, these were the only things that weren't swamped, parked in the PO garages, safe and dry. Careful.
+CHIMNEY: Hey, these were the only things that weren't swamped, parked in the PO garages, safe and dry.
+Careful.
 Okay, everybody in back.
 Geary, Forrest, let's load 'em up.
-♪ ♪
-LAPD. Anybody home?
+* LAPD. Anybody home?
 Hello?
 Lord, forgive me.
-(<em>Glass shatters</em>)
-(<em>Dramatic music</em>)
-♪ ♪
-(<em>Cooper grunts softly</em>)
-♪ ♪
-You weren't specific.
+(glass shatters) (dramatic music) * (Cooper grunts softly) * You weren't specific.
 It's bad enough I looted somebody's house.
 I wasn't about to come back here with the wrong thing.
 Use the shears.
 Bone's already broken, so you're just cutting through soft tissue.
 Maybe a tendon or two.
-Don't say &quot;just.&quot;
-There's nothing &quot;just&quot; about cutting off somebody's arm.
+Don't say "just." There's nothing "just" about cutting off somebody's arm.
 I'd have thought somebody who reached the rank of sergeant would have seen worse than this.
 Seen? Yeah.
 Contributed?
@@ -711,50 +527,26 @@ Ronnie Cooper, station 136.
 You may wanna get started.
 This arm's not gonna amputate itself.
 That's not funny, Ronnie.
-(<em>Suspenseful music</em>)
-Is there somebody you wanna call before we do this?
+(suspenseful music) Is there somebody you wanna call before we do this?
 Your wife?
 No, Ellen already knows I'm missing by now.
 If something went wrong, it'd be like I died on her twice.
-♪ ♪
-(<em>Gasps</em>)
-Here. Bite down on this.
-♪ ♪
-(<em>Exhales</em>)
-♪ ♪
-(<em>Cooper moaning</em>)
-♪ ♪
-(<em>Moans</em>)
-♪ ♪
-(<em>Body tissue squelches</em>)
-(<em>Muffled cooper yelling</em>)
-(<em>Tense music</em>)
-♪ ♪
-We gotta go!
+* (gasps) Here. Bite down on this.
+* (exhales) * (Cooper moaning) * (moans) * (body tissue squelches) (muffled Cooper yelling) (tense music) * We gotta go!
 One minute!
 We don't have a minute.
 Chimney!
 Copy that.
 John!
-♪ ♪
-(<em>Ignition turns over</em>)
-Okay, let's hit it!
-♪ ♪
-(<em>Explosion booming</em>)
-♪ ♪
-Hey, Cap, you all okay back there?
+* (ignition turns over) Okay, let's hit it!
+* (explosion booming) * Hey, Cap, you all okay back there?
 Yeah, we got kissed a bit, but we're fine.
 That was way too close.
 Wait, watch out!
-(<em>Tires screech</em>)
-(<em>Dramatic music</em>)
-We're gonna need a bigger mail truck.
-♪ ♪
-(<em>Coughing, sobbing</em>)
-It looks like you're gonna have to get used to being a southpaw for the time being.
+(tires screech) (dramatic music) We're gonna need a bigger mail truck.
+* (coughing, sobbing) It looks like you're gonna have to get used to being a southpaw for the time being.
 Best time to work on your change-up and curveball.
-(<em>Siren whoops</em>)
-So you a pitcher too?
+(siren whoops) So you a pitcher too?
 Class A regional all-star, two years straight.
 Naturally. You all fixed up?
 All taped up, pain killed, and rarin' to get back out.
@@ -764,80 +556,63 @@ And there are already people looking for him.
 There's gonna be one more.
 Man, you're stubborn.
 You can try to stop me, if you wanna know exactly what two broken ribs feels like.
-♪ ♪
-(<em>Siren wails</em>)
-<strong>Eddie</strong>: Hey, Athena.
+* (siren wails) EDDIE: Hey, Athena.
 It's not my blood.
 It's his.
 Coop?
 Ronnie, can you hear me?
 Bosko.
-(<em>Sighs in relief</em>)
-You're okay.
-<strong>Lena</strong>: Yeah, the crew is too.
-(<em>Emotional music</em>)
-(<em>Sirens wailing</em>)
-(<em>Dramatic music</em>)
-♪ ♪
-Hey, excuse me. I'm looking for a kid.
-He's got brown hair. Chris... Christopher.
+(sighs in relief) You're okay.
+LENA: Yeah, the crew is too.
+(emotional music) (sirens wailing) (dramatic music) * Hey, excuse me. I'm looking for a kid.
+He's got brown hair. Chris--Christopher.
 How old?
 Um, eight, maybe nine.
 Christopher Diaz. He has CP.
 Christopher Diaz.
 No, not here.
 You may wanna check over there at the black tent.
-♪ ♪
-Isn't that the...
+* Isn't that the...
 The morgue.
 Excuse me.
-♪ ♪
-(<em>Somber music</em>)
-♪ ♪
-<strong>Sue</strong>: Maddie.
-That name you had me looking into, Reggie...
-Reginald Simmons.
+* (somber music) * SUE: Maddie.
+That name you had me looking into, Reggie-- Reginald Simmons.
 Yeah, Charlie, the girl with the drone, she was just hoping we could locate him.
 His body was identified by a recovery crew.
 He drowned.
 Oh.
 I'm sorry.
 No, um... it's okay.
-(<em>Phone buzzing</em>)
-Thanks. Excuse me.
+(phone buzzing) Thanks. Excuse me.
 Hello?
-<strong>Buck</strong>: <em>Hey, it's me.</em>
+BUCK: Hey, it's me.
 Buck? Where are you?
-<em>I don't know this number.</em>
+I don't know this number.
 I borrowed someone else's phone.
 Maddie, I need your help.
 Okay, tell me what's wrong. Are you hurt?
-<strong>Buck</strong>: <em>Eddie dropped Christopher off with me.</em>
-He thought, you know, doing some activities with him would get me out of my apartment... out of my head.
+BUCK: Eddie dropped Christopher off with me.
+He thought, you know, doing some activities with him would get me out of my apartment...
+out of my head.
 Maddie, I brought him to the pier.
 Oh, my God, you were there?
-<strong>Buck</strong>: <em>And I had him. All right, Mads?</em>
+BUCK: And I had him. All right, Mads?
 I had him. I kept him safe.
-We were... uh... we were on top of the ladder truck, then the water receded...
-<strong>Maddie</strong>: <em>Okay, you're not answering me.</em>
+We were--uh... we were on top of the ladder truck, then the water receded...
+MADDIE: Okay, you're not answering me.
 Are you injured, bleeding?
-<strong>Buck</strong>: <em>No, it doesn't matter.
-Don't you hear what I am saying?</em>
+BUCK: No, it doesn't matter.
+Don't you hear what I am saying?
 Christopher is gone.
-<em>I've checked the emergency refugee camps at the Promenade, at the high school...</em>
-Okay, did you check the VA hospital?
-<em>The Command Center, you know, on Sawtelle?</em>
+I've checked the emergency refugee camps at the Promenade, at the high school-- Okay, did you check the VA hospital?
+The Command Center, you know, on Sawtelle?
 I'm here now and he...
-(<em>Dramatic music</em>)
-♪ ♪
-Oh, God. God, God, no.
-<strong>Maddie</strong>: <em>What?</em>
-(<em>Exhales</em>)
-Eddie's here.
-<strong>Maddie</strong>: <em>Does he know what happened?
-♪ ♪</em>
-Evan, you have to tell him.
-<strong>Buck</strong>: <em>How?</em>
+(dramatic music) * Oh, God. God, God, no.
+MADDIE: What?
+(exhales) Eddie's here.
+MADDIE: Does he know what happened?
+* Evan, you have to tell him.
+BUCK: How?
 How do you tell your best friend that you lost his son?
 No, no, no. He's his father.
 Okay, you have to tell him that Christopher's missing.
@@ -845,98 +620,60 @@ No, Maddie, I need to keep on looking for him.
 I need to find him.
 Look, you are in no condition to go looking for Christopher by yourself.
 I'm coming down there.
-<strong>Buck</strong>: <em>No, no.</em>
+BUCK: No, no.
 Maddie! Maddie!
-(<em>Tense music</em>)
-♪ ♪
-Need some help here!
-♪ ♪
-Buck? Wait, what are you doing here?
+(tense music) * Need some help here!
+* Buck? Wait, what are you doing here?
 Are you okay? Wait, where's Christopher?
 Eddie...
-<strong>Man</strong>: We need a gurney over here.
+MAN: We need a gurney over here.
 Why do you have his glasses?
-(<em>Solemn music</em>)
-We, um...
-(<em>Stammering</em>) me and Christopher, we were... at the beach, and... um... and listen to me, okay?
-I swear to you... okay, I tried...
-♪ ♪
-And I just... but I...
+(solemn music) We, um...
+(stammering) me and Christopher, we were... at the beach, and--um... and listen to me, okay?
+I swear to you...
+okay, I tried...
+* And I just... but I...
 Eddie, I just don't know how to say it.
-He... he just... he... he just vanished.
+He--he just--he...
+he just vanished.
 Christopher?
 Hey.
-♪ ♪
-<strong>Eddie</strong>: Christopher?
-<strong>Christopher</strong>: Dad!
-<strong>Eddie</strong>: Oh, my God!
-(<em>Emotional music</em>)
-♪ ♪
-Thank you. Thank you.
+* EDDIE: Christopher?
+CHRISTOPHER: Dad! EDDIE: Oh, my God!
+(emotional music) * Thank you. Thank you.
 You're Buck?
 No, I'm his father, Eddie.
 He was looking for Buck.
-(<em>Exhales</em>)
-<strong>Chimney</strong>: Make a hole!
+(exhales) CHIMNEY: Make a hole!
 Buck, what happened to you?
-♪ ♪
-Hey.
-♪ ♪
-You two okay?
+* Hey.
+* You two okay?
 Yeah, we're great.
-<strong>Chimney</strong>: Oh.
-<strong>Hen</strong>: Wait, hold up.
-(<em>Buck grunts</em>)
-<strong>Bobby</strong>: Come here.
+CHIMNEY: Oh. HEN: Wait, hold up.
+(Buck grunts) BOBBY: Come here.
 Hang in there. Hang in there, bro.
-♪ ♪
-(<em>Ed Sheeran's &quot;Photograph&quot;</em>)
-<em>♪ ♪
-<strong>Ed</strong>: ♪ Loving can hurt ♪
-♪ Loving can hurt sometimes ♪
-<strong>Buck</strong>: There are a lot of ways to be lost at sea.
-<strong>Ed</strong>: ♪ Only thing that I know ♪
-<strong>Buck</strong>: It's not the same as being abandoned or stranded.
+* (Ed Sheeran's "Photograph") * ED: * Loving can hurt * Loving can hurt sometimes BUCK: There are a lot of ways to be lost at sea.
+ED: * Only thing that I know BUCK: It's not the same as being abandoned or stranded.
 Those things happen beyond our control.
-<strong>Ed</strong>: ♪ Hard, you know it can get hard sometimes ♪
-<strong>Buck</strong>: Sometimes, we just take a wrong turn too close to the tide.
-<strong>Ed</strong>: ♪ It is the only thing ♪
-<strong>Buck</strong>: The waters rise and sweep us away.
-<strong>Ed</strong>: ♪ Alive ♪
-♪ ♪
-<strong>Buck</strong>: We fight the currents for a way back to dry land and solid ground, to each other...</em>
+ED: * Hard, you know it can get hard sometimes * BUCK: Sometimes, we just take a wrong turn too close to the tide.
+ED: * It is the only thing BUCK: The waters rise and sweep us away.
+ED: * Alive * BUCK: We fight the currents for a way back to dry land and solid ground, to each other...
 May, sweetheart.
-<strong>Buck</strong>: <em>To normal.</em>
+BUCK: To normal.
 Come on, baby, join us.
-<strong>Buck</strong>: <em>And when we catch our breaths, we search the shore for all the we lost and everything we loved, for our families...
-<strong>Ed</strong>: ♪ Holding me closer till our eyes meet ♪</em>
-I do.
-<strong>Ed</strong>: <em>♪ You won't ever be alone ♪
-<strong>Buck</strong>: For our dreams and our futures...
-<strong>Ed</strong>: ♪ Wait for me to come home ♪
-<strong>Buck</strong>: Our friends and loved ones...
-♪ ♪
-<strong>Ed</strong>: ♪ Loving can mend your soul ♪
-<strong>Buck</strong>: And for the ones who couldn't swim.
-<strong>Ed</strong>: ♪ And it's the only thing ♪</em>
-You know, there could have been a lot more faces on that wall if it weren't for you.
-<em>♪ ♪
-<strong>Ed</strong>: ♪ I swear it will get ♪</em>
-Thanks for being here.
-<strong>Ed</strong>: <em>♪ That with every piece of ya ♪</em>
-I'm Big Sister. It's what I do.
-<strong>Ed</strong>: <em>♪ Only thing we take ♪</em>
-Come here.
-<strong>Ed</strong>: <em>♪ With us when we die ♪
-♪ ♪
-♪ When I'm away ♪
-♪ I will remember how you kissed ♪
-<strong>Buck</strong>: Sometimes, being lost is not knowing how to get from where we are to where we wanna be, where we need to be.
-<strong>Ed</strong>: ♪ Wait for me to come home ♪</em>
-(<em>Knock at door</em>)
-Hey, Buck.
+BUCK: And when we catch our breaths, we search the shore for all the we lost and everything we loved, for our families...
+ED: * Holding me closer till our eyes meet * I do.
+ED: * You won't ever be alone * BUCK: For our dreams and our futures...
+ED: * Wait for me to come home * BUCK: Our friends and loved ones...
+* ED: * Loving can mend your soul * BUCK: And for the ones who couldn't swim.
+ED: * And it's the only thing You know, there could have been a lot more faces on that wall if it weren't for you.
+* ED: * I swear it will get Thanks for being here.
+ED: * That with every piece of ya * I'm Big Sister. It's what I do.
+ED: * Only thing we take Come here.
+ED: * With us when we die * * When I'm away * I will remember how you kissed * BUCK: Sometimes, being lost is not knowing how to get from where we are to where we wanna be, where we need to be.
+ED: * Wait for me to come home * (knock at door) Hey, Buck.
 Good morning, Buck.
-Hey... hey, buddy.
+Hey--hey, buddy.
 Okay.
 There's a morning snack and midday snack, two coloring books and a bunch of Legos.
 Between us, he's never built anything that kinda looks like anything.
@@ -944,37 +681,33 @@ He just likes sticking things together.
 It's right there, buddy.
 There's 20 bucks for pizza, and if I were you, I'd eat a couple extra slices.
 You look like you're wasting away to nothing.
-Eddie...
-<strong>Eddie</strong>: I will say, honestly, you being laid up is working out for me.
-I mean, you're no <em>abuela,</em> and you're half a Carla, but you'll do in a pinch.
+Eddie-- EDDIE: I will say, honestly, you being laid up is working out for me.
+I mean, you're no abuela, and you're half a Carla, but you'll do in a pinch.
 You want me to watch Christopher?
 It's easy. He's not very fast.
 After everything that happened?
 A natural disaster happened, Buck.
 I lost him, Eddie.
-<strong>Eddie</strong>: No, You saved him.
+EDDIE: No, You saved him.
 That's how he remembers it.
-(<em>Tender music</em>)
-And now, it's his turn to do the same for you.
-♪ ♪
-I was supposed to look out for him.
+(tender music) And now, it's his turn to do the same for you.
+* I was supposed to look out for him.
 And what, you think you failed?
 I failed that kid more times than I care to count, and I'm his father.
 But I love him enough to never stop trying, and I know you do too.
 Buck... there's nobody in this world I trust with my son more than you.
 Okay, buddy.
-(<em>Sighs</em>) I gotta go.
-<strong>Christopher</strong>: Ooh.
-(<em>Eddie smooches</em>)
-Love ya, have fun.
+(sighs) I gotta go.
+CHRISTOPHER: Ooh.
+(Eddie smooches) Love ya, have fun.
 Maybe try going to the zoo this time, something inland.
-(<em>Chuckles softly</em>)
-Oh, um... thank you for not giving up.
-(<em>Door closes</em>)
-<em>♪ ♪
-<strong>Buck</strong>: A few choice words can sometimes be the life raft that gets you home.
-To be seen... to be found... isn't that what we're all searching for?</em>
+(chuckles softly) Oh, um...
+thank you for not giving up.
+(door closes) * BUCK: A few choice words can sometimes be the life raft that gets you home.
+To be seen...
+to be found...
+isn't that what we're all searching for?
 Hey, Chris.
 Oh.
-(<em>Laughs</em>)
-♪ ♪
+(laughs) * ANNOUNCER: Don't miss a minute of 9-1-1.
+ 

@@ -1,10 +1,10 @@
-<strong>Male Reporter</strong>: <em>A 7.1 earthquake has rocked the Southland, and 250,000 homes are without electricity. And for most, there is an urgent need for...</em>
-<strong>Female Reporter</strong>: <em>Traffic lights out all over the city. Driving is extremely hazardous.
-.. will be posted on our website.
-The most deaths of any...
-...currently backlogged.
-.. single building collapse: 33 in total.
-Callers are urged to refrain from dialing 911 unless there is a real and true emergency.</em>
+MALE REPORTER: A 7.1 earthquake has rocked the Southland, and 250,000 homes are without electricity.
+And for most, there is an urgent need for...
+FEMALE REPORTER: Traffic lights out all over the city. Driving is extremely hazardous.
+... will be posted on our website.
+The most deaths of any single building collapse: ... currently backlogged.
+33 in total.
+Callers are urged to refrain from dialing 911 unless there is a real and true emergency.
 No, sir, martial law has not been declared, and even if it had, I'm pretty sure that it's still illegal to just shoot anyone who comes on your property.
 911. What is your emergency?
 Sorry, ma'am. We can't really spare any units to come look for your missing cat.
@@ -12,7 +12,7 @@ Maybe put out a can of tuna?
 Yes, open.
 911. What is your emergency?
 Dispatch, we have a report of looters at the Big 5 on Wilshire and San Vicente...
-Wait, there are <em>two</em> Wilshire and San Vicentes?
+Wait, there are two Wilshire and San Vicentes?
 I-I'm transferring you. Please stay on the line.
 Don't hang up.
 I shouldn't be doing this.
@@ -21,13 +21,11 @@ People's lives are at stake here.
 Look, we're stretched thin on our best day, and today is definitely not our best.
 Just get the frivolous calls off the line, help the ones you can, and keep sending the higher priority calls up the chain.
 You can do this.
-(<em>Sighs</em>)
-(<em>Line ringing</em>)
-911. What is your emergency?
-<strong>Drew (<em>on phone</em>)</strong>: Uh, I-I need an ambulance.
+(sighs) (line ringing) 911. What is your emergency?
+DREW (on phone): Uh, I-I need an ambulance.
 Uh, 6057 Comstock, in Montebello.
 What is the nature of your emergency?
-<strong>Drew</strong>: My wife. She-She's just over 32 weeks pregnant, a-and she went into labor about an hour ago.
+DREW: My wife. She-She's just over 32 weeks pregnant, a-and she went into labor about an hour ago.
 Tell me your name.
 I-I'm Drew. Uh, Drew Hudson.
 My wife is-is Ainsley.
@@ -61,15 +59,14 @@ Okay, good. Is she breathing?
 Yeah. Barely, but yes.
 Where is she now, Drew?
 I-I put her on the couch.
-Okay, but we don't want her lying flat...
-Can you gently move her onto her left side?
+Okay, but we don't want her lying flat-- can you gently move her onto her left side?
 Yes.
 Good. Make sure her head is elevated.
 This is gonna keep her airway open.
 Ainsley and the baby need to breathe.
 When can someone be here?
 Probably at least an hour before a truck can get there.
-(<em>Clears throat</em>) Drew, you said when the last aftershock hit, you were getting ready to take Ainsley to the hospital.
+(clears throat) Drew, you said when the last aftershock hit, you were getting ready to take Ainsley to the hospital.
 Which hospital?
 Uh, Montebello Presbyterian.
 Sh-Should I take her there?
@@ -91,17 +88,15 @@ I have a young couple in a Volkswagen Passat coming to you.
 The female is eight months pregnant and unconscious.
 She was in active labor when she was injured.
 They could really use a miracle today.
-(<em>Honking</em>)
-We just might have a few of those left.
+(honking) We just might have a few of those left.
 I see them.
-<strong>Martinez</strong>: EMTs!
+MARTINEZ: EMTs!
 We're gonna get 'em treated and transported.
-<strong>Maddie</strong>: Thank you, Captain.
-<strong>Drew</strong>: You got to help her.
+MADDIE: Thank you, Captain.
+DREW: You got to help her.
 Thank you.
 Great work.
-(<em>Line ringing</em>)
-911. What is your emergency?
+(line ringing) 911. What is your emergency?
 Caltech's calling that last aftershock a 4.9.
 16th aftershock so far.
 I want a real-time assessment of new damage, and a comprehensive report on structural integrity throughout the building. Call your people and get me updates.
@@ -117,7 +112,7 @@ Oh, it's gonna be a long night.
 What about the grid? Show me who's left in there.
 GPS looks like it's got a bead on everybody, but the 118's lost contact with a firefighter.
 Who?
-<strong>Bobby</strong>: Hen, do you copy?
+BOBBY: Hen, do you copy?
 This is Captain Nash for Henrietta Wilson, do you copy?
 Cap, I think I got a visual.
 There's a pocket, probably four feet.
@@ -128,59 +123,52 @@ Yeah.
 We've locked in on her GPS.
 Let me see.
 There's been no movement.
-<strong>Bobby</strong>: Okay, Chim, it looks like she's about three meters deep over there inside that pancaked section of the garage.
+BOBBY: Okay, Chim, it looks like she's about three meters deep over there inside that pancaked section of the garage.
 If we do this wrong, We risk bringing the rest of this down on top of her.
 So we go slow.
 But not too slow. She's in there, Chim.
 Roger that.
-<strong>Buck</strong>: That's it. You're doing great.
+BUCK: That's it. You're doing great.
 You've, uh, you've done this before, haven't you?
-<strong>Ali</strong>: Yeah. It was, uh, my major at the Rhode Island School of Design.
+ALI: Yeah. It was, uh, my major at the Rhode Island School of Design.
 Sorry. Sarcasm is my fallback for pretty much everything.
-<strong>Buck</strong>: I totally get it.
+BUCK: I totally get it.
 I got you.
 Okay.
 You think he'll still be on the sidewalk when we get down there?
 No.
 And we're not going out that side, anyway.
-<strong>Eddie</strong>: Let's hustle up, you two.
+EDDIE: Let's hustle up, you two.
 We don't want to be here for the next aftershock.
 Wait, what do you mean, the next aftershock?
 Come on.
-(<em>Groans</em>)
-There we go.
+(groans) There we go.
 You're gonna be fine.
 Oh!
 You're gonna be fine.
 He's right behind you.
-<strong>Ali</strong>: Okay.
+ALI: Okay.
 Oh, you gotta be kidding me.
 We're not getting out this way.
 Now what?
 We go back up.
 Back up?
-<strong>Bobby (<em>over comm</em>)</strong>: Ladder 118, respond.
+BOBBY (over comm): Ladder 118, respond.
 This is Captain Nash. I need a head count.
 Ladder 118 responding. Diaz, Buckley, we're good, Cap.
-<strong>Woman (<em>over comm</em>)</strong>: Castillo and Jackson responding.
-<strong>Man</strong>: Paulson, Marcus and Riley responding.
-<strong>Chimney</strong>: Chimney responding.
-<strong>Bobby</strong>: Hen, do you copy? Hen?
+WOMAN (over comm): Castillo and Jackson responding.
+MAN: Paulson, Marcus and Riley responding.
+CHIMNEY: Chimney responding.
+BOBBY: Hen, do you copy? Hen?
 This is Captain Nash for Henrietta Wilson. Do you copy?
 Is that a friend of yours?
 Let's keep moving.
-(<em>Grunting</em>)
-<strong>Hen</strong>: Bobby!
+(grunting) HEN: Bobby!
 Buck, Chim?
 Help! Bobby! Buck!
-(<em>Grunts</em>)
-(<em>Grunting, panting</em>)
-Hey, anybody down here?
-(<em>Man groans</em>)
-Hey! Hello?
-(<em>Man groans</em>)
-(<em>Hen grunting</em>)
-221, right?
+(grunts) (grunting, panting) Hey, anybody down here?
+(man groans) Hey! Hello?
+(man groans) (Hen grunting) 221, right?
 Yeah. Russ.
 Hen. 118.
 Where... Where's your radio, Russ? Mine is toast.
@@ -188,39 +176,34 @@ I don't have one. All radios were issued out.
 It's not my shift.
 Oh, my God, you came in on your day off, Russ?
 Yeah. Nothing new on Netflix.
-(<em>Weak laugh</em>)
-(<em>Grunting</em>)
-(<em>Cries out</em>)
-(<em>Straining</em>)
-All right, there's got to be a jack in one of these cars. All right.
-<strong>Russ</strong>: Don't waste your strength or your time.
-(<em>Grunts</em>) None of that, Russ. We're both getting out of here.
+(weak laugh) (grunting) (cries out) (straining) All right, there's got to be a jack in one of these cars. All right.
+RUSS: Don't waste your strength or your time.
+(grunts) None of that, Russ. We're both getting out of here.
 Okay?
 I'm not.
-Fractured pelvis, flail chest...
-Even I couldn't save me, and... you don't know me, but I'm good.
+Fractured pelvis, flail chest-- even I couldn't save me, and...
+you don't know me, but I'm good.
 Yeah?
 Well, maybe I'm better.
 Yeah?
-(<em>Coughing</em>)
-Hold on. Hang in there, Russ.
+(coughing) Hold on. Hang in there, Russ.
 Hang in there.
 I'm not gonna make it 20 minutes.
 Help's not coming.
 Not in time, anyway. So, please, my kit.
 The morphine.
 Give me a bolus.
-Oh, give me three. (<em>Gasping</em>)
-I'll give you one, just to keep you comfortable, but we're not giving up, okay?
+Oh, give me three. (gasping) I'll give you one, just to keep you comfortable, but we're not giving up, okay?
 You married, Hen?
 I am.
 I hope you make it back to your husband.
 Wife.
 Oh, yeah? I had one of those.
-She was always worrying that I wouldn't... make it back home to see her.
+She was always worrying that I wouldn't...
+make it back home to see her.
 Decided maybe it's better if I just stopped coming home altogether.
-I think maybe she was... onto something. (<em>Gasps</em>)
-My people are right above us, okay?
+I think maybe she was...
+onto something. (gasps) My people are right above us, okay?
 Believe me when I tell you...
 Russ?
 Russ!
@@ -228,16 +211,16 @@ Damn it.
 All right.
 It looks like we are in pretty good shape.
 No structural damage.
-But that sprinkler system... Man, that's another story.
-<strong>Reporter</strong>: ...reports are still coming in about possible casualties caused by the 7.1 earthquake that hit Southern California.
+But that sprinkler system-- man, that's another story.
+REPORTER: ... reports are still coming in about possible casualties caused by the 7.1 earthquake that hit Southern California.
 This is an unprecedented emergency that has swept across...
 Oh, come on. Hey, you guys, I thought you were cleaning up this mess.
 The damage is widespread...
 We wanted to watch the news.
 Oh, speaking of unprecedented events. Wow.
-...but at this point we are urging everyone who's able to watch this: please stay where you are.
+.. but at this point we are urging everyone who's able to watch this: please stay where you are.
 That is...
-(<em>Sighs</em>) Okay.
+(sighs) Okay.
 I asked you guys to clean up the mess and go through the earthquake kits.
 Go do that now, please.
 You just said the house was fine.
@@ -255,9 +238,7 @@ Get a sweater.
 And the earthquake kits.
 Are we gonna go look for Mom?
 You guys got five seconds to get in the car.
-(<em>Gunshot</em>)
-(<em>Sirens wailing</em>)
-<strong>Man</strong>: Take it easy.
+(indistinct shouting) (gunshot) (sirens wailing) MAN: Take it easy.
 LAPD. I need everyone to back up.
 Keep your hands where we can see them.
 We ain't the ones shooting.
@@ -270,16 +251,15 @@ All right, well, we're here now. Tell me what's going on.
 Exactly what it looks like. They tried to loot my store.
 I thought the people in this neighborhood were decent folk, but apparently they think everything's free if an earthquake hits.
 Mm-hmm.
-Mmm, mmm, mmm. Hey, Joe, looters...
-They tend to bring stuff they want to steal to the register, do they?
+Mmm, mmm, mmm. Hey, Joe, looters-- they tend to bring stuff they want to steal to the register, do they?
 I brought that stuff here.
 And when was that?
 After you popped off your shotgun, you decided to tidy up a bit?
 How much you charging for that case of water?
 $14.99.
 Liar.
-<strong>Officer</strong>: Step back, ma'am.
-<strong>Athena</strong>: Hey, miss, how much was this man charging you for a case of water?
+OFFICER: Step back, ma'am.
+ATHENA: Hey, miss, how much was this man charging you for a case of water?
 A hundred dollars.
 Supply and demand.
 Are you familiar with penal code 396, the anti-price gouging law?
@@ -292,31 +272,26 @@ Upping the cost ensures that everyone gets a shot.
 Oh, so you're just thinking of your fellow man when you decided to fleece them.
 Well, not today.
 These people were not intruders.
-The sign on your door says &quot;open,&quot; and you are not their victim.
+The sign on your door says "open," and you are not their victim.
 Quite the opposite, by the looks of things.
 Now, there are people in real need.
 This city is under serious distress, and all you can think about is padding your own pockets.
 I have a right...
 So, you have got yourself a choice.
-I can write you up for price gouging and you can face a year in jail, or... we can overlook your ignorance of the law, and maybe we can come up with some other arrangement.
+I can write you up for price gouging and you can face a year in jail, or...
+we can overlook your ignorance of the law, and maybe we can come up with some other arrangement.
 Like what?
 Oh, like, you tell me.
-(<em>Sighs</em>)
-I guess I could, I don't know, like you said, raise the prices slightly.
+(sighs) I guess I could, I don't know, like you said, raise the prices slightly.
 Ten percent?
 Ten percent off?
 20 percent.
 50 percent off everything in the store.
 Now, that's more like it.
 Okay, folks, it's half-price day!
-(<em>Cheering, applause</em>)
-(<em>Indistinct chatter</em>)
-Pleasure doing business with you.
-<b><i><u><span data-nosnippet>Taken without permission from https://tvshowtranscripts.ourboard.org</span>/</u></i></b>
-<ins class="da sc adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9811017020614438" data-ad-slot="1161362910"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+(cheering, applause) (indistinct chatter) Pleasure doing business with you.
 Hi. LAFD?
-<strong>Bill</strong>: That's right. Bill Jenks, liaison.
+BILL: That's right. Bill Jenks, liaison.
 Maddie Buckley. Crazy day.
 Do you have any idea what's going on at the Hollywood Palm Hotel?
 Pretty much just what's been on the news.
@@ -326,12 +301,11 @@ Well, I think that my brother might be in that hotel.
 Do you know if any of the missing are from the 118?
 I don't. I'm sorry.
 If I hear anything else, I'll come find you.
-(<em>Whispers</em>): Oh, please be okay.
-(<em>Grunting</em>)
-Here you go.
+(whispers): Oh, please be okay.
+(grunting) Here you go.
 There you go. Easy.
 Miss, there's this egress on the north stairwell of this floor.
-<strong>Ali</strong>: What if it's blocked, too?
+ALI: What if it's blocked, too?
 Can't you guys get a ladder into one of the windows?
 It's too risky.
 Building shifted too much.
@@ -343,33 +317,29 @@ You called me Abby. My name's Ali.
 Uh, yeah. Sorry.
 Um, Abby is my... It's complicated.
 Isn't it always?
-<strong>Buck</strong>: Uh, she's in Europe. She's traveling.
+BUCK: Uh, she's in Europe. She's traveling.
 For the first time, I'm glad she's not around.
 I don't need the worry.
-(<em>Grunts</em>)
-(<em>Sighs</em>)
-Having someone to worry about sounds... nice, actually.
+(grunts) (sighs) Having someone to worry about sounds...
+nice, actually.
 All I do is work.
 What?
 It's after 5:00.
 It's not like it slowed us down.
 Hey, hey, hey, hey. Hey.
-<strong>Batari</strong>: Is anyone there?
+BATARI: Is anyone there?
 You guys hear that?
 Help! Is anyone there?
-(<em>Batari groans</em>)
-I knew help would come.
-<strong>Eddie</strong>: That's right. We're here, we got you, buddy.
+(Batari groans) I knew help would come.
+EDDIE: That's right. We're here, we got you, buddy.
 All right, don't move. Just relax, okay?
 I need you to stay as still as possible.
 Okay, we got to roll him over.
 On three. One, two, three.
-(<em>Screams</em>)
-I... uh, I soiled myself.
+(screams) I... uh, I soiled myself.
 Forget about that, okay?
-<strong>Batari</strong>: Not my proudest moment.
-(<em>Groaning</em>)
-Can you wiggle your toes for me?
+BATARI: Not my proudest moment.
+(groaning) Can you wiggle your toes for me?
 Numbness in his legs, loss of bladder control.
 Spinal injury.
 We got to move him out now.
@@ -381,49 +351,40 @@ Could work, but how are we gonna get him down the stairwell?
 Maybe we don't use the stairwell.
 At least we're not blocked by any debris.
 Or an elevator.
-<strong>Ali</strong>: Um, how much do you think that weighs?
+ALI: Um, how much do you think that weighs?
 2,500. 3,000 pounds?
 I like our chances.
 Yeah.
-(<em>Grunts</em>)
-(<em>Shouts</em>)
-(<em>Shouts</em>)
-Damn it.
-(<em>Panting</em>)
-(<em>Beep</em>)
-Uh, hey, babe, it's, uh, it's me.
-I, um... listen, I just-I just wanted to say that I, uh...
-(<em>Cries</em>)
-I wish I could promise you that I was coming home tonight, but, um... after you took me back, you know, I-I swore that I would never lie to you again.
-And, baby, it's, uh... it's not looking too good for me right now.
+(grunts) (shouts) (shouts) Damn it.
+(panting) (beep) Uh, hey, babe, it's, uh, it's me.
+I, um...
+listen, I just-I just wanted to say that I, uh...
+(cries) I wish I could promise you that I was coming home tonight, but, um...
+after you took me back, you know, I-I swore that I would never lie to you again.
+And, baby, it's, uh...
+it's not looking too good for me right now.
 I love you.
 I love you and I love Denny so much.
 And, uh, and whatever happens...
-...I just need you to know that... that I didn't give up, okay?
+... I just need you to know that... that I didn't give up, okay?
 That I fought.
 I fought to the end. I fought.
 I fought to come home to you, okay?
-(<em>Beep</em>)
-(<em>Shouts</em>)
-(<em>Grunting</em>)
-(<em>Barking</em>)
-Hey. Hey.
+(beep) (shouts) (grunting) (barking) Hey. Hey.
 Lassie, go get help.
 Okay.
 Knock it off.
 Paisley.
 Okay, Paisley, show me the way out.
 All right.
-(<em>Barking</em>)
-<strong>May</strong>: I didn't know our church even did this.
+(barking) MAY: I didn't know our church even did this.
 Yeah, a lot of people are in need right now.
 Not everybody got by with just broken glass and an overturned bookshelf.
 Mom's not here.
 No, she isn't.
 Then why are we?
 To be of service. Okay?
-Hey. (<em>Laughs</em>)
-Grants.
+Hey. (laughs) Grants.
 How good to see you.
 Hi, Ms. Lorna.
 Hey, come here. Mmm.
@@ -433,9 +394,7 @@ Oh, yeah, she is.
 You know I'm gonna put y'all to work.
 And that's why we're here.
 All right.
-Come on. (<em>Chuckles</em>)
-(<em>Indistinct chatter</em>)
-Thank you.
+Come on. (chuckles) (indistinct chatter) Thank you.
 Are you okay?
 Mom said church.
 That's where to go when things go bad.
@@ -446,17 +405,17 @@ Why don't we go wait over there?
 You could still see the doors.
 And I'll wait with you.
 I'm worried about my mom, too.
-<strong>Ms. Lorna</strong>: You and Athena have done such a good job with them.
+MS. LORNA: You and Athena have done such a good job with them.
 They are wonderful children.
-<strong>Michael</strong>: They take after their mother.
-(<em>Ms. lorna chuckles</em>)
-I give you some of the credit.
+MICHAEL: They take after their mother.
+(Ms. Lorna chuckles) I give you some of the credit.
 Eh.
 You're worried.
 We haven't been able to reach Athena all day.
 I'm trying to stay strong for the kids.
 You know, keep them out of their head.
-(<em>Chuckles</em>) Well... may I pray with you?
+(chuckles) Well...
+may I pray with you?
 Yeah.
 Yeah.
 Come on.
@@ -474,45 +433,37 @@ Okay.
 All right.
 You're okay. You're okay.
 Okay. Okay.
-(<em>Rumbling</em>)
-Is the building vibrating?
-(<em>Ali shouts</em>)
-Eddie! Eddie, kick that door open!
+(rumbling) Is the building vibrating?
+(Ali shouts) Eddie! Eddie, kick that door open!
 I got you, okay?
-(<em>Screams</em>)
-Cover!
+(screams) Cover!
 Let's go, Buck! Move your ass!
 All right, here we come.
 Here we come!
 Aah!
-(<em>Elevator crashes</em>)
-(<em>Panting</em>)
-I told you I liked our chances.
-(<em>Indistinct chatter</em>)
-Cap, you good?
-<strong>Bobby</strong>: I'm good.
+(elevator crashes) (panting) I told you I liked our chances.
+(indistinct chatter) Cap, you good?
+BOBBY: I'm good.
 You good?
 We're good.
 Now we're back to where we started.
-<strong>Bobby</strong>: All right, well, we start again.
+BOBBY: All right, well, we start again.
 Captain Nash, Firefighter Wilson's GPS.
 There's been movement.
 Chim, look at this. She's on the other side of us.
 Yeah, she's on the move, but where's she going?
-(<em>Barking</em>)
-Paisley, where'd you go?
-(<em>Barking</em>)
-Kat?
+(barking) Paisley, where'd you go?
+(barking) Kat?
 Oh, my God. I've been looking for you, baby.
 Are you hurt?
 No, but I fell.
 Yeah, me, too.
-(<em>Chuckles</em>) Here, look.
+(chuckles) Here, look.
 Look what I got.
 There you go.
 That's much better.
 Come on.
-<strong>Bobby</strong>: <em>Pillars in the south side of the garage haven't collapsed,</em> so she must've found a pocket of space in there and moved through.
+BOBBY: Pillars in the south side of the garage haven't collapsed, so she must've found a pocket of space in there and moved through.
 South side of the parking garage?
 Yeah. We've been attacking this from the wrong angle.
 We're gonna head south.
@@ -520,7 +471,7 @@ All right? South side of the parking garage.
 This is Captain Nash. We are on the move.
 I need jackhammers, diamond saws, jaws, every heavy duty piece of equipment you have and every available pair of hands.
 We are going down to the southern corner of the garage, level B3.
-<strong>Miranda (<em>over radio</em>)</strong>: Negative, Captain.
+MIRANDA (over radio): Negative, Captain.
 Engineers have warned of a possible complete collapse.
 We need to begin the evacuation.
 No can do. We still have a firefighter trapped down here.
@@ -544,15 +495,15 @@ Sir...
 No! No! No!
 Got to go back, sir.
 Let me in there!
-<strong>Chimney</strong>: So have you given much thought to what you'll do after we're fired?
-<strong>Bobby</strong>: We were ordered to leave the building.
+CHIMNEY: So have you given much thought to what you'll do after we're fired?
+BOBBY: We were ordered to leave the building.
 We're just leaving a different way.
 Yeah, by taking a detour to the bottom of the parking garage?
 Yeah.
 It's a choice.
-<strong>Bobby</strong>: Watch your step.
+BOBBY: Watch your step.
 Hen? Hen.
-<strong>Chimney</strong>: Hen, can you hear us?
+CHIMNEY: Hen, can you hear us?
 Think that ramp is on the other side of this wall?
 Yeah. Should be right over there.
 Whoa.
@@ -562,29 +513,25 @@ Piece of cake.
 All right, let's see what we can find.
 Copy that.
 Chim.
-(<em>Car alarms wailing</em>)
-Get the valet.
+(car alarms wailing) Get the valet.
 See what we got.
 All right.
 All right.
-<strong>Bobby</strong>: All right, scoop 'em up. Let's go.
+BOBBY: All right, scoop 'em up. Let's go.
 All right, let's see what we got here.
-(<em>Alarm chirps</em>)
-Got one, Cap.
+(alarm chirps) Got one, Cap.
 All right. Keep going.
 All right, got a jack, tools.
-<strong>Chimney</strong>: Got another one.
+CHIMNEY: Got another one.
 All right, see what you can find, Chim.
-<strong>Chimney</strong>: Got a toolbox, a jack.
-<strong>Bobby</strong>: Got some rope here.
-(<em>Alarm chirps</em>)
-Cap.
+CHIMNEY: Got a toolbox, a jack.
+BOBBY: Got some rope here.
+(alarm chirps) Cap.
 Yeah?
 You got to see this.
 Thinking what I'm thinking?
-<strong>Bobby</strong>: Snow chains.
-(<em>Engine starts</em>)
-All right.
+BOBBY: Snow chains.
+(engine starts) All right.
 All right, Chim, ease it forward.
 It's coming.
 You're good. Keep going, Chim.
@@ -595,7 +542,7 @@ Chain snapped.
 We have any more chain?
 No.
 But I think it's far enough out that we can get back behind it and push it out the rest of the way.
-<strong>Buck</strong>: Looks like we got here just in time, then.
+BUCK: Looks like we got here just in time, then.
 Yeah, seems like they were planning on having all the fun without us.
 Heard over the radio you needed some equipment and available hands down here.
 You know you guys are disobeying a direct order.
@@ -605,35 +552,28 @@ I'm seriously considering it.
 Your people are very persuasive and persistent.
 One shot, Captain.
 Either way, no one's coming to rescue us.
-(<em>Indistinct chatter</em>)
-Keep going, Chim, we got to get it clear.
+(indistinct chatter) Keep going, Chim, we got to get it clear.
 It's clear now. We need some support beams.
-(<em>Indistinct chatter continuing</em>)
-You got her?
+(indistinct chatter continuing) You got her?
 Straight ahead, straight ahead.
 There you go.
-<strong>Man</strong>: Clear the rubble.
-(<em>Grunts</em>) Get up there.
+MAN: Clear the rubble.
+(grunts) Get up there.
 Three, two, one.
-(<em>Barking</em>)
-<strong>Buck</strong>: Hen?
+(barking) BUCK: Hen?
 Hen, are you there?
-<strong>Man</strong>: Coming out, guys.
+MAN: Coming out, guys.
 Come on.
-Hey, fellas. (<em>Coughs</em>)
-All right, let's get you out of here.
+Hey, fellas. (coughs) All right, let's get you out of here.
 Come on.
 Down here, we got you.
-(<em>Grunting</em>)
-(<em>Indistinct chatter</em>)
-Watch your step.
-(<em>Laughing</em>)
-Hollywood Palm's been evacuated.
+(grunting) (indistinct chatter) Watch your step.
+(laughing) Hollywood Palm's been evacuated.
 All members of the 118 are safe and accounted for.
 Thank you.
 Thank you.
 911. What is your emergency?
-<strong>Woman</strong>: There's this weird light in the sky, like a glowing cloud.
+WOMAN: There's this weird light in the sky, like a glowing cloud.
 Did something else happen?
 A glowing cloud...
 W... Wait, is there power where you are?
@@ -641,78 +581,32 @@ No power here. Not a light for miles.
 Is everything okay?
 I think what you're seeing is the Milky Way.
 The city's usually so bright you're not able to see it.
-Oh, geez. (<em>Chuckles</em>)
-Well, now I feel...
+Oh, geez. (chuckles) Well, now I feel...
 Sorry to bother you.
 You must be pretty busy there.
 It's been a day.
 Well, thank you.
 All of you.
-♪ ♪
-♪ I ♪
-♪ I wish you could swim ♪
-♪ Like the dolphins ♪
-♪ Like dolphins can swim ♪
-♪ Though nothing ♪
-♪ Nothing will keep us together ♪
-♪ We can beat them ♪
-♪ Forever and ever ♪
-♪ Oh, we can be heroes ♪
-♪ Just for one day ♪
-(<em>Mouthing</em>)
-♪ I ♪
-♪ I will be king ♪
-♪ And you ♪
-♪ You will be queen ♪
-♪ Though nothing... ♪
-(<em>Phone buzzing</em>)
-Hey. Service.
-♪ We can be heroes ♪
-♪ Just for one day ♪
-♪ We can be us ♪
-♪ Just for one day ♪
-♪ I ♪
-♪ I can remember ♪
-♪ <em>I remember</em> ♪
-♪ Standing ♪
-♪ By the wall ♪
-♪ <em>By the wall</em> ♪
-♪ And the guns ♪
-♪ Shot above our heads ♪
-♪ <em>Over our heads</em> ♪
-♪ And we kissed ♪
-♪ As though nothing could fall ♪
-♪ <em>Nothing could fall</em> ♪
-♪ And the shame ♪
-♪ Was on the other side ♪
-♪ Oh, we can beat them ♪
-♪ Forever and ever ♪
-♪ Then we could be heroes ♪
-♪ Just for one day ♪
-♪ We can be heroes ♪
-♪ We can be heroes ♪
-♪ We can be heroes. ♪
+* * I * I wish you could swim * Like the dolphins * Like dolphins can swim * Though nothing * Nothing will keep us together * * We can beat them * Forever and ever * Oh, we can be heroes * Just for one day (mouthing) * I * I will be king * And you * You will be queen * Though nothing...
+(phone buzzing) Hey. Service.
+* We can be heroes * Just for one day * We can be us * Just for one day * I * I can remember * I remember * * Standing * By the wall * By the wall * * And the guns * Shot above our heads * Over our heads * * And we kissed * As though nothing could fall * Nothing could fall * * And the shame * Was on the other side * Oh, we can beat them * Forever and ever * Then we could be heroes * Just for one day * We can be heroes * We can be heroes * We can be heroes.
 Smells good.
-(<em>Chuckles</em>) Well, you know how I do.
-(<em>Phone rings</em>)
-(<em>Chuckles</em>) Oh.
+(chuckles) Well, you know how I do.
+(phone rings) (chuckles) Oh.
 Hey. How's my man?
-<strong>Bobby</strong>: I need to see you.
-(<em>Chuckles</em>)
-I need to see you, too, but I have to feed these kids and the roads are still a mess.
+BOBBY: I need to see you.
+(chuckles) I need to see you, too, but I have to feed these kids and the roads are still a mess.
 I need to see you. Can you come out front?
-(<em>Hangs up</em>)
-You came all this way just to see me?
+(hangs up) You came all this way just to see me?
 I would've walked if I had to.
 Hey.
 Hey.
 You know what? I thought about knocking on the door, but I figured that wasn't the best way for your kids to meet me the first time.
-(<em>Chuckles</em>) Yeah, that's probably wise.
+(chuckles) Yeah, that's probably wise.
 How was your day, honey?
 Oh, pretty standard.
 I like your outfit.
-(<em>Chuckles</em>)
-I was worried about you all day.
+(chuckles) I was worried about you all day.
 Yeah, I was worried about you, too.
 It was nice having something so important to worry about.
 I had to work hard to put it aside to get the job done.
@@ -726,9 +620,12 @@ And you have him standing out here after the day he's probably had.
 Bobby, please, come inside.
 Uh, no, thank you, but maybe another time.
 Nonsense. I already set your plate.
-And, uh... the kids are excited to meet you.
-(<em>Mouths</em>)
-(<em>Sighs</em>)
-Um...
-(<em>Athena chuckles</em>)
-(<em>Laughs</em>)
+And, uh...
+the kids are excited to meet you.
+(mouths) (sighs) Um...
+(Athena chuckles) (laughs) Captioned by Media Access Group at WGBH You've answered the call on 9-1-1.
+Now here are a few more shows to check out from Fox.
+Buckle up, buttercup.
+It's real, and it pulls people together.
+* We're breaking waves shooting star * (siren wailing) * We live for glory not forever * MAN: Touchdown!
+* Reach out * * Make this right here right now * * Stand up * * Here right now * 
