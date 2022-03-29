@@ -15,6 +15,7 @@
 		button {
 			width: wrap;
 			margin: 5px;
+			color: black;
 			padding-top: 5px;
 			padding-bottom: 5px;
 			padding-left: 10px;
@@ -54,7 +55,14 @@
 		.settings {
 			margin: auto;
 			display: block;
+			width: 100% !important;
 			max-width: 400px;
+		}
+
+		@media screen and (max-width: 600px) {
+  			.column {
+   			 	width: 100%;
+  			}
 		}
 
 		.setting {
@@ -114,6 +122,6 @@
 	<div class="contextdiv"><span id="contextResults"></span></div>
 	<div class="footer">
 		Transcripts pulled from subitles with minimal editing. Partial concept from <a href=https://spntranscriptsearch.github.io/>SPN Transcript Search</a>.<br>
-		<a href=https://ireneae.tumblr.com/ask>Report a problem or come say hi!</a></div>
+		<a href=https://ireneae.tumblr.com/ask>Report a problem or say hi</a></div>
 </body>
 </html>
