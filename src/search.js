@@ -104,6 +104,8 @@ function search() {
 	}
 	var epsSpan = document.getElementById("epResults");
 	var contextSpan = document.getElementById("contextResults");
+	var showContext = document.getElementById('contextToggle').checked;
+	var found = false;
 	epsWithString += "<div class=\"permalink\"><a href=" + getPermalink() + ">Link to search</a><br /><br /></div>";
 	for (var season=1; season<=seasons; season++) {
 		var seasonEps = "";
@@ -114,8 +116,9 @@ function search() {
 				url:file,
 				success: function (data) {
 					if (data.toLowerCase().includes(phrase)) {
+						found = true;
 						seasonEps += "LS-2.03 ";
-						if (document.getElementById('contextToggle').checked) {
+						if (showContext) {
 							context += parseContext(phrase, "LS 2.03 - Hold the Line", data);
 						}
 					}
@@ -128,8 +131,9 @@ function search() {
 				url:file,
 				success: function (data) {
 					if (data.toLowerCase().includes(phrase)) {
+						found = true;
 						seasonEps += season + "." + pad2(ep) + " ";
-						if (document.getElementById('contextToggle').checked) {
+						if (showContext) {
 							context += parseContext(phrase, getTitle(season, ep), data);
 						}
 					}
@@ -141,7 +145,7 @@ function search() {
 			epsWithString += seasonEps + "<br />";
 		}
 	}
-	if (!context) {
+	if (!found) {
 		context = "<center>No results found.<br /></center>";
 	}
 	epsSpan.innerHTML = epsWithString;
