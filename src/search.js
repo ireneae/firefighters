@@ -96,7 +96,6 @@ function parseContext(phrase, epTitle, data) {
 }
 
 function search() {
-	var epsWithString = "";
 	var context = "";
 	var phrase = document.getElementById("phrase").value.toLowerCase();
 	if (!phrase) {
@@ -106,7 +105,7 @@ function search() {
 	var contextSpan = document.getElementById("contextResults");
 	var showContext = document.getElementById('contextToggle').checked;
 	var found = false;
-	epsWithString += "<div class=\"permalink\"><a href=" + getPermalink() + ">Link to search</a><br /><br /></div>";
+	epsSpan.innerHTML = "<div class=\"permalink\"><a href=" + getPermalink() + ">Link to search</a><br /><br /></div>";
 	for (var season=1; season<=seasons; season++) {
 		var seasonEps = "";
 		for (var ep=1; ep<=eps[season-1]; ep++) {
@@ -142,12 +141,11 @@ function search() {
 			});
 		}
 		if (seasonEps) {
-			epsWithString += seasonEps + "<br />";
+			epsSpan.innerHTML += seasonEps + "<br />";
 		}
 	}
 	if (!found) {
 		context = "<center>No results found.<br /></center>";
 	}
-	epsSpan.innerHTML = epsWithString;
 	contextSpan.innerHTML = context;
 }
