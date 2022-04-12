@@ -145,6 +145,7 @@ function search() {
 			epsSpan.append(seasonEps);
 			epsSpan.append(document.createElement('br'));
 			epsSpan.focus();
+			console.log(epsSpan.offsetHeight);
 			console.log(seasonEps);
 		}
 	}
