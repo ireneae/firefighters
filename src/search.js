@@ -98,48 +98,58 @@ function parseContext(phrase, epTitle, data) {
 function queryLoneStar(phrase, showContext) {
 	var epsSpan = document.getElementById("epResults");
 	var file = 'transcripts/ls_s02e03.txt';
-	var context = "";
 	jQuery.ajax({
 		url:file,
 		success: function (data) {
 			if (data.toLowerCase().includes(phrase)) {
 				epsSpan.innerHTML += "LS-2.03 ";
 				if (showContext) {
-					context = parseContext(phrase, "LS 2.03 - Hold the Line", data);
+					document.getElementById("contextResults").innerHTML += parseContext(phrase, "LS 2.03 - Hold the Line", data);
 				}
 			}
 		},
 		async: false
 	});
-	return context;
 }
 
-function querySeason(season, phrase, showContext) {
-	var context = "";
+function searchEp(file, phrase, season, ep, showContext) {
 	var found = false;
-	for (var ep=1; ep<=eps[season-1]; ep++) {
-		if (season === 4 && ep === 4 && document.getElementById('crossoverToggle').checked) {
-			var ls = queryLoneStar(phrase, showContext);
-			if (ls) found = true;
-			context += ls;
-		}
-		var file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.txt';
-		jQuery.ajax({
+	var epsSpan = document.getElementById("epResults");
+	jQuery.ajax({
 			url:file,
 			success: function (data) {
 				if (data.toLowerCase().includes(phrase)) {
 					found = true;
-					document.getElementById("epResults").innerHTML += season + "." + pad2(ep) + " ";
+					epsSpan.innerHTML += season + "." + pad2(ep) + " ";
 					if (showContext) {
-						context += parseContext(phrase, getTitle(season, ep), data);
+						document.getElementById("contextResults").innerHTML += parseContext(phrase, getTitle(season, ep), data);
 					}
 				}
 			},
 			async: false
 		});
-	}
-	if (found) {
-		document.getElementById("epResults").innerHTML += "<br />";
+	return found;
+}
+
+function querySeason(season, phrase, showContext) {
+	var contextSpan = document.getElementById("contextResults");
+	var context = "";
+	var found = false;
+	for (var ep=1; ep<=eps[season-1]; ep++) {
+		if (season === 4 && ep === 4 && document.getElementById('crossoverToggle').checked) {
+			setTimeout(() => {
+				found = queryLoneStar(phrase, showContext) || found;
+			}, 0);
+		}
+		const s = season;
+		const e = ep;
+		const file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.txt';
+		setTimeout(() => {
+			found = searchEp(file, phrase, s, e, showContext) || found;
+			if (e === eps[season-1] && found) {
+				document.getElementById("epResults").innerHTML += "<br />";
+			}
+		}, 0);
 	}
 	return context;
 }
