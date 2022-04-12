@@ -95,6 +95,55 @@ function parseContext(phrase, epTitle, data) {
 	return txt;
 }
 
+function queryLoneStar(phrase, showContext) {
+	var epsSpan = document.getElementById("epResults");
+	var file = 'transcripts/ls_s02e03.txt';
+	var context = "";
+	jQuery.ajax({
+		url:file,
+		success: function (data) {
+			if (data.toLowerCase().includes(phrase)) {
+				epsSpan.innerHTML += "LS-2.03 ";
+				if (showContext) {
+					context = parseContext(phrase, "LS 2.03 - Hold the Line", data);
+				}
+			}
+		},
+		async: false
+	});
+	return context;
+}
+
+function querySeason(season, phrase, showContext) {
+	var context = "";
+	var found = false;
+	for (var ep=1; ep<=eps[season-1]; ep++) {
+		if (season === 4 && ep === 4 && document.getElementById('crossoverToggle').checked) {
+			var ls = queryLoneStar(phrase, showContext);
+			if (ls) found = true;
+			context += ls;
+		}
+		var file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.txt';
+		jQuery.ajax({
+			url:file,
+			success: function (data) {
+				if (data.toLowerCase().includes(phrase)) {
+					found = true;
+					document.getElementById("epResults").innerHTML += season + "." + pad2(ep) + " ";
+					if (showContext) {
+						context += parseContext(phrase, getTitle(season, ep), data);
+					}
+				}
+			},
+			async: false
+		});
+	}
+	if (found) {
+		document.getElementById("epResults").innerHTML += "<br />";
+	}
+	return context;
+}
+
 function search() {
 	var context = "";
 	var phrase = document.getElementById("phrase").value.toLowerCase();
@@ -104,52 +153,11 @@ function search() {
 	var epsSpan = document.getElementById("epResults");
 	var contextSpan = document.getElementById("contextResults");
 	var showContext = document.getElementById('contextToggle').checked;
-	var found = false;
 	epsSpan.innerHTML = "<div class=\"permalink\"><a href=" + getPermalink() + ">Link to search</a><br /><br /></div>";
 	for (var season=1; season<=seasons; season++) {
-		var seasonEps = "";
-		for (var ep=1; ep<=eps[season-1]; ep++) {
-			if (season === 4 && ep === 4 && document.getElementById('crossoverToggle').checked) {
-				var file = 'transcripts/ls_s02e03.txt';
-				jQuery.ajax({
-				url:file,
-				success: function (data) {
-					if (data.toLowerCase().includes(phrase)) {
-						found = true;
-						seasonEps += "LS-2.03 ";
-						if (showContext) {
-							context += parseContext(phrase, "LS 2.03 - Hold the Line", data);
-						}
-					}
-				},
-				async: false
-			});
-			}
-			var file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.txt';
-			jQuery.ajax({
-				url:file,
-				success: function (data) {
-					if (data.toLowerCase().includes(phrase)) {
-						found = true;
-						seasonEps += season + "." + pad2(ep) + " ";
-						if (showContext) {
-							context += parseContext(phrase, getTitle(season, ep), data);
-						}
-					}
-				},
-				async: false
-			});
-		}
-		if (seasonEps) {
-			console.log(epsSpan.innerHTML)
-			epsSpan.append(seasonEps);
-			epsSpan.append(document.createElement('br'));
-			epsSpan.focus();
-			console.log(epsSpan.offsetHeight);
-			console.log(seasonEps);
-		}
+		context += querySeason(season, phrase, showContext);
 	}
-	if (!found) {
+	if (!epsSpan.innerHTML) {
 		context = "<center>No results found.<br /></center>";
 	}
 	contextSpan.innerHTML = context;
