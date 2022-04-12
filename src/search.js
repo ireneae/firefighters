@@ -141,7 +141,9 @@ function search() {
 			});
 		}
 		if (seasonEps) {
-			epsSpan.innerHTML += seasonEps + "<br />";
+			console.log(epsSpan.innerHTML)
+			epsSpan.append(seasonEps);
+			epsSpan.append(document.createElement('br'))
 			console.log(seasonEps);
 		}
 	}
