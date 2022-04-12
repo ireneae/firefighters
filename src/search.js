@@ -143,7 +143,8 @@ function search() {
 		if (seasonEps) {
 			console.log(epsSpan.innerHTML)
 			epsSpan.append(seasonEps);
-			epsSpan.append(document.createElement('br'))
+			epsSpan.append(document.createElement('br'));
+			epsSpan.focus();
 			console.log(seasonEps);
 		}
 	}
