@@ -142,6 +142,7 @@ function search() {
 		}
 		if (seasonEps) {
 			epsSpan.innerHTML += seasonEps + "<br />";
+			console.log(seasonEps);
 		}
 	}
 	if (!found) {
