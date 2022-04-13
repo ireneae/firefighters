@@ -137,19 +137,13 @@ function querySeason(season, phrase, showContext) {
 	var found = false;
 	for (var ep=1; ep<=eps[season-1]; ep++) {
 		if (season === 4 && ep === 4 && document.getElementById('crossoverToggle').checked) {
-			setTimeout(() => {
-				found = queryLoneStar(phrase, showContext) || found;
-			}, 0);
+			found = queryLoneStar(phrase, showContext) || found;
 		}
-		const s = season;
-		const e = ep;
-		const file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.txt';
-		setTimeout(() => {
-			found = searchEp(file, phrase, s, e, showContext) || found;
-			if (e === eps[season-1] && found) {
-				document.getElementById("epResults").innerHTML += "<br />";
-			}
-		}, 0);
+	    file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.txt';
+		found = searchEp(file, phrase, season, ep, showContext) || found;
+		if (ep === eps[season-1] && found) {
+			document.getElementById("epResults").innerHTML += "<br />";
+		}
 	}
 	return context;
 }
@@ -161,14 +155,15 @@ function search() {
 		return;
 	}
 	var epsSpan = document.getElementById("epResults");
-	var contextSpan = document.getElementById("contextResults");
 	var showContext = document.getElementById('contextToggle').checked;
 	epsSpan.innerHTML = "<div class=\"permalink\"><a href=" + getPermalink() + ">Link to search</a><br /><br /></div>";
 	for (var season=1; season<=seasons; season++) {
-		context += querySeason(season, phrase, showContext);
+		const s = season;
+		setTimeout(() => {
+			querySeason(s, phrase, showContext);
+		}, 0);
 	}
 	if (!epsSpan.innerHTML) {
-		context = "<center>No results found.<br /></center>";
+		document.getElementById("contextResults").innerHTML += "<center>No results found.<br /></center>";
 	}
-	contextSpan.innerHTML = context;
 }
