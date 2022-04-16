@@ -123,6 +123,7 @@ function searchEp(file, phrase, season, ep, showContext) {
 			success: function (data) {
 				console.log("found " + season + " " + ep);
 				if (data.toLowerCase().includes(phrase)) {
+					console.log("phrase in " + season + " " + ep);
 					found = true;
 					epsSpan.innerHTML += season + "." + pad2(ep) + " ";
 					if (showContext) {
@@ -143,7 +144,11 @@ function querySeason(season, phrase, showContext) {
 		if (season === 4 && ep === 4 && document.getElementById('crossoverToggle').checked) {
 			found = queryLoneStar(phrase, showContext) || found;
 		}
-	    file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.txt';
+		if (season === 1) {
+			file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.html';
+		} else {
+	    	file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.txt';
+		}
 		found = searchEp(file, phrase, season, ep, showContext) || found;
 		if (ep === eps[season-1] && found) {
 			document.getElementById("epResults").innerHTML += "<br />";
