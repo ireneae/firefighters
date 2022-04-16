@@ -25,7 +25,8 @@ $(document).ready(function(){
 const seasons = 5;
 const eps = [10, 18, 18, 14, 13];
 const htmlRegex = /<[^>]*>/g;
-const N = 2;
+const N = 8;
+const M = 2;
 
 function pad2(num) {
 	return String(num).padStart(2, '0');
@@ -73,31 +74,68 @@ function parseLines(lines, nos) {
 	return txt;
 }
 
-function parseContext(phrase, epTitle, data) {
-	txt = "<br><div class=\"resTitle\">" + epTitle + "</div>";
+function showDetailed(epNum, k, expand) {
+	st = epNum + "." + k;
+	if (expand) {
+		document.getElementById(st).style.display = "none";
+		document.getElementById(st + "det").style.display = "block";
+	} else {
+		document.getElementById(st).style.display = "block";
+		document.getElementById(st + "det").style.display = "none";
+	}
+}
+
+function createNodes(epDiv, lines, nos, nosDet, epNum, k) {
+	st = epNum + "." + k;
+	const textNode = document.createElement("div")
+	textNode.id = st;
+	const textNodeDet = document.createElement("div");
+	textNodeDet.id = st + "det";
+	textNodeDet.style.display = "none";
+	textNode.innerHTML = parseLines(lines, nos);
+	textNodeDet.innerHTML = parseLines(lines, nosDet);
+	textNode.innerHTML += "<a href=\"javascript:showDetailed(" + epNum + "," + k + ", true)" + ";\"><small>(expand)</small></a>"
+	textNodeDet.innerHTML += "<a href=\"javascript:showDetailed(" + epNum + "," + k + ", false)" + ";\"><small>(collapse)</small></a>"
+	epDiv.appendChild(textNode);
+	epDiv.appendChild(textNodeDet);
+}
+
+function parseContext(phrase, epTitle, epNum, data) {
+	const epDiv = document.createElement("div");
+	epDiv.innerHTML = "<br><div class=\"resTitle\">" + epTitle + "</div>";
 	var lines = data.split("\n");
 	var nos = [];
+	var nosDet = [];
+	var txt = "";
+	var k = 0;
 	for (var i=0; i<lines.length; i++) {
 		var line = lines[i].replace(htmlRegex, '');
 		if (line.toLowerCase().includes(phrase)) {
-			var start = i-N;
+			var start = i-M;
 			if (nos.length > 0 && start > nos[nos.length - 1]) {
 				// finish out the current set
-				txt += parseLines(lines, nos);
+				createNodes(epDiv, lines, nos, nosDet, epNum, k);
 				nos = [];
+				nosDet = [];
+				k += 1;
 			} else if (nos.length > 0) {
 				start = nos[nos.length - 1] + 1;
 			}
-			for (var j=start; j < i+N+1; j++) {
+			for (var j=start; j < i+M+1; j++) {
 				if (j >= 0 && j < lines.length - 1) {
 					nos.push(j);
 				}
 			}
+			for (var j=start-(N-M); j < i+N+1; j++) {
+				if (j >= 0 && (nosDet.length == 0 || j > nosDet[nosDet.length-1]) && j < lines.length - 1) {
+					nosDet.push(j);
+				}
+			}
 		}
 	}
-	txt += parseLines(lines, nos);
-	txt += "<br />";
-	return txt;
+	createNodes(epDiv, lines, nos, nosDet, epNum, k);
+	epDiv.innerHTML += "<br />";
+	document.getElementById("contextResults").appendChild(epDiv);
 }
 
 function queryLoneStar(phrase, showContext) {
@@ -109,7 +147,7 @@ function queryLoneStar(phrase, showContext) {
 			if (data.toLowerCase().includes(phrase)) {
 				epsSpan.innerHTML += "LS-2.03 ";
 				if (showContext) {
-					document.getElementById("contextResults").innerHTML += parseContext(phrase, "LS 2.03 - Hold the Line", data);
+					document.getElementById("contextResults").innerHTML += parseContext(phrase, "LS 2.03 - Hold the Line", "LS2.03", data);
 				}
 			}
 		},
@@ -121,9 +159,10 @@ function searchEp(data, title, phrase, season, ep, showContext) {
 	var found = false;
 	if (data.toLowerCase().includes(phrase)) {
 		found = true;
-		document.getElementById("epResults").innerHTML += season + "." + pad2(ep) + " ";
+		epNum = "" + season + "." + pad2(ep)
+		document.getElementById("epResults").innerHTML += epNum + " ";
 		if (showContext) {
-			document.getElementById("contextResults").innerHTML += parseContext(phrase, title, data);
+			parseContext(phrase, title, epNum, data);
 		}
 	}
 	return found;
