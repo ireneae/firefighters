@@ -116,7 +116,6 @@ function queryLoneStar(phrase, showContext) {
 
 function searchEp(file, phrase, season, ep, showContext) {
 	var found = false;
-	var epsSpan = document.getElementById("epResults");
 	console.log("searching " + season + " " + ep);
 	jQuery.ajax({
 			url:file,
@@ -125,7 +124,7 @@ function searchEp(file, phrase, season, ep, showContext) {
 				if (data.toLowerCase().includes(phrase)) {
 					console.log("phrase in " + season + " " + ep);
 					found = true;
-					epsSpan.innerHTML += season + "." + pad2(ep) + " ";
+					document.getElementById("epResults").innerHTML += season + "." + pad2(ep) + " ";
 					if (showContext) {
 						document.getElementById("contextResults").innerHTML += parseContext(phrase, getTitle(season, ep), data);
 					}
@@ -163,6 +162,15 @@ function search() {
 	if (!phrase) {
 		return;
 	}
+	console.log('finding all_transcripts');
+	jQuery.ajax({
+			url:"transcripts/all_transcripts.txt",
+			success: function (data) {
+				console.log('found all_transcripts');
+			},
+			async: false
+		});
+	console.log('done all_transcripts');
 	var epsSpan = document.getElementById("epResults");
 	var showContext = document.getElementById('contextToggle').checked;
 	epsSpan.innerHTML = "<div class=\"permalink\"><a href=" + getPermalink() + ">Link to search</a><br /><br /></div>";
