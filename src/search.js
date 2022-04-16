@@ -132,7 +132,6 @@ function searchEp(file, phrase, season, ep, showContext) {
 }
 
 function querySeason(season, phrase, showContext) {
-	var contextSpan = document.getElementById("contextResults");
 	var context = "";
 	var found = false;
 	for (var ep=1; ep<=eps[season-1]; ep++) {
@@ -149,7 +148,7 @@ function querySeason(season, phrase, showContext) {
 }
 
 function search() {
-	var context = "";
+	document.getElementById("contextResults").innerHTML = "";
 	var phrase = document.getElementById("phrase").value.toLowerCase();
 	if (!phrase) {
 		return;
