@@ -42,7 +42,8 @@ function getPermalink() {
 	}
 	return window.location.pathname + "?" + params.toString();
 }
-function getTitle(season, ep) {
+
+function getEpIndex(season, ep) {
 	var epNum = 0;
 	var s = 0;
 	var title = "";
@@ -50,10 +51,14 @@ function getTitle(season, ep) {
 		epNum += eps[s];
 		s += 1;
 	}
+	return epNum + ep - 1;
+}
+
+function getTitle(season, ep) {
 	jQuery.ajax({
 		url:'transcripts/titles.txt',
 		success: function (data) {
-			title = data.split('\n')[epNum + ep - 1];
+			title = data.split('\n')[getEpIndex(season, ep)];
 		},
 		async:false
 	});
@@ -114,13 +119,11 @@ function queryLoneStar(phrase, showContext) {
 	});
 }
 
-function searchEp(file, phrase, season, ep, showContext) {
+function searchEp(data, phrase, season, ep, showContext) {
 	var found = false;
 	console.log("searching " + season + " " + ep);
-	jQuery.ajax({
-			url:file,
-			success: function (data) {
 				console.log("found " + season + " " + ep);
+				console.log(data.substring(0, 10));
 				if (data.toLowerCase().includes(phrase)) {
 					console.log("phrase in " + season + " " + ep);
 					found = true;
@@ -130,25 +133,17 @@ function searchEp(file, phrase, season, ep, showContext) {
 					}
 				}
 				console.log("searched " + season + " " + ep);
-			},
-			async: false
-		});
 	return found;
 }
 
-function querySeason(season, phrase, showContext) {
+function querySeason(text, season, phrase, showContext) {
 	var context = "";
 	var found = false;
 	for (var ep=1; ep<=eps[season-1]; ep++) {
 		if (season === 4 && ep === 4 && document.getElementById('crossoverToggle').checked) {
 			found = queryLoneStar(phrase, showContext) || found;
 		}
-		if (season === 1) {
-			file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.html';
-		} else {
-	    	file = 'transcripts/s' + pad2(season) + 'e' + pad2(ep) + '.txt';
-		}
-		found = searchEp(file, phrase, season, ep, showContext) || found;
+		found = searchEp(text[getEpIndex(season, ep)], phrase, season, ep, showContext) || found;
 		if (ep === eps[season-1] && found) {
 			document.getElementById("epResults").innerHTML += "<br />";
 		}
@@ -164,12 +159,14 @@ function search() {
 	}
 	console.log('finding all_transcripts');
 	jQuery.ajax({
-			url:"transcripts/all_transcripts.txt",
+			url:"transcripts/all.txt",
 			success: function (data) {
 				console.log('found all_transcripts');
+				epArray = data.split("@@@@@@\n");
 			},
 			async: false
 		});
+	console.log(epArray.length);
 	console.log('done all_transcripts');
 	var epsSpan = document.getElementById("epResults");
 	var showContext = document.getElementById('contextToggle').checked;
@@ -177,7 +174,7 @@ function search() {
 	for (var season=1; season<=seasons; season++) {
 		const s = season;
 		setTimeout(() => {
-			querySeason(s, phrase, showContext);
+			querySeason(epArray, s, phrase, showContext);
 		}, 0);
 	}
 	if (!epsSpan.innerHTML) {
