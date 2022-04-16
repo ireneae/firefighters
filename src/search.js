@@ -94,8 +94,8 @@ function createNodes(epDiv, lines, nos, nosDet, epNum, k) {
 	textNodeDet.style.display = "none";
 	textNode.innerHTML = parseLines(lines, nos);
 	textNodeDet.innerHTML = parseLines(lines, nosDet);
-	textNode.innerHTML += "<a href=\"javascript:showDetailed(" + epNum + "," + k + ", true)" + ";\"><small>(expand)</small></a>"
-	textNodeDet.innerHTML += "<a href=\"javascript:showDetailed(" + epNum + "," + k + ", false)" + ";\"><small>(collapse)</small></a>"
+	textNode.innerHTML += "<a href=\"javascript:showDetailed(" + epNum + "," + k + ", true)" + ";\" style=\"text-decoration: none\"><small>(expand)</small></a>"
+	textNodeDet.innerHTML += "<a href=\"javascript:showDetailed(" + epNum + "," + k + ", false)" + ";\" style=\"text-decoration: none\"><small>(collapse)</small></a>"
 	epDiv.appendChild(textNode);
 	epDiv.appendChild(textNodeDet);
 }
