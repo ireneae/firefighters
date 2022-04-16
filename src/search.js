@@ -74,7 +74,6 @@ function parseLines(lines, nos) {
 }
 
 function parseContext(phrase, epTitle, data) {
-	console.log("parsing " + epTitle);
 	txt = "<br><div class=\"resTitle\">" + epTitle + "</div>";
 	var lines = data.split("\n");
 	var nos = [];
@@ -98,7 +97,6 @@ function parseContext(phrase, epTitle, data) {
 	}
 	txt += parseLines(lines, nos);
 	txt += "<br />";
-	console.log("parsed " + epTitle);
 	return txt;
 }
 
@@ -121,18 +119,13 @@ function queryLoneStar(phrase, showContext) {
 
 function searchEp(data, title, phrase, season, ep, showContext) {
 	var found = false;
-	console.log("searching " + season + " " + ep);
-	console.log("found " + season + " " + ep);
-	console.log(data.substring(0, 10));
 	if (data.toLowerCase().includes(phrase)) {
-		console.log("phrase in " + season + " " + ep);
 		found = true;
 		document.getElementById("epResults").innerHTML += season + "." + pad2(ep) + " ";
 		if (showContext) {
 			document.getElementById("contextResults").innerHTML += parseContext(phrase, title, data);
 		}
 	}
-	console.log("searched " + season + " " + ep);
 	return found;
 }
 
@@ -157,7 +150,6 @@ function search() {
 	if (!phrase) {
 		return;
 	}
-	console.log("finding titles");
 	jQuery.ajax({
 		url:'transcripts/titles.txt',
 		success: function (data) {
@@ -165,17 +157,13 @@ function search() {
 		},
 		async:false
 	});
-	console.log('finding all_transcripts');
 	jQuery.ajax({
 			url:"transcripts/all.txt",
 			success: function (data) {
-				console.log('found all_transcripts');
 				epArray = data.split("@@@@@@\n");
 			},
 			async: false
 		});
-	console.log(epArray.length);
-	console.log('done all_transcripts');
 	var showContext = document.getElementById('contextToggle').checked;
 	var found = false;
 	document.getElementById("epResults").innerHTML = "<div class=\"permalink\"><a href=" + getPermalink() + ">Link to search</a><br /><br /></div>";
