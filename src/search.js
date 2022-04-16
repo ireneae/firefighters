@@ -119,36 +119,36 @@ function queryLoneStar(phrase, showContext) {
 	});
 }
 
-function searchEp(data, phrase, season, ep, showContext) {
+function searchEp(data, title, phrase, season, ep, showContext) {
 	var found = false;
 	console.log("searching " + season + " " + ep);
-				console.log("found " + season + " " + ep);
-				console.log(data.substring(0, 10));
-				if (data.toLowerCase().includes(phrase)) {
-					console.log("phrase in " + season + " " + ep);
-					found = true;
-					document.getElementById("epResults").innerHTML += season + "." + pad2(ep) + " ";
-					if (showContext) {
-						document.getElementById("contextResults").innerHTML += parseContext(phrase, getTitle(season, ep), data);
-					}
-				}
-				console.log("searched " + season + " " + ep);
+	console.log("found " + season + " " + ep);
+	console.log(data.substring(0, 10));
+	if (data.toLowerCase().includes(phrase)) {
+		console.log("phrase in " + season + " " + ep);
+		found = true;
+		document.getElementById("epResults").innerHTML += season + "." + pad2(ep) + " ";
+		if (showContext) {
+			document.getElementById("contextResults").innerHTML += parseContext(phrase, title, data);
+		}
+	}
+	console.log("searched " + season + " " + ep);
 	return found;
 }
 
-function querySeason(text, season, phrase, showContext) {
-	var context = "";
+function querySeason(text, titles, season, phrase, showContext) {
 	var found = false;
 	for (var ep=1; ep<=eps[season-1]; ep++) {
 		if (season === 4 && ep === 4 && document.getElementById('crossoverToggle').checked) {
 			found = queryLoneStar(phrase, showContext) || found;
 		}
-		found = searchEp(text[getEpIndex(season, ep)], phrase, season, ep, showContext) || found;
+		var idx = getEpIndex(season, ep);
+		found = searchEp(text[idx], titles[idx], phrase, season, ep, showContext) || found;
 		if (ep === eps[season-1] && found) {
 			document.getElementById("epResults").innerHTML += "<br />";
 		}
 	}
-	return context;
+	return found;
 }
 
 function search() {
@@ -157,6 +157,14 @@ function search() {
 	if (!phrase) {
 		return;
 	}
+	console.log("finding titles");
+	jQuery.ajax({
+		url:'transcripts/titles.txt',
+		success: function (data) {
+			titles = data.split('\n');
+		},
+		async:false
+	});
 	console.log('finding all_transcripts');
 	jQuery.ajax({
 			url:"transcripts/all.txt",
@@ -168,16 +176,14 @@ function search() {
 		});
 	console.log(epArray.length);
 	console.log('done all_transcripts');
-	var epsSpan = document.getElementById("epResults");
 	var showContext = document.getElementById('contextToggle').checked;
-	epsSpan.innerHTML = "<div class=\"permalink\"><a href=" + getPermalink() + ">Link to search</a><br /><br /></div>";
+	var found = false;
+	document.getElementById("epResults").innerHTML = "<div class=\"permalink\"><a href=" + getPermalink() + ">Link to search</a><br /><br /></div>";
 	for (var season=1; season<=seasons; season++) {
 		const s = season;
-		setTimeout(() => {
-			querySeason(epArray, s, phrase, showContext);
-		}, 0);
+		found = querySeason(epArray, titles, s, phrase, showContext) || found;
 	}
-	if (!epsSpan.innerHTML) {
+	if (!found) {
 		document.getElementById("contextResults").innerHTML += "<center>No results found.<br /></center>";
 	}
 }
