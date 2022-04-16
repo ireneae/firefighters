@@ -69,6 +69,7 @@ function parseLines(lines, nos) {
 }
 
 function parseContext(phrase, epTitle, data) {
+	console.log("parsing " + epTitle);
 	txt = "<br><div class=\"resTitle\">" + epTitle + "</div>";
 	var lines = data.split("\n");
 	var nos = [];
@@ -92,6 +93,7 @@ function parseContext(phrase, epTitle, data) {
 	}
 	txt += parseLines(lines, nos);
 	txt += "<br />";
+	console.log("parsed " + epTitle);
 	return txt;
 }
 
@@ -115,9 +117,11 @@ function queryLoneStar(phrase, showContext) {
 function searchEp(file, phrase, season, ep, showContext) {
 	var found = false;
 	var epsSpan = document.getElementById("epResults");
+	console.log("searching " + season + " " + ep);
 	jQuery.ajax({
 			url:file,
 			success: function (data) {
+				console.log("found " + season + " " + ep);
 				if (data.toLowerCase().includes(phrase)) {
 					found = true;
 					epsSpan.innerHTML += season + "." + pad2(ep) + " ";
@@ -125,6 +129,7 @@ function searchEp(file, phrase, season, ep, showContext) {
 						document.getElementById("contextResults").innerHTML += parseContext(phrase, getTitle(season, ep), data);
 					}
 				}
+				console.log("searched " + season + " " + ep);
 			},
 			async: false
 		});
