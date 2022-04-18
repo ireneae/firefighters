@@ -74,28 +74,27 @@ function parseLines(lines, nos) {
 	return txt;
 }
 
-function showDetailed(epNum, k, expand) {
-	st = epNum + "." + k;
+function showDetailed(epNum, expand) {
+	console.log(epNum);
 	if (expand) {
-		document.getElementById(st).style.display = "none";
-		document.getElementById(st + "det").style.display = "block";
+		document.getElementById(epNum).style.display = "none";
+		document.getElementById(epNum + "det").style.display = "block";
 	} else {
-		document.getElementById(st).style.display = "block";
-		document.getElementById(st + "det").style.display = "none";
+		document.getElementById(epNum).style.display = "block";
+		document.getElementById(epNum + "det").style.display = "none";
 	}
 }
 
-function createNodes(epDiv, lines, nos, nosDet, epNum, k) {
-	st = epNum + "." + k;
+function createNodes(epDiv, lines, nos, nosDet, epNum) {
 	const textNode = document.createElement("div")
-	textNode.id = st;
+	textNode.id = epNum;
 	const textNodeDet = document.createElement("div");
-	textNodeDet.id = st + "det";
+	textNodeDet.id = epNum + "det";
 	textNodeDet.style.display = "none";
 	textNode.innerHTML = parseLines(lines, nos);
 	textNodeDet.innerHTML = parseLines(lines, nosDet);
-	textNode.innerHTML += "<a href=\"javascript:showDetailed(" + epNum + "," + k + ", true)" + ";\" style=\"text-decoration: none\"><small>(expand)</small></a>"
-	textNodeDet.innerHTML += "<a href=\"javascript:showDetailed(" + epNum + "," + k + ", false)" + ";\" style=\"text-decoration: none\"><small>(collapse)</small></a>"
+	textNode.innerHTML += "<a href=\"javascript:showDetailed(\'" + epNum + "\', true)" + ";\" style=\"text-decoration: none\"><small>(expand)</small></a>"
+	textNodeDet.innerHTML += "<a href=\"javascript:showDetailed(\'" + epNum + "\', false)" + ";\" style=\"text-decoration: none\"><small>(collapse)</small></a>"
 	epDiv.appendChild(textNode);
 	epDiv.appendChild(textNodeDet);
 }
@@ -114,7 +113,7 @@ function parseContext(phrase, epTitle, epNum, data) {
 			var start = i-M;
 			if (nos.length > 0 && start > nos[nos.length - 1]) {
 				// finish out the current set
-				createNodes(epDiv, lines, nos, nosDet, epNum, k);
+				createNodes(epDiv, lines, nos, nosDet, epNum + "." + k);
 				nos = [];
 				nosDet = [];
 				k += 1;
@@ -133,7 +132,7 @@ function parseContext(phrase, epTitle, epNum, data) {
 			}
 		}
 	}
-	createNodes(epDiv, lines, nos, nosDet, epNum, k);
+	createNodes(epDiv, lines, nos, nosDet, epNum + "." + k);
 	epDiv.innerHTML += "<br />";
 	document.getElementById("contextResults").appendChild(epDiv);
 }
