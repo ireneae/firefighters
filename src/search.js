@@ -25,7 +25,7 @@ $(document).ready(function(){
 const seasons = 5;
 const eps = [10, 18, 18, 14, 13];
 const htmlRegex = /<[^>]*>/g;
-const N = 8;
+const N = 12;
 const M = 2;
 
 function pad2(num) {
