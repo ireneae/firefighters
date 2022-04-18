@@ -11,11 +11,19 @@ $(document).ready(function(){
 		}
 	});
 	document.getElementById("phrase").value = query;
-	if (searchContext == 'true') {
-		document.getElementById("contextToggle").checked = true;
+	if (searchContext != null) {
+		if (searchContext == "true") {
+			document.getElementById("contextToggle").checked = true;
+		} else {
+			document.getElementById("contextToggle").checked = false;
+		}
 	}
-	if (crossover == "true") {
-		document.getElementById("crossoverToggle").checked = true;
+	if (crossover != null) {
+		if (crossover == "true") {
+			document.getElementById("crossoverToggle").checked = true;
+		} else {
+			document.getElementById("crossoverToggle").checked = false;
+		}
 	}
 	if (query) {
 		$('#search').click();
@@ -35,12 +43,8 @@ function pad2(num) {
 function getPermalink() {
 	params = new URLSearchParams();
 	params.set('q', document.getElementById("phrase").value.toLowerCase())
-	if (document.getElementById('contextToggle').checked) {
-		params.set('context', true);
-	}
-	if (document.getElementById('crossoverToggle').checked) {
-		params.set('crossover', true);
-	}
+	params.set('context', document.getElementById('contextToggle').checked);
+	params.set('crossover', document.getElementById("crossoverToggle").checked);
 	return window.location.pathname + "?" + params.toString();
 }
 
