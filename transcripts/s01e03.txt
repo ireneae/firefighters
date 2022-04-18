@@ -20,13 +20,24 @@ Ah!
 Come on!
 Yeah!
 Yeah.
-: Whoa!
+ Whoa!
 Want more?
 We do!
 Yeah.
 Whoa.
 DAN: Cameron!
 Cam!
+911, what's your emergency?
+Our bouncy house just took off a hundred feet in the air!
+One of those big blow-up houses for kids' parties?
+Yes! You have to come now.
+There are children still inside of it. My stepson is in it!
+My husband got thrown.
+Oh my god, I don't know if he's dead!
+Where is the bouncy house now, ma'am?
+It crashed into the hill.
+It's hanging, like, from the side of the cliff!
+Please come quickly! Please, please!
 HEN: Adult male, down, on the hillside.
 We got three kids in a bouncy house.
 All right, we're gonna stage the trucks on that service road.
@@ -35,13 +46,14 @@ Assess the condition of those kids, start to send them down one-by-one in a bask
 Chimney, you're gonna stay up here and work the winch.
 Hey. How come I never get to do any of the fun stuff?
 Working the winch is fun.
-HEN : Bouncy house secure, Chim.
+HEN: Bouncy house secure, Chim.
 Copy.
 Help!
 Hey, guys? Hey! Hey, guys, we're...
 We're L. A. Fire and Rescue. We're gonna get you out of here, okay? Everybody, just stay calm.
 HEN: Hey, boys, can you tell if your friend here is okay?
-Is he awake BUCK: Lower the basket down, Chim.
+Is he awake?
+BUCK: Lower the basket down, Chim.
 Copy.
 Is my dad okay?
 DAN: Cameron...
@@ -74,6 +86,9 @@ We're good down here.
 You can pack it up topside.
 Nice work at the winch.
 Thanks.
+911, what's your emergency?
+It's my daughter...she just overdosed.
+I think she's...I think she's dead.
 May. May. May. Wake up, wake up, wake up.
 Come on, come on, come on, come on, come on, come on. Wake up.
 May!
@@ -87,7 +102,7 @@ Yeah.
 All right. Lock the door.
 I have to go and ride with your sister.
 Pulse is weak and thready. What did she take?
-Uh... hydrocodone.
+Uh...hydrocodone.
 Uh, do you know how many pills she took, the dosage?
 They were mine from last year. I had some dental work done but didn't finish the bottle.
 Maybe six or seven were left, I-I-I don't know.
@@ -108,35 +123,36 @@ She took a bunch of pills.
 On purpose? Well, what did she take?
 Hydrocodone.
 Okay, can...
-No... she's still in ICU.
+No...she's still in ICU.
 They said maybe half an hour or so.
 I need to sit down.
-: Ah...
+Ah...
 Oh, God, this is my fault.
-You were right, you were... you were right.
+You were right, you were...you were right.
 I shouldn't have told them.
 They weren't ready.
 Did she seem this upset to you?
-I mean, I-I know it's... hard.
+I mean, I-I know it's...hard.
 But this hard?
 When is the last time we didn't know exactly what May was feeling?
-Sh-- well, she's a teenager now.
+Sh -- well, she's a teenager now.
 I-I just, you know, maybe we weren't, uh, paying enough attention.
-I just-- I don't know, but...
+I just -- I don't know, but...
 Okay, all right, let's-let's not do this right now, okay?
-: Okay.
 Okay.
-H Uh... we...
-we were having dinner, and he... and-and he drove me here.
-I'm sorry. He was... he was just worried about me.
+Okay.
+H Uh...we...
+we were having dinner, and he...and-and he drove me here.
+I'm sorry. He was...he was just worried about me.
 Uh...
 I-I'm gonna get a cup of coffee.
 Yeah, okay.
-* * The last time she was in a hospital bed, I was lying in it with her, feeding her.
+*
+* The last time she was in a hospital bed, I was lying in it with her, feeding her.
 Yeah. It was just an hour and a half of labor.
 We almost didn't make it to the hospital.
 She was so damn eager to get into this world.
-MAY : Mom?
+MAY: Mom?
 Baby. Hey.
 Dad's here, too.
 Hey, sweetheart.
@@ -157,7 +173,8 @@ Bunch of girls.
 Mostly this one, Layla.
 I don't know why they chose me.
 I think because I was talking to a boy she likes, and they decided to gang up on me.
-And they kept saying "you're nothing" and "you're the worst" and "you should go kill yourself" and "no one would care if you did" and "you should die." You know none of that is true, don't you, honey?
+And they kept saying "you're nothing" and "you're the worst" and "you should go kill yourself" and "no one would care if you did" and "you should die."
+You know none of that is true, don't you, honey?
 You are a special, bright light in the world.
 MICHAEL: Mm-hmm.
 No, I'm not.
@@ -202,7 +219,7 @@ All right.
 Don't go.
 Look, look, look, calm down.
 All right, we all have to follow the rules.
-They... they just want to find out that you're okay.
+They...they just want to find out that you're okay.
 All right? Now, you tell them everything, you understand?
 You're safe, and you'll be home with us in no time.
 Can you be brave for me?
@@ -238,7 +255,7 @@ TATIANA: Yeah.
 You know, uh, when we were rappelling down to, uh, anchor the house and assess the condition of the kids, we were pretty sure we were gonna find a body or two in there.
 Is it terrible that the phrase "when we were rappelling down" turns me on so much?
 And dinner is served.
-("Fade into You" by Mazzy Star playing) Well, you cook... you rappel down cliffs.
+("Fade into You" by Mazzy Star playing) Well, you cook...you rappel down cliffs.
 Mm-hmm.
 You're a keeper, Chimney.
 * I wanna take a breath...
@@ -251,7 +268,8 @@ Will you please marry me?
 * You go in shadows...
 Chimney, it's beautiful.
 And you are a beautiful man.
-* And you'll go blind... * I can't tell if that's a yes.
+* And you'll go blind...*
+I can't tell if that's a yes.
 It's not.
 But it's not a no, I just...
 I wasn't prepared for this at all.
@@ -265,15 +283,15 @@ I was engaged before.
 I cheated on him a week before the wedding.
 I have issues with commitment.
 And I just want to be really, really sure, so that I don't hurt you like I hurt Ted.
-St-- wait, wait, whoa, wait, wait.
+St -- wait, wait, whoa, wait, wait.
 So-so, so you were engaged before?
 Look, if I say no, we have to break up.
 A relationship can't handle a rejection like that.
 Okay. Wait, wait, wait, wait, wait, wait, uh...
 All that I'm really asking you to do is to just keep doing what we're doing.
 Which you love.
-For the rest of our lives, it-it's really-- it's not that complicated.
-Just... give me a few days.
+For the rest of our lives, it-it's really -- it's not that complicated.
+Just...give me a few days.
 Of course.
 Y-Yes.
 Sure, of course.
@@ -285,8 +303,8 @@ You do realize that you lose points for murdering people on the way to a fire.
 It should be fine.
 It's a flesh wound. Obamacare.
 What?
-What? Hen! Please-- someone call HR! No-- Hen!
-Ridic... Chimney!
+What? Hen! Please -- someone call HR! No -- Hen!
+Ridic...Chimney!
 Here. You're up.
 BUCK: Aw, man.
 HEN: Hey. What's...
@@ -310,14 +328,14 @@ It might as well be.
 Probably for the best.
 What was that?
 Nothing. I'm sorry.
-I... I didn't mean anything by that. You doing okay?
+I...I didn't mean anything by that. You doing okay?
 Of course you meant something by it. "Probably for the best"?
 There's a lot of meaning behind that.
-What, you don't... you don't like her?
+What, you don't...you don't like her?
 I never said I don't like her.
 I don't like her for you.
 CHIMNEY: And what does that even mean?
-No. Come on. Come on with it, wise man, uh-- just say what you want to say, 'cause I'm getting real tired of you standing there, just silently judging me with that-- yeah, right there, with that smirk on your face.
+No. Come on. Come on with it, wise man, uh -- just say what you want to say, 'cause I'm getting real tired of you standing there, just silently judging me with that -- yeah, right there, with that smirk on your face.
 You know, you're always so quick...
 Chim.
 to comment on everybody's life, but you completely shut down whenever we ask you about yours.
@@ -346,10 +364,18 @@ I really do.
 Must be tough living with someone who thinks he's right all the time.
 Chim.
 I'm getting some air.
-* Woman, you know, woman * You gotta be, woman * I've got the feeling of love * When you're talking to me * See right through me * I've got the feeling of alone... * Call Tatiana.
+* Woman, you know, woman * You gotta be, woman * I've got the feeling of love * When you're talking to me * See right through me * I've got the feeling of alone...*
+Call Tatiana.
 TATIANA: You've reached Tatiana. Please leave a message.
 * She's gonna set you free * Yeah, yeah Come on.
-* You've come looking for me * Like I've got to set you free * * You know I can't free nobody * Like I've got to set you free * * I can't be nobody Oh, my!
+* You've come looking for me * Like I've got to set you free *
+* You know I can't free nobody * Like I've got to set you free *
+* I can't be nobody Oh, my!
+911, what's your emergency?
+Can you...I'm in my car.
+Sir, I can't understand you.Could you speak louder please?
+Send help...
+I was in a car accident.
 Hello.
 Who is this?
 Okay.
@@ -363,12 +389,11 @@ Captain Nash.
 Yeah. Thanks for calling.
 Your guy's this way.
 He wouldn't let anyone else touch him.
-You, uh... you might want to prepare yourself, sir.
+You, uh...you might want to prepare yourself, sir.
 Hang back, guys.
 Can I get in there?
 Hey, Chim.
-Bobby, I...
-can't move my neck.
+Bobby, I...can't move my neck.
 He's alert and talking, doesn't appear to be in any pain.
 Got a piece of rebar through his skull.
 How is that even possible?
@@ -382,7 +407,7 @@ So if this thing's right between his eyes, can he see it?
 I don't know what he can see.
 Airways sound good.
 Not much pain.
-Uh... I don't think there's any spinal damage.
+Uh...I don't think there's any spinal damage.
 I can feel my legs, but when I try and move my head...
 HEN AND BUCK: Don't.
 BOBBY: Be still.
@@ -412,25 +437,25 @@ Not a bit.
 Good. All right, Buck.
 CHIMNEY: Hey, Buck.
 How's the car, man? Is it a total loss?
-Nah, man, you... probably buff most of that out.
+Nah, man, you...probably buff most of that out.
 Good.
 Good.
 Let's get O. R. 3 prepped for a decompressive hemicraniotomy.
 We'll take him from here.
-Wha... No, w-we're not leaving his side.
+Wha...No, w-we're not leaving his side.
 Are you family?
 Buck, our job ends here at these doors like always.
 * Oh, it's on too tight.
 Hmm.
-What is That's the perfume you like.
+What is...
+That's the perfume you like.
 But I don't wear perfume.
 Oh, sure you do, Pat.
 You always smell wonderful.
 Look, Mom.
 See? It's your favorite one. Sniff.
 Oh...
-Is...
-someone having a birthday?
+Is...someone having a birthday?
 I got it. I got it.
 Okay.
 She seems a little cantankerous today.
@@ -438,12 +463,12 @@ I know.
 She's not always like that. I think, you know, big event like this...
 it's a little overwhelming for her.
 You look tired, Abby.
-Oh my-- shut up.
+Oh my -- shut up.
 Well...
 That's a very rude thing to say to a woman.
 Didn't mean it...
 That's rude.
-I'm-- I-I am worried about you.
+I'm -- I-I am worried about you.
 Don't...
 She's only gonna get worse, you know.
 I mean, i-it's progressive.
@@ -456,7 +481,8 @@ I put Mom's name on a list, and a room has opened up.
 You put her on a list for a memory care facility without asking me?
 Because I knew what you would say.
 You don't know what I was gonna say.
-"I can handle this, Matt." Well, I can handle it, Matt.
+"I can handle this, Matt."
+Well, I can handle it, Matt.
 And I know you can and you have been, and I don't tell you enough, but you are a saint for doing it.
 I'm not a saint. I'm a daughter.
 A saintly daughter.
@@ -489,13 +515,19 @@ What's 3 across for when doubled in...?
 Just got off the phone with the surgeon.
 He's alive.
 Yeah.
-Any... a There were some complications when they took the rebar out.
+Any...a There were some complications when they took the rebar out.
 He started hemorrhaging.
 They got the bleeding under control, but had to put him in a medically induced coma.
 They'll let us know if his condition changes.
 You mean if he wakes up.
 Or if he doesn't.
 Yeah.
+911, what's your emergency?
+Uh, there are people trapped in the back of a truck.
+I can hear them screaming.
+What's your location, ma'am?
+I'm at the warehouse parking lot on Colorado. There's no driver and the doors are locked.
+I don't think they can breathe.
 Buck, get the tools.
 Yo, Hen.
 Is it wrong I was stoked there was an emergency?
@@ -506,7 +538,8 @@ Truck is registered out of Texas.
 We're still looking for the driver.
 It's got to be over 100 degrees in there.
 Buck!
-(knocking, people speaking indistinctly) * BOBBY: All right, get these people some water.
+(knocking, people speaking indistinctly) *
+BOBBY: All right, get these people some water.
 I got him, I got him, I got him.
 BOBBY: All right, get these people some water, come on.
 Put it down. Hen.
@@ -516,7 +549,7 @@ Hurry up, come on.
 Chopper, too.
 We may have to medevac a few of them.
 It's at least four and a half hours to the Mexican border, if that's even where they started.
-BUCK : Come on.
+BUCK: Come on.
 Ah, breathe.
 Starting compressions.
 Go ahead.
@@ -526,12 +559,12 @@ I need you to breathe for me, okay Can you stand up? Take my hand.
 Take my hand. Ready?
 All right, go, go, go.
 Start helping 'em down, come on.
-: Por favor, mijo.
+Por favor, mijo.
 Come on, come on, come on, come on.
 All right, give me something.
 Ah!
 Javi, Javi, good job, good job.
-Uh, uh... to-to-todo bien, todo bien. All right?
+Uh, uh...to-to-todo bien, todo bien. All right?
 BUCK: Here we go, here we go, here we go.
 There you go.
 BUCK: Here we go, here we go, that's it.
@@ -540,7 +573,8 @@ Hey!
 Dick! Where the hell do you think you're going?
 Sick son of a bitch.
 Whole families could have died in there.
-Someone with a badge and a gun want to put this trash in custody Ooh, that was badass, but I thought we weren't here to blow off steam.
+Someone with a badge and a gun want to put this trash in custody?
+Ooh, that was badass, but I thought we weren't here to blow off steam.
 You know what you can blow.
 Hen.
 Hey, uh, everything okay?
@@ -563,16 +597,14 @@ My mom has Alzheimer's, did I tell you that? I can't remember if I told you that
 No, I, uh, I didn't know that.
 Sorry.
 Um, thanks.
-And she's just...
-slipping, you know?
+And she's just...slipping, you know?
 She's getting worse, and I...
-I'm starting to feel like she might need more...
-than just me.
+I'm starting to feel like she might need more...than just me.
 More help. Professional help.
 Y Yeah. Although even as you say it out loud, I'm paralyzed with guilt at the thought of it.
 I mean, she's my mom. Right?
 Yeah, that's rough.
-Look, I don't... I don't know a lot.
+Look, I don't...I don't know a lot.
 But if there's one thing I learned over the last 24 hours, the only thing that matters is family.
 Right.
 Yes.
@@ -611,7 +643,8 @@ So, I hold his hand when he wakes up.
 Then it's stay with him until he's out of the hospital.
 And then it's you can't break up with him until he can walk or talk again, and that's assuming that he ever can.
 And you want me to just play like I'm in love for how long?
-A month I am not a bad person.
+A month.
+I am not a bad person.
 I am just not in love with him.
 Tatiana.
 My friend is coming out of a medically induced coma.
@@ -631,7 +664,7 @@ Thank you.
 Am I about to be out of a job?
 Oh.
 No. My brother left that.
- Oh. Oh.
+Oh. Oh.
 This is a good place.
 Mm-hmm.
 Vacancies are rare.
@@ -652,7 +685,7 @@ We're all here for you, buddy.
 H-Hey.
 I-I was thinking maybe when you come back to work, um, you know, you should do The Maneuver instead of me.
 To motivate him to get better.
-: He can't do The Maneuver.
+He can't do The Maneuver.
 Yeah, he can.
 Hey, Chim, you can do The Maneuver.
 Right?

@@ -51,13 +51,13 @@ BUCK: Coming around. Starting compressions.
 CHIMNEY: Pulse ox is on. Pad's on.
 I don't know.
 A few minutes, maybe.
-... seven, eight, nine, ten, 11, 12, 13, 14, 15, 16, 17...
+...seven, eight, nine, ten, 11, 12, 13, 14, 15, 16, 17...
 No.
 ...18, 19, 20. Go.
 No rhythm.
-: Come on. Come on.
+BUCK: Come on. Come on.
 ABBY: The crazy part is that as soon as help arrives...
-... most people just hang up.
+...most people just hang up.
 HEN: It's coming, it's coming, it's coming.
 BUCK: Hey. Hey, man. That's it. Get it out.
 BOBBY: Good job, kid.
@@ -66,7 +66,7 @@ All right, kid, your mom is right here.
 Whew.
 You're gonna be okay.
 Thank you.
-: You'll be okay.
+You'll be okay.
 ABBY: I guess it's for the best that I usually don't know how it all ends.
 The fireman is trying to talk her down.
 This is so messed up.
@@ -93,9 +93,10 @@ WOMAN: Yeah, I'm in the drive-through, and they only gave me six nuggets in my n
 Ma'am, it's against the law to call 911 with a non-emergency.
 Eat your nuggets, get some perspective, and get the hell off my line.
 * In the name of the Father, the Son, and the Holy Ghost.
-... Father, Son, Holy Spirit.
+...Father, Son, Holy Spirit.
 My last confession...
-: * Baby, you're a firework * Come on, show 'em what you're... * I'm so, so sorry. Um...
+* Baby, you're a firework * Come on, show 'em what you're...*
+I'm so, so sorry. Um...
 I'm new.
 Mm.
 But you're familiar with the basics of how this all works?
@@ -122,7 +123,9 @@ Some drink, some do drugs, some gamble.
 Some are sex addicts.
 * We sit around * Our money's spent * Why can't you all get down?
 * Drive ancient cars * Can't pay the rent * Why can't you all get down?
-* Drink the water, it's a drought * * How are you this scared? This scared? * Groovyheels297?
+* Drink the water, it's a drought *
+* How are you this scared? This scared? *
+Groovyheels297?
 This is cheating.
 No, no, no.
 You said if I got to you in five minutes, you would be all mine.
@@ -130,19 +133,19 @@ Is this why they call you Firehose?
 No.
 * Bad reputation * Bad reputation.
 Someone punch you in the face?
-What? Nah, it's a... it's a birthmark.
+What? Nah, it's a...it's a birthmark.
 I dig it.
 Hey, can I, uh...
-... can I get your actual number?
+...can I get your actual number?
 You're cute.
-And... you're very good at whatever it is we just did.
+And...you're very good at whatever it is we just did.
 Let's not ruin everything by actually getting to know each other.
 Damn.
 We're living in a golden age.
-POWELL : Merry Christmas.
+POWELL: Merry Christmas.
 Police, there's automatic rifle fire at Nakatomi!
 I need backup assistance now!
-McCLANE : Welcome to the party, pal!
+McCLANE: Welcome to the party, pal!
 CHIMNEY: I know exactly what that polite, distant smile means: she's bored.
 One foot out the door.
 This woman's so far out of my league, but she's just once-in-a-lifetime.
@@ -181,6 +184,13 @@ You know, you're not helping him by going easy on him.
 He just needs a little direction.
 I'll remind you of that after he gets you killed.
 Anyone want to pass me a spoon, so I can serve myself some salad?
+911, what's your emergency?
+Yeah, hi, I live in an apartment on 876 McCain.
+I'm in my bathroom and I think I hear a baby crying. In the wall.
+How is the baby on the wall?
+No no no, not on the wall. In the wall.
+I think someone flushed a baby down the toilet.
+There's a baby inside my wall.
 Oh, no.
 No.
 Let's do it.
@@ -259,7 +269,7 @@ LAPD.
 Nobody flush your toilets!
 Okay? Please, don't.
 Hey, sir. Sir!
-Sir, we're looking for a girl... Uh, hey!
+Sir, we're looking for a girl...Uh, hey!
 * Chimney.
 Cut right down here on the bottom.
 All right, Chimney, help me out, help me out.
@@ -321,7 +331,7 @@ I got you.
 There we go. There we go.
 Excellent.
 There we go.
-: Yeah.
+Yeah.
 All right. Okay, wrap her up.
 Let's go.
 Down to the lobby. Here we go.
@@ -429,7 +439,7 @@ Kids, your dad has been struggling with something his entire life.
 But...
 with the courage that I get from being your dad, the way that you love me and see me...
 Please.
-... I feel strong enough to be honest about it.
+...I feel strong enough to be honest about it.
 I'm gay.
 So you are getting a divorce.
 No, no, sweetheart. We're not even talking about that.
@@ -450,7 +460,7 @@ Please.
 But don't think you can hide behind that pride when it comes to me.
 You lied to me.
 Oh, God. I'm sorry.
-Get-- Don't you touch me!
+Get -- Don't you touch me!
 Don't you touch me! How could you do this to me?!
 Okay.
 You should have told me from the beginning!
@@ -491,6 +501,12 @@ I love you, Mom.
 Love you, darling.
 You take care of yourself today, okay?
 Bye, Mom.
+911, what's your emergency?
+Help...can't breathe.
+I can't understand you. Are you saying you can't breathe?
+777 Detroit Avenue...it's choking me.
+I have the fire department on the way. Who is choking you?
+Do you know him?
 My snake.
 L. A. fire!
 All right, guys, check all these rooms.
@@ -508,7 +524,7 @@ BOBBY: Guys, in here. Back here, guys, now.
 HEN: Oh, my God.
 We got to help her get some air, guys.
 Oh, my...
-Oh, my God. Oh, I... This is not good.
+Oh, my God. Oh, I...This is not good.
 HEN: Bobby, it's no use. That thing is, like, ten feet long.
 Its constriction strength is, like, 50 pounds per square inch.
 Oh, my God, I'm gonna start calling you "Snake-ipedia." Stop it.
@@ -593,26 +609,36 @@ But I'm legit sorry to see you go.
 You got some skills.
 Just not a lot of discipline.
 Look, hey, um, I don't suppose you could maybe talk to him for me?
-DISPATCHER : Ladder, medic. 10-36 auto emergency.
+DISPATCHER: Ladder, medic. 10-36 auto emergency.
 Hey, tough break, kid.
 DISPATCHER: Ladder, medic. 10-36 auto emergency.
 Hen, let's roll.
+911, what's your emergency?
+Help me, please! They're outside, they're trying to break in!
+My mom's not home from work yet.
+I'm by myself! I don't know what to do!
+Okay, okay, stay calm. What's your name?
+Lily.
+Lily, how old are you?
+I'm nine.
 Okay, Lily, my name is Abby. I'm gonna try to help you.
+What's your address?
 I don't know.
 We just moved here.
 Do you know what street you live on?
 Um, Lambert.
 Okay, Lambert.
-It's a brown house!
+It's a brown house! Hurry!
 Lily?
 Shoot.
 Residential break-in.
 Caller is a nine-year-old female, home alone.
 No GPS on her phone, no street address.
-She did have a street name-- Lambert.
+She did have a street name -- Lambert.
 There are three Lamberts in the greater L. A. area: Boyle Heights, Santa Fe Springs and Winnetka.
 Yeah, yeah, yeah, I can hear you.
 They got in.
+Where are you?
 I'm up in my room.
 Okay. That's okay. What is the name of your city?
 W-Winnetka.
@@ -624,10 +650,12 @@ We're gonna try to find you.
 I've got multiple daytime break-ins in this area over the last couple of months.
 Lily, is there anything near you that looks like it would have your address on it?
 Mail or anything like that?
+No.
 Can you look outside?
 LILY: I can't see any numbers.
 TERRY: Towers narrow it to a quarter mile.
-I know you said your house is brown. Is there anything else ABBY: All available units, residential break-in on Lambert Road, Winnetka, somewhere between the 100 and 1500 blocks of Chanel and Hadley.
+I know you said your house is brown. Is there anything else you can tell me about it?
+ABBY: All available units, residential break-in on Lambert Road, Winnetka, somewhere between the 100 and 1500 blocks of Chanel and Hadley.
 Two-story single family dwelling.
 Brown house, white trim, garage door is white. Child alone in the home.
 Caller says there's a pink girl's five-speed bike sitting on the front porch.
@@ -655,7 +683,7 @@ This area's had a spate of daytime break-ins recently, and one homicide.
 We need to find this girl.
 Maybe we still can.
 HEN: Hey. What's up, Thena?
-ATHENA : I need a favor.
+ATHENA: I need a favor.
 Think you can loan me a fire truck?
 Um, it's kind of in use at the moment. Why?
 I'll have something for you in less than five.
@@ -666,13 +694,13 @@ Don't go chasing waterfalls.
 I don't know what that means.
 Nobody thought you would.
 Lily?
-: Abby, I'm downstairs.
+Abby, I'm downstairs.
 ABBY: What are you doing downstairs?
 Petey! Petey!
 Petey! There's a kid in the house who's got a phone.
 PETEY: That's twice you said my name.
 Now we got to find it.
-PETEY : I'll get this one's phone.
+PETEY: I'll get this one's phone.
 Just need the phone.
 (siren wailing, horn honking over phone) DEAN: It's the cops!
 We've got it.
@@ -761,7 +789,7 @@ Oh, my God.
 I feel like I am.
 Wow. Um...
 Okay, well, I can't thank you enough.
-I-I... I'm so grateful.
+I-I...I'm so grateful.
 You saved that little girl, and...
 No, you did.
 You kept her in the game long enough for us to find her.
@@ -782,7 +810,7 @@ Yeah. Just checking in.
 You giving me another chance?
 You've used all your chances; so have I.
 Because somehow I have failed to communicate to you how lucky we are to do what we do.
-* Pressure...
+* Pressure...pushing down on me
 You're wrong, Bobby.
 I absolutely do get what a privilege it is to serve here.
 And you know what? You were right to fire me.
@@ -800,7 +828,12 @@ Go get dressed.
 * Da-da-da * Ooh * Da-da-da-da-da * Okay...
 I think I'm not fired.
 Your shift's not over yet.
-* Chipping around * Kick my brains around the floor * * These are the days, it never rains but it pours... * * People on streets * Ee-da-de-da-de * People on streets * Ee-da-de-da-de-de-da * It's the terror of knowing * What this world is about * Watching some good friends * Screaming, "Let me out!" * Tomorrow * Gets me higher, higher, higher * * Pressure on people * People on streets, under pressure... * ABBY: You know, it takes a certain kind of person to swim in the pain of the world and not get wet.
+* Chipping around * Kick my brains around the floor *
+* These are the days, it never rains but it pours...*
+* People on streets * Ee-da-de-da-de * People on streets * Ee-da-de-da-de-de-da
+* It's the terror of knowing * What this world is about * Watching some good friends * Screaming, "Let me out!" * Tomorrow * Gets me higher, higher, higher *
+* Pressure on people * People on streets, under pressure...*
+ABBY: You know, it takes a certain kind of person to swim in the pain of the world and not get wet.
 To run towards danger, rather than run away from it.
 And for those of us that choose this life, there's no place we'd rather be.
 911. What's your emergency?

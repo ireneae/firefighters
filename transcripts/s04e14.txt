@@ -24,9 +24,9 @@ Back up! Back up, back up, back up!
 Here, we got you. We got you. Hey, hey.
 I got you. Okay.
 This is the captain of the 133 en route to Byrne Memorial.
-Hey, just... you just stay with me, okay?
+Hey, just...you just stay with me, okay?
 Requesting a trauma unit to meet us.
-Hey... are you hurt?
+Hey...are you hurt?
 We have a firefighter with a gunshot wound.
 Firefighter Eddie Diaz No, no, no. I'm good.
 of the 118.
@@ -84,21 +84,21 @@ Is that blood?
 Oh, it's, um, it's not mine, it's Eddie's.
 Eddie's the one who got shot?
 He was standing right in front of me.
-And then, um... um...
+And then, um...um...
 I need to talk to Christopher.
 Yeah.
-I-I don't... I don't have my car.
+I-I don't...I don't have my car.
 I need to call a ride.
 Why don't I drive you?
 We can stop by your pla...
 Uh, no. No, I-I got...
 You can't go see his son looking like this.
 Are you sure you're okay?
-<i>Uh, he's pretty shaken up,</i> but otherwise fine. <i>Thank God.</i> When Buck didn't answer, I thought... <i>-I think he's just</i> in shock. <i>-Yeah. Just another trauma</i> to add to the pile. <i>We have an update now-</i> <i>-on an earlier story.</i> How is Eddie doing?
+<i>Uh, he's pretty shaken up,</i> but otherwise fine. <i>Thank God.</i> When Buck didn't answer, I thought...<i>-I think he's just</i> in shock. <i>-Yeah. Just another trauma</i> to add to the pile. <i>We have an update now-</i> <i>-on an earlier story.</i> How is Eddie doing?
 He's gonna be in surgery for the next few hours, so we won't know anything for a while.
 <i>Buck's heading over to Eddie's place to, uh,</i> <i>-check in on Christopher.</i> Hey, Chim, they're saying on the news that a firefighter was shot at the scene of a car accident.
 What? No, it wasn't a car accident.
-<i>... but they report that she is a six-year veteran</i> <i>of the department, and she's now been transported...</i> Chim, they're not talking about Eddie.
+<i>...but they report that she is a six-year veteran</i> <i>of the department, and she's now been transported...</i> Chim, they're not talking about Eddie.
 Come on! She's been shot! Let's go!
 Another firefighter? We were ambushed.
 The shot came out of nowhere.
@@ -129,8 +129,7 @@ He's got a harder job tonight.
 Hey, Buck.
 Hey.
 Where's Dad?
-Um, he...
-... he's, uh, he's-he's not coming home tonight, Chris.
+Um, he...he's, uh, he's-he's not coming home tonight, Chris.
 Why not?
 Well, um...
 well, he-he got hurt at work today.
@@ -139,14 +138,13 @@ Um...
 uh...
 no.
 No, not-not in a fire.
-Uh, the truth is, someone...
-... hurt your dad.
+Uh, the truth is, someone...hurt your dad.
 On purpose?
 Yeah, I think so.
 A bad guy?
 Mm-hmm.
-Uh, y... yeah.
-Yeah, yeah, a b... a-a bad guy.
+Uh, y...yeah.
+Yeah, yeah, a b...a-a bad guy.
 Is he gonna be okay?
 You know, your dad is, uh...
 he's tough as nails.
@@ -179,9 +177,9 @@ We had no reason to think Eddie would get shot helping a kid, either.
 <i>Look, if we had the resources</i> <i>o put an officer at every door,t</i> <i>I would do that, but we don't.-</i> Is there anything new?
 Vitals look good.
 <i>Until they catch this guy...</i> Buck. Buck.
-<i>... this is gonna be a stressful time.</i> Hey.
+<i>...this is gonna be a stressful time.</i> Hey.
 Can I talk to my dad now?
-Um... <i>Not just for us,</i> <i>ut for the people who love us. b</i> Um, n-not yet. He's, uh, still resting.
+Um...<i>Not just for us,</i> <i>ut for the people who love us. b</i> Um, n-not yet. He's, uh, still resting.
 Maybe later, okay?
 And as scared as we are, it's gonna be worse for them.
 Mm, sorry, I got to go.
@@ -543,7 +541,7 @@ But it's not too late. You can still save yourself.
 I can help you get out of here.
 You ever think it's just a waste of time, Captain?
 That some lives just don't deserve saving?
-Everyone... deserves to be saved.
+Everyone...deserves to be saved.
 I'm going with you.
 No, Buck.
 I can't protect you in there.
@@ -586,7 +584,7 @@ Once we arrested Malone, Ethan knew it was just a matter of time before we figur
 You went into a burning building.
 I didn't imagine that part, right?
 You actually walked through fire.
-Well... you were inside.
+Well...you were inside.
 I wasn't gonna let a little fire stop me.
 I needed to get my partner back.
 Thanks for coming to get me.
@@ -597,7 +595,7 @@ Uh, wasn't sure that was gonna happen.
 Yeah. I kind of ran away.
 Yeah, I noticed.
 You didn't chase after me.
-Listen, I, uh... I spent a long time feeling like I wasn't enough.
+Listen, I, uh...I spent a long time feeling like I wasn't enough.
 And I don't want to do that anymore.
 So if you don't want me...
 I do.
@@ -622,7 +620,7 @@ You have no idea.
 No.
 Mommy Karen! Mommy Hen!
 Oh! Nia!
-What? What are you... Nia.
+What? What are you...Nia.
 Nia? It's Mommy Hen and Mommy Karen.
 Hi!
 Nia. Nia, we should go.
@@ -634,11 +632,11 @@ Where's big brother?
 Hey, Nia!
 Jungle gym. Jungle...
 Don't worry. I got her.
-Um... I'm-I'm Hen, and this is my wife Karen.
+Um...I'm-I'm Hen, and this is my wife Karen.
 Nia's foster parents.
 This is awkward.
 I don't know what the rules are.
-I... I don't think there are any.
+I...I don't think there are any.
 I've thought so much about you.
 About the things I wished I could say to you.
 But now I don't...
@@ -671,8 +669,7 @@ it got me thinking.
 You know, what would happen to Christopher if I hadn't?
 So I went to my attorney and changed my will.
 So, someday, if, I, uh...
-didn't make it...
-... Christopher would be taken care of.
+didn't make it...Christopher would be taken care of.
 By you.
 What?
 It's in my will, if I die, you become Christopher's legal guardian.
@@ -696,7 +693,7 @@ Why are just telling me now?
 Because, Evan, you came in here the other day and you said you thought it would have been better if it had been you who was shot.
 You act like you're expendable.
 But you're wrong.
-<i>Carl Sagan said,</i> <i>"Extinction is the rule.</i> <i>Survival is the exception."</i> <i>When your life, when the world...</i> <i>feels like a never-ending emergency...</i> ♪ <i>You can take everything...</i> ♪ <i>... sometimes just making it through the day</i> <i>can be a struggle.</i> <i>We collect scars.</i> <i>Physical and psychological reminders</i> <i>of what we've been through,</i> <i>of who and what we've lost.</i> <i>But maybe those scars can do more</i> <i>than memorialize our past traumas.</i> <i>Maybe they're also a testament to the fact</i> <i>that we're still here.</i> <i>We are exceptional.</i> ♪ <i>Like a skyscraper...</i> ♪ <i>We are survivors.</i> You made it!
+<i>Carl Sagan said,</i> <i>"Extinction is the rule.</i> <i>Survival is the exception."</i> <i>When your life, when the world...</i> <i>feels like a never-ending emergency...</i> ♪ <i>You can take everything...</i> ♪ <i>...sometimes just making it through the day</i> <i>can be a struggle.</i> <i>We collect scars.</i> <i>Physical and psychological reminders</i> <i>of what we've been through,</i> <i>of who and what we've lost.</i> <i>But maybe those scars can do more</i> <i>than memorialize our past traumas.</i> <i>Maybe they're also a testament to the fact</i> <i>that we're still here.</i> <i>We are exceptional.</i> ♪ <i>Like a skyscraper...</i> ♪ <i>We are survivors.</i> You made it!
 Congratulations, Firefighter Han.
 ♪ <i>Like a skyscraper</i> ♪ ♪ <i>Like a skyscraper...</i> ♪ Oh.
 Ah!

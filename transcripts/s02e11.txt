@@ -22,7 +22,7 @@ Masks stay on for the duration.
 BUCK: Where is everyone? It's too quiet.
 Got one over here.
 She's got a pulse.
-Pupillary response... normal.
+Pupillary response...normal.
 SADIE: Help! Please help!
 Please help me.
 Oh, help me. They're crushing me.
@@ -80,7 +80,7 @@ Okay, that's got to sting.
 MAN (weakly): Measure twice, cut once.
 (groaning) Just lie still, buddy, we got you.
 EDDIE: Okay, we're good here. Let Mercy General know we're ten out.
-Measure twice, cut... (groans) Make a hole. Critical.
+Measure twice, cut...(groans) Make a hole. Critical.
 Don't worry, we're gonna take you to the hospital and they will fix you right up.
 You'll still get your new beginning with your new face.
 I'd be happy if I could just have the old one back.
@@ -120,7 +120,7 @@ Boy, that's a good-looking spread. (chuckles) He living here already?
 Uh, no, ma'am.
 Not until after the wedding.
 And it's a pleasure to finally meet you.
-You're very... tall.
+You're very...tall.
 So, Michael, will your husband be joining us?
 Oh, no.
 Uh, Glenn and I aren't actually married.
@@ -221,12 +221,22 @@ Don't let her die.
 Please.
 CHIMNEY: Breathe easy. You're gonna be fine.
 Let's get him up!
-("Touch of Grey" by the Grateful Dead playing) * Must be getting early * * The clocks are running late * * Paint by number morning sky * * Looks so phony * * Dawn is breaking everywhere * (siren wailing) * Light a candle, curse the glare * * Draw the curtains, I don't care * * 'Cause it's all right * * I will get by * * I will get by * * I will get by... * * I will survive * All right, coming down quick.
+("Touch of Grey" by the Grateful Dead playing) * Must be getting early *
+* The clocks are running late *
+* Paint by number morning sky *
+* Looks so phony *
+* Dawn is breaking everywhere * (siren wailing) * Light a candle, curse the glare *
+* Draw the curtains, I don't care *
+* 'Cause it's all right *
+* I will get by *
+* I will get by *
+* I will get by...*
+* I will survive * All right, coming down quick.
 Here we go.
 Keep it steady.
 A little more.
 That's it. Keep it coming!
-* Sorry that you feel that way... * That's far enough.
+* Sorry that you feel that way...* That's far enough.
 Halt!
 That's it, a little more slack.
 * Touch of grey * Careful, careful!
@@ -235,7 +245,9 @@ That's it, a little more slack.
 You see her? Where is she?
 * I will survive * (laughs) * We will get by * Hey, too bad Diego is missing it!
 He's not missing anything!
-* We will get by... * * We will survive * * We will get by. * I don't understand why your mother would reorganize the entire kitchen while we're at work.
+* We will get by...*
+* We will survive *
+* We will get by. * I don't understand why your mother would reorganize the entire kitchen while we're at work.
 Oh, she said it was impossible for her to find anything in this kitchen.
 So she retaliated by making it impossible for us to find anything?
 Found it.
@@ -290,14 +302,14 @@ Bea...
 I think you should say something to your daughter.
 (sighs) We'll leave in the morning.
 * 911. What is your emergency?
-BOY: Um... hi.
+BOY: Um...hi.
 Hello? This is 911. Who's this?
 Um, Stevie.
 Okay, Stevie, my name is Maddie.
 Where are you calling from?
 Our house. 1963 Aldrich Drive, Glendale.
 What's going on?
-It's... it's my dad.
+It's...it's my dad.
 Your dad? Is he hurt?
 What? No.
 No, he did a bad thing.
@@ -365,7 +377,7 @@ I liked things the way that they were.
 But he, uh...
 He what?
 He wasn't happy with me.
-He... I got scared.
+He...I got scared.
 I see.
 It's just you and your father, is it?
 Okay. Well...
@@ -561,11 +573,11 @@ He's asking for you.
 Maddie, the boy's currently the subject of an Amber Alert.
 MADDIE: Stevie?
 STEVIE: Is this the 911 lady I talked to before?
-I... Yes, this is Maddie. Stevie, where are you right now?
+I...Yes, this is Maddie. Stevie, where are you right now?
 Uh, I'm not sure.
 I'm in a train station. I'm lost.
 I need to talk to that police lady that you sent to our house.
-I... I can't remember her name.
+I...I can't remember her name.
 Sergeant Grant.
 Yeah.
 She's a friend of mine.
@@ -609,7 +621,7 @@ The next train at that station-- where's it coming from?
 Universal City Station.
 That's half a mile away.
 (siren wailing) Very disappointed in you, Stevie.
-What if somebody saw... what if your little brother got hurt?
+What if somebody saw...what if your little brother got hurt?
 He's not my little brother.
 OFFICER: Dispatch, suspect has a weapon.
 We've got a hostage situation unfolding here.
@@ -644,7 +656,7 @@ There was a house with a big porch and...
 and a lady.
 She had curly hair.
 I'd pull on it and she'd laugh.
-But my dad-- I mean... Eric-- he... he said it wasn't real.
+But my dad-- I mean...Eric-- he...he said it wasn't real.
 ATHENA: Your real name is Jacob Daniel Walters.
 You were six when he took you.
 You were playing outside.

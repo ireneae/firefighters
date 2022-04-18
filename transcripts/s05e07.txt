@@ -39,10 +39,10 @@ Oh! Oh, this damn gunshot!
 <i>wooden...</i> box.
 Cap, I got something.
  What? <i>  Thought I heard a voice.</i> Edgar, what was that?
-<i>I got to</i> get... out!
+<i>I got to</i> get...out!
 Yes.
 Edgar, what are you doing?
-Gonna break... Oh!
+Gonna break...Oh!
 <i>this...</i> down!
 Edgar!
  Tell me what's happening. <i>  No.</i> Oh, no.
@@ -123,7 +123,7 @@ Can you tell me what made you want to look that up?
 No. I don't want to talk about it.
 Not with you, and not with them. They weren't kidnapped.
 None of you have any idea what that was like.
-But we want to... understand what happened to you.
+But we want to...understand what happened to you.
 How is that gonna help me?
 One of the ways we move past our trauma is to confront it and share it.
 You're just like them.
@@ -166,7 +166,7 @@ And if I was to ask you if you got a good look at your abductor?
 Never saw his face.
 Right.
 He had one of those things on, a...
-What do you call it? A, uh... a baklava.
+What do you call it? A, uh...a baklava.
  Balaclava?
  Yeah.
 Exactly.
@@ -279,7 +279,7 @@ No. I know you.
 Look.
 Look, look. I'm-I'm...
 I'm glad that you're doing better, and-and-and I hope it continues.
-But... forgiving you?
+But...forgiving you?
 That's gonna take a minute.
 I know.
 I just appreciate you taking the time to hear me out.
@@ -292,7 +292,7 @@ Weird how?
 A bus-through-a-building weird, or a-woman's-face-fell-off weird?
 An Eva-walked-into-work weird.
 She wanted to tell me that she was leaving town, and she was sorry for everything she had done, and she hoped that I could forgive her.
-And... did you?
+And...did you?
 What? No.
 I mean, I heard her out, but that's it. She-she left. I...
 I didn't get the sense that there was anything more to it.
@@ -308,7 +308,7 @@ Because I don't want any more secrets.
 I wanted to tell you the truth so that you would know that you can trust me, even when it comes to her.
 You really think she's leaving town?
 Yeah.
-She-she seemed... sincere.
+She-she seemed...sincere.
 And that is why I can't trust you.
 No! No!
 Oh, God!
@@ -477,7 +477,7 @@ Her husband hired Gladden to kill her.
  You don't have to be so rough!
  Let's go.
 Wait. That-that's...
-Lizzie Hill. She's the one who hired the hit man... to kill Edgar.
+Lizzie Hill. She's the one who hired the hit man...to kill Edgar.
 <i>Got a runner!</i> Edgar?
 Damn you, Lizzie.
 And you, too, Tom!
@@ -491,7 +491,7 @@ He did not say. I did not wish to pry.
 I would never have considered taking such a job, but he was willing to pay me $100,000.
 <i>And the fact that I had some financial hardships,</i> <i>and that she was such a terrible woman,</i> <i>I decided to help him out.</i> I was tired of living in my van.
 So you took the job, decided to kill Lizzie Hill.
-<i>And then? I saw her.</i> <i>And I knew Edgar had lied to me.</i> [Puccini's "O Mio Babbino Caro" plays] <i>  She was no shrew.</i> <i>She was... beautiful.</i> <i>I know this will sound crazy,</i> <i>but I started to... feel things.</i> <i>I don't know if you'd call it love or not, but</i> <i>I knew I couldn't hurt this woman.</i> <i>I couldn't just walk away.</i> <i>I mean, Edgar could find another guy.</i> <i>Someone less discerning of Lizzie's nature.</i> <i>I had to warn her.</i> So you told her the truth?
+<i>And then? I saw her.</i> <i>And I knew Edgar had lied to me.</i> [Puccini's "O Mio Babbino Caro" plays] <i>  She was no shrew.</i> <i>She was...beautiful.</i> <i>I know this will sound crazy,</i> <i>but I started to...feel things.</i> <i>I don't know if you'd call it love or not, but</i> <i>I knew I couldn't hurt this woman.</i> <i>I couldn't just walk away.</i> <i>I mean, Edgar could find another guy.</i> <i>Someone less discerning of Lizzie's nature.</i> <i>I had to warn her.</i> So you told her the truth?
  Every bit of it.
  And what'd she say?
 <i>Where the hell was he getting $100,000?</i> He's been crying poverty for months and then, suddenly, he has the cash to hire a guy to kill me?
@@ -515,7 +515,7 @@ Still don't know how Edgar found us.
 There's an app for that.
 Now you sure you want to confess to everything without a lawyer present?
 I think I'll be safer in prison.
-♪ <i>Tired of people treating me wrong and... ♪</i> You sure this is okay?
+♪ <i>Tired of people treating me wrong and...♪</i> You sure this is okay?
 Jee-Yun will be fine without you for an hour.
 And Molly seemed excited about fussing over a baby she can give back before it turns into a resentful teenager.
 Though if she starts talking about having another one, I'm never speaking to you again.
@@ -588,9 +588,9 @@ I thought you were mad at me.
 I don't want to be mad anymore.
 That would mean looking backwards.
 And we've done that enough.
-♪ <i>All the women I meet are tired... ♪</i> Okay.
+♪ <i>All the women I meet are tired...♪</i> Okay.
 I spoke to Eva, too.
-And... it... made me realize that she's always been this shadow hanging between us.
+And...it...made me realize that she's always been this shadow hanging between us.
 ♪ <i>Sittin' down...</i> ♪ And not just because of her or you, but because of me.
 'Cause I couldn't let her go.
 Karen...
@@ -605,11 +605,11 @@ Always another story.
 Yup, that's kind of the way the news works.
 Since when does reporting the news include randomly confronting a killer?
 Finding the truth can be risky...
-Dangerous, even... But it's important.
+Dangerous, even...But it's important.
 People need to know what's going on around them.
 That's my job.
 Why is it your job to take those kinds of risks?
-I know. Pot meet kettle, but, uh... but still.
+I know. Pot meet kettle, but, uh...but still.
 A husband wants to kill his wife.
 The wife wants to kill her husband.
 How-how is that worth your time, much less your life?
@@ -628,7 +628,7 @@ Every time I close my eyes.
 He was in my house.
 In mine, too. Eating my food, wearing my clothes.
 I know he's dead, but still kind of feels like he's there, you know?
-I just... I just wish I could forget about him.
+I just...I just wish I could forget about him.
 Then maybe I could move on like everybody wants me to.
 You know, Harry, I've been doing this a long time.
 I've spoken to a lot of survivors, and they all tell me the same thing.

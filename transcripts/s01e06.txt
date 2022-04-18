@@ -1,7 +1,7 @@
 * Fly me to the moon * Let me play * Among the stars * Let me see what...
 MAN: Hey, look.
 WOMAN: Oh, wow.
-: I feel like I'm dreaming.
+I feel like I'm dreaming.
 MAN: I told you you'd love it.
 WOMAN : I had to work up the courage.
 You've had your pilot's license for all of a month.
@@ -32,15 +32,24 @@ Um, "Airspeed 65 knots." Check.
 KATE: "Mixture idle cutoff." MAN: Check.
 "Verify flight ring is engaged." Check.
 KATE: "Initiate engagement process." Check.
-"Confirm pilot is head over heels in love with the passenger." MAN: Check.
-KATE: "Will the pilot promise "to love and cherish the passenger until his dying day?" MAN: Double check.
+"Confirm pilot is head over heels in love with the passenger."
+MAN: Check.
+KATE: "Will the pilot promise "to love and cherish the passenger until his dying day?"
+MAN: Double check.
 I love you so much, Kate.
 I hate you.
-MAN: What do you say : Will you be my copilot?
+MAN: What do you say? Do you like it?
+Will you be my copilot?
 Kate.
 Hey, Kate. Kate?
 Aah!
 Kate! Kate! Kate!
+911, what's your emergency?
+My girlfriend passed out! I think she had a heart attack.
+Is she breathing normally, sir? Can you feel a pulse?
+Yeah, yeah I can feel her breathing. But her heart is racing like crazy.
+What is your location, sir? An ambulance will be on the way.
+No, it won't! I'm in a Cessna flying over Los Angeles.
 Oh, okay.
 Tell me what happened up there, sir.
 Was she complaining of chest pain or nausea?
@@ -52,8 +61,8 @@ Did what, sir?
 I-I pretended there was something wrong with the plane.
 Why would you do that?
 I had a proposal written out on the emergency instructions.
-I was gonna propose on Valentine's Day Okay. Um...
-and I don't want to be so on the nose, so I thought I'd do it a few days early.
+I was gonna propose on Valentine's Day Okay.
+Um...and I don't want to be so on the nose, so I thought I'd do it a few days early.
 Okay, okay, listen to me.
 You have to get her on the ground.
 Have you notified Air Traffic Control?
@@ -74,7 +83,8 @@ Hey, Abbs, I'm-I'm on a call.
 ABBY: Okay, but don't hang up.
 I'm the one who took the call you're on.
 Listen, after he told me about the stunt that he pulled and he told me about her condition, I called her doctor.
-Wait, wh ABBY: Oh, he didn't tell you?
+Wait, wh --
+ABBY: Oh, he didn't tell you?
 Romeo faked an air emergency.
 You faked an emergency?
 I was proposing.
@@ -127,15 +137,14 @@ I don't know. It's getting kind of irritating.
 I mean, I'm fine with him being a boy toy.
 You know, I'm all right with that.
 But he's so afraid he's gonna do something wrong or hurt me or something.
-: Frankly, I just want to put on some fancy underwear, and...
-... get my hair done, and go out, and have a nice time and feel special.
+Frankly, I just want to put on some fancy underwear, and...
+...get my hair done, and go out, and have a nice time and feel special.
 Amen to that.
 Well, maybe if Buck doesn't pull through, we'll all do a girls' night.
 Ooh.
 CARLA: No. No way.
 A woman like you, smart and sexy with hair like an angel deserves a real Valentine's Day.
-If he doesn't want to give it to you, honey, then...
-... sayonara, fireboy.
+If he doesn't want to give it to you, honey, then...sayonara, fireboy.
 Oh, yes.
 Okay.
 God, I hate Valentine's Day.
@@ -180,8 +189,8 @@ Hi.
 Can I help you?
 Yeah, uh, I'm here for the party.
 Oh, you're a friend of Chimney's. Come on.
-No, I'm not a friend. I mean, I feel like I know Chimney, but... 'cause I feel like I...
-You're... are you Captain Nash?
+No, I'm not a friend. I mean, I feel like I know Chimney, but...'cause I feel like I...
+You're...are you Captain Nash?
 Yeah.
 Yeah.
 I'm sorry, who are you?
@@ -257,7 +266,7 @@ Your shift ends at 2:00. So does mine.
 I'm going home to my wife.
 Uh, well, we're just being casual.
 It's no big deal.
-It's just... It's just a day.
+It's just...It's just a day.
 Yeah, the only day he's obligated to show you a good time.
 So, what are you doing for Valentine's Day?
 Me?
@@ -300,7 +309,7 @@ Did you think I was going to get you real diamonds?
 Ted, I had a plan.
 A really specific plan for tonight, and you're messing it up.
 You gave me a $14.00 box of chocolates for Valentine's Day.
-I spent all day cooking for you and getting waxed and buying sexy underwear-- I spent hours on tonight.
+I spent all day cooking for you and getting waxed and buying sexy underwear -- I spent hours on tonight.
 Maybe you should have spent a few less hours salting the food.
 Okay, that's it, I'm out.
 You know, my friends told me to stay away from you.
@@ -313,6 +322,9 @@ Okay? I-I can't watch a movie with you because I've got plans with another girl 
 Got her the same box of chocolates.
 You don't mean anything to me, Melora.
 Okay, get out of the way, Melora.
+911, what's your emergency?
+Yeah, something's happening at my neighbor's place.
+I'd knock, but I don't want to get involved. Can you send someone?
 ATHENA: LAPD. Open up, please.
 You all right, ma'am?
 Yes, I'm fine.
@@ -321,7 +333,7 @@ Oh, I'm sorry.
 I got into a fight with my boyfriend.
 It probably got loud.
 Is he still here?
-: No, I'm all alone.
+No, I'm all alone.
 Mind if I come in?
 I'll just have a look around?
 Sure.
@@ -339,7 +351,7 @@ Yeah, well, I took a vow.
 That's so beautiful.
 Listen.
 Any man who can do this to you on Valentine's Day, he ain't worth it.
-All right? You're better off without him-- you hear me?
+All right? You're better off without him -- you hear me?
 That's from a long time ago.
 That was really just a cry for help.
 I'll tell you what.
@@ -347,7 +359,7 @@ You've been through a lot tonight.
 If the blues come back and you feel like crying out for help, you make a call and talk to me.
 This is my card.
 I'll be on duty all night.
-: You've got a good heart.
+You've got a good heart.
 DISPATCHER: Available units.
 Available units, 211 in progress, corner of Beverly and Vermont.
 727-L-30. Show me en route.
@@ -364,7 +376,7 @@ Screw it up?
 Well, my advice is don't.
 Uh, okay, what happens if we start having sex?
 Why would that happen?
-'Cause that's what always happens-- I'm a sex addict.
+'Cause that's what always happens -- I'm a sex addict.
 Self-diagnosed, yeah.
 Listen, it's not uncommon for a guy to use quick, meaningless sex to avoid real intimacy.
 So you're saying, you know, it might be okay to sleep with her, just as long as I'm not a dick about it?
@@ -380,18 +392,18 @@ CARLA: Wow.
 It just jumped ten degrees in here.
 You don't look like a whore at all.
 Thanks, Mom.
-Well... I'm excited.
+Well...I'm excited.
 And with any luck, nobody'll get hurt.
 Okay, look, I need you to stop worrying about everybody else's wants and feelings, and start worrying about your own, okay?
-Fine. I'm just... I'm excited.
+Fine. I'm just...I'm excited.
 It's Valentine's Day and I'm going out.
-Okay, so I should... not sleep with her tonight.
+Okay, so I should...not sleep with her tonight.
 Correct.
 Okay.
 You should not have sex with her tonight if you're really interested in her.
 A woman like that deserves a little chivalry.
 Chivalry? Okay, I like that.
-You know, and... don't be a dick.
+You know, and...don't be a dick.
 You know what, Buck, I think if you focus on the first part, the second part'll take care of itself.
 Geez.
 I got it, I got it. Let me try on this jacket.
@@ -401,7 +413,10 @@ Okay. Good.
 Good luck.
 I don't want it.
 Good luck keeping it in your pants.
-No, I'm not... Bobby!
+No, I'm not...Bobby!
+911, what's your emergency?
+There's this, like, totally insane crash on the 710! I'm 100% fine, but there's like a million cars piled up everywhere.
+Ugh! I'm totally gonna be late to the V-Day dance.
 I need you to back up, sir.
 So, what's the situation here?
 12 cars, no fatalities.
@@ -412,7 +427,7 @@ The patient is critical. She's prepped and waiting.
 I got this.
 Buckle up, buttercup.
 MED TECH: Uh, what...
-what... okay. Whoa.
+what...okay. Whoa.
 Whoa. Whoa!
 Oh, g...
 ATHENA: Hang on.
@@ -421,15 +436,18 @@ MED TECH: I don't think we're gonna make it.
 ATHENA: Oh, we're gonna make it.
 * There goes the one I love This is unit 727-L-30.
 I need a manual traffic control at the 10 freeway onramp eastbound at Alameda.
-* I wasn't worthy of OFFICER: This is uniform. We've got you covered.
+* I wasn't worthy of
+OFFICER: This is uniform. We've got you covered.
 * There goes my happiness * It couldn't be...
-MED TECH: Red light. Red-- Red light. Red light! Ah! Whoa, God!
-* There goes somebody else The transplant recipient. Whose life are we saving?
+MED TECH: Red light. Red -- Red light. Red light! Ah! Whoa, God!
+* There goes somebody else
+The transplant recipient. Whose life are we saving?
 MED TECH: Her name is Anna Cerritos.
 She's a 16-year-old high school student from Seattle.
 Her whole family's flown out here to be with her.
 All right, we got you, Anna.
-* It couldn't last somehow MED TECH: Whoa, big truck.
+* It couldn't last somehow
+MED TECH: Whoa, big truck.
 White truck. Truck truck!
 * I never thought...
 No, any...! Whoa, whoa, whoa!
@@ -442,20 +460,21 @@ Thank you, Officer. You may have saved a life tonight.
 ATHENA: Well, I can't think of anything better than delivering a heart on Valentine's Day.
 That was a kidney.
 Kidneys are good.
-: 727-L-30, this is Dispatch. Come in.
+727-L-30, this is Dispatch. Come in.
 Go for 727-L-30.
 DISPATCHER: Sergeant Grant, police welfare check requested at 844 Sanborn, Los Angeles.
 Show 727-L-30 responding.
 Sergeant Athena, you came.
-Uh... I was under the impression that, uh, you were having distress?
+Uh...I was under the impression that, uh, you were having distress?
 I was having a moment.
 Happy Valentine's Day!
-Did you know See's Candies is open 24 I just... I wanted to thank you for your kind words earlier.
+Did you know See's Candies is open 24/7?
+I just...I wanted to thank you for your kind words earlier.
 Oh...
 I ate all the caramel ones.
-Uh, wh-- wait, you know, this is, this is very sweet of you, but, um...
+Uh, wh -- wait, you know, this is, this is very sweet of you, but, um...
 You really didn't have to do this.
-I just... You were so kind to me, and I was thinking, we're both members of The Lonely Hearts Club.
+I just...You were so kind to me, and I was thinking, we're both members of The Lonely Hearts Club.
 Um...
 To The Lonely Hearts Club!
 Oh, my God.
@@ -490,7 +509,7 @@ Hey.
 You weren't kidding. You really do know people.
 I don't know how you got us in here.
 I, uh, I know the owner. Well, I-I met him, um...
-We, uh... we contained a noxious gas leak for them a couple weeks ago, so...
+We, uh...we contained a noxious gas leak for them a couple weeks ago, so...
 Oh...
 Yeah, just try not to breathe much.
 Yeah, do that.
@@ -510,7 +529,7 @@ Remember, you're not sleeping with her.
 ABBY: I think I can see his muscles through that jacket.
 Cheers. Thank you.
 And happy Valentine's Day.
-: Cheers.
+Cheers.
 Cheers.
 Mm.
 Be cool. I'm not choking in front of her.
@@ -523,6 +542,9 @@ I do. Get him up.
 Okay.
 Get him up.
 He's not breathing.
+911, what's your emergency?
+I'm at Le Chance Bistro in Century City. I need paramedics dispatched. Adult male, 26, fully blocked airway.
+He stopped breathing about 30 seconds ago. I've started compressions.
 Come on, Buck.
 Call 911.
 We already did.
@@ -560,15 +582,21 @@ Oh, God. Okay.
 STEPHANIE: There shouldn't be a lot of blood, but try to keep it from leaking into his windpipe.
 Okay, I did it.
 STEPHANIE: Okay, stick your finger in, open it up.
-: Oh, God. Oh, my God. Okay, okay, okay.
+Oh, God. Oh, my God. Okay, okay, okay.
 Get the pen in there.
 Two quick breaths.
 Five seconds. Four...
-Three... Two. Another quick breath.
+Three...Two. Another quick breath.
 PARAMEDIC: Excuse me, excuse me. Gurney coming through.
 It's okay, it's okay, it's okay, it's okay, it's okay.
 PARAMEDIC: Gurney coming through.
 You're okay.
+911, what's your emergency?
+I, uh. I can't move. I think I broke my back.
+Sir, you are going to have to speak up. Did you say you think you broke your back?
+Yes. Yes, I fell.
+Can you speak up please? It sounds like you're whispering.
+Just please come to 617 Marshall Drive in Van Nuys.
 CHIMNEY: Was the caller the only one in the house?
 BOBBY: As far as I know, but if not, he could be laid up.
 You might have to bust the door open.
@@ -607,7 +635,7 @@ Nothing over here.
 Hey, Chim.
 Over here.
 Oh. Shh.
-: Come here.
+Come here.
 Don't move. Do not move, sir.
 You jumped from up there, didn't you?
 Yeah. Yes.
@@ -637,7 +665,7 @@ Oh, God! Oh...
 CHIMNEY: You're okay. You're all right.
 You're okay. Yeah, okay.
 MICKEY: Oh, God, my leg. Ow!
-What the... oh, God.
+What the...oh, God.
 What the hell is going...?
 Was he in here when I got home?
 You said you were gonna be at work.
@@ -651,17 +679,18 @@ You asked me to move in here.
 I'm sorry. I-I really am.
 There's just so much history between us.
 So many memories.
-: Oh, God!
+Oh, God!
 CHRISTINA: Baby.
 MICKEY: What?
 I am so sorry.
 Are you okay?
 Uh, I'm okay.
 I'm okay. I love you.
-I love... I love you.
+I love...I love you.
 I love you!
 CHRISTINA: Wait.
-Wait, can I ride with him BOBBY: Yeah, so long as the divorce papers aren't signed yet.
+Wait, can I ride with him?
+BOBBY: Yeah, so long as the divorce papers aren't signed yet.
 So was that creepy or romantic?
 Eh, a little of both.
 Got to love Valentine's Day.
@@ -818,5 +847,9 @@ That's okay, right? I mean, you can't choke on that, can you?
 Well, clearly you've never had the coffee from here before.
 I'll risk it.
 All right.
-* One night to be confused * One night to speed up truth * We had a promise made * Four hands and then away * Both under influence * We had divine sense * To know what to say * Mind is a razor blade * To call for hands of above * To lean on * Wouldn't be good enough * For me, no * One night of magic rush * The start: a simple touch * One night to push and scream * And then relief * Ten days of perfect tunes * The colors red and blue * We had a promise made, we were in love. 
+* One night to be confused * One night to speed up truth * We had a promise made * Four hands and then away
+* Both under influence * We had divine sense * To know what to say * Mind is a razor blade
+* To call for hands of above * To lean on * Wouldn't be good enough * For me, no
+* One night of magic rush * The start: a simple touch * One night to push and scream * And then relief
+* Ten days of perfect tunes * The colors red and blue * We had a promise made, we were in love. 
  

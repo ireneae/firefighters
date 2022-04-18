@@ -26,7 +26,7 @@ Ow! Hildy, stop!
 <i>Hildy, shower off!</i> Hildy!
 Shower off! Shower off!
 <i>Temperature rising.</i> <i>Stopping shower.</i> <i>♪</i> Aw, crap.
-A man has been... injured.
+A man has been...injured.
 What is the nature of the injury?
 My boyfriend fell in the shower.
 I think he hit his head.
@@ -120,7 +120,7 @@ You may uncover your cadavers.
 <i>♪</i> Now, you may wonder why we still do this.
 Why not a digital presentation, a 3D model, something more futuristic? The answer's simple...
 Hey, Luis, are you okay?
-Just a little... nauseous.
+Just a little...nauseous.
 That's not uncommon.
 Any other symptoms? Headache, lightheadedness?
 Will you two shut up?
@@ -297,7 +297,7 @@ Turns out, there's an app for that.
 Come on, Buck.
 <i>I'm beating you.</i> You're cheating.
 Come on, Buck.
-Hey, man, you need to talk to your kid about playing... fair.
+Hey, man, you need to talk to your kid about playing...fair.
 Or you could just do that.
 Dad, I was beating him.
 Well, we're taking a little break from the Internet right now.
@@ -736,7 +736,7 @@ Oh, had Dr. Sanford.
 I mean, Kara was great.
 I would absolutely see her again if I needed to.
 You stopped seeing her. When?
-Um... few weeks ago.
+Um...few weeks ago.
 You didn't say anything.
 Um, I'm sorry.
 It just didn't occur to me.

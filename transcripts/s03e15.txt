@@ -13,7 +13,7 @@ Oh, no. That's okay.
 You go ahead. I'll just...
 You're a combat medic but this makes you squeamish?
 DOCTOR: Come on, Dad. You won't hurt him, trust me.
-Yeah... Dad.
+Yeah...Dad.
 <i>(TENDER MUSIC)</i> I like the sound of that, <i>♪ ♪</i> Cutting the umbilical cord, not as easy as they make it sound.
 <i>¿Por qué no me avisaste?</i> Your dad wasn't there.
 He was in Galveston when you were born and then Sophia, you were...
@@ -376,9 +376,9 @@ I'm sorry! We're moving out!
 Still waiting!
 <i>♪ ♪</i> <i>- Mommy.
  It's okay.</i> <i>It's okay, Chris.</i> Hey, what's going on? Is Chris...
-<i>No, no, it's... it's my mom. It's cancer.</i> What?
+<i>No, no, it's...it's my mom. It's cancer.</i> What?
 But she had a double mastectomy.
- The odds are... <i>- No, it's different cancer.</i> It's endometrial carcinoma. Stage 3.
+ The odds are...<i>- No, it's different cancer.</i> It's endometrial carcinoma. Stage 3.
 I can't hear you!
 You're breaking up!
 I have to go see her, Eddie!
@@ -409,7 +409,7 @@ Three girls? You must've been busy.
  (EXPLOSION)  (SCREAMING) <i>(FRANTIC BEEPING)</i> (METAL AND GLASS CRUNCHING) <i>(RUMBLING)</i> (GUNFIRE) Break, break, break.
 (INDISTINCT) We're pinned down. We're taking fire.
 Two clicks north of our last reported position.
-Prepare for... (INDISTINCT) (GUNFIRE) Wake up. Come on.
+Prepare for...(INDISTINCT) (GUNFIRE) Wake up. Come on.
 Chief, wake up.
 We're under attack. Come on.
 We gotta get everyone behind those rocks over there.
