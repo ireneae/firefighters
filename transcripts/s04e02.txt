@@ -16,7 +16,7 @@ Dude, it'll be cool, all right? We'll scale the hillside, we'll get up close to 
 We're never making it back to Albuquerque tonight.
 Hold up.
 I am not dressed to scale anything.
-I thought we were just going on a walk. You never said-- You're fine. It's not even that steep.
+I thought we were just going on a walk. You never said -- You're fine. It's not even that steep.
 For you, maybe.
 You always do this.
 Make plans without checking in with me first.
@@ -36,7 +36,7 @@ Not really.
 Buzzkill, dude.
 That was the whole point fun together.
 We've been together for months.
-You know what, I-- I think I need some alone time.
+You know what, I -- I think I need some alone time.
 I wanna go back to the car.
 What is with all the helicopters?
 It's LA. There are always helicopters.
@@ -79,7 +79,7 @@ Are you with me?
 Come on.
 Whoa!
 All of the water from the dam caused more damage than just flooding and mudslides.
-It quickly eroded the bottom of the hill, and then-- Brought the whole hill down.
+It quickly eroded the bottom of the hill, and then -- Brought the whole hill down.
 Most of the damage is concentrated east of the dam.
 Exposed gas lines, unstable structures, and mud.
 Lots of it.
@@ -90,7 +90,7 @@ Might not have gotten them all out in time.
 Have any officers checked in with Mobile Command?
 Not that I've seen, but it's still golden hour.
 It's our best chance to find survivors.
-After that-- It becomes a recovery operation.
+After that -- It becomes a recovery operation.
 Should we be worried about more of that hill coming down?
 Yeah, we work quick, we work safe, we hope for the best.
 Where do you want us?
@@ -157,7 +157,7 @@ Yeah, when I first moved here, I wanted to know more about the area.
 I took one of those tours.
 It was very informative.
 <i>♪</i> Help! Help!
-I'm--I'm stuck.
+I'm --I'm stuck.
 Stay right where you are. LAFD.
 We will come to you.
 That mud's too thick. We need plywood.
@@ -177,7 +177,7 @@ I'm gonna call for backup.
 We need more people out here searching.
 Do we know which channel Mobile Command is on?
 Not that one.
-Wait, uh, g--go back.
+Wait, uh, g --go back.
 Mudslide knocked out the power on the cell service.
 There shouldn't be any interference.
 So what's causing that feedback?
@@ -189,23 +189,23 @@ Find My Baby.
 Exactly.
 You know, I only heard a baby, not an adult.
 Before, when we heard the crying.
-Yeah, parents could be unconscious or, you know-- Dead?
+Yeah, parents could be unconscious or, you know -- Dead?
 Poor kid might be an orphan.
 Or maybe they just got separated.
 Well, you really do always go worst-case scenario, don't you?
 Is that judgement I'm detecting?
-Uh, yes. You know, it--it is.
+Uh, yes. You know, it --it is.
 Because you are having a kid with my sister, but you're living on my couch.
 To protect her.
 And your niece or nephew.
 Maybe you missed it, but the whole world's taken an unexpected turn to crazy town.
-I'm just trying to keep them safe until-- Until what?
+I'm just trying to keep them safe until -- Until what?
 Until the world goes back to normal?
 Well, what if it never does?
 Then I'll be a crappy dad over videoconferencing.
 That's actually something I got experience with.
 Chimney, you're not giving yourself enough credit, okay?
-You're--you're gonna be a great dad.
+You're --you're gonna be a great dad.
 I have zero evidence to support that theory.
 Ah, but you take care of total strangers every single day.  Hey, hey, hey! This has gotta be it.
 So how do we get inside?
@@ -261,10 +261,10 @@ You came over for dinner and never left.
 Okay, stop moving.
 Every time you do, that mud is gonna pull you in deeper.
 Stay still and keep your hands above the surface.
-I just--I feel like I'm gonna drown.
+I just --I feel like I'm gonna drown.
 You can't drown in quicksand. Human body's too dense.
-But the more you struggle-- Ugh, I'm stuck!
-And--and--and sinking!
+But the more you struggle -- Ugh, I'm stuck!
+And --and --and sinking!
 Oh, God. Oh, God, okay. Can you help me?
 Can't we just pull him out?
 Not unless you wanna rip him in half.
@@ -286,7 +286,7 @@ I love you.
 I love you too, bud.
 Go quaran-team.
 I'm in love with you.
-Son of a-- Have been since lockdown.
+Son of a -- Have been since lockdown.
 And the plot thickens.
 But you've been a total jerk to me.
 You've acted like me living with you guys has been torture.
@@ -295,19 +295,19 @@ I mean, don't you see?
 The three of us living under one roof, you two kissing and canoodling, it was killing me.
 Cap, you wanna hurry that up, please?
 All right, you got it?
-But you never-- Okay, Dylan, I-- I know.
+But you never -- Okay, Dylan, I -- I know.
 I know that you don't feel the same way.
-I just--I didn't wanna die without telling you.
-Okay. I--I can't breathe.
+I just --I didn't wanna die without telling you.
+Okay. I --I can't breathe.
 Gotta move fast.
 Pressure from this mud is gonna collapse his lungs.
 Stop moving around.
-I--I love you too, Dylan.
+I --I love you too, Dylan.
 What?
 So you stay still.
 Don't give up. Live.
 For me. Okay?
-Ok--okay.
+Ok --okay.
 Okay, Dylan, I need you to lean back as far as you can like you're sitting in a chair, okay?
 Okay.
 That is gonna distribute your weight more evenly.
@@ -318,7 +318,7 @@ Yeah, it's working.
 Oh! Oh, I'm gonna live!
 And then I'm gonna kill you.
 Caleb, I am so sorry.
-I just-- You're in love with Dylan?
+I just -- You're in love with Dylan?
 I thought he was gonna die.
 I was moved by his passion.
 I thought I should say it back.
@@ -340,7 +340,7 @@ Buck, I got 'im.
 Can't be any more than a few days old, <i>not a scratch on him.</i> <i>Found the mother, too, deceased.</i> Looks like blunt force trauma to the head.
 I'll notify Mobile Command. Tag the house.
 All right, let's get you two outta there.
-Copy--  <i>Help, we're locked in!</i> Stand back!
+Copy --  <i>Help, we're locked in!</i> Stand back!
 My baby, where is he? What did she do to him?
 It's okay. Calm down.
 Your baby?
@@ -491,7 +491,7 @@ My sister was in the passenger seat.
 Another car came out of nowhere, and...
 I survived and my sister didn't.
 I'm sorry.
-Afterwards, everyone told me I should get back out there and move on with my life, but without my sister in the world, I just-- just wanted to be in it less.
+Afterwards, everyone told me I should get back out there and move on with my life, but without my sister in the world, I just -- just wanted to be in it less.
 Eventually, I just stopped going out at all.
 You gave up on yourself.
 On life.
@@ -562,7 +562,7 @@ Ready to move?
 Atta girl.
 Any word on my mom?
 Rescue units are looking. They'll find her.
-I'm sorry. I just-- I was trying to save my mom.
+I'm sorry. I just -- I was trying to save my mom.
 I know.
 But you only made the situation worse.
 Look, when we are on those calls, we're someone else's lifeline.
@@ -574,7 +574,7 @@ Good.
 Watch your step.
 Amber!
 What are you still doing here?
-I--I thought they would've taken you to the hospital by now.
+I --I thought they would've taken you to the hospital by now.
 I couldn't leave without you.
 Another transport's on the way.
 Good job, Chim.
@@ -638,7 +638,7 @@ You're right. I don't.
 You were looking forward to USC.
 You were gonna major in prelaw, maybe journalism.
 You had plans.
-Then all of a sudden-- You got hurt.
+Then all of a sudden -- You got hurt.
 Plans changed.
 I took the job because of you.
 What?
@@ -662,8 +662,8 @@ You're not Albert.
 No.
 I'm...
 Wow.
-You're so, uh-- Pregnant.
-Yeah, on the video chat, it didn't, uh-- it didn't seem so--so real.
+You're so, uh -- Pregnant.
+Yeah, on the video chat, it didn't, uh -- it didn't seem so --so real.
 So what are you doing here?
 I'm home.
 If you still want me here.
@@ -674,7 +674,7 @@ The world is still the same.
 Yeah, but I think maybe what needs to change is me.
 You make me so happy.
 You and this baby.
-Maybe a little too happy because-- see, I've been so worried that something terrible was gonna happen, so I just-- Ran.
+Maybe a little too happy because -- see, I've been so worried that something terrible was gonna happen, so I just -- Ran.
 I got scared.
 I'm so sorry.
 I'm scared too.
@@ -690,14 +690,14 @@ I'm sure you're missing him.
 Is everything okay with David?
 Okay, you don't have to keep being polite.
 Okay, I know you think that we went COVID crazy with David moving in so fast.
-Well, look, it just-- it felt right.
+Well, look, it just -- it felt right.
 You know, no wasting time.
 That is not what I meant.
 I'm happy for you.
 You deserve someone like David in your life.
 I mean, I'm glad you found each other.
 Thank you.
-That--that means a lot.
+That --that means a lot.
 But the man looks tired.
 Tell him to get some rest.
 <i>♪</i> <i>♪ In the morning when I wake</i> <i>♪</i> <i>♪ And the sun is coming through ♪</i> <i>People who love each other</i> <i>are always connected by an invisible string</i> <i>made of love.</i> Carla, do you have an invisible string?
@@ -726,7 +726,7 @@ Here's hoping.
 <i>I contribute in other ways.</i> <i>-I make a great cup of coffee.
 Oh, I can attest to that.</i> <i>I thought you're not supposed to be drinking coffee.</i> <i>It's one cup a day, people. Back off.</i> Ooh, uh, sorry. Gotta go.
 <i>And you know what, stop being so secretive</i> <i>about your new lady friend.</i> <i>I wanna meet her!</i> <i>Good morning, Evan. How are you?</i> Hey, Dr. Copeland. I'm doing good.
-I've actually been-- been thinking a lot about what you said in our last session, and how I hide my true feelings from others.
+I've actually been -- been thinking a lot about what you said in our last session, and how I hide my true feelings from others.
 I'm starting to think you might be right.
 <i>Okay. Let's start there.</i> Oh.
 What? What? What? What?

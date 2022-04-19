@@ -272,7 +272,7 @@ You think her slurred speech is a symptom of her injuries?
 Can't be too sure yet.
 Dispatch says she was acting odd before the crash, too.
 Chim, how's that kid looking?
-Upper vertebra seems intact, but his systolic blood pressure is skyrocketing-- could be a TBI.
+Upper vertebra seems intact, but his systolic blood pressure is skyrocketing -- could be a TBI.
 Probably best to transport him in the seat.
 All right, make it safe and get him out.
 Copy that. All right.
@@ -328,7 +328,7 @@ Hen! Eddie!
 How are you guys doing up there?
 <i>MAN</i> <i>We haven't moved in, like,</i> 35 minutes.
 <i>-Was there an accident?</i> Yes, there was an accident on the freeway, and it seems...seems like you're stuck behind it.
-<i>I'm type 1 diabetic, I've been</i> stuck in traffic forever <i>and my blood sugar's</i> getting super low-- feels like <i>-I might pass out in my car.</i> Okay, let me contact LAFD.
+<i>I'm type 1 diabetic, I've been</i> stuck in traffic forever <i>and my blood sugar's</i> getting super low -- feels like <i>-I might pass out in my car.</i> Okay, let me contact LAFD.
 Maybe they can...
 bring you a glucagon rescue kit.
 What is the make and...plate of your vehicle?
@@ -578,7 +578,7 @@ You packed her bag?
 Yeah. Overnight visit, remember?
 Social worker will be by this afternoon.
 No, no, not tonight.
-Ton-- I need to sleep tonight and-and know that she's safe.
+Ton -- I need to sleep tonight and-and know that she's safe.
 Hen......we can't stop this.
 How could you just stand there?
 What?

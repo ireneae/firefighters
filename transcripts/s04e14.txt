@@ -1,8 +1,5 @@
-All you got to do is hang on.
-Push through the pain.
-"911," all-new Mondays.
-And watch other Fox shows like "Lone Star," "Prodigal Son," and "The Resident" on Fox.
-<i>Shots fired. Shots fired!</i> <i>Firefighter's been shot!</i> Shots fired!
+<i>Shots fired. Shots fired!</i>
+<i>Firefighter's been shot!</i> Shots fired!
 Get down!
 We need LAPD and air support!
 Firefighter needs help!
@@ -28,20 +25,21 @@ Hey, just...you just stay with me, okay?
 Requesting a trauma unit to meet us.
 Hey...are you hurt?
 We have a firefighter with a gunshot wound.
-Firefighter Eddie Diaz No, no, no. I'm good.
+Firefighter Eddie Diaz
+No, no, no. I'm good.
 of the 118.
 You just hang on.
 Hey, come on! Come on!
 Just hang on.
 Hey, three minutes away. You're so close.
 We're gonna need a lot of blood.
-We're so close, I just...
-I need you to hang...
-I need you to hang on.
+We're so close, I just...I need you to hang...I need you to hang on.
 Where are you going?
 To work. I'm late.
 Absolutely not. You don't get to announce our marriage isn't working and then just walk away, Bobby.
-Hen, what's up? I'm on my way. <i>-Cap, it's Eddie. He's been shot.</i> <i>They're transporting him now.</i> What hospital?
+Hen, what's up? I'm on my way.
+<i>Cap, it's Eddie. He's been shot.</i> <i>They're transporting him now.</i>
+What hospital?
 Come on! Come on, come on!
 Through-and-through. Upper torso. Copy that.
 Large caliber.
@@ -78,8 +76,7 @@ I'm not working this one.
 I just heard a firefighter was shot.
 You didn't answer my calls.
 I got worried.
-Sorry. I...
-I-I wasn't checking my phone.
+Sorry. I...I-I wasn't checking my phone.
 Is that blood?
 Oh, it's, um, it's not mine, it's Eddie's.
 Eddie's the one who got shot?
@@ -94,11 +91,18 @@ We can stop by your pla...
 Uh, no. No, I-I got...
 You can't go see his son looking like this.
 Are you sure you're okay?
-<i>Uh, he's pretty shaken up,</i> but otherwise fine. <i>Thank God.</i> When Buck didn't answer, I thought...<i>-I think he's just</i> in shock. <i>-Yeah. Just another trauma</i> to add to the pile. <i>We have an update now-</i> <i>-on an earlier story.</i> How is Eddie doing?
+<i>Uh, he's pretty shaken up,</i> but otherwise fine. <i>Thank God.</i>
+When Buck didn't answer, I thought...
+I think he's just in shock.
+<i>Yeah. Just another trauma</i> to add to the pile.
+<i>We have an update now on an earlier story.</i>
+How is Eddie doing?
 He's gonna be in surgery for the next few hours, so we won't know anything for a while.
-<i>Buck's heading over to Eddie's place to, uh,</i> <i>-check in on Christopher.</i> Hey, Chim, they're saying on the news that a firefighter was shot at the scene of a car accident.
+<i>Buck's heading over to Eddie's place to, uh,</i> <i>check in on Christopher.</i>
+Hey, Chim, they're saying on the news that a firefighter was shot at the scene of a car accident.
 What? No, it wasn't a car accident.
-<i>...but they report that she is a six-year veteran</i> <i>of the department, and she's now been transported...</i> Chim, they're not talking about Eddie.
+<i>...but they report that she is a six-year veteranof the department, and she's now been transported...</i>
+Chim, they're not talking about Eddie.
 Come on! She's been shot! Let's go!
 Another firefighter? We were ambushed.
 The shot came out of nowhere.
@@ -118,8 +122,7 @@ Kind of wish I wasn't hearing about it right now.
 Oh! Oh.
 Looks like your hand-eye coordination is back to normal.
 Fully healed. Thanks to all of you.
-And...
-a lot of physical therapy.
+And...a lot of physical therapy.
 So, what happens now?
 We just wait for news about Eddie?
 Or until the hospital staff kicks us off the campus.
@@ -131,12 +134,9 @@ Hey.
 Where's Dad?
 Um, he...he's, uh, he's-he's not coming home tonight, Chris.
 Why not?
-Well, um...
-well, he-he got hurt at work today.
+Well, um...well, he-he got hurt at work today.
 In a fire?
-Um...
-uh...
-no.
+Um...uh...no.
 No, not-not in a fire.
 Uh, the truth is, someone...hurt your dad.
 On purpose?
@@ -146,8 +146,7 @@ Mm-hmm.
 Uh, y...yeah.
 Yeah, yeah, a b...a-a bad guy.
 Is he gonna be okay?
-You know, your dad is, uh...
-he's tough as nails.
+You know, your dad is, uh...he's tough as nails.
 He's a fighter, right?
 So, uh, so he's-he's with the doctors now.
 Like the ones that fixed you?
@@ -158,8 +157,9 @@ Yeah, I think so, buddy.
 I think so.
 It's gonna be okay, Buck.
 <i>The Southland remains in the grip of an apparent sniper</i> who appears to be targeting firefighters and rescue personnel.
-<i>And now it feels as if no open space</i> <i>is safe for the men and the women of the LAFD.</i> This is something we haven't faced before.
-I know it's scary-- the idea that someone is targeting us.
+<i>And now it feels as if no open space</i> <i>is safe for the men and the women of the LAFD.</i>
+This is something we haven't faced before.
+I know it's scary -- the idea that someone is targeting us.
 He couldn't have had much time to set up.
 Probably listening to a scanner, then rushing to calls.
 Last time, he got lucky.
@@ -171,23 +171,33 @@ How good a shot do we think he is?
 But we still have limited resources, so we're going to have to think strategically, and we're going to have to work together. <i>That's great, Cap,</i> but we're still sitting ducks.
 Well...
 not entirely.
-♪ <i>You've got to pick up every stitch</i> ♪ ♪ <i>You've got to pick up every stitch</i> ♪ ♪ <i>Mm, mm</i> ♪ ♪ <i>Must be the season</i> ♪ ♪ <i>Of the witch</i> ♪ ♪ <i>Must be the season</i> ♪ ♪ <i>Of the witch, yeah</i> ♪ ♪ <i>Must be the season of the witch...</i> <i>What about our families--</i> are they in danger, too?
+♪ <i>You've got to pick up every stitch</i> ♪ ♪ <i>You've got to pick up every stitch</i> ♪ ♪ <i>Mm, mm</i> ♪ ♪ <i>Must be the season</i> ♪ ♪ <i>Of the witch</i> ♪
+♪ <i>Must be the season</i> ♪ ♪ <i>Of the witch, yeah</i> ♪ ♪ <i>Must be the season of the witch...</i>
+<i>What about our families --</i> are they in danger, too?
 We have no reason to think that.
 We had no reason to think Eddie would get shot helping a kid, either.
-<i>Look, if we had the resources</i> <i>o put an officer at every door,t</i> <i>I would do that, but we don't.-</i> Is there anything new?
+<i>Look, if we had the resources</i> <i>to put an officer at every door,</i> <i>I would do that, but we don't.</i>
+Is there anything new?
 Vitals look good.
-<i>Until they catch this guy...</i> Buck. Buck.
-<i>...this is gonna be a stressful time.</i> Hey.
+<i>Until they catch this guy...</i>
+Buck. Buck.
+<i>...this is gonna be a stressful time.</i>
+Hey.
 Can I talk to my dad now?
-Um...<i>Not just for us,</i> <i>ut for the people who love us. b</i> Um, n-not yet. He's, uh, still resting.
+Um...
+<i>Not just for us,</i> <i>but for the people who love us.</i>
+Um, n-not yet. He's, uh, still resting.
 Maybe later, okay?
 And as scared as we are, it's gonna be worse for them.
 Mm, sorry, I got to go.
-<i>They're the ones who have to watch us go to work</i> <i>and worry we might not come home.</i> Love you, Jee-Yun.
+<i>They're the ones who have to watch us go to work</i> <i>and worry we might not come home.</i>
+Love you, Jee-Yun.
 We'll lean on them, we'll lean on each other, and that's how we make it through this.
-♪ <i>Pick up every stitch, yeah</i> ♪ ♪ <i>Beatniks are out...</i> ♪ You got something?
+♪ <i>Pick up every stitch, yeah</i> ♪ ♪ <i>Beatniks are out...</i> ♪
+You got something?
 Almost got it.
-♪ <i>Oh, no</i> ♪ ♪ <i>Must be the season of the witch...</i> We ready to move?
+♪ <i>Oh, no</i> ♪ ♪ <i>Must be the season of the witch...</i>
+We ready to move?
 Ready to roll.
 Wait, no. Is it safe?
 I mean, the news said you guys...
@@ -195,13 +205,13 @@ I'm sorry, I-I just...
 Don't be scared.
 We'll get you to the hospital safe and sound.
 <i>How do we know</i> this guy's still out there?
-<i>ith all these new precautions, W</i> what if he just gave up?
-<i>We don't give up.</i> <i>The SWAT team will protect us.</i> So I hear nobody got shot today.
+<i>With all these new precautions,</i> what if he just gave up?
+<i>We don't give up.</i> <i>The SWAT team will protect us.</i>
+So I hear nobody got shot today.
 That's good news.
 Yeah, that was the first good news we've had all day.
 I know you're tired.
-Um, but I just wanted to say...
-I'm sorry.
+Um, but I just wanted to say...I'm sorry.
 I overreacted.
 I should have let you know what was going on instead of trying to prove some point.
 I'm sorry, too.
@@ -210,9 +220,8 @@ I never should have tailed you like a suspect.
 Hmm.
 You know, after I was attacked, we never really talked about it.
 Well, I always got the sense you didn't want to.
-No, I mean...
-we never talked about what it was like for you.
-There's that thing people say-- I don't know what I'd do without you.
+No, I mean...we never talked about what it was like for you.
+There's that thing people say -- I don't know what I'd do without you.
 Mm.
 Because losing someone you love is such an alien concept.
 You don't want to imagine what it's like.
@@ -243,30 +252,26 @@ Oh, are we still in our pajamas?
 School starts in 20 minutes.
 Sorry, that's-that's my fault.
 Slept through the alarm.
-Oh, no, that's good-- that means you're getting some sleep.
+Oh, no, that's good -- that means you're getting some sleep.
 Ah.
 Buck snores loud.
 Well, that's also good to know.
-Okay. I, uh...
-I think it's time someone got ready for school.
+Okay. I, uh...I think it's time someone got ready for school.
 I'll go. But I'm gonna need a nap later.
 Because of all the snoring.
 Yes. Okay.
 Oh, my goodness.
 He seems to be doing okay.
-Y...
-You think he understands what's going on?
+Y...You think he understands what's going on?
 Boy's already lost his mother.
 I think he understands more than we'd like him to.
 Now, what about you?
 I mean, how is it being back out there?
 It's weird.
-You know, the...
-team feels off without Eddie.
+You know, the...team feels off without Eddie.
 Not what I was asking about.
 I'm really worried about you being out there.
-I'm, uh...
-I'm fine.
+I'm, uh...I'm fine.
 I'm not the one who got shot.
 Williams, you're with us.
 What's going on?!
@@ -292,11 +297,15 @@ We can't protect you. Look, we can sit here trying to do the math, Cap, but we g
 Uh, I think he beat you to it.
 Of course he did.
 Buck, nobody cleared you to go up there.
-<i>You are completely exposed and we don't have</i> <i>any way to protect you. Buckley.</i> <i>Buckley, respond.</i> I got this, Cap.
-I brought a tourniquet. Hen and Chim <i>can walk me through anything else I need to do.</i> Can you blame him, Cap?
+<i>You are completely exposed and we don't have</i> <i>any way to protect you. Buckley.</i> <i>Buckley, respond.</i>
+I got this, Cap.
+I brought a tourniquet. Hen and Chim <i>can walk me through anything else I need to do.</i>
+Can you blame him, Cap?
 Yeah.
 Buck's gonna Buck.
-<i>All right, Buck, his name is Cliff.</i> <i>And that cable that's got him pinned--</i> <i>there's no way to move it.</i> <i>You got to cut it to drop the beam</i> <i>-and release the pressure. But the tourniquet</i> <i>goes on first. We'll walk you through it.</i> Oh, man, he's not looking too good.
+<i>All right, Buck, his name is Cliff.</i> <i>And that cable that's got him pinned --</i> <i>there's no way to move it.</i>
+<i>You got to cut it to drop the beam</i> <i>and release the pressure. But the tourniquet</i> <i>goes on first. We'll walk you through it.</i>
+Oh, man, he's not looking too good.
 Hey, Cliff.
 My name is Buck.
 And I'm gonna need to get you down.
@@ -306,7 +315,8 @@ Hen, Chim, <i>I'm prepping the tourniquet.</i> You want to place it well above t
 Ah...
 Don't forget to warn him.
 Hey, Cliff, um, so this is gonna hurt.
-<i>-Okay. Cutting the cable.</i> Make sure the area is clear down there.
+<i>Okay. Cutting the cable.</i>
+Make sure the area is clear down there.
 Copy that. All clear.
 Okay, Cliff. Gonna get you down.
 All right, almost done.
@@ -320,8 +330,8 @@ Thank the crazy guy.
 Are you ever gonna say anything?
 I don't know, Buck. What would you like me to say?
 Uh, I mean-I mean, usually, it's...
-"What were you thinking?" "That was reckless." Or my...
-personal favorite, "You could've been killed." No, it doesn't seem like I need to have the conversation.
+"What were you thinking?" "That was reckless." Or my...personal favorite, "You could've been killed."
+No, it doesn't seem like I need to have the conversation.
 You know it by heart already.
 And, still, you went full Buck.
 You say that like it's a bad thing.
@@ -370,18 +380,19 @@ Ana.
 Is everything okay?
 Hey, Buck.
 Hey.
-<i>Hey, Dad.</i> I miss you. <i>-I miss you, too.</i> <i>ut I'm gonna see you real soon.
-B</i> <i>'ll be home before you know it.
-I</i> Let yourself heal first, please.
+<i>Hey, Dad.</i> I miss you.
+<i>I miss you, too.</i> <i>But I'm gonna see you real soon.</i>
+<i>I'll be home before you know it.
+</i> Let yourself heal first, please.
 You don't have anything to worry about.
 Buck and I have it under control.
-<i>Thanks.</i> Love you, Dad.
+<i>Thanks.</i>
+Love you, Dad.
 <i>I love you too.</i> Appreciate you staying with him.
 Carla offered to bring him to her house, but, uh, I figured this was overwhelming enough without having to sleep in a strange bed.
 He doing okay?
 Better than me.
-Uh...
-I kind of lost it when I told him you got shot.
+Uh...I kind of lost it when I told him you got shot.
 I-I'm sorry. I should've held it together.
 You were there for him when I couldn't be.
 That's what matters.
@@ -416,7 +427,8 @@ Mm-hmm.
 You.
 You're the one wearing stripes on your arm, Sergeant.
 And he strikes me as the type who'll respond to that.
-<i>They got the sniper. He's in custody.</i> That's a relief.
+<i>They got the sniper. He's in custody.</i>
+That's a relief.
 Yeah. Now things can get back to normal.
 Actually, that's what I wanted to talk to you about.
 This isn't going to be a happy talk, is it?
@@ -425,8 +437,7 @@ Is everything okay at home?
 I know you've been worried about Jee.
 I'm failing her.
 I'm just so tired all the time, and I can't focus, and I feel like I'm in this fog that I can't get free of.
-And I need to do better. I-I need to...
-I need to be better.
+And I need to do better. I-I need to...I need to be better.
 And I can't do that and be here.
 You know, if you feel like you need to spend more time at home, I understand.
 But I want you to talk to...
@@ -485,8 +496,10 @@ I'm heading up to three.
 Copy that, Cap!
 LAFD! Anybody up here?
 LAFD!
-<i>118, we have an order to evacuate the building.</i> Evacuate? On whose authority?
-<i>LAPD.</i> Ethan?
+<i>118, we have an order to evacuate the building.</i>
+Evacuate? On whose authority?
+<i>LAPD.</i>
+Ethan?
 Ethan!
 LAFD! Can you hear me?
 Ethan!
@@ -499,7 +512,7 @@ He said he had eyes on our victim, Ethan.
 Ethan Copeland?
 He's not a victim. He's the sniper.
 <i>Come in, Captain Nash.</i> Call them back in here. Do it.
-And if I don't, what-- we burn?
+And if I don't, what -- we burn?
 Call 'em in.
 Tell them you broke your leg or something. Do it.
 Nah.
@@ -522,7 +535,8 @@ Look, I don't think Bobby...
 Bobby's gonna die in there, Buck.
 You need to help me. Help you do what?
 Go get my husband.
-<i>You're insane. We're both gonna die in here. For what?</i> I'm done either way, so I might as well take as many of you out with me as I can.
+<i>You're insane. We're both gonna die in here. For what?</i>
+I'm done either way, so I might as well take as many of you out with me as I can.
 Nobody's coming in. <i>It'll be easy.</i> Cut in on the delta side, where most of the fire's been contained.
 She drops in, she makes her way across to bravo.
 Except she'll be in a fire.
@@ -535,7 +549,8 @@ Just let me get my guys in position. Then I'll brief you.
 We need to knock this fire down so we can go in there and get Cap.
 Yeah. About that.
 All right, come on, come on.
-<i>Where the hell are they?</i> You didn't make it easy.
+<i>Where the hell are they?</i>
+You didn't make it easy.
 The building is engulfed.
 But it's not too late. You can still save yourself.
 I can help you get out of here.
@@ -551,14 +566,13 @@ All right, I'm going in.
 Now tell me what to do.
 <i>You know, there was a guy</i> that took this place hostage a few months back.
 Hurt a bunch of people.
-Me and my partner-- we tried to stop him.
+Me and my partner -- we tried to stop him.
 But we made a mistake, and my partner shot the wrong person.
 An innocent man got hurt.
 We all make mistakes.
-The thing is, that gunman...
-shouldn't have been alive.
+The thing is, that gunman...shouldn't have been alive.
 He'd OD'd multiple times.
-But you firefighters-- you so-called heroes-- you kept saving him!
+But you firefighters -- you so-called heroes -- you kept saving him!
 That's the job.
 You saved his life so he could go ruin someone else's!
 We don't choose who lives or dies.
@@ -566,7 +580,8 @@ We save everyone we can.
 You don't have to make the tough choices.
 But people love you for it, and hate guys like me.
 Chief, be advised, I have eyes on the suspect.
-<i>Do you have a clean shot?</i> Negative. Target red.
+<i>Do you have a clean shot?</i>
+Negative. Target red.
 <i>You think saving lives</i> is a hard job?
 Try having to take them.
 Athena?
@@ -574,8 +589,7 @@ This is Athena Grant. Suspect is down.
 Need medical assistance.
 Captain Nash has been shot.
 Athena, how did you...
-I'm here.
-I got you.
+I'm here. I got you.
 Hey.
 Welcome back.
 Ethan?
@@ -664,18 +678,15 @@ Yeah. Eddie...
 Just let me finish.
 After the last time, when that well collapsed on top of me...
 Which you survived.
-After that...
-it got me thinking.
+After that...it got me thinking.
 You know, what would happen to Christopher if I hadn't?
 So I went to my attorney and changed my will.
-So, someday, if, I, uh...
-didn't make it...Christopher would be taken care of.
+So, someday, if, I, uh...didn't make it...Christopher would be taken care of.
 By you.
 What?
 It's in my will, if I die, you become Christopher's legal guardian.
 Uh...
-I mean, h-how-how does that even work? Don't you...
-Don't-don't you need my consent?
+I mean, h-how-how does that even work? Don't you...don't-don't you need my consent?
 My attorney said you could refuse.
 You know I wouldn't.
 Nah, I know you wouldn't.
@@ -693,9 +704,20 @@ Why are just telling me now?
 Because, Evan, you came in here the other day and you said you thought it would have been better if it had been you who was shot.
 You act like you're expendable.
 But you're wrong.
-<i>Carl Sagan said,</i> <i>"Extinction is the rule.</i> <i>Survival is the exception."</i> <i>When your life, when the world...</i> <i>feels like a never-ending emergency...</i> ♪ <i>You can take everything...</i> ♪ <i>...sometimes just making it through the day</i> <i>can be a struggle.</i> <i>We collect scars.</i> <i>Physical and psychological reminders</i> <i>of what we've been through,</i> <i>of who and what we've lost.</i> <i>But maybe those scars can do more</i> <i>than memorialize our past traumas.</i> <i>Maybe they're also a testament to the fact</i> <i>that we're still here.</i> <i>We are exceptional.</i> ♪ <i>Like a skyscraper...</i> ♪ <i>We are survivors.</i> You made it!
+<i>Carl Sagan said,</i> <i>"Extinction is the rule.</i> <i>Survival is the exception."</i>
+<i>When your life, when the world...</i> <i>feels like a never-ending emergency...</i>
+♪ <i>You can take everything...</i> ♪
+<i>...sometimes just making it through the day</i> <i>can be a struggle.</i>
+<i>We collect scars.</i> <i>Physical and psychological reminders</i> <i>of what we've been through,</i> <i>of who and what we've lost.</i>
+<i>But maybe those scars can do more</i> <i>than memorialize our past traumas.</i>
+<i>Maybe they're also a testament to the fact</i> <i>that we're still here.</i>
+<i>We are exceptional.</i>
+♪ <i>Like a skyscraper...</i> ♪
+<i>We are survivors.</i>
+You made it!
 Congratulations, Firefighter Han.
-♪ <i>Like a skyscraper</i> ♪ ♪ <i>Like a skyscraper...</i> ♪ Oh.
+♪ <i>Like a skyscraper</i> ♪ ♪ <i>Like a skyscraper...</i> ♪
+Oh.
 Ah!
 Firefighters Han.
 <i>And we move forward.</i>

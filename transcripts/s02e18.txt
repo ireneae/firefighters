@@ -6,7 +6,7 @@ Now, authorities are urging the public: stay vigilant.
 If you see something, say something.
 If the truck's parked ina driveway with its hazards on, it's probably just making a delivery.
 No, sir. Having a foreign-sounding last name is not reason enough for me to send the police out to investigate your neighbors.
-[barking over phone] [sighs]: Uh, uh, I'm sorry.
+(barking over phone) (sighs): Uh, uh, I'm sorry.
 Ma'am, I'm having some trouble hearing you.
 Are you being attacked by a dog?
 WOMAN: No! That's my dog!
@@ -25,7 +25,7 @@ Stop! Stop it!
 Larry's out for two weeks with foot surgery!
 WOMAN: I think he did something to Larry.
 Okay, I'm dispatching a unit to your location.
-[man shouting] And, ma'am, I suggest you put Titus back in the house before the officers arrive.  MAN: You got to help me here.
+(man shouting) And, ma'am, I suggest you put Titus back in the house before the officers arrive.  MAN: You got to help me here.
 ♪ 911. What's your emergency?
 WOMAN: Oh, my God, there's a backpack!
 There's a backpack  outside Brookside Elementary!
@@ -33,8 +33,8 @@ Ma'am?
 Send the cops! Quick! Please!
 Ma'am, slow down.
 Tell me again, where was the backpack found?
-[children screaming, shouting] MAN: Keep moving.
-[excited chatter] [alarm ringing] [sirens wailing, horn blowing] [chatter continues] BUCK: All right, everyone, as close and as tight to the truck as you can be.
+(children screaming, shouting) MAN: Keep moving.
+(excited chatter) (alarm ringing) (sirens wailing, horn blowing) (chatter continues) BUCK: All right, everyone, as close and as tight to the truck as you can be.
 All right, stay tucked in, stay tucked in.
 You guys are doing great. Thank you.
 Teacher spotted it out there after recess.
@@ -43,8 +43,8 @@ Yeah, but it's not a package.
 I thought this guy sent his bombs through the mail.
 Maybe he changed his M. O.
 Or inspired some other crazy.
-MAN [over radio]: Air 32 on tac 1. Moving into position.
-[filtered breathing] We have visual.
+MAN (over radio): Air 32 on tac 1. Moving into position.
+(filtered breathing) We have visual.
 Repeat, we have visual.
 JIM: Carlos, what do we got?
 Unclear.
@@ -75,7 +75,7 @@ Don't even think that.
 Maybe the whole thing is a false alarm.
 Maybe it's over.
 Maybe.
-MAN [over radio]: All-clear given.
+MAN (over radio): All-clear given.
 All-clear given. There is no bomb.
 All students and staff are permitted to enter the campus.
 Engine 118 is on the scene.
@@ -105,20 +105,20 @@ HARRY: Tuxedos are stupid.
 And plus, I'm way too old to be a ring bearer.
 ATHENA: Oh, aw, but you're exactly the right ageto walk me down the aisle.
 Hmm? This wedding isn't just about me and Bobby.
-It's about us-- the three of us-- choosing to make Bobby a part of our family.
+It's about us -- the three of us -- choosing to make Bobby a part of our family.
 Now, we all walk down that aisletogether or not at all.
 Okay.
 Together.
 Maybe just without the tux?
-[laughing] [indistinct chatter] [Helena sighs] He is growing up way too fast.
-[chuckles] Mm, he was so brave yesterday at the funeral.
+(laughing) (indistinct chatter) (Helena sighs) He is growing up way too fast.
+(chuckles) Mm, he was so brave yesterday at the funeral.
 Bravest kid I know.
 Yep, yep. Just like his father.
-[chuckles] His mom was pretty brave, too.
+(chuckles) His mom was pretty brave, too.
 How? By running out on him?
 Ramon.
 Papi,we're not doing this.
-[sighs] I apologize.
+(sighs) I apologize.
 Look, honey, um...
 we know Shannon loved Christopher.
 Of course, Mom.
@@ -128,7 +128,7 @@ Come home.
 To El Paso?
 Texas has fires, too.
 You could join a department there.
-[chuckles]: Dad.
+(chuckles): Dad.
 It's not that simple.
 I'm still a probationary firefighter.
 I'm so close to earning my shield.
@@ -141,7 +141,7 @@ We have a life here, and family.
 Thank you, Eddie.
 We are sitting right here.
 EDDIE: I won't uproot him again.
-RAMON: Christopher hasn't been here long enough to put down roots-- he spent the first six years of his life in El Paso, with us.
+RAMON: Christopher hasn't been here long enough to put down roots -- he spent the first six years of his life in El Paso, with us.
 Being with me is what's best for Christopher.
 I chose this life for a reason.
 You can choose another one.
@@ -156,7 +156,7 @@ If they want to see dumb peopledoing stupid things, they can just get it for fre
 Hey, hey, who you calling stupid?
 You're dumb. The car is stupid.
 This whole production, actually.
-[ignition sputtering] Will you quit your complaining?
+(ignition sputtering) Will you quit your complaining?
 You wanted me to retire. Fine.
 But first...
 I'm gonna give 'em a show.
@@ -171,18 +171,18 @@ I think you just want to go outin a big old blaze of glory.
 Yeah? Well, if it means I'd get one single minute of peace and quiet...
 Hey!
 ...so be it.
-[Roy chuckles, clears throat] Try her now.
+(Roy chuckles, clears throat) Try her now.
 Try her now!
 Okay!
-[engine starts] [screaming] Roy!
-[continues screaming] Roy!
-[sirens wailing] ROY: Be careful what you do, okay?
+(engine starts) (screaming) Roy!
+(continues screaming) Roy!
+(sirens wailing) ROY: Be careful what you do, okay?
 I know, I know.
 Do you know what y...
 Just be quiet. Be quiet!
 Where you going? Where you...
 Ma'am, what happened?
-He got himself all caught up in the engine-- it just,it just sucked him straight in.
+He got himself all caught up in the engine -- it just,it just sucked him straight in.
 "She," damn it! The car is a she!
 Let this be a lesson to you, Roy.
 You mistreat a woman, they mistreat you right back.
@@ -206,7 +206,7 @@ We'll have to come at it sideways.
 Sideways? What do you mean, sideways?
 EDDIE: We're gonna have to cut the engine belt and remove the alternator, probably the crankshaft pulley, whatever's in the way to get you free.
 Like hell you are!
-[power tool whirring] We need to locate that piston.
+(power tool whirring) We need to locate that piston.
 ROY: That hood's a one-of-a-kind.
 Just be careful. Please.
 We'll need a socket wrench for that crankshaft.
@@ -215,16 +215,16 @@ Ooh.
 ROY: Oh, don't put that over there.
 Oh, God.
 One, two...
-[Roy screams] CHIMNEY: Just hold on.
+(Roy screams) CHIMNEY: Just hold on.
 Almost there.
-[Roy groans] You're killing her!
+(Roy groans) You're killing her!
 Try to relax, sir.
 ROY: How can I relax?
 You're killing my car, man.
 ROY: Oh, man.
 Thought you wanted a blaze of glory.
 Setting you on fire, now that would be a glorious blaze.
-[screaming] Please, sir, do not move! Do not move!
+(screaming) Please, sir, do not move! Do not move!
 Damn it. He pulled the occipital vein.
 Cap, he's gonna bleed out.
 All right, let's step it up, guys.
@@ -233,52 +233,52 @@ MAUDE: Oh, God, don't let him die, you guys.
 I love the bastard.
 HEN: Almost there.
 Maude, I swear to you, honey, if I get out of this alive, I'll never do a reckless thing ever.
-I'm done with that life. [crying] MAUDE: It's okay, baby, we're gonna get you out.
+I'm done with that life. (crying) MAUDE: It's okay, baby, we're gonna get you out.
 HEN: It's coming, coming, coming.
 MAUDE: I'm here, baby.
 CHIMNEY: Got it.
 Let's raise him up, nice and easy.
 MAUDE: Oh!
-[Roy groans] MAUDE: You dumb fool.
+(Roy groans) MAUDE: You dumb fool.
 All this just to impress a couple dozen people?
 Not them.
 You.
 All you got to do to impress me is live.
 He'll live.
 I will?
-[Maude exhales] You hear that, Maude?
+(Maude exhales) You hear that, Maude?
 I'm gonna live.
 Keep the parts safe, honey.
 Call the promoter.
 A couple of stitches, a decent toupee, we can do this comeback tour next week.
-I'm back, baby! [laughs] Roy, you son of a...
+I'm back, baby! (laughs) Roy, you son of a...
 It has a full kitchen with a quartz backsplash, spacious master bathroom, elevated sleeping area.
-And the view. [laughs] You cannot put a price on that.
+And the view. (laughs) You cannot put a price on that.
 Yeah, but, mm, you did.
-[laughs] There's wiggle room.
+(laughs) There's wiggle room.
 Well, we are all about the wiggle room, right?
-[chuckles] Yeah.
+(chuckles) Yeah.
 I like it.
 Open floor plan.
 Touch of modern.
 A little raw.
 I see the potential.
-Do you, now? [chuckles] Yeah.
+Do you, now? (chuckles) Yeah.
 We could, uh, we could have youliving like a real adult.
 BUCK: Oh.
 ALI: Yeah.
-[chuckles] This would be my first place all on my own.
+(chuckles) This would be my first place all on my own.
 Oh. I assumed you'd be living here together.
 Oh, uh, no.
-[chuckles] No, this is...She's just my decorator.
-[laughs]: Uh, no. We, uh...
+(chuckles) No, this is...She's just my decorator.
+(laughs): Uh, no. We, uh...
 We're just not quite at that stage yet.
 ALI: Yeah, not quite.
 We're at the stage where I'm ready for his man cave to get a little more natural light.
 I travel a lot for work, and he's...
 Better than a hotel.
 ALI: Oh, yeah. A lot better.
-[Buck laughs] [whispers]: Let's talk closet space.
+(Buck laughs) (whispers): Let's talk closet space.
 ♪ Hey, guys, it's Becca.
 I'm back from Belize, and I am super pumped to tell you all about my trip and the amazing new products I tried.
 So, thanks to my partnership with Pouty Gal Lip Wear, we got to tour all over.
@@ -291,14 +291,14 @@ Okay, well, um, it happens.
 You know, this is real life, and I'm always gonna keep it 100with you guys, which is why today I will be showing you the proper way to pop a pimple.
 What you want to do...
 is start away from the whitehead and just gently apply pressure to the surrounding area.
-Like...[inhales sharply] Just squeeze, like...
+Like...(inhales sharply) Just squeeze, like...
 Oh, God, you guys.
 Oh, this is the worst zit ever.
-Ow. [inhales sharply] [groaning] Oh, ow.
-What? [screams] Mommy! Mommy! Get it off!
+Ow. (inhales sharply) (groaning) Oh, ow.
+What? (screams) Mommy! Mommy! Get it off!
 Get it off! Get it off!
-[glass breaking] Siri!
-[phone chimes] Call 911.
+(glass breaking) Siri!
+(phone chimes) Call 911.
 Help.
 Over here. My arm.
 Guys?
@@ -333,13 +333,13 @@ And then when the mosquito lands on you, the egg hatches and crawls right into t
 BUCK: Luckily it looks like you got it out all in one piece.
 They'll be able to extract the rest at the hospital.
 The rest?-Think of them as new followers.
-[chuckles] Gross!
-Let's get you up. [grunts] Ow.
+(chuckles) Gross!
+Let's get you up. (grunts) Ow.
 Oh, my God, wait.
 No, no, no, no, can somebody grab my phone?
 No, go back. Hand me my phone.
-Wait, you guys. [groans] Hi, guys. Later.
-[Michael groans] First place.
+Wait, you guys. (groans) Hi, guys. Later.
+(Michael groans) First place.
 A-plus, my man.
 MAY: It's a science project, Dad.
 He didn't, like, get into MIT.
@@ -349,9 +349,9 @@ Hey, what's that?
 Uh...package for Mom.
 Harry! Don't move!
 Contact the bomb squad.
-[horn honks] You guys okay?
+(horn honks) You guys okay?
 Yeah, we're fine.
-[exhales] Oh.
+(exhales) Oh.
 Oh. Oh, thank God you were here.
 You know, something just looked wrong, you know?
 BOYD: Sergeant Grant.
@@ -371,7 +371,7 @@ Are you gonna take it with you?-We're gonna try.
 Could be some valuable evidenceinside that box.
 Every package has gone off as soon as someone...moves it.
 That was it?
-[indistinct radio chatter] Oh, give me a second. Thank you, Officer.
+(indistinct radio chatter) Oh, give me a second. Thank you, Officer.
 Yeah. Hey, I got here as fast as I could.
 They wouldn't let me down the street.
 Oh. Do they have any idea who's doing this?
@@ -389,7 +389,7 @@ Sergeant Grant.
 Do you remember working an arsoncase about three years back?
 It was a restaurant.
 Guillermo's.
-I, um-- Agent Boyd, this is Captain Nash of LAFD.
+I, um -- Agent Boyd, this is Captain Nash of LAFD.
 We worked on that case together.
 It's the only time I've had to testify since I moved to L. A.
 The owner was Victor Costas.
@@ -432,18 +432,18 @@ He said you blew up their lives.
 Maybe he's saving Captain Nash for last.
 Hasn't sent the bomb yet.
 Or maybe you searched the wrong house.
-[alarm ringing] [excited chatter] [siren wailing] [horn blowing] DISPATCH: 118, 118, this is Dispatch.
+(alarm ringing) (excited chatter) (siren wailing) (horn blowing) DISPATCH: 118, 118, this is Dispatch.
 Got Bobby Nash on the line. He says it's important.
 Wait, what? Dispatch?
 Dispatch, please repeat.
-[car alarm blaring] Ow. Oh!
-[grunting] [gasping] You're new.
+(car alarm blaring) Ow. Oh!
+(grunting) (gasping) You're new.
 DWIGHT: If you're just joining us, witnesses are reporting that this LAFD ladder truck, belonging to station house 118, was hit by some kind of an explosive as it was making its way to a call.
 Now, you can see there's a firefighter pinned under that truck...
 MADDIE: Looks like a crush injury.
 Those can be tricky.
 Hypovolemic shock. Hyperkalemia.
-[crying]: He's all alone.
+(crying): He's all alone.
 JOSH: He's not.
 He's surrounded by people who want to help him.
 Then how come no one's running in there?
@@ -473,14 +473,14 @@ We've got no details on this man's identity.
 Freddie!
 Thought you'd be on the truck.
 I'm here now.
-[phone vibrating] How far away are you?
+(phone vibrating) How far away are you?
 What's next?
 It's what you wanted.
 Wanted you dead.
 I get that.
 But what about them?
 What about him?
-[groaning] He's got parents, a sister, a girlfriend, and he never did anything to you.
+(groaning) He's got parents, a sister, a girlfriend, and he never did anything to you.
 He wasn't even a firefighter when your father burned down that restaurant.
 Collateral damage.
 Is that how you see yourself?
@@ -488,7 +488,7 @@ An unintended victim in all this?
 Stop.
 One more step, we all go boom.
 Freddie, you got dealt a badhand, and I am sorry about that.
-But what you did with it-- that's a choice.
+But what you did with it -- that's a choice.
 You stopped being a victim themoment you left that first bomb.
 That lawyer! She...
 Did her job.
@@ -500,13 +500,13 @@ Want to make it worse? You wantto make her watch you die?
 Freddie.
 Mom.
 No, no, no!
-[both grunting] Freeze! Freeze!
+(both grunting) Freeze! Freeze!
 Don't move!
 Dead-man's trigger.
-[indistinct radio chatter] MAN [over radio]: Roger that. All clear.
-MAN 2 [over radio]: Copy that.
-[helicopter blades whirring] [crying] CHIMNEY: Still with us, Buck?
-[panting] Buck, how we doing?
+(indistinct radio chatter) MAN (over radio): Roger that. All clear.
+MAN 2 (over radio): Copy that.
+(helicopter blades whirring) (crying) CHIMNEY: Still with us, Buck?
+(panting) Buck, how we doing?
 Kind of numb.
 HEN: I'm gonna run two lines.
 Skin is cold and pale.
@@ -531,22 +531,22 @@ You ready?
 HEN: Hang in there, Buck.
 Ready!
 Lift!
-[all grunting] [screaming] Come on!
-[Buck screaming] Come on, come on!
+(all grunting) (screaming) Come on!
+(Buck screaming) Come on, come on!
 Got to lift higher!
 One more time, guys. Ready?
 Hang in there. Hang in there.
 One, two, three, lift!
-[all grunting] [Buck screaming] Come on!
+(all grunting) (Buck screaming) Come on!
 HEN: Lift a little higher!
-[screaming] Higher!
-[grunting] EDDIE: Hang on, Buck.
+(screaming) Higher!
+(grunting) EDDIE: Hang on, Buck.
 She's too heavy.
 We got anything on the truck we can use for leverage?
 No. We need more people.
 I'll radio again.
 Dispatch, this is the captain.
-♪ [excited chatter] DWIGHT: All right, stand by. Now, look at this.
+♪ (excited chatter) DWIGHT: All right, stand by. Now, look at this.
 Bystanders stepping in. They're gonna help out.
 This really is an amazing scene that's unfolding.
 What an incredible show of support and gratitude.
@@ -556,28 +556,28 @@ HEN: Hurry, hurry, hurry, hurry!
 Everybody, put a hand in where you can!
 BOBBY: On three.
 One...two...three!
-[all grunting] [Buck screaming] CHIMNEY: Okay, we got him!
+(all grunting) (Buck screaming) CHIMNEY: Okay, we got him!
 We got him! We got him!
-[screaming] He's almost clear! Hold it!
+(screaming) He's almost clear! Hold it!
 Keep pulling! All right, we got him out!
 ♪ My sanctuary♪ DWIGHT: What a great moment for this city.
 Go!  A great moment for all of us.
 CHIMNEY:All right, we're gonna lift himonto the board on three.
 One, two, three!
-[grunts] Again.
+(grunts) Again.
 One, two, three!
 ♪ We can find shelter and peace...♪ We good?
 HEN: Stay with us, Buck.-BOBBY: Just stay with us, kid.
 Hospital's four minutes away, okay?
 Come on.
-[cheering] BOBBY: Hang on there, buddy.
+(cheering) BOBBY: Hang on there, buddy.
 DWIGHT: This kind of brings me back to the earthquake, with all those expressions of love this city had for its first responders.
 Here we go again, live on television.
 ♪ You're safe with me♪ ♪ My sanctuary...♪ You're a fool.
 ♪ Safe with me♪ But I love you, too.
-♪ 'Cause this is our sanctuary.♪ ♪ [coughing] Welcome back.
+♪ 'Cause this is our sanctuary.♪ ♪ (coughing) Welcome back.
 Carla...
-[chuckles] You-You're here.
+(chuckles) You-You're here.
 Of course I'm here.
 Hey, if I see my friend on the news being crushed by a fire truck, I'm here.
 Okay, okay, okay, Buckaroo. All right, all right.
@@ -585,13 +585,13 @@ It's gonna be okay. It's gonna be okay.
 Is it? Did you speak to the doctor?
 Did he say anything about how the surgery went?
 Just that you made it through.
-And you're now the proud owner of one titanium rod and four beautifully cobalt-chromed screws. [chuckles] You were hoping for something more?
+And you're now the proud owner of one titanium rod and four beautifully cobalt-chromed screws. (chuckles) You were hoping for something more?
 Before they wheeled me in, he, uh...
 he said he didn't know how it was gonna go.
 You'll walk again.
 Yeah. He-he said...
 he said he was pretty confidentabout that.
-He, uh, he just-- he didn't knowif I would ever...
+He, uh, he just -- he didn't knowif I would ever...
 work again.
 Okay, I'm not gonna lie to you and tell you that it's gonna be all right.
 But I don't think you need to beborrowing trouble, not yet.
@@ -603,7 +603,7 @@ So we're into brunettes now.
 She was actually blonde when I met her.
 Oh, so we're just gonna cover the waterfront.
 Carla...
-[both laughing] ALI: He's awake.
+(both laughing) ALI: He's awake.
 Hi.
 Hey.
 Hey...
@@ -614,23 +614,23 @@ Thank you for being here.
 I would like it noted that he didn't thank either of us.
 Girl, I don't think he knows we're still in the room.
 Right?
-[Carla laughs] KAREN: It's Caltech, part-time.
+(Carla laughs) KAREN: It's Caltech, part-time.
 So it'd be half the moneybut twice as many hours at home.
-HEN [chuckles]: Remember when working remotely wasn't even a thing?
-KAREN [laughs]: Like it was yesterday.
+HEN (chuckles): Remember when working remotely wasn't even a thing?
+KAREN (laughs): Like it was yesterday.
 I guess in the grand scheme of time, it was yesterday.
 If only you could do that.
-[laughs] Bite your tongue.
+(laughs) Bite your tongue.
 The day I'm working from home, our damn house is on fire.
-[laughs] I figure it'll be good to have more time with Denny...
+(laughs) I figure it'll be good to have more time with Denny...
 and anyone else who might come along.
 You see what you did there?
-[laughs] Just dropped it, quiet-like.
+(laughs) Just dropped it, quiet-like.
 Well, I've been thinking.
 I am a woman of a certain age...
 HEN:Well, if there's anybody who canstrong-arm Mother Nature, it's you.
 Are you serious about this?
-[sighs] It's not like we never talked about it.
+(sighs) It's not like we never talked about it.
 We had a whole plan and then...
 HEN: Denny.
 KAREN: We weren't sure if we were making the right decision that time either.
@@ -638,7 +638,7 @@ But there has never been a day I regret choosing being his mom.
 Do you?
 You and that man are the two things that get me home every day.
 A couple more footsteps stompingaround the house might be nice.
-[whistles] Now that is a hell of a thing.
+(whistles) Now that is a hell of a thing.
 It's a loaner.
 A loaner?
 Chim, for real?
@@ -653,7 +653,7 @@ Well, it's kind of hard to fire a guy who was a hero on the 6:00 news.
 Imagine the letters they would get.
 HEN: Not to mention the fiery tweet-storm that'd rain down on their heads,starting with me.
 Welcome back, Cap.
-[laughs] About damn time.
+(laughs) About damn time.
 Thank you.
 Feels great to be home.
 But admit it, you do miss Captain Han just a little.
@@ -671,14 +671,14 @@ You're like a perpetual roommate.
 Even in your own place.
 Lesson learned: Never sign a lease if you intend on being crushed by municipal equipment.
 Mm. Uh, or better idea?
-[Buck grunting] How about not get crushed by municipal equipment?
+(Buck grunting) How about not get crushed by municipal equipment?
 Huh. Now, why didn't I think of that?
 I don't know. Mm.
 So...
 have you, uh, have you thought about what's next?
-Once you take this thing off. [laughs] Why? Did-did the doctor say something to you?
+Once you take this thing off. (laughs) Why? Did-did the doctor say something to you?
 No.
-Um, I don't-- I don't know, you know.
+Um, I don't -- I don't know, you know.
 I guess a lot of physical therapy and then...
 You'll probably want to just get right back out there.
 Yeah, of-of course, I mean...
@@ -698,7 +698,7 @@ one day of my life, Evan.
 It's every day for you.
 I'm just starting to really understand what that means.
 Wait, so-so you want me to quit my job, that's what you're asking me to do?
-No, I would never-- I would never ask you to do that.
+No, I would never -- I would never ask you to do that.
 Listen.
 I know it's who you are.
 I'm just not sure...
@@ -717,7 +717,7 @@ I think you were right.
 But that's okay because...
 We're never gonna get back what we would have had.
 But maybe we could have something else.
-[sighs] You know, you were standing right there when you asked me out on a date, and, uh, I'm not sure I'd ever been so happy.
+(sighs) You know, you were standing right there when you asked me out on a date, and, uh, I'm not sure I'd ever been so happy.
 Until right now.
 ♪ Hey! Whoa, whoa, whoa. Come on, be careful.
 Uh, were you gonna sewthese two pieces back together?
@@ -759,11 +759,11 @@ Today we welcomeinto those ranks a new brother.
 After a year of hard work and dedication, I am proud to officially declare that your probationary period is at an end.
 Welcome to the Los Angeles Fire Department, Firefighter Diaz.
 Thank you, sir.
-[cheering, applause] ♪ Oh, for once in my...♪ What do you got for me, son?
+(cheering, applause) ♪ Oh, for once in my...♪ What do you got for me, son?
 I got your helmet.
 Yeah, my helmet? Oh!
-♪ Could just something go♪ [applause] ♪ Could just something go right?♪ Congratulations, Dad.
-[laughs]: Oh...
+♪ Could just something go♪ (applause) ♪ Could just something go right?♪ Congratulations, Dad.
+(laughs): Oh...
 Thank you so much, Christopher.
 ATHENA: An emergency is the absence of choice.
 The randomness of the world...
@@ -778,17 +778,17 @@ We choose to live.
 ♪ Oh, for once in my, oh, for once in my life...♪ Athena!
 Hey. This is a surprise.
 Figured you'd be going home to sleep after your shift.
-No, I wanted to see you first.-[chuckles] That's so sweet.
+No, I wanted to see you first.-(chuckles) That's so sweet.
 What are you doing today?
 Oh, let's see, laundry, grocery shopping, the usual.
 What if we get married instead?
 Whoa.
 Go to the courthouse, get our license, say our vows, just do it.
-[laughs] "You, me and the kids." That's all you said you needed.
+(laughs) "You, me and the kids." That's all you said you needed.
 And we have that now, today.
 And if there's one thing you and I know, it's that today is the only thing you can be sure of.
 So let's not waste another moment waiting.
-[laughs] Mm...
+(laughs) Mm...
 All right, I'll change, uh, we'll get the kids from school.
 I know you don't have a dress, but...
 No I have a dress.

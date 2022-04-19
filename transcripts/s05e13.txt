@@ -48,7 +48,8 @@ Land.
 (sighs) Look, you don't have to go in.
 (pen writing) Okay.
 Let's get you geared up.
-♪<i> Summer breeze</i> ♪ ♪<i> Makes me feel fine</i> ♪ ♪<i> Blowin' through the jasmine</i> ♪ ♪<i> In my mind</i> ♪ ♪<i> Summer breeze...</i> ♪ (breathing deeply) MAN: Fresh meat! Fresh meat!
+♪<i> Summer breeze</i> ♪ ♪<i> Makes me feel fine</i> ♪ ♪<i> Blowin' through the jasmine</i> ♪ ♪<i> In my mind</i> ♪ ♪<i> Summer breeze...</i> ♪
+(breathing deeply) MAN: Fresh meat! Fresh meat!
 Fresh meat. Come and get it.
 All right, come and get it.
 Fresh meat! Fresh meat!
@@ -100,13 +101,14 @@ This is 118 to Air Operations.
 We need medevac at San Pedro Marina.
 Victim is suffering from severe decompression sickness and possibly a punctured lung.
 Prep for hyperbaric oxygen treatment.
-<i> PILOT:</i> <i> Roger that, Captain 118.</i> <i> We're transporting</i> <i> a trauma patient.</i> <i> Will circle back as soon as</i> <i> we unload. 15 minutes out.</i> He'll be dead before he sees the inside of a chamber.
+<i> PILOT:</i> <i> Roger that, Captain 118.</i> <i> We're transporting</i> <i> a trauma patient.</i> <i> Will circle back as soon as</i> <i> we unload. 15 minutes out.</i>
+He'll be dead before he sees the inside of a chamber.
 She's not wrong.
 JONAH: So what do we do?
 Tag him and go grab a smoothie?
 We could put him back in the water.
 I could take him down, bring him back up properly.
-That's too risky-- we need to get him in a chamber.
+That's too risky -- we need to get him in a chamber.
 15 minutes?
 We could build one faster.
 Saw a diver do it once in Ensenada.
@@ -223,7 +225,7 @@ Wish me luck.
 (knocking) (Jee-Yun cooing) MADDIE: Is this a bad time?
 <i> CHIMNEY:</i> <i> A familiar face.</i> Finally!
 Yeah, welcome back. We missed you.
-Of course you did-- so many new firefighters around here, I thought I walked into the wrong house.
+Of course you did -- so many new firefighters around here, I thought I walked into the wrong house.
 Well, on the plus side, I'm no longer the new guy.
 They really do grow up so fast, don't they?
 HEN: Oh, look who decided to stop by.
@@ -397,7 +399,7 @@ Come on, Hen.
 He's coding!
 What?
 What-what happened? He was just stable.
-Pressure's bottoming out-- might be a reaction to the steroids.
+Pressure's bottoming out -- might be a reaction to the steroids.
 Wouldn't that increase the pressure?
 Yes, unless he was on some sort of prescription meds.
 Clear!
@@ -625,7 +627,7 @@ No. No, Pauline.
 <i> No.</i> Maybe I'll feel something on the way down.
 P-Pauline, no! Don't!
 (grunts) (Buck grunts) Oh!
-(Pauline whimpering) All right, get her over-- on three.
+(Pauline whimpering) All right, get her over -- on three.
 <i> (cheering and applause on TV)</i> (sirens wailing in distance) ALBERT (sighs): I'm sorry about this.
 Uh, Howie was supposed to be home before I had to leave, but he got stuck downtown.
 Don't be silly.
