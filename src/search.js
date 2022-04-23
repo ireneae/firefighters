@@ -144,18 +144,21 @@ function parseContext(phrase, epTitle, epNum, data) {
 function queryLoneStar(phrase, showContext) {
 	var epsSpan = document.getElementById("epResults");
 	var file = 'transcripts/ls_s02e03.txt';
+	var found = false;
 	jQuery.ajax({
 		url:file,
 		success: function (data) {
 			if (data.toLowerCase().includes(phrase)) {
+				found = true;
 				epsSpan.innerHTML += "LS-2.03 ";
 				if (showContext) {
-					document.getElementById("contextResults").innerHTML += parseContext(phrase, "LS 2.03 - Hold the Line", "LS2.03", data);
+					parseContext(phrase, "LS 2.03 - Hold the Line", "LS2.03", data);
 				}
 			}
 		},
 		async: false
 	});
+	return found;
 }
 
 function searchEp(data, title, phrase, season, ep, showContext) {
