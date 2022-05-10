@@ -3,6 +3,7 @@ const urlParams = new URLSearchParams(queryString);
 const searchContext = urlParams.get('context');
 const query = urlParams.get('q');
 const crossover = urlParams.get('crossover');
+console.log(searchContext);
 
 $(document).ready(function(){
 	$('#phrase').keypress(function(e){
@@ -31,7 +32,7 @@ $(document).ready(function(){
 });
 
 const seasons = 5;
-const eps = [10, 18, 18, 14, 15];
+const eps = [10, 18, 18, 14, 17];
 const htmlRegex = /<[^>]*>/g;
 const N = 12;
 const M = 2;
@@ -163,6 +164,8 @@ function queryLoneStar(phrase, showContext) {
 
 function searchEp(data, title, phrase, season, ep, showContext) {
 	var found = false;
+	console.log(title);
+	console.log(data.substring(0, 20));
 	if (data.toLowerCase().includes(phrase)) {
 		found = true;
 		epNum = "" + season + "." + pad2(ep)
