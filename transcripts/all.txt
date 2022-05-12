@@ -54890,29 +54890,45 @@ She's right here.
 How long has the pursuit been going?
 Six minutes, high speed.
 Armed suspect and his girlfriend.
-<i>-MAN: Shots fired, shots fired.</i> Copy that, shots fired.
+<i>MAN: Shots fired, shots fired.</i> Copy that, shots fired.
 This thing's gonna start generating other calls.
 It's gonna be a day.
 911. What's your emergency?
-<i> WOMAN:</i> <i> Yeah, my boyfriend's driving</i> <i> the car you guys are chasing.</i> <i> MAN: What the hell</i> <i> are you doing?</i> <i> Making sure these people know</i> <i> that I got no part of this.</i> <i> Hang up, now!</i> Are you hurt, ma'am? <i> No, but</i> <i> he's gonna get me killed.</i> <i> MAN:</i> <i> Put that phone down now,</i> <i> you crazy bitch.</i> Doreen, you need to tell him to pull over and surrender peacefully. <i> He won't listen.</i> Okay, stay on the line with me.
+<i> WOMAN:</i> <i> Yeah, my boyfriend's driving</i><i> the car you guys are chasing.</i>
+<i> MAN: What the hell</i> <i> are you doing?</i>
+<i> Making sure these people know</i> <i> that I got no part of this.</i>
+<i> Hang up, now!</i>
+Are you hurt, ma'am? <i>
+No, but</i> <i> he's gonna get me killed.</i>
+<i> MAN:</i> <i> Put that phone down now,</i> <i> you crazy bitch.</i>
+Doreen, you need to tell him to pull over and surrender peacefully.
+<i> He won't listen.</i>
+Okay, stay on the line with me.
 I've got his girlfriend on the line.
 Tell her to get him to stop.
 I tried that. He's not interested.
 Try again.
-Do you have any idea where he's headed? <i> Probably to his mama.</i> <i> She's over on Wetherly.</i> <i> Always runs to her</i> <i> when he has a problem.</i> <i> MAN: Are you crazy? Don't</i> <i> tell them that. Give me that!</i> Okay, suspect's mother lives on Wetherly.
+Do you have any idea where he's headed?
+<i>Probably to his mama.</i> <i>She's over on Wetherly.</i> <i>Always runs to her</i> <i>when he has a problem.</i>
+<i>MAN: Are you crazy? Don't</i> <i> tell them that. Give me that!</i>
+Okay, suspect's mother lives on Wetherly.
 He might be heading her way.
 Dispatching additional units.
 What about spike strips?
 They're not in position for that.
 How we doing, Doreen?
-<i> He's slowing down!</i> <i> He's slowing down!</i> Girlfriend says car's slowing down.
-<i> Whatever, mama's boy!</i> All units, all units be advised suspect is abandoning his vehicle.
+<i>He's slowing down!</i> <i> He's slowing down!</i>
+Girlfriend says car's slowing down.
+<i>Whatever, mama's boy!</i>
+All units, all units be advised suspect is abandoning his vehicle.
 Suspect is about to be on foot.
 Airship's up, en route now.
 Finally.
-<i> DOREEN:</i> <i> He's running. What do I do?</i> Okay, stay in the vehicle and await police instructions.
+<i>DOREEN:</i> <i> He's running. What do I do?</i>
+Okay, stay in the vehicle and await police instructions.
 Did he leave the weapon or take it with him?
-<i> DOREEN:</i> <i> He's got it with him.</i> All units, suspect remains armed.
+<i>DOREEN:</i> <i> He's got it with him.</i>
+All units, suspect remains armed.
 Girlfriend is in vehicle, unarmed, awaiting instruction.
 Name is Doreen.
 Claudette, I had a pursuit here last week.
@@ -54925,10 +54941,15 @@ Mom's house is six blocks away.
 Units are on the way to intercept.
 And here I thought for once we'd go through a whole shift without a pursuit.
 Josh, you knew better than to make that bet.
-<i> OFFICER: 44. We are now</i> <i> in foot pursuit,</i> <i> approaching Armadale.</i> Copy. In foot pursuit.
+<i>OFFICER: 44. We are now</i> <i> in foot pursuit,</i> <i> approaching Armadale.</i>
+Copy. In foot pursuit.
 Units, if you take the alley between Armadale and York, you should be able to cut the suspect off.
-<i> OFFICER 2: 41 copy,</i> <i> taking Armadale alley.</i> <i> OFFICER 3:</i> <i> Adam 33 in the area.</i> <i> We'll cover the</i> <i> York Street side.</i> <i> Stop! Show me your hands.</i> <i> On the ground, now.</i> <i> OFFICER:</i> <i> Dispatch, we're Code 4.</i> Copy.
-Code 4. <i> Suspect in custody.</i> JOSH: Nice job.
+<i>OFFICER 2: 41 copy,</i> <i>taking Armadale alley.</i>
+<i>OFFICER 3:</i> <i> Adam 33 in the area.</i> <i> We'll cover the</i> <i>York Street side.</i>
+<i> Stop! Show me your hands.</i> <i> On the ground, now.</i>
+<i>OFFICER:</i> <i> Dispatch, we're Code 4.</i> Copy.
+Code 4. <i> Suspect in custody.</i>
+JOSH: Nice job.
 The alley cutoff was inspired.
 Yeah, it seemed like the obvious call.
 "Obvious call"? Yeah, obvious, because I told her to do it.
@@ -54962,7 +54983,7 @@ You know what I mean.
 Oh, I do, and it's sweet.
 But don't you go down there, Papa Bear.
 (takes deep breath) Understood.
-<i> CHIMNEY:</i> <i> That was the nicest leasing</i> <i> office I've been in.</i> I think that was eucalyptus in that diffuser, huh?
+<i>CHIMNEY:</i> <i> That was the nicest leasing</i> <i> office I've been in.</i> I think that was eucalyptus in that diffuser, huh?
 Okay, Orrington Plaza.
 Oh, this place is great. Huge pool, spa.
 And the gym has a Narcissus machine.
@@ -54984,7 +55005,7 @@ It just takes some time to find your sea legs.
 You just gotta hang in there.
 My probationary year is almost over.
 Shouldn't I have found them by now?
-Maybe... I'm just not cut out for this.
+Maybe...I'm just not cut out for this.
 Come on. You're my brother.
 You were born to do this, just like me.
 Still don't like the place.
@@ -55001,13 +55022,12 @@ How about more Twyla and less Fosse?
 I'll try.
 After I google what that means.
 How's your coffee?
-(chuckles) I have to say, I never thought-- not in a million years-- that I would love a superfood creamer made from coconut milk and marine algae.
+(chuckles) I have to say, I never thought -- not in a million years -- that I would love a superfood creamer made from coconut milk and marine algae.
 The algae's where they get the calcium.
 (laughing): You truly have become one of us.
 Yeah.
 But maybe you're not planning on being one of us forever?
-Uh...
-the whole desk thing is still a little new to me.
+Uh...the whole desk thing is still a little new to me.
 I'm used to being out there, riding the rig, slinging the hoses, working up a sweat.
 You don't work up a sweat slinging tweets?
 Different kind of sweat.
@@ -55066,7 +55086,7 @@ Wait. You know my name?
 Terry was giving me the grand tour yesterday, and, um, I asked about you.
 You seem really good at what you do.
 Thanks.
-I, uh... I'm gonna go down to the basement and connect power to this thing.
+I, uh...I'm gonna go down to the basement and connect power to this thing.
 Yeah, I'll go with you.
 Uh, to the elevator.
 Isn't Dispatch upstairs?
@@ -55126,7 +55146,7 @@ All right. (panting) Can you hold yourself up?
 Yeah.
 All right.
 (Terry panting) Be right back.
-♪ ♪ ♪ ♪ Mayday, Mayday, Mayday. This is <i> Firefighter Eddie Diaz</i> <i> on a department-wide channel.</i> <i> We have a fire</i> <i> at Metro Dispatch downtown.</i> <i>Point of origin appears to be on</i> <i> the second floor records room.</i> All non-essential personnel begin <i> evacuation procedures.</i> Repeat. This is Firefighter Eddie Diaz.
+♪ ♪ ♪ ♪ Mayday, Mayday, Mayday. This is <i> Firefighter Eddie Diaz</i> <i>on a department-wide channel.</i> <i>We have a fire</i> <i> at Metro Dispatch downtown.</i> <i>Point of origin appears to be on</i> <i>the second floor records room.</i> All non-essential personnel begin <i> evacuation procedures.</i> Repeat. This is Firefighter Eddie Diaz.
 Metro Dispatch is on fire.
 Why is this even in here?
 Okay. How long before you think we can head back there and just tell them we worked it all out?
@@ -55205,7 +55225,7 @@ And you don't know, either.
 Get the hell out of here and go to college.
 Hang around with some people your own age.
 Fill your head with some knowledge, and do some things. Some crazy things, some courageous things, and maybe even some naughty things.
-(both chuckle) Because... this job, it comes with a price, and it's a heavy one.
+(both chuckle) Because...this job, it comes with a price, and it's a heavy one.
 And it's also one I never want to see you have to pay.
 You know I'm right.
 Because you're always right.
@@ -55270,11 +55290,12 @@ Carson. Yeah, he was installing the clean agent system.
 When was the last time you saw him?
 I don't remember.
 Okay, let's go.
-<i> SHORE:</i> <i> This is Captain Shore.</i> <i> I need two firefighters</i> <i> for search and rescue.</i> <i> Worker named Carson Hayes,</i> <i> last seen on level two,</i> <i>could still be in the building.</i> This is Diaz. Buckley and I<i> are</i> on two.
+<i>SHORE:</i> <i> This is Captain Shore.</i> <i>I need two firefighters</i> <i> for search and rescue.</i> <i>Worker named Carson Hayes,</i> <i> last seen on level two,</i> <i>could still be in the building.</i>
+This is Diaz. Buckley and I<i> are</i> on two.
 We swept the whole floor.
 This is dispatcher Russo.
 <i> I think I know where he is.</i> Go ahead, Josh.
-<i> He told me he was going</i> <i> to the basement</i> to connect power to the system.
+<i> He told me he was going</i> <i>to the basement</i> to connect power to the system.
 It's probably the electrical vault.
 I can meet you on two and take you down there.
 Negative, we got this. Buck!
@@ -55334,7 +55355,7 @@ Hits like a...
 You didn't die then, and you're not gonna die now.
 Don't worry, don't worry. It only hurts for a sec.
 Then it takes your nerve endings out.
-You won't feel a thing. You won't-- You won't feel a thing, o-okay?
+You won't feel a thing. You won't -- You won't feel a thing, o-okay?
 No, you won't feel it. We won't feel it.
 We won't feel...
 LUCY: Cap, we can't get to them this way.
@@ -55392,7 +55413,7 @@ SHORE: Let's knock it down quick and get this area ready for extraction.
 (coughing) Help is here.
 Come on, it's time to go.
 Josh, we're on-line down here, ready to cut the power.
-<i>-Start wrapping it up up there.</i> Copy that. Wait for my signal.
+<i>Start wrapping it up up there.</i> Copy that. Wait for my signal.
 All right, anyone who's ready, let's hit the stairs.
 I'm not going anywhere, sir.
 Linda.
@@ -55440,21 +55461,26 @@ Albert!
 Go, go, go!
 CHIMNEY: I got you.
 I got you.
-(grunts) (May screaming) <i> SHORE:</i> <i> This is Captain Shore.</i> <i> We have a major</i> <i> structural collapse.</i> <i> All teams evacuate</i> <i> the building and report in.</i> <i> MORRISON:</i> <i> This is Morrison, 133.</i> <i> We're clear.</i> Cap!
+(grunts) (May screaming) <i>SHORE:</i> <i> This is Captain Shore.</i> <i> We have a major</i> <i> structural collapse.</i> <i> All teams evacuate</i> <i> the building and report in.</i> <i> MORRISON:</i> <i> This is Morrison, 133.</i> <i> We're clear.</i> Cap!
 (distant siren wailing) QUINTANA: <i> Quintana, 118.</i> Cap! <i> We're in the parking garage.</i> <i> We're clear.</i> Cap!
-<i> MITCHELL:</i> <i> Mitchell, 118. We're clear of</i> <i> the exit on the Baker side.</i> Mayday, Mayday, Mayday.
-<i> Captain Nash is down.</i> <i> Captain Nash</i> <i> is down.</i> <i> I need firefighters</i> <i> and equipment</i> <i> on the third floor now.</i> Double-time it.
+<i> MITCHELL:</i> <i> Mitchell, 118. We're clear of</i> <i> the exit on the Baker side.</i>
+Mayday, Mayday, Mayday.
+<i> Captain Nash is down.</i> <i> Captain Nash</i> <i> is down.</i>
+<i>I need firefighters</i> <i> and equipment</i> <i> on the third floor now.</i> Double-time it.
 (straining, shouting) Cap!
 (grunting) (panting) Cap!
 Cap!
-♪<i> I know it hurts</i> ♪ ♪<i> It's hard to breathe</i> ♪ ♪<i> Sometimes</i> ♪ (shouting) Cap! Cap!
-♪<i> These nights are long</i> ♪ ♪<i> You've lost the will</i> ♪ (shouting) Cap!
+♪<i> I know it hurts</i> ♪ ♪<i> It's hard to breathe</i> ♪ ♪<i> Sometimes</i> ♪
+(shouting) Cap! Cap!
+♪<i> These nights are long</i> ♪ ♪<i> You've lost the will</i> ♪
+(shouting) Cap!
 Cap!
 ♪<i> To fight...</i> ♪ Cap!
 Cap!
 Two, three.
 ♪<i> Is anybody out there?</i> ♪ ♪<i> Can you lead me</i> ♪ ♪<i> To the light?</i> ♪ ♪<i> Is anybody out there?</i> ♪ One, two, three.
-(all straining) ♪<i> Tell me it'll all be</i> ♪ ♪<i> All right...</i> ♪ MAY: Here.
+(all straining) ♪<i> Tell me it'll all be</i> ♪ ♪<i> All right...</i> ♪
+MAY: Here.
 BOBBY: Here, we're down here.
 Bobby! Bobby! Come on.
 CHIMNEY: We got 'em! We got 'em!
@@ -55473,12 +55499,15 @@ CHIMNEY: It's like I always say, you carry this entire operation on your back.
 (chuckles) I got you, Cap.
 All right, 118.
 Let's get to it.
-♪<i> You are not alone</i> ♪ ♪<i> I've been here</i> ♪ ♪<i> The whole time</i> ♪ ♪<i> You</i> ♪ ♪<i> Are not alone</i> ♪ ♪<i> I've been here</i> ♪ ♪<i> The whole time</i> ♪ ♪<i> Singing you a song</i> ♪ ♪<i> Ooh</i> ♪ HEN: I got him.
-♪<i> I will carry you</i> ♪ ♪<i> Ooh</i> ♪ ♪<i> I will carry you</i> ♪ ♪<i> Is anybody out there?</i> ♪ God has spoken.
-♪<i> Whole time</i> ♪ ♪<i> You are not alone</i> ♪ ♪<i> Not alone</i> ♪ ♪<i> I've been here</i> ♪ ♪<i> The whole time</i> ♪ ♪<i> Singing you a song</i> ♪ ♪<i> Ooh</i> ♪ ♪<i> I will carry you</i> ♪ ♪<i> Ooh</i> ♪ ♪<i> I will carry you...</i> ♪ Hey.
+♪<i> You are not alone</i> ♪ ♪<i> I've been here</i> ♪ ♪<i> The whole time</i> ♪ ♪<i> You</i> ♪ ♪<i> Are not alone</i> ♪ ♪<i> I've been here</i> ♪ ♪<i> The whole time</i> ♪ ♪<i> Singing you a song</i> ♪ ♪<i> Ooh</i> ♪
+HEN: I got him.
+♪<i> I will carry you</i> ♪ ♪<i> Ooh</i> ♪ ♪<i> I will carry you</i> ♪ ♪<i> Is anybody out there?</i> ♪
+God has spoken.
+♪<i> Whole time</i> ♪ ♪<i> You are not alone</i> ♪ ♪<i> Not alone</i> ♪ ♪<i> I've been here</i> ♪ ♪<i> The whole time</i> ♪ ♪<i> Singing you a song</i> ♪ ♪<i> Ooh</i> ♪ ♪<i> I will carry you</i> ♪ ♪<i> Ooh</i> ♪ ♪<i> I will carry you...</i> ♪
+Hey.
 He took a rough hit, but he's gonna be fine.
-♪<i> I will carry you...</i> ♪ Yeah. Well, I'm just, uh...
-I'm glad you weren't with him.
+♪<i> I will carry you...</i> ♪
+Yeah. Well, I'm just, uh...I'm glad you weren't with him.
 ♪<i> I know it hurts</i> ♪ ♪<i> It's hard to breathe</i> ♪ ♪<i> Sometimes.</i> ♪ Hey.
 Hey, May.
 She took in a lot of smoke.
@@ -55510,7 +55539,7 @@ Terrible at my job?
 I think this whole thing is my fault.
 Oh...
 Are you kidding?
-This building is... was ancient.
+This building is...was ancient.
 We were due for an upgrade.
 Upgrades used to be my specialty.
 There's no reason why they still can't be.
@@ -55529,9 +55558,7 @@ You were trying to tell me something the other day, and I wasn't ready to hear i
 (sighs) You know, me and Pop have never really had a great relationship, and I know that he thinks me being a firefighter is the stupidest thing I've ever done.
 It's not stupid.
 You're a hero.
-And you're my brother, so...
-... you looking up to me, wanting to follow in my footsteps...
-... it meant the world to me, you know?
+And you're my brother, so...you looking up to me, wanting to follow in my footsteps...it meant the world to me, you know?
 That's actually why I didn't want to disappoint you so badly.
 Just wish I could be half as good at this as you are.
 Hey, listen.
@@ -55559,8 +55586,7 @@ Well, this is what I get for disobeying your orders.
 You did tell me not to go down there.
 I'm so glad you did, Papa Bear.
 Lucy Donato.
-I'm Taylor...
-Taylor Kelly.
+I'm Taylor...Taylor Kelly.
 Yeah. Heard a lot about you.
 Same.
 Uh, did you want a comment?
@@ -55571,7 +55597,7 @@ But for Buck, that firehouse is his family.
 When things gets messy at the 118, he falls apart.
 I'd hate for things to get messy again.
 She's a peach.
-Hey, so, uh, he-he-- he's good, right?
+Hey, so, uh, he-he -- he's good, right?
 He had some pain in his leg on the way in.
 Might be a pinched nerve.
 Mm.
@@ -55602,26 +55628,27 @@ I usually save them.
 Hen.
 She was fine. I-I don't understand.
 Neither do I.
-<i> It was weird.</i> It was weird, or he was weird?
+<i> It was weird.</i>
+It was weird, or he was weird?
 "I should have been able to save her." That's what he said.
-Like she was a math problem or...
-a missed point in a tennis match and-and not a human being.
+Like she was a math problem or...a missed point in a tennis match and-and not a human being.
 Well, maybe that's just how he packs it away.
 There's packing away and there's throwing away.
 Look, you always say that when you're out there, all you've got is your instincts.
 And truth is, you've never liked the guy.
 So maybe there's a reason why.
 I think there is.
-<font color="#ffff00"> Captioning sponsored by</font> <font color="#ffff00"> 20th CENTURY FOX TELEVISION</font> Captioned by <font color="#00ffff"> Media Access Group at WGBH</font> access. wgbh. org 
 @@@@@@
-("Longview" by Green Day playing) ♪<i> I sit around</i> <i> and watch the tube</i> ♪ ♪<i> But nothing's on</i> ♪ What is that?
+("Longview" by Green Day playing) ♪<i> I sit around</i> <i> and watch the tube</i> ♪ ♪<i> But nothing's on</i> ♪
+What is that?
 It's the French Revolution.
 They beheaded all the rich people with guillotines.
 I heard that it happened so fast sometimes that the bodies were still moving.
 Like, they didn't even know they were dead.
 Cool, right?
 You're such a weirdo.
-(kids laughing) ♪<i> I'm in a house</i> <i> with unlocked doors</i> ♪ ♪<i> Bite my lip</i> <i> and close my eyes</i> ♪ ♪<i> Take me away to paradise.</i> ♪ ♪ ♪ (groaning) (screaming) BOY: Get up. We got to get off the bus.
+(kids laughing) ♪<i> I'm in a house</i> <i> with unlocked doors</i> ♪ ♪<i> Bite my lip</i> <i> and close my eyes</i> ♪ ♪<i> Take me away to paradise.</i> ♪ ♪ ♪
+(groaning) (screaming) BOY: Get up. We got to get off the bus.
 (indistinct chatter) DESTINY: Is he dead?
 YOUNG JONAH: I think he had a heart attack.
 Hey, are you okay?
@@ -55637,9 +55664,14 @@ You saved him.
 ("Holding Out for a Hero" by Bonnie Tyler playing) You're a hero.
 <i> BRIE:</i> <i> Just three days ago,</i> this quiet neighborhood was rocked by a near-fatal school bus accident.
 Thankfully, none of the children aboard the bus were injured when it crashed.
-<i> The driver's life was spared</i> <i> thanks to the quick thinking</i> <i> and incredible bravery</i> <i> of one young man.</i> ♪<i> Where have all</i> <i> the good men gone</i> ♪ ♪<i> And where are all the gods?</i> ♪ ♪<i> Where's the streetwise</i> <i> Hercules</i> ♪ ♪<i> To fight the rising odds?</i> ♪ ♪<i> Isn't there a white knight</i> ♪ ♪<i> Upon a fiery steed</i> ♪ ♪<i> Late at night</i> <i> I toss and I turn</i> ♪ ♪<i> And I dream of what I need</i> ♪ ♪<i> I need a hero</i> ♪ ♪<i> I'm holding out for a hero</i> ♪ ♪<i> Till the end of the night</i> ♪ ♪<i> He's got to be strong...</i> ♪ So, what's it like being a hero?
+<i>The driver's life was spared</i> <i> thanks to the quick thinking</i> <i> and incredible bravery</i> <i> of one young man.</i>
+♪<i> Where have all</i> <i> the good men gone</i> ♪ ♪<i> And where are all the gods?</i> ♪ ♪<i> Where's the streetwise</i> <i> Hercules</i> ♪ ♪<i> To fight the rising odds?</i> ♪
+♪<i> Isn't there a white knight</i> ♪ ♪<i> Upon a fiery steed</i> ♪ ♪<i> Late at night</i> <i> I toss and I turn</i> ♪ ♪<i> And I dream of what I need</i> ♪
+♪<i> I need a hero</i> ♪ ♪<i> I'm holding out for a hero</i> ♪ ♪<i> Till the end of the night</i> ♪ ♪<i> He's got to be strong...</i> ♪
+So, what's it like being a hero?
 It's freaking awesome.
-♪<i> I need a hero.</i> ♪ (laughs) <i> ATHENA: Anyone</i> want a cup of tea?
+♪<i> I need a hero.</i> ♪
+(laughs) <i>ATHENA: Anyone</i> want a cup of tea?
 Yeah.
 How about you? Maybe some lunch?
 I noticed you didn't eat anything at the reception.
@@ -55679,7 +55711,7 @@ We see weird stuff every day.
 That's probably all this was.
 Except for the spiders.
 Are the spiders where the crazy comes in?
-There was another call. Right before you came back to work. It was a kid <i> who had multiple tarantula</i> <i> bites. He was stable.</i> <i> So I left him alone with Jonah</i> <i> and then he coded.</i> Just like Claudette.
+There was another call. Right before you came back to work. It was a kid <i> who had multiple tarantula</i> <i>bites. He was stable.</i> <i> So I left him alone with Jonah</i> <i> and then he coded.</i> Just like Claudette.
 It's most likely a coincidence.
 I mean, Claudette had hypertension.
 How would you know that?
@@ -55687,8 +55719,7 @@ I may have looked in her medicine cabinet during the post-funeral reception. But
 High blood pressure combined with smoke inhalation would put a lot of stress on the heart.
 Could cause a cardiac event.
 Exactly.
-Except...
-her BP would have been stable at the scene.
+Except...her BP would have been stable at the scene.
 Wait, how do you know that?
 Because you did her assessment.
 If her vitals hadn't been stable, you would've shipped her out priority.
@@ -55710,9 +55741,8 @@ Are you sure this is a good idea?
 I have to go.
 My mom made this huge deal about this party.
 He did work at the company for 40 years.
-And Chris...
-He's excited to see everyone, he misses them.
-40 years--that's a long time.
+And Chris...he's excited to see everyone, he misses them.
+40 years -- that's a long time.
 Uh, you said he was in oil, right?
 Petroleum engineer.
 Spent his whole life driving across the state.
@@ -55735,22 +55765,23 @@ Or we could log on to the computer, pull up Jonah's personnel file.
 Here.
 Oh, how are you gonna get in there?
 Did you become a computer hacker while you were gone?
-Well, I was living in a basement, but...
-not exactly dealing with the Enigma machine here.
+Well, I was living in a basement, but...not exactly dealing with the Enigma machine here.
 Here we go.
 HEN: Found 'em both.
 All right, Perry Nivens.
-"Patient was found unconscious "following multiple tarantula bites, "no other symptoms present.
-"Paramedic Greenway pushed steroids.
-"Prior to transport, the patient went into cardiac arrest.
-"Paramedic Greenway quickly and ably "was able to restore a normal rhythm "through the use of defibrillation.
-Patient was transported for follow-up care to the ER." Sounds just like you told me.
+Patient was found unconscious following multiple tarantula bites, no other symptoms present.
+Paramedic Greenway pushed steroids.
+Prior to transport, the patient went into cardiac arrest.
+Paramedic Greenway quickly and ably was able to restore a normal rhythm through the use of defibrillation.
+Patient was transported for follow-up care to the ER.
+Sounds just like you told me.
 Language a little more flowery than I'm used to.
 Claudette Collins.
-"Patient suffering from smoke inhalation, "no other symptoms were observed.
-"Paramedic Greenway administered "nebulized albuterol, "during transport patient went into cardiac arrest.
-"Despite Paramedic Greenway's valiant efforts, "defibrillation and manual compression "did not restore normal rhythm.
-Patient was pronounced DOA at the Emergency Room." Well, there's definitely a pattern.
+Patient suffering from smoke inhalation, no other symptoms were observed.
+Paramedic Greenway administered nebulized albuterol, during transport patient went into cardiac arrest.
+Despite Paramedic Greenway's valiant efforts, defibrillation and manual compression did not restore normal rhythm.
+Patient was pronounced DOA at the Emergency Room.
+Well, there's definitely a pattern.
 In his reports, if nothing else.
 Whoa.
 Did you know Jonah's only been with the LAFD for 14 months?
@@ -55798,7 +55829,7 @@ Hi.
 PEPA: <i> ¿Que paso?</i> Nada.
 Where's Christopher?
 Out like a light ever since we left the car rental place.
-<i> Ay, pobrecito mi angelito.</i> (chuckles) Abuela, it's so good to see you.
+<i>Ay, pobrecito mi angelito.</i> (chuckles) Abuela, it's so good to see you.
 L. A. feels a little less like home without you there.
 Same here.
 Mm.
@@ -55833,18 +55864,18 @@ It was a nice gesture.
 Here, it's... (chuckles) Wow.
 "In recognition of your 40 years of service "helping us reach new horizons for our company, "and for all of our stakeholders, "the board thanks you.
 From our family to yours." It's not quite a Silver Star.
-But it-but it's something... I guess.
+But it-but it's something...I guess.
 Ah, it's, uh, nice. Congratulations, Dad.
 (box lightly thumps) Feels strange.
 Being unemployed, it's...
 No meetings to rush off to.
 No phone calls to juggle.
-No... no reason to get out of bed at 4:00 A. M.
-I-I... I don't know what I'm gonna do with myself.
+No...no reason to get out of bed at 4:00 A. M.
+I-I...I don't know what I'm gonna do with myself.
 I bet.
 (mutters): Why live if you're not working?
 RAMON: So, how's life as an operator?
-<i> ATHENA:</i> <i> Love you.</i> <i> All right, talk to you</i> <i> in the morning?</i> Okay, bye-bye.
+<i>ATHENA:</i> <i> Love you.</i> <i> All right, talk to you</i> <i> in the morning?</i> Okay, bye-bye.
 How many times are you planning to check on May?
 (sighs) Until I'm sure she's okay.
 Mm. That you're both okay.
@@ -55860,7 +55891,7 @@ Chimney and I put in a few calls, talked to some other paramedics that Jonah wor
 Almost everyone says the same thing.
 That he's a little odd, that he's overeager, but he's a good paramedic.
 Almost?
-Well... there was this one guy over at the 122-- him and Jonah responded to a fender bender.
+Well...there was this one guy over at the 122 -- him and Jonah responded to a fender bender.
 Mm-hmm.
 They were treating the driver for a concussion and some airbag abrasions.
 He left Jonah alone with the driver.
@@ -55910,7 +55941,7 @@ TAYLOR: Yeah.
 It was even earlier when she woke me up.
 HEN: We were hoping that, uh, we could watch some of your footage from the call center fire.
 Is that something you could access from here?
-Theoretically... yes.
+Theoretically...yes.
 Why?
 Yeah.
 Well, theoretically, I want to see what happened before Claudette coded.
@@ -55920,12 +55951,12 @@ Yeah, it's-it's fine, Buck, I'm happy to help.
 Why don't you make us some coffee?
 I'm sure we all could use a cup.
 Is this what you're looking for?
-<i> (both laugh)</i> <i> JONAH: You know,</i> <i> I'd say you don't really</i> <i> have, uh, have the looks</i> <i> to be a phone operator.</i> It's crazy-- she-she seems fine.
+<i> (both laugh)</i> <i> JONAH: You know,</i> <i> I'd say you don't really</i> <i> have, uh, have the looks</i> <i> to be a phone operator.</i> It's crazy -- she-she seems fine.
 How do you go from laughing one second to coding the next?
 Wait a minute. Can you rewind?
 Yeah.
 HEN: Stop it right there.
-CHIMNEY: What do you think that is-- potassium?
+CHIMNEY: What do you think that is -- potassium?
 HEN: I'm not sure.
 O-Okay, come on, guys, wh-what's going on here?
 Buck, we're not sure.
@@ -55941,7 +55972,7 @@ Are you saying her death wasn't related to her injuries?
 Whatever drug Jonah was pushing on that video caused her heart to stop.
 What... on-on purpose?
 Maybe.
-Come on, Hen, I... I-I know you didn't always like the guy, but he-he's still one of us, you know? It cou-it could've just been a mistake.
+Come on, Hen, I...I-I know you didn't always like the guy, but he-he's still one of us, you know? It cou-it could've just been a mistake.
 Buck, did that look like a mistake to you?
 He injected her with something, and she had a heart attack.
 How-how can you be sure?
@@ -55980,7 +56011,7 @@ But you were just a kid, I-I forgave you for that.
 EDDIE: No, actually, you didn't. you-you grounded me.
 Edmundo, it's-it's just a story.
 Yeah, it's a real sweet one. I...
-Except he's just... he's missing the whole part where he tore me a new one for ruining his truck.
+Except he's just...he's missing the whole part where he tore me a new one for ruining his truck.
 You know, kind of like the time he yelled at me for setting off the smoke alarms for making eggs for the girls when I was 12. I'm sure Edmundo.
 there's a better story you can tell up there.
 Oh, uh, why don't you tell them about the time you pulled your ten-year-old son aside and told him it was time to step up?
@@ -55989,7 +56020,7 @@ Why don't you tell them about that time?
 Then we can all understand why you were never around.
 I was providing for the family.
 Providing?
-(laughs): Providing what-- money?
+(laughs): Providing what -- money?
 HELENA: Okay...
 Exactly.
 I had to do what I had to do.
@@ -56020,13 +56051,13 @@ How many stents do you have in your arteries?
 HELENA: What?
 When?
 Three years ago.
-I... I went to Dr. Fernandez.
+I...I went to Dr. Fernandez.
 He's the finest cardiologist in Dallas.
 Why didn't you tell me?
 Pride.
 He didn't want us to think he was weak.
 <i> JONAH (on laptop):</i> <i> You know, I'd say</i> <i> you don't really have, uh,</i> <i> the looks to be</i> <i> a phone operator.</i> You're sure about this?
-(sighs) C... I'm not sure what was in that syringe, (recording stops) but it sent her into cardiac arrest.
+(sighs) C...I'm not sure what was in that syringe, (recording stops) but it sent her into cardiac arrest.
 And it seems like the guy's got a history of this.
 BOBBY: It's not that I don't believe you guys, but these are huge accusations.
 Do you think there's a way we can prove it?
@@ -56039,7 +56070,7 @@ Whe-When he was a kid, he...
 he got to play the hero.
 Now he wants to play God.
 (sighs) <i> TAYLOR:</i> <i> No, I am telling you,</i> <i> this is big.</i> I, um...
-Yeah, just, um... just take a look at the file and see what you can find out.
+Yeah, just, um...just take a look at the file and see what you can find out.
 That'd be great. Thanks, bye.
 Hey, uh, what, uh, what are you doing?
 Work stuff.
@@ -56070,23 +56101,19 @@ Not a heart attack, but a panic attack.
 Ended up in the E. R.
 Why didn't you tell us?
 Pretty sure you know the answer to that question.
-You didn't want to...
-seem weak, either.
+You didn't want to...seem weak, either.
 I spent my whole life trying not to be like you.
-All these years, I, uh...
-I tried to...
-set a good example for you.
-Maybe... maybe it was the wrong one, I don't know.
+All these years, I, uh...I tried to...set a good example for you.
+Maybe... aybe it was the wrong one, I don't know.
 But I never understood why you were so angry with me.
-I-I... Why it always felt like you were punishing me.
+I-I...why it always felt like you were punishing me.
 Think I was punishing myself more.
 But I'm tired of being that guy.
 I'm going to be better.
 For Christopher.
 Mm.
 For myself.
-Maybe we can...
-we can both be better.
+Maybe we can...we can both be better.
 I don't want to miss out on any more of my son's life.
 I'd like that.
 (pats hand) All right, thanks.
@@ -56101,11 +56128,13 @@ Thanks, Bobby.
 Yeah.
 Hen, be careful.
 If Jonah is who you think he is, he won't take kindly to being exposed.
-<i> (ringtone plays)</i> <i> HEN:</i> <i> Hello?</i> <i> JONAH:</i> <i> I heard you've been</i> <i> asking people about me.</i> Jonah?
+<i> (ringtone plays)</i> <i> HEN:</i> <i> Hello?</i>
+<i>JONAH:</i> <i> I heard you've been</i> <i> asking people about me.</i>
+Jonah?
 Got the weirdest call.
 <i> They've opened</i> <i> an investigation</i> <i> into what happened</i> <i> to that dispatcher.</i> Did you file a complaint against me, Henrietta?
 Jonah, I don't-I don't know what you think is going on...
-<i> I think you never</i> <i> gave me a chance, Hen.</i> <i> To prove myself.</i> <i> To show you</i> <i> what I'm capable of.</i> But, hey, I'm not a guy who gives up easy.
+<i> I think you never</i> <i>gave me a chance, Hen.</i> <i>To prove myself.</i> <i>To show you</i> <i>what I'm capable of.</i> But, hey, I'm not a guy who gives up easy.
 <i> So I'm gonna do that now.</i> I'm gonna show you.
 (hangs up) (ringtone playing) Hey, baby, I was just about to call you.
 <i> HEN:</i> <i> Get out of the house.</i> <i> Don't pack a bag.</i> Just take Ma and Denny and go over to Bobby and Athena's.
@@ -56138,8 +56167,7 @@ I guess the easiest answer is because I can.
 You can get anything you want on the Internet these days.
 Medical equipment.
 Drugs.
-The real answer is...
-... you gave me no choice.
+The real answer is...you gave me no choice.
 Snooping around, checking up on me?
 We're supposed to be on the same team, Henrietta.
 We're definitely not on the same team.
@@ -56153,7 +56181,7 @@ One sec.
 HEN: No, J-Jonah, please.
 No...
 Relax.
-No... No, Jonah.
+No...No, Jonah.
 It's just a little adenosine.
 You're stopping his heart.
 Don't worry, I'll get it back.
@@ -56173,8 +56201,7 @@ Hey, Chim, we're here.
 Chim?
 (phone vibrating, ringtone playing) Okay.
 (vibrating, ringtone continue in distance) (grunts) Karen?
-<i> Maddie? Where's Chimney?</i> I-I don't know. I...
-just brought Jee here, but he's not here.
+<i> Maddie? Where's Chimney?</i> I-I don't know. I...just brought Jee here, but he's not here.
 <i> But his phone is.</i> Is Hen with you?
 Wait, is she supposed to be? <i> Well, she was afraid</i> Chimney might be in danger, so she went to the apartment to check on him.
 Why-why would he be in danger?
@@ -56232,8 +56259,7 @@ CHIMNEY: Not even...
 All right, buddy.
 Good idea with the defibrillator.
 You saved us.
-It was...
-a team effort.
+It was...a team effort.
 (Hen sobbing) (sirens wailing) RAVI: Lucy.
 They're saying it was Hen and Chimney, a-and they were attacked.
 What? By who?
@@ -56265,7 +56291,7 @@ I got him.
 Hey, uh... are you okay?
 Yeah, we're fine.
 They cleared the apartment, they took my statement, they're gonna leave a few guys behind for the night.
-But... isn't Jonah in custody?
+But...isn't Jonah in custody?
 They were worried about press showing up or something.
 Anyway, I really need to get to the hospital and just make sure that he's okay.
 Yeah.
@@ -56279,12 +56305,13 @@ Turn the volume up?
 Yeah.
 <i> Sources close to the case say</i> <i> Firefighter/Paramedic Greenway</i> <i> had multiple suspicious</i> <i> incidents in the field.</i> They have his name and personnel photo already?
 How did she get it so fast?
-<i> ... even several deaths.</i> Good question.
-<i> The LAFD has declined comment</i> <i> at this time,</i> <i> but we will continue</i> <i> to keep you updated</i> <i> as this story evolves.</i> Back to you, Jim.
-<i> TAYLOR (on recording):</i> <i>This is Taylor. Leave a message.</i> Taylor. What did you do?
+<i> ...even several deaths.</i> Good question.
+<i> The LAFD has declined comment</i> <i>at this time,</i> <i>but we will continue</i> <i> to keep you updated</i> <i> as this story evolves.</i> Back to you, Jim.
+<i> TAYLOR (on recording):</i> <i>This is Taylor. Leave a message.</i>
+Taylor. What did you do?
 I don't think I need to tell you how lucky you are.
 No, but I'd love to hear that I'm okay and that you're sending me home.
-Your heart stopped and you were shocked back to life-- twice.
+Your heart stopped and you were shocked back to life -- twice.
 We're keeping you overnight for observation, Mr. Han.
 Doc, I feel okay, really.
 Great. But, to make sure you stay that way, we got to make sure you don't have arrhythmias or any other permanent damage.
@@ -56308,8 +56335,7 @@ Chimney took the brunt of it.
 KAREN: Oh, God, Chim.
 I'm fine, we're both fine.
 Doc said we're both gonna be okay.
-KAREN: God, the whole way over here, I just...
-I was mentally preparing myself for the worst-case scenario.
+KAREN: God, the whole way over here, I just...I was mentally preparing myself for the worst-case scenario.
 (voice quavering): I didn't know where you were, or if you'd even make it out alive.
 What would I tell Denny? Your mother?
 It's okay.
@@ -56353,10 +56379,8 @@ So what are we even talking about here?
 You know, I never liked him.
 Jonah, I mean.
 Not much of a fan myself.
-(slurps) Everyone thought I was crazy, that I was being too hard on him because he wasn't you. But you...
-... you never flinched.
-You were on board from the start, ready to go to battle with me, even...
-even when I had no proof, no idea if I was even right.
+(slurps) Everyone thought I was crazy, that I was being too hard on him because he wasn't you. But you...you never flinched.
+You were on board from the start, ready to go to battle with me, even...even when I had no proof, no idea if I was even right.
 You're always right.
 That's kind of our schtick.
 You're the genius, I'm the comic relief.
@@ -56364,5 +56388,4 @@ You're the genius, I'm the comic relief.
 (voice breaking): You're the best friend that I've ever had, Chim.
 And I can't imagine my life without you.
 (sets juice pack down) And you're never gonna have to.
-<font color="#ffff00"> Captioning sponsored by</font> <font color="#ffff00"> 20th CENTURY FOX TELEVISION</font> Captioned by <font color="#00ffff"> Media Access Group at WGBH</font> access. wgbh. org 
 @@@@@@

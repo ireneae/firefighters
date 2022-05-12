@@ -1,29 +1,45 @@
 How long has the pursuit been going?
 Six minutes, high speed.
 Armed suspect and his girlfriend.
-<i>-MAN: Shots fired, shots fired.</i> Copy that, shots fired.
+<i>MAN: Shots fired, shots fired.</i> Copy that, shots fired.
 This thing's gonna start generating other calls.
 It's gonna be a day.
 911. What's your emergency?
-<i> WOMAN:</i> <i> Yeah, my boyfriend's driving</i> <i> the car you guys are chasing.</i> <i> MAN: What the hell</i> <i> are you doing?</i> <i> Making sure these people know</i> <i> that I got no part of this.</i> <i> Hang up, now!</i> Are you hurt, ma'am? <i> No, but</i> <i> he's gonna get me killed.</i> <i> MAN:</i> <i> Put that phone down now,</i> <i> you crazy bitch.</i> Doreen, you need to tell him to pull over and surrender peacefully. <i> He won't listen.</i> Okay, stay on the line with me.
+<i> WOMAN:</i> <i> Yeah, my boyfriend's driving</i><i> the car you guys are chasing.</i>
+<i> MAN: What the hell</i> <i> are you doing?</i>
+<i> Making sure these people know</i> <i> that I got no part of this.</i>
+<i> Hang up, now!</i>
+Are you hurt, ma'am? <i>
+No, but</i> <i> he's gonna get me killed.</i>
+<i> MAN:</i> <i> Put that phone down now,</i> <i> you crazy bitch.</i>
+Doreen, you need to tell him to pull over and surrender peacefully.
+<i> He won't listen.</i>
+Okay, stay on the line with me.
 I've got his girlfriend on the line.
 Tell her to get him to stop.
 I tried that. He's not interested.
 Try again.
-Do you have any idea where he's headed? <i> Probably to his mama.</i> <i> She's over on Wetherly.</i> <i> Always runs to her</i> <i> when he has a problem.</i> <i> MAN: Are you crazy? Don't</i> <i> tell them that. Give me that!</i> Okay, suspect's mother lives on Wetherly.
+Do you have any idea where he's headed?
+<i>Probably to his mama.</i> <i>She's over on Wetherly.</i> <i>Always runs to her</i> <i>when he has a problem.</i>
+<i>MAN: Are you crazy? Don't</i> <i> tell them that. Give me that!</i>
+Okay, suspect's mother lives on Wetherly.
 He might be heading her way.
 Dispatching additional units.
 What about spike strips?
 They're not in position for that.
 How we doing, Doreen?
-<i> He's slowing down!</i> <i> He's slowing down!</i> Girlfriend says car's slowing down.
-<i> Whatever, mama's boy!</i> All units, all units be advised suspect is abandoning his vehicle.
+<i>He's slowing down!</i> <i> He's slowing down!</i>
+Girlfriend says car's slowing down.
+<i>Whatever, mama's boy!</i>
+All units, all units be advised suspect is abandoning his vehicle.
 Suspect is about to be on foot.
 Airship's up, en route now.
 Finally.
-<i> DOREEN:</i> <i> He's running. What do I do?</i> Okay, stay in the vehicle and await police instructions.
+<i>DOREEN:</i> <i> He's running. What do I do?</i>
+Okay, stay in the vehicle and await police instructions.
 Did he leave the weapon or take it with him?
-<i> DOREEN:</i> <i> He's got it with him.</i> All units, suspect remains armed.
+<i>DOREEN:</i> <i> He's got it with him.</i>
+All units, suspect remains armed.
 Girlfriend is in vehicle, unarmed, awaiting instruction.
 Name is Doreen.
 Claudette, I had a pursuit here last week.
@@ -36,10 +52,15 @@ Mom's house is six blocks away.
 Units are on the way to intercept.
 And here I thought for once we'd go through a whole shift without a pursuit.
 Josh, you knew better than to make that bet.
-<i> OFFICER: 44. We are now</i> <i> in foot pursuit,</i> <i> approaching Armadale.</i> Copy. In foot pursuit.
+<i>OFFICER: 44. We are now</i> <i> in foot pursuit,</i> <i> approaching Armadale.</i>
+Copy. In foot pursuit.
 Units, if you take the alley between Armadale and York, you should be able to cut the suspect off.
-<i> OFFICER 2: 41 copy,</i> <i> taking Armadale alley.</i> <i> OFFICER 3:</i> <i> Adam 33 in the area.</i> <i> We'll cover the</i> <i> York Street side.</i> <i> Stop! Show me your hands.</i> <i> On the ground, now.</i> <i> OFFICER:</i> <i> Dispatch, we're Code 4.</i> Copy.
-Code 4. <i> Suspect in custody.</i> JOSH: Nice job.
+<i>OFFICER 2: 41 copy,</i> <i>taking Armadale alley.</i>
+<i>OFFICER 3:</i> <i> Adam 33 in the area.</i> <i> We'll cover the</i> <i>York Street side.</i>
+<i> Stop! Show me your hands.</i> <i> On the ground, now.</i>
+<i>OFFICER:</i> <i> Dispatch, we're Code 4.</i> Copy.
+Code 4. <i> Suspect in custody.</i>
+JOSH: Nice job.
 The alley cutoff was inspired.
 Yeah, it seemed like the obvious call.
 "Obvious call"? Yeah, obvious, because I told her to do it.
@@ -73,7 +94,7 @@ You know what I mean.
 Oh, I do, and it's sweet.
 But don't you go down there, Papa Bear.
 (takes deep breath) Understood.
-<i> CHIMNEY:</i> <i> That was the nicest leasing</i> <i> office I've been in.</i> I think that was eucalyptus in that diffuser, huh?
+<i>CHIMNEY:</i> <i> That was the nicest leasing</i> <i> office I've been in.</i> I think that was eucalyptus in that diffuser, huh?
 Okay, Orrington Plaza.
 Oh, this place is great. Huge pool, spa.
 And the gym has a Narcissus machine.
@@ -95,7 +116,7 @@ It just takes some time to find your sea legs.
 You just gotta hang in there.
 My probationary year is almost over.
 Shouldn't I have found them by now?
-Maybe... I'm just not cut out for this.
+Maybe...I'm just not cut out for this.
 Come on. You're my brother.
 You were born to do this, just like me.
 Still don't like the place.
@@ -112,13 +133,12 @@ How about more Twyla and less Fosse?
 I'll try.
 After I google what that means.
 How's your coffee?
-(chuckles) I have to say, I never thought-- not in a million years-- that I would love a superfood creamer made from coconut milk and marine algae.
+(chuckles) I have to say, I never thought -- not in a million years -- that I would love a superfood creamer made from coconut milk and marine algae.
 The algae's where they get the calcium.
 (laughing): You truly have become one of us.
 Yeah.
 But maybe you're not planning on being one of us forever?
-Uh...
-the whole desk thing is still a little new to me.
+Uh...the whole desk thing is still a little new to me.
 I'm used to being out there, riding the rig, slinging the hoses, working up a sweat.
 You don't work up a sweat slinging tweets?
 Different kind of sweat.
@@ -177,7 +197,7 @@ Wait. You know my name?
 Terry was giving me the grand tour yesterday, and, um, I asked about you.
 You seem really good at what you do.
 Thanks.
-I, uh... I'm gonna go down to the basement and connect power to this thing.
+I, uh...I'm gonna go down to the basement and connect power to this thing.
 Yeah, I'll go with you.
 Uh, to the elevator.
 Isn't Dispatch upstairs?
@@ -237,7 +257,7 @@ All right. (panting) Can you hold yourself up?
 Yeah.
 All right.
 (Terry panting) Be right back.
-♪ ♪ ♪ ♪ Mayday, Mayday, Mayday. This is <i> Firefighter Eddie Diaz</i> <i> on a department-wide channel.</i> <i> We have a fire</i> <i> at Metro Dispatch downtown.</i> <i>Point of origin appears to be on</i> <i> the second floor records room.</i> All non-essential personnel begin <i> evacuation procedures.</i> Repeat. This is Firefighter Eddie Diaz.
+♪ ♪ ♪ ♪ Mayday, Mayday, Mayday. This is <i> Firefighter Eddie Diaz</i> <i>on a department-wide channel.</i> <i>We have a fire</i> <i> at Metro Dispatch downtown.</i> <i>Point of origin appears to be on</i> <i>the second floor records room.</i> All non-essential personnel begin <i> evacuation procedures.</i> Repeat. This is Firefighter Eddie Diaz.
 Metro Dispatch is on fire.
 Why is this even in here?
 Okay. How long before you think we can head back there and just tell them we worked it all out?
@@ -316,7 +336,7 @@ And you don't know, either.
 Get the hell out of here and go to college.
 Hang around with some people your own age.
 Fill your head with some knowledge, and do some things. Some crazy things, some courageous things, and maybe even some naughty things.
-(both chuckle) Because... this job, it comes with a price, and it's a heavy one.
+(both chuckle) Because...this job, it comes with a price, and it's a heavy one.
 And it's also one I never want to see you have to pay.
 You know I'm right.
 Because you're always right.
@@ -381,11 +401,12 @@ Carson. Yeah, he was installing the clean agent system.
 When was the last time you saw him?
 I don't remember.
 Okay, let's go.
-<i> SHORE:</i> <i> This is Captain Shore.</i> <i> I need two firefighters</i> <i> for search and rescue.</i> <i> Worker named Carson Hayes,</i> <i> last seen on level two,</i> <i>could still be in the building.</i> This is Diaz. Buckley and I<i> are</i> on two.
+<i>SHORE:</i> <i> This is Captain Shore.</i> <i>I need two firefighters</i> <i> for search and rescue.</i> <i>Worker named Carson Hayes,</i> <i> last seen on level two,</i> <i>could still be in the building.</i>
+This is Diaz. Buckley and I<i> are</i> on two.
 We swept the whole floor.
 This is dispatcher Russo.
 <i> I think I know where he is.</i> Go ahead, Josh.
-<i> He told me he was going</i> <i> to the basement</i> to connect power to the system.
+<i> He told me he was going</i> <i>to the basement</i> to connect power to the system.
 It's probably the electrical vault.
 I can meet you on two and take you down there.
 Negative, we got this. Buck!
@@ -445,7 +466,7 @@ Hits like a...
 You didn't die then, and you're not gonna die now.
 Don't worry, don't worry. It only hurts for a sec.
 Then it takes your nerve endings out.
-You won't feel a thing. You won't-- You won't feel a thing, o-okay?
+You won't feel a thing. You won't -- You won't feel a thing, o-okay?
 No, you won't feel it. We won't feel it.
 We won't feel...
 LUCY: Cap, we can't get to them this way.
@@ -503,7 +524,7 @@ SHORE: Let's knock it down quick and get this area ready for extraction.
 (coughing) Help is here.
 Come on, it's time to go.
 Josh, we're on-line down here, ready to cut the power.
-<i>-Start wrapping it up up there.</i> Copy that. Wait for my signal.
+<i>Start wrapping it up up there.</i> Copy that. Wait for my signal.
 All right, anyone who's ready, let's hit the stairs.
 I'm not going anywhere, sir.
 Linda.
@@ -551,21 +572,26 @@ Albert!
 Go, go, go!
 CHIMNEY: I got you.
 I got you.
-(grunts) (May screaming) <i> SHORE:</i> <i> This is Captain Shore.</i> <i> We have a major</i> <i> structural collapse.</i> <i> All teams evacuate</i> <i> the building and report in.</i> <i> MORRISON:</i> <i> This is Morrison, 133.</i> <i> We're clear.</i> Cap!
+(grunts) (May screaming) <i>SHORE:</i> <i> This is Captain Shore.</i> <i> We have a major</i> <i> structural collapse.</i> <i> All teams evacuate</i> <i> the building and report in.</i> <i> MORRISON:</i> <i> This is Morrison, 133.</i> <i> We're clear.</i> Cap!
 (distant siren wailing) QUINTANA: <i> Quintana, 118.</i> Cap! <i> We're in the parking garage.</i> <i> We're clear.</i> Cap!
-<i> MITCHELL:</i> <i> Mitchell, 118. We're clear of</i> <i> the exit on the Baker side.</i> Mayday, Mayday, Mayday.
-<i> Captain Nash is down.</i> <i> Captain Nash</i> <i> is down.</i> <i> I need firefighters</i> <i> and equipment</i> <i> on the third floor now.</i> Double-time it.
+<i> MITCHELL:</i> <i> Mitchell, 118. We're clear of</i> <i> the exit on the Baker side.</i>
+Mayday, Mayday, Mayday.
+<i> Captain Nash is down.</i> <i> Captain Nash</i> <i> is down.</i>
+<i>I need firefighters</i> <i> and equipment</i> <i> on the third floor now.</i> Double-time it.
 (straining, shouting) Cap!
 (grunting) (panting) Cap!
 Cap!
-♪<i> I know it hurts</i> ♪ ♪<i> It's hard to breathe</i> ♪ ♪<i> Sometimes</i> ♪ (shouting) Cap! Cap!
-♪<i> These nights are long</i> ♪ ♪<i> You've lost the will</i> ♪ (shouting) Cap!
+♪<i> I know it hurts</i> ♪ ♪<i> It's hard to breathe</i> ♪ ♪<i> Sometimes</i> ♪
+(shouting) Cap! Cap!
+♪<i> These nights are long</i> ♪ ♪<i> You've lost the will</i> ♪
+(shouting) Cap!
 Cap!
 ♪<i> To fight...</i> ♪ Cap!
 Cap!
 Two, three.
 ♪<i> Is anybody out there?</i> ♪ ♪<i> Can you lead me</i> ♪ ♪<i> To the light?</i> ♪ ♪<i> Is anybody out there?</i> ♪ One, two, three.
-(all straining) ♪<i> Tell me it'll all be</i> ♪ ♪<i> All right...</i> ♪ MAY: Here.
+(all straining) ♪<i> Tell me it'll all be</i> ♪ ♪<i> All right...</i> ♪
+MAY: Here.
 BOBBY: Here, we're down here.
 Bobby! Bobby! Come on.
 CHIMNEY: We got 'em! We got 'em!
@@ -584,12 +610,15 @@ CHIMNEY: It's like I always say, you carry this entire operation on your back.
 (chuckles) I got you, Cap.
 All right, 118.
 Let's get to it.
-♪<i> You are not alone</i> ♪ ♪<i> I've been here</i> ♪ ♪<i> The whole time</i> ♪ ♪<i> You</i> ♪ ♪<i> Are not alone</i> ♪ ♪<i> I've been here</i> ♪ ♪<i> The whole time</i> ♪ ♪<i> Singing you a song</i> ♪ ♪<i> Ooh</i> ♪ HEN: I got him.
-♪<i> I will carry you</i> ♪ ♪<i> Ooh</i> ♪ ♪<i> I will carry you</i> ♪ ♪<i> Is anybody out there?</i> ♪ God has spoken.
-♪<i> Whole time</i> ♪ ♪<i> You are not alone</i> ♪ ♪<i> Not alone</i> ♪ ♪<i> I've been here</i> ♪ ♪<i> The whole time</i> ♪ ♪<i> Singing you a song</i> ♪ ♪<i> Ooh</i> ♪ ♪<i> I will carry you</i> ♪ ♪<i> Ooh</i> ♪ ♪<i> I will carry you...</i> ♪ Hey.
+♪<i> You are not alone</i> ♪ ♪<i> I've been here</i> ♪ ♪<i> The whole time</i> ♪ ♪<i> You</i> ♪ ♪<i> Are not alone</i> ♪ ♪<i> I've been here</i> ♪ ♪<i> The whole time</i> ♪ ♪<i> Singing you a song</i> ♪ ♪<i> Ooh</i> ♪
+HEN: I got him.
+♪<i> I will carry you</i> ♪ ♪<i> Ooh</i> ♪ ♪<i> I will carry you</i> ♪ ♪<i> Is anybody out there?</i> ♪
+God has spoken.
+♪<i> Whole time</i> ♪ ♪<i> You are not alone</i> ♪ ♪<i> Not alone</i> ♪ ♪<i> I've been here</i> ♪ ♪<i> The whole time</i> ♪ ♪<i> Singing you a song</i> ♪ ♪<i> Ooh</i> ♪ ♪<i> I will carry you</i> ♪ ♪<i> Ooh</i> ♪ ♪<i> I will carry you...</i> ♪
+Hey.
 He took a rough hit, but he's gonna be fine.
-♪<i> I will carry you...</i> ♪ Yeah. Well, I'm just, uh...
-I'm glad you weren't with him.
+♪<i> I will carry you...</i> ♪
+Yeah. Well, I'm just, uh...I'm glad you weren't with him.
 ♪<i> I know it hurts</i> ♪ ♪<i> It's hard to breathe</i> ♪ ♪<i> Sometimes.</i> ♪ Hey.
 Hey, May.
 She took in a lot of smoke.
@@ -621,7 +650,7 @@ Terrible at my job?
 I think this whole thing is my fault.
 Oh...
 Are you kidding?
-This building is... was ancient.
+This building is...was ancient.
 We were due for an upgrade.
 Upgrades used to be my specialty.
 There's no reason why they still can't be.
@@ -640,9 +669,7 @@ You were trying to tell me something the other day, and I wasn't ready to hear i
 (sighs) You know, me and Pop have never really had a great relationship, and I know that he thinks me being a firefighter is the stupidest thing I've ever done.
 It's not stupid.
 You're a hero.
-And you're my brother, so...
-... you looking up to me, wanting to follow in my footsteps...
-... it meant the world to me, you know?
+And you're my brother, so...you looking up to me, wanting to follow in my footsteps...it meant the world to me, you know?
 That's actually why I didn't want to disappoint you so badly.
 Just wish I could be half as good at this as you are.
 Hey, listen.
@@ -670,8 +697,7 @@ Well, this is what I get for disobeying your orders.
 You did tell me not to go down there.
 I'm so glad you did, Papa Bear.
 Lucy Donato.
-I'm Taylor...
-Taylor Kelly.
+I'm Taylor...Taylor Kelly.
 Yeah. Heard a lot about you.
 Same.
 Uh, did you want a comment?
@@ -682,7 +708,7 @@ But for Buck, that firehouse is his family.
 When things gets messy at the 118, he falls apart.
 I'd hate for things to get messy again.
 She's a peach.
-Hey, so, uh, he-he-- he's good, right?
+Hey, so, uh, he-he -- he's good, right?
 He had some pain in his leg on the way in.
 Might be a pinched nerve.
 Mm.
@@ -713,14 +739,13 @@ I usually save them.
 Hen.
 She was fine. I-I don't understand.
 Neither do I.
-<i> It was weird.</i> It was weird, or he was weird?
+<i> It was weird.</i>
+It was weird, or he was weird?
 "I should have been able to save her." That's what he said.
-Like she was a math problem or...
-a missed point in a tennis match and-and not a human being.
+Like she was a math problem or...a missed point in a tennis match and-and not a human being.
 Well, maybe that's just how he packs it away.
 There's packing away and there's throwing away.
 Look, you always say that when you're out there, all you've got is your instincts.
 And truth is, you've never liked the guy.
 So maybe there's a reason why.
 I think there is.
-<font color="#ffff00"> Captioning sponsored by</font> <font color="#ffff00"> 20th CENTURY FOX TELEVISION</font> Captioned by <font color="#00ffff"> Media Access Group at WGBH</font> access. wgbh. org 
