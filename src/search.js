@@ -106,7 +106,7 @@ function createNodes(epDiv, lines, nos, nosDet, epNum) {
 
 function parseContext(phrase, epTitle, epNum, data) {
 	const epDiv = document.createElement("div");
-	epDiv.innerHTML = "<br><div class=\"resTitle\">" + epTitle + "</div>";
+	epDiv.innerHTML = "<br><div class=\"resTitle\" id=\"ep" + epNum + "\">" + epTitle + "</div>";
 	var lines = data.split("\n");
 	var nos = [];
 	var nosDet = [];
@@ -151,7 +151,7 @@ function queryLoneStar(phrase, showContext) {
 		success: function (data) {
 			if (data.toLowerCase().includes(phrase)) {
 				found = true;
-				epsSpan.innerHTML += "LS-2.03 ";
+				epsSpan.innerHTML += "<a href=\"#epLS2.03\" class=\"eplink\">LS-2.03</a> ";
 				if (showContext) {
 					parseContext(phrase, "LS 2.03 - Hold the Line", "LS2.03", data);
 				}
@@ -169,7 +169,7 @@ function searchEp(data, title, phrase, season, ep, showContext) {
 	if (data.toLowerCase().includes(phrase)) {
 		found = true;
 		epNum = "" + season + "." + pad2(ep)
-		document.getElementById("epResults").innerHTML += epNum + " ";
+		document.getElementById("epResults").innerHTML += "<a href=\"#ep" + epNum + "\" class=\"eplink\">" + epNum + "</a> ";
 		if (showContext) {
 			parseContext(phrase, title, epNum, data);
 		}
