@@ -32,7 +32,7 @@ $(document).ready(function(){
 });
 
 const seasons = 6;
-const eps = [10, 18, 18, 14, 18, 5];
+const eps = [10, 18, 18, 14, 18, 6];
 const htmlRegex = /<[^>]*>/g;
 const N = 12;
 const M = 2;
